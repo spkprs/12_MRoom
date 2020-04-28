@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="fast_connect_headset_reset">
+    <item quantity="other">Πατήστε παρατεταμένα το κουμπί στα Ακουστικά για %1$d δευτ.</item>
+    <item quantity="one">Πατήστε παρατεταμένα το κουμπί στα Ακουστικά για %1$d δευτ.</item>
+  </plurals>
+  <plurals name="fast_connect_reset_air2_se">
+    <item quantity="other">Πιέστε και κρατήστε οποιαδήποτε περιοχή αφής στα ακουστικά για %1$d δευτ.</item>
+    <item quantity="one">Πιέστε και κρατήστε οποιαδήποτε περιοχή αφής στα ακουστικά για %1$d δευτ.</item>
+  </plurals>
+  <plurals name="wifi_tether_connected_summary">
+    <item quantity="other">%1$d συνδεδεμένες συσκευές</item>
+    <item quantity="one">%1$d συνδεδεμένη συσκευή</item>
+  </plurals>
+</resources>

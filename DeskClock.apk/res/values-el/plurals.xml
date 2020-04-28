@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="alarm_alert_snooze_set">
+    <item quantity="other">Αναβολή για %d λεπ</item>
+    <item quantity="one">Αναβολή για %d λεπ</item>
+  </plurals>
+  <plurals name="day">
+    <item quantity="other">%d ημ.</item>
+    <item quantity="one">%d ημ.</item>
+  </plurals>
+  <plurals name="delete_alarm_confirm">
+    <item quantity="other">Διαγραφή των επιλεγμένων αφυπνίσεων;</item>
+    <item quantity="one">Διαγραφή αυτής της αφύπνισης;</item>
+  </plurals>
+  <plurals name="delete_timezone_confirm">
+    <item quantity="other">Διαγραφή των επιλεγμένων ζωνών ώρας;</item>
+    <item quantity="one">Διαγραφή αυτής της ζώνης ώρας;</item>
+  </plurals>
+  <plurals name="hour">
+    <item quantity="other">%d ώρ.</item>
+    <item quantity="one">%d ώρ.</item>
+  </plurals>
+  <plurals name="life_post_wake_up_item_acumu_day">
+    <item quantity="other">%1$d ημ.</item>
+    <item quantity="one">%1$d ημ.</item>
+  </plurals>
+  <plurals name="minute">
+    <item quantity="other">%d λεπ.</item>
+    <item quantity="one">%d λεπ.</item>
+  </plurals>
+  <plurals name="minute_text">
+    <item quantity="other">λεπτά</item>
+    <item quantity="one">min</item>
+  </plurals>
+  <plurals name="second">
+    <item quantity="other">%d δευτ.</item>
+    <item quantity="one">%d δευτ.</item>
+  </plurals>
+  <plurals name="sleep_duration_hour">
+    <item quantity="other">%1s ώρ.</item>
+    <item quantity="one">%1$s ώρ.</item>
+  </plurals>
+  <plurals name="sleep_duration_hour_avg">
+    <item quantity="other">%1s ώρ.</item>
+    <item quantity="one">%1$s ώρ.</item>
+  </plurals>
+  <plurals name="sleep_duration_min">
+    <item quantity="other">%1$s λεπ.</item>
+    <item quantity="one">%1$s λεπ.</item>
+  </plurals>
+  <plurals name="sleep_duration_min_avg">
+    <item quantity="other">%1$s λεπ.</item>
+    <item quantity="one">%1$s λεπ.</item>
+  </plurals>
+  <plurals name="snooze_duration_changed_info">
+    <item quantity="other">Αλλαγή διαστήματος αναβολής για %d λεπτά</item>
+    <item quantity="one">Αλλαγή διαστήματος αναβολής για %d λεπτό</item>
+  </plurals>
+  <plurals name="snooze_duration_count">
+    <item quantity="other">Αναβολή %1$s φορές</item>
+    <item quantity="one">Αναβολή %1$s φορά</item>
+  </plurals>
+  <plurals name="snooze_duration_desc">
+    <item quantity="other">Κάθε %1$s λεπ, παύση %2$s φορές</item>
+    <item quantity="one">Κάθε %1$s λεπ, παύση %2$s φορά</item>
+  </plurals>
+  <plurals name="snooze_duration_min">
+    <item quantity="other">Κάθε %1$s λεπτά</item>
+    <item quantity="one">Κάθε %1$s λεπτό</item>
+  </plurals>
+  <plurals name="snooze_duration_summary">
+    <item quantity="other">Οι αφυπνίσεις θα σιγήσουν %2$s φορές (κάθε %1$s λεπ.)</item>
+    <item quantity="one">Η αφύπνιση θα σιγήσει %2$s φορά (%1$s λεπ.)</item>
+  </plurals>
+  <plurals name="snooze_message">
+    <item quantity="other">Αναβολή για %d λεπ</item>
+    <item quantity="one">Αναβολή για %d λεπ</item>
+  </plurals>
+  <plurals name="timer_message_hour">
+    <item quantity="other">"%1$d ώρ "</item>
+    <item quantity="one">%1$d ώρ</item>
+  </plurals>
+  <plurals name="timer_message_minute">
+    <item quantity="other">"%1$d λεπ "</item>
+    <item quantity="one">"%1$d λεπ "</item>
+  </plurals>
+  <plurals name="timer_message_second">
+    <item quantity="other">%1$d δευτ.</item>
+    <item quantity="one">%1$d δευτ.</item>
+  </plurals>
+  <plurals name="worldcolock_timezone_gap_fast">
+    <item quantity="other">%s ώρα μπροστά</item>
+    <item quantity="one">%s ώρα μπροστά</item>
+  </plurals>
+  <plurals name="worldcolock_timezone_gap_slow">
+    <item quantity="other">%s ώρες πίσω</item>
+    <item quantity="one">%s ώρα πίσω</item>
+  </plurals>
+</resources>

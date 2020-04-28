@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="comment_model_watch_reply">
+    <item quantity="other">Δείτε %d απαντήσεις</item>
+    <item quantity="one">Δείτε %d απάντηση</item>
+  </plurals>
+  <plurals name="feed_back_home">
+    <item quantity="other">Επιστροφή στην αρχική σελίδα στο %1$d δευτερόλεπτα…</item>
+    <item quantity="one">Επιστροφή στην αρχική σελίδα στο %1$d δεύτερος…</item>
+  </plurals>
+  <plurals name="lv_subtitle_offset_advance_times">
+    <item quantity="other">Οι υπότιτλοι θα εμφανίζονται %.1f δευτερόλεπτα νωρίτερα</item>
+    <item quantity="one">Οι υπότιτλοι θα εμφανίζονται %.1f δεύτερη νωρίτερα</item>
+  </plurals>
+  <plurals name="lv_subtitle_offset_delay_times">
+    <item quantity="other">Οι υπότιτλοι θα εμφανίζονται %.1f δευτερόλεπτα αργότερα</item>
+    <item quantity="one">Οι υπότιτλοι θα εμφανίζονται %.1f δευτερόλεπτο αργότερα</item>
+  </plurals>
+  <plurals name="lv_subtitle_onlinesub_size_float_kb">
+    <item quantity="other">Μέγεθος:% .2fKB</item>
+    <item quantity="one">Μέγεθος:% .2fKB</item>
+  </plurals>
+  <plurals name="lv_video_count">
+    <item quantity="other">%d βίντεο</item>
+    <item quantity="one">%d βίντεο</item>
+  </plurals>
+  <plurals name="notice_user_banned">
+    <item quantity="other">Το περιεχόμενό σας περιέχει στοιχεία (%1$s) που παραβιάζουν τα κοινοτικά μας πρότυπα. Ο λογαριασμός σας έχει τεθεί σε αναστολή για %2$d ημέρες έως %3$s.</item>
+    <item quantity="one">Το περιεχόμενό σας περιέχει στοιχεία (%1$s) που παραβιάζουν τα κοινοτικά μας πρότυπα. Ο λογαριασμός σας έχει τεθεί σε αναστολή για %2$d μέρα μέχρι %3$s.</item>
+  </plurals>
+  <plurals name="ovp_detail_v_video_count">
+    <item quantity="other">%d βίντεο</item>
+    <item quantity="one">%d βίντεο</item>
+  </plurals>
+  <plurals name="ovp_home_item_unit">
+    <item quantity="other">%d βίντεο</item>
+    <item quantity="one">%d βίντεο</item>
+  </plurals>
+  <plurals name="plus_edit_delete_comfire_text">
+    <item quantity="other">Διαγραφή %s τα στοιχεία τώρα;</item>
+    <item quantity="one">Διαγραφή %s το στοιχείο τώρα;</item>
+  </plurals>
+  <plurals name="plus_edit_top_titletext">
+    <item quantity="other">Επιλεγμένο %s αντικείμενα</item>
+    <item quantity="one">Επιλεγμένο %s είδος</item>
+  </plurals>
+  <plurals name="plus_player_subtitle_online_size">
+    <item quantity="other">Μέγεθος αρχείου:% .2fKB</item>
+    <item quantity="one">Μέγεθος αρχείου:% .2fKB</item>
+  </plurals>
+  <plurals name="plus_search_result_title">
+    <item quantity="other">%2$s αποτελέσματα για \"%1$s\"</item>
+    <item quantity="one">%2$s αποτέλεσμα για \"%1$s\"</item>
+  </plurals>
+  <plurals name="plus_serval_pictures">
+    <item quantity="other">%d εικόνες</item>
+    <item quantity="one">%d εικόνα</item>
+  </plurals>
+  <plurals name="plus_serval_videos">
+    <item quantity="other">%d βίντεο</item>
+    <item quantity="one">%d βίντεο</item>
+  </plurals>
+  <plurals name="subscriber">
+    <item quantity="other">%s subscribers</item>
+    <item quantity="one">%s subscriber</item>
+  </plurals>
+  <plurals name="subtitle_offset_advance_times">
+    <item quantity="other">Οι υπότιτλοι μετακινήθηκαν %.1f δευτ. προς τα εμπρός</item>
+    <item quantity="one">Οι υπότιτλοι μετακινήθηκαν %.1f δευτ. προς τα εμπρός</item>
+  </plurals>
+  <plurals name="subtitle_offset_delay_times">
+    <item quantity="other">Οι υπότιτλοι έχουν καθυστέρηση %.1f δευτ.</item>
+    <item quantity="one">Οι υπότιτλοι έχουν καθυστέρηση %.1f δευτ.</item>
+  </plurals>
+</resources>

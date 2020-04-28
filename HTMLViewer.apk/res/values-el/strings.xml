@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="ad_service">Υπηρεσία διαφημίσεων</string>
+     <string name="app_label">Προβολή HTML</string>
+     <string name="app_name_which_call">Εφαρμογή: %s</string>
+     <string name="app_version_which_call">Έκδοση εφαρμογής: %s</string>
+     <string name="autoconnect">Αυτόματη σύνδεση</string>
+     <string name="ime_privacy_policy">Επιλέξτε πληκτρολόγιο</string>
+     <string name="legal_written_offer">Γραπτή προσφορά</string>
+     <string name="license_host_unreachable">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Για να δείτε αυτές τις πληροφορίες τώρα,
+πηγαίνετε σε %s σε άλλη συνδεδεμένη συσκευή."</string>
+     <string name="loading">Μισό λεπτό…</string>
+     <string name="mibi_license">Mi Credits Συμφωνία Χρήστη</string>
+     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">pull to refresh</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshed">refresh completed</string>
+     <string name="miuix_sbl_tracking_progress_labe_refreshing">refreshing</string>
+     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">release to refresh</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_nodata">no data</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh">refreshing</string>
+     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">fail</string>
+     <string name="open_wifi_connect_and_use_data_summary">Χρήση δεδομένων. Πατήστε για μετάβαση σε Wi-Fi.</string>
+     <string name="open_wifi_connect_summary">Πατήστε για προβολή λεπτομερειών.</string>
+     <string name="open_wifi_connect_title">Συνδεδεμένο στο %1$s</string>
+     <string name="permdesc_accessDrm">Αφήστε την εφαρμογή να αποκτήσει πρόσβαση σε περιεχόμενο που προστατεύεται με DRM.</string>
+     <string name="poco_launcher_privacy_policy">Πολιτική Απορρήτου Εκκινητή POCO</string>
+     <string name="poco_launcher_user_agreement">Συμφωνία χρήστη Εκκινητή POCO</string>
+     <string name="poco_privacy_policy">POCO Εκκινητής Πολιτική Απορρήτου &amp; Συμφωνία Χρήστη</string>
+     <string name="policy_name">Πρωτόκολλο: %s</string>
+     <string name="pre_installed_apps">Προεγκατεστημένες εφαρμογές</string>
+     <string name="privacy_station_title">Privacy at Xiaomi</string>
+     <string name="settings_ad_loading">Μισό λεπτό…</string>
+     <string name="settings_ad_loading_unavailable">Δεν ήταν δυνατή η φόρτωση πληροφοριών.</string>
+     <string name="settings_license_activity_loading">Μισό λεπτό…</string>
+     <string name="settings_license_activity_title">Άδειες ανοιχτού κώδικα</string>
+     <string name="settings_license_activity_unavailable">Δεν ήταν δυνατή η φόρτωση των αδειών χρήσης.</string>
+     <string name="settings_safetylegal_activity_loading">Μισό λεπτό…</string>
+     <string name="settings_safetylegal_activity_title">Πληροφορίες ασφαλείας</string>
+     <string name="settings_safetylegal_activity_unreachable">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Για να δείτε αυτές τις πληροφορίες τώρα, πηγαίνετε στο %s από οποιονδήποτε υπολογιστή συνδεδεμένο στο Internet.</string>
+     <string name="settings_safetylegal_title">Πληροφορίες ασφαλείας</string>
+     <string name="status_bar_notification_info_overflow">999+</string>
+</resources>
