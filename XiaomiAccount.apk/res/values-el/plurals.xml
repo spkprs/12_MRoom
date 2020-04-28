@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="health_description_title_suffix">
+        <item quantity="other">" βήματα"</item>
+        <item quantity="one">" βήμα"</item>
+     </plurals>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="accept">OK</string>
+     <string name="app_name">Πλαίσιο υπηρεσιών Xiaomi</string>
+     <string name="error_device_id_message">"Μη έγκυρο ID συσκευής: %s
+Το ID της συσκευής πρέπει να είναι έγκυρο IMEI ή MAC address. Χωρίς το ID, κάποιοι λογαριασμοί και cloud λειτουργίες δεν θα είναι διαθέσιμα."</string>
+     <string name="error_device_id_title">Αδυναμία λήψης έγκυρου ID συσκευής</string>
+     <string name="explain_send_sms_permission_button">Επαλήθευση</string>
+     <string name="explain_send_sms_permission_msg">Για να ενεργοποιήσετε το %s, το πλαίσιο υπηρεσιών Xiaomi θα στείλει SMS για επαλήθευση του τηλεφωνικού σας αριθμού. Θα χρεωθείτε για κανονικό SMS από τον φορέα σας.</string>
+     <string name="explain_send_sms_permission_title">Επαλήθευση τηλεφωνικού αριθμού</string>
+     <string name="pop_up_allow_notify_dialog">Αποδοχή</string>
+     <string name="pop_up_deny_notify_dialog">Απόρριψη</string>
+     <string name="sync_notification_title_format">Τρέχον στοιχείο συγχρονισμού: %1$s</string>
+     <string name="xiaomi_cloud_service">Mi Cloud</string>
+     <string name="xmsf_activate_info">XMSF πληροφορίες ενεργοποίησης</string>
+</resources>

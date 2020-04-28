@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="a_hour_ago">
+    <item quantity="other">ώρες</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">ώρες</item>
+  </plurals>
+  <plurals name="abbrev_half_hour_ago">
+    <item quantity="other">Πριν μισή ώρα.</item>
+  </plurals>
+  <plurals name="abbrev_in_a_hour">
+    <item quantity="other">Σε 1 ώρα</item>
+  </plurals>
+  <plurals name="abbrev_in_half_hour">
+    <item quantity="other">Σε μισή ώρα.</item>
+  </plurals>
+  <plurals name="abbrev_in_less_than_one_minute">
+    <item quantity="other">Αμέσως</item>
+  </plurals>
+  <plurals name="abbrev_in_num_minutes">
+    <item quantity="other">in %d λεπτά</item>
+    <item quantity="one">σε 1 λεπτό</item>
+  </plurals>
+  <plurals name="abbrev_less_than_one_minute_ago">
+    <item quantity="other">Μόλις τώρα.</item>
+  </plurals>
+  <plurals name="abbrev_num_minutes_ago">
+    <item quantity="other">%d ελάχιστα πριν</item>
+    <item quantity="one">πριν από 1 λεπτό</item>
+  </plurals>
+  <plurals name="half_hour_ago">
+    <item quantity="other">Πριν μισή ώρα.</item>
+  </plurals>
+  <plurals name="in_a_hour">
+    <item quantity="other">Σε 1 ώρα</item>
+  </plurals>
+  <plurals name="in_half_hour">
+    <item quantity="other">Σε μισή ώρα.</item>
+  </plurals>
+  <plurals name="in_less_than_one_minute">
+    <item quantity="other">Αμέσως</item>
+  </plurals>
+  <plurals name="in_num_minutes">
+    <item quantity="other">in %d λεπτά</item>
+    <item quantity="one">σε 1 λεπτό</item>
+  </plurals>
+  <plurals name="last_sent_time_day">
+    <item quantity="other">%d μέρες πριν</item>
+    <item quantity="one">%d πριν από μια μέρα</item>
+  </plurals>
+  <plurals name="last_sent_time_hour">
+    <item quantity="other">%d ώρες πριν</item>
+    <item quantity="one">%d πριν από μια ώρα</item>
+  </plurals>
+  <plurals name="last_sent_time_minute">
+    <item quantity="other">%d λεπτά πριν</item>
+    <item quantity="one">%d πριν από ένα λεπτό</item>
+  </plurals>
+  <plurals name="last_sent_time_month">
+    <item quantity="other">%d μήνες πριν</item>
+    <item quantity="one">%d πριν ένα μήνα</item>
+  </plurals>
+  <plurals name="last_sent_time_week">
+    <item quantity="other">%d πριν από εβδομάδες</item>
+    <item quantity="one">%d μια βδομάδα πριν</item>
+  </plurals>
+  <plurals name="less_than_one_minute_ago">
+    <item quantity="other">Μόλις τώρα</item>
+  </plurals>
+  <plurals name="mtrl_badge_content_description">
+    <item quantity="other">%d νέες ειδοποιήσεις</item>
+    <item quantity="one">%d νέα ειδοποίηση</item>
+  </plurals>
+  <plurals name="num_minutes_ago">
+    <item quantity="other">%d λεπτά πριν</item>
+    <item quantity="one">πριν από 1 λεπτό</item>
+  </plurals>
+  <plurals name="sent_frequency_per_day">
+    <item quantity="other">%d ειδοποιήσεις την ημέρα</item>
+    <item quantity="one">%d ειδοποίηση την ημέρα</item>
+  </plurals>
+  <plurals name="sent_frequency_per_week">
+    <item quantity="other">%d ειδοποιήσεις την εβδομάδα</item>
+    <item quantity="one">%d ειδοποίηση την εβδομάδα</item>
+  </plurals>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Βρέθηκαν %1$s εκτυπωτές</item>
+        <item quantity="one">Βρέθηκε %1$s εκτυπωτής</item>
+     </plurals>
+     <plurals name="print_services_recommendation_subtitle">
+        <item quantity="other">Εγκατάσταση για τον εντοπισμό %1$s εκτυπωτών</item>
+        <item quantity="one">Εγκατάσταση για τον εντοπισμό %1$s εκτυπωτή</item>
+     </plurals>
+</resources>

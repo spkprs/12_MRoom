@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="a_hour_ago">
+    <item quantity="other">πριν από 1 ώρα</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">πριν από 1 ώρα</item>
+  </plurals>
+  <plurals name="abbrev_half_hour_ago">
+    <item quantity="other">Πριν από μισή ώρα</item>
+  </plurals>
+  <plurals name="abbrev_in_a_hour">
+    <item quantity="other">Σε 1 ώρα</item>
+  </plurals>
+  <plurals name="abbrev_in_half_hour">
+    <item quantity="other">Σε μισή ώρα</item>
+  </plurals>
+  <plurals name="abbrev_in_less_than_one_minute">
+    <item quantity="other">Αμέσως</item>
+  </plurals>
+  <plurals name="abbrev_in_num_minutes">
+    <item quantity="other">σε %d λεπτά</item>
+    <item quantity="one">σε 1 λεπτό</item>
+  </plurals>
+  <plurals name="abbrev_less_than_one_minute_ago">
+    <item quantity="other">Μόλις τώρα</item>
+  </plurals>
+  <plurals name="abbrev_num_minutes_ago">
+    <item quantity="other">%d πριν από λίγα λεπτά</item>
+    <item quantity="one">πριν από 1 λεπτό</item>
+  </plurals>
+  <plurals name="alert_message_delete">
+    <item quantity="other">Διαγράφω %1$s αντικείμενα;</item>
+    <item quantity="one">Διαγράφω %1$s είδος?</item>
+  </plurals>
+  <plurals name="cloud_state_unsynced_count">
+    <item quantity="other">%1$s τα στοιχεία δεν έχουν συγχρονιστεί</item>
+    <item quantity="one">%1$s το στοιχείο δεν έχει συγχρονιστεί</item>
+  </plurals>
+  <plurals name="date_calculate_days_after">
+    <item quantity="other">%1$d μέρες μετά</item>
+    <item quantity="one">%1$d η μέρα μετά</item>
+  </plurals>
+  <plurals name="date_calculate_days_ago">
+    <item quantity="other">%1$d ημέρες πριν</item>
+    <item quantity="one">%1$d μέρα πρίν</item>
+  </plurals>
+  <plurals name="folder_terms">
+    <item quantity="other">%1$s φακέλους</item>
+    <item quantity="one">%1$s ντοσιέ</item>
+  </plurals>
+  <plurals name="format_move_notes_out_folder">
+    <item quantity="other">Καταργήθηκε %1$s σημειώσεις από το φάκελο</item>
+    <item quantity="one">Καταργήθηκε %1$s σημείωση από το φάκελο</item>
+  </plurals>
+  <plurals name="format_move_notes_to_folder">
+    <item quantity="other">Μετακινήθηκε %1$s σημειώσεις προς %2$s</item>
+    <item quantity="one">Μετακινήθηκε %1$s σημείωση προς %2$s</item>
+  </plurals>
+  <plurals name="half_hour_ago">
+    <item quantity="other">Πριν από μισή ώρα</item>
+  </plurals>
+  <plurals name="in_a_hour">
+    <item quantity="other">Σε 1 ώρα</item>
+  </plurals>
+  <plurals name="in_half_hour">
+    <item quantity="other">Σε μισή ώρα</item>
+  </plurals>
+  <plurals name="in_less_than_one_minute">
+    <item quantity="other">Αμέσως</item>
+  </plurals>
+  <plurals name="in_num_minutes">
+    <item quantity="other">σε %d λεπτά</item>
+    <item quantity="one">σε 1 λεπτό</item>
+  </plurals>
+  <plurals name="less_than_one_minute_ago">
+    <item quantity="other">Μόλις τώρα</item>
+  </plurals>
+  <plurals name="note_terms">
+    <item quantity="other">%1$s σημειώσεις</item>
+    <item quantity="one">%1$s σημείωση</item>
+  </plurals>
+  <plurals name="num_minutes_ago">
+    <item quantity="other">%d λεπτά πριν</item>
+    <item quantity="one">πριν από 1 λεπτό</item>
+  </plurals>
+  <plurals name="record_last_ten_seconds_reminder">
+    <item quantity="other">%d απομένουν δευτερόλεπτα</item>
+    <item quantity="one">%d δεύτερο αριστερά</item>
+  </plurals>
+  <plurals name="toast_notes_hidden_count">
+    <item quantity="other">Κρυμμένο %1$s σημειώσεις με επιτυχία</item>
+    <item quantity="one">Κρυμμένο %1$s σημειώστε με επιτυχία</item>
+  </plurals>
+  <plurals name="toast_notes_unhidden_count">
+    <item quantity="other">Οχι %1$s σημειώσεις με επιτυχία</item>
+    <item quantity="one">Οχι %1$s σημειώστε με επιτυχία</item>
+  </plurals>
+  <plurals name="todo_alert_message_delete">
+    <item quantity="other">Διαγράφω %1$s καθήκοντα?</item>
+    <item quantity="one">Διαγράφω %1$s έργο?</item>
+  </plurals>
+  <plurals name="todo_event_description_days_ago">
+    <item quantity="other">%1$d μέρες πριν</item>
+    <item quantity="one">%1$d πριν από μια μέρα</item>
+  </plurals>
+  <plurals name="todo_event_description_days_later">
+    <item quantity="other">Σε %1$d ημέρες</item>
+    <item quantity="one">Σε %1$d ημέρα</item>
+  </plurals>
+  <plurals name="todo_N_days_after">
+    <item quantity="other">Σε %1$d ημέρες</item>
+    <item quantity="one">Σε %1$d ημέρα</item>
+  </plurals>
+  <plurals name="todo_N_days_ago">
+    <item quantity="other">%1$d μέρες πριν</item>
+    <item quantity="one">%1$d πριν από μια μέρα</item>
+  </plurals>
+  <plurals name="todo_terms">
+    <item quantity="other">%1$s条便签</item>
+    <item quantity="one">%1$s条便签</item>
+  </plurals>
+  <plurals name="word_count">
+    <item quantity="other">%d χαρακτήρες</item>
+    <item quantity="one">%d χαρακτήρας</item>
+  </plurals>
+</resources>

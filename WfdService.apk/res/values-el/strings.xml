@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="app_name">Υπηρεσία Wfd</string>
+     <string name="channel_name">Υπηρεσία WFD</string>
+     <string name="notif_text">Ενεργή η Προβολή σε οθόνη</string>
+     <string name="notif_title">Ασύρματη προβολή</string>
+     <string name="perm_desc">API πρόσβαση σε προβολή Wi-Fi</string>
+     <string name="perm_label">QC Wi-Fi Εμφάνιση στοίβας</string>
+</resources>
