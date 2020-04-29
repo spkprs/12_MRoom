@@ -383,6 +383,8 @@
   <string name="osu_sign_up_complete">Η εγγραφή ολοκληρώθηκε. Σύνδεση…</string>
   <string name="osu_sign_up_failed">Δεν ήταν δυνατή η ολοκλήρωση της εγγραφής. Πατήστε για να δοκιμάσετε ξανά.</string>
   <string name="overlay_display_devices_title">Προσομοίωση δευτερευουσών οθονών</string>
+    <string name="perm_ble_des">Πρόσβαση στις ρυθμίσεις BLE</string>
+    <string name="perm_ble_lab">Πρόσβαση στις ρυθμίσεις BLE</string>
   <string name="picture_color_mode">Λειτουργία χρώματος εικόνας</string>
   <string name="picture_color_mode_desc">Χρήση sRGB</string>
   <string name="pointer_location">Θέση δείκτη</string>

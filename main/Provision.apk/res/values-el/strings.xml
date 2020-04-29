@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_enabled">Η πρόσβασης είναι ενεργή.</string>
      <string name="agree">Συμφωνώ</string>
@@ -243,4 +242,7 @@
      <string name="welcome">Καλωσορίσατε!</string>
      <string name="wizard_script_uri">android.resource://com.android.provision/raw/wizard_script</string>
      <string name="zone_picker_title">Επιλογή ζώνης ώρας</string>
+    <string name="service_name_fast_pairing">Mi Link</string>
+    <string name="fast_pairing_introduction">Mi Link επιτρέπει στη συσκευή σας να συνδεθεί σε κοντινές συσκευές Bluetooth. Για να μπορείτε να βρείτε συσκευές κοντά, επιτρέψτε στο Mi Link να συνδεθεί στο Internet.</string>
+    <string name="disagreement_abnormal_running_fast_pairing">"Εάν δεν συμφωνήσετε να εκχωρήσετε τέτοια δικαιώματα, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή. Σε τέτοιες περιπτώσεις, μπορείτε να επιλέξετε να περιορίσετε τα δικαιώματα στις "Ρυθμίσεις"."</string>
 </resources>
