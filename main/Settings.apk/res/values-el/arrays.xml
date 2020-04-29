@@ -2366,11 +2366,19 @@
     <item>default,security,kernel</item>
     <item>kernel</item>
   </string-array>
+    <string-array name="select_minusscreen_entries"> 
+        <item>Προσωπικός Βοηθός</item> 
+        <item>Τροφοδοσίες Google</item> 
+    </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Απενεργοποίηση</item>
     <item>Σχεδίαση μη ορθογώνιας περιοχής με μπλε χρώμα</item>
     <item>Επισήμανση ελεγμένων εντολών σχεδίασης με πράσινο χρώμα</item>
   </string-array>
+    <string-array name="select_screen_time_app_title_entries"> 
+        <item>MIUI</item> 
+        <item>Google Wellbeing</item> 
+    </string-array>
   <string-array name="show_verification_device_list">
     <item>land</item>
     <item>markw</item>
