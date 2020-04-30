@@ -684,4 +684,6 @@
   <string name="wednesday_short">Τετ</string>
   <string name="wednesday_shortest">Τ</string>
   <string name="yesterday">Χθες</string>
+    <string name="control_center_title_new">Χρήση σήμερα</string>
+    <string name="focus_mode_custom_time">Προσαρμοσμένη διάρκεια</string>
 </resources>

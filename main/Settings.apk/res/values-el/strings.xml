@@ -7947,4 +7947,6 @@
      <string name="toggles_count_title">Διακόπτες σε ανάπτυξη πίνακα</string>
      <string name="translation_contributors_title">Συντελεστές</string>
      <string name="two_lines_app_title">Τίτλοι Εφαρμ. σε 2 γραμμές</string>
+    <string name="app_manager_anomaly_analysis">Ανάλυση ανωμαλιών εφαρμογών</string>
 </resources>
+

@@ -565,4 +565,7 @@
   <string name="widget_global_search">Παγκόσμια αναζήτηση</string>
   <string name="widget_quick_function">Γρήγορες λειτουργίες</string>
   <string name="widgets_preview_title">Προσθήκη Γραφικού στοιχείου</string>
+	<string name="content_description_button_add">Πατήστε για προσθήκη στις τρέχουσες εφαρμογές</string>
+    <string name="content_description_button_disable">"Δεν είναι δυνατή η προσθήκη περισσότερων τρεχουσών εφαρμογών"</string>
+    <string name="content_description_button_remove">Πατήστε για κατάργηση από τις τρέχουσες εφαρμογές</string>
 </resources>
