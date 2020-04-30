@@ -933,7 +933,7 @@
   <string name="pref_pro_video_volumekey_function_default">shutter</string>
   <string name="pref_qc_focus_position_title">Εστίαση</string>
   <string name="pref_qc_focus_position_title_abbr">F</string>
-  <string name="pref_retain_camera_common_mode_summary">Ανοίξτε την κάμερα στην προηγούμενη λειτουργία αντί να μεταβείτε σε \\"Φωτογραφία\\"</string>
+  <string name="pref_retain_camera_common_mode_summary">Ανοίξτε την κάμερα στην προηγούμενη λειτουργία αντί να μεταβείτε σε \"Φωτογραφία\"</string>
   <string name="pref_retain_camera_mode_summary">Εναλλαγή στην προηγούμενη λειτουργία, όταν ανοίξετε την εφαρμογή.</string>
   <string name="pref_retain_camera_mode_title">Αποθήκευση προηγούμενης λειτουργίας</string>
   <string name="pref_scan_qrcode_summary">Μόνο η πίσω κάμερα μπορεί να σαρώσει κωδικούς QR</string>
@@ -1035,7 +1035,7 @@
   <string name="snap_confirmed">Αντικατάσταση</string>
   <string name="spaceIsLow_content_external_storage_priority">Η κάρτα SD εξαντλείται</string>
   <string name="spaceIsLow_content_primary_storage_priority">Ο χώρος USB εξαντλείται</string>
-  <string name="speech_shutter_open_tip">Πείτε \\"Hello\\" ή \\"what\\" για να τραβήξετε μια φωτογραφία</string>
+  <string name="speech_shutter_open_tip">Πείτε \"Hello\" ή \"what\" για να τραβήξετε μια φωτογραφία</string>
   <string name="speech_shutter_tip">Φωνητικό κλείστρο</string>
   <string name="start_capture">OK</string>
   <string name="sticker_tab1">Χαριτωμένο</string>

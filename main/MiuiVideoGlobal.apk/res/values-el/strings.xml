@@ -248,7 +248,7 @@
   <string name="description">Περιγραφή</string>
   <string name="diagnosis_log_send_failed">Δεν ήταν δυνατή η αποστολή αρχείων καταγραφής. Δοκίμασε ξανά.</string>
   <string name="diagnosis_log_sent_format">Τα απεσταλμένα αρχεία καταγραφής ολοκληρώθηκαν με επιτυχία.\nID:%s\nΣτείλε αυτόν τον κωδικό στον προϊστάμενο.</string>
-  <string name="dialog_privacy_info_new2">Για να μπορείτε να χρησιμοποιείτε τις υπηρεσίες της, πρέπει να %1$s θα συλλέγουν, επεξεργάζονται και χρησιμοποιούν τις προσωπικές σας πληροφορίες. Θα θεωρηθεί ότι έχετε διαβάσει και συμφωνήσει με μας &lt;a href=\"%2$s\"&gt;Πολιτική Προστασίας Προσωπικών Δεδομένων&lt;/a&gt; όταν πατήσετε \\"Συμφωνώ\\" παρακάτω.</string>
+  <string name="dialog_privacy_info_new2">Για να μπορείτε να χρησιμοποιείτε τις υπηρεσίες της, πρέπει να %1$s θα συλλέγουν, επεξεργάζονται και χρησιμοποιούν τις προσωπικές σας πληροφορίες. Θα θεωρηθεί ότι έχετε διαβάσει και συμφωνήσει με μας &lt;a href=\"%2$s\"&gt;Πολιτική Προστασίας Προσωπικών Δεδομένων&lt;/a&gt; όταν πατήσετε \"Συμφωνώ\" παρακάτω.</string>
   <string name="dialog_privacy_title">Άδεια</string>
   <string name="dialog_revoke_privacy_info_new2">Αφού ανακαλέσετε την εξουσιοδότηση, η εφαρμογή θα σταματήσει τη συλλογή δεδομένων και όλα τα σχετικά δεδομένα θα διαγραφούν από τους διακομιστές μας. Αυτό μπορεί να κάνει την εφαρμογή ουσιαστικά άξια. Ανάκληση εξουσιοδότησης ούτως ή άλλως;</string>
   <string name="dialog_revoke_privacy_title">Ανάκληση εξουσιοδότησης</string>
@@ -405,7 +405,7 @@
   <string name="language_later_setting_tips">Μπορείτε να αλλάξετε τις προτιμήσεις γλώσσας στο προφίλ , γλώσσα.</string>
   <string name="language_select_tips">Επιλέξτε τη γλώσσα που προτιμάτε\nγια βίντεο</string>
   <string name="language_setting_tips">Επιλέξτε τις προτιμήσεις γλώσσας για να λάβετε πιο σχετικές προτάσεις περιεχομένου. Μπορείτε να αλλάξετε τις προτιμήσεις γλώσσας στο προφίλ , γλώσσα.</string>
-  <string name="language_setting_tips_dialog">Μπορείτε να επιλέξετε προτιμήσεις γλώσσας για περιεχόμενο στο πεδίο \\"Λογαριασμός\\" Γλώσσα.</string>
+  <string name="language_setting_tips_dialog">Μπορείτε να επιλέξετε προτιμήσεις γλώσσας για περιεχόμενο στο πεδίο \"Λογαριασμός\" Γλώσσα.</string>
   <string name="later">Αργότερα</string>
   <string name="library_roundedimageview_author">Vince Mi</string>
   <string name="library_roundedimageview_authorWebsite">https://github.com/vinc3m1</string>

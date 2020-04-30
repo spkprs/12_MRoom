@@ -656,6 +656,6 @@
   <string name="zen_mode_enable_dialog_turn_on">Ενεργοποίηση</string>
   <string name="zen_mode_forever">Μέχρι να απενεργοποιήσετε</string>
   <string name="zen_mode_settings_summary_off">Ποτέ</string>
-  <string name="zen_mode_settings_turn_on_dialog_title">Ενεργοποίηση \\"Μην ενοχλείτε\\"</string>
+  <string name="zen_mode_settings_turn_on_dialog_title">Ενεργοποίηση \"Μην ενοχλείτε\"</string>
   <string name="zhiyun_name">ΑΠΑΛΟ Q2</string>
 </resources>

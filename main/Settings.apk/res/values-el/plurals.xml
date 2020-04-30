@@ -485,9 +485,9 @@
     <item quantity="one">Λανθασμένος κωδικός PIN SIM, έχετε %d υπόλοιπες προσπάθειες προτού επικοινωνήσετε με τον πάροχό σας για να ξεκλειδώσετε τη συσκευή σας.</item>
   </plurals>
   <plurals name="zen_mode_bypassing_apps_subtext">
-    <item quantity="other">Ειδοποιήσεις από %1$d οι εφαρμογές μπορούν να παρακάμψουν το \\"Μην ενοχλείτε\\"</item>
-    <item quantity="zero">Καμία εφαρμογή δεν μπορεί να παρακάμψει το \\"Μην ενοχλείτε\\"</item>
-    <item quantity="one">Οι ειδοποιήσεις από 1 εφαρμογή μπορούν να παρακάμψουν το \\"Μην ενοχλείτε\\"</item>
+    <item quantity="other">Ειδοποιήσεις από %1$d οι εφαρμογές μπορούν να παρακάμψουν το \"Μην ενοχλείτε\"</item>
+    <item quantity="zero">Καμία εφαρμογή δεν μπορεί να παρακάμψει το \"Μην ενοχλείτε\"</item>
+    <item quantity="one">Οι ειδοποιήσεις από 1 εφαρμογή μπορούν να παρακάμψουν το \"Μην ενοχλείτε\"</item>
   </plurals>
   <plurals name="zen_mode_duration_summary_time_hours">
     <item quantity="other">%d ώρες</item>

@@ -2664,7 +2664,7 @@
   <string name="freeform_guide_settings">Πλωτό παράθυρο</string>
   <string name="freeform_guide_slide_up_to_close_summary">Σύρετε προς τα πάνω από τη γραμμή δράσης ενός αιωρούμενου παραθύρου</string>
   <string name="freeform_guide_slide_up_to_close_title">Κλείσιμο πλωτών παραθύρων</string>
-  <string name="freeform_vedio_description">· Πατήστε παρατεταμένα και, στη συνέχεια, τραβήξτε προς τα κάτω μια ειδοποίηση για να την ανοίξετε σε ένα αιωρούμενο παράθυρο.\n· Πατήστε \\"Αιωρούμενα παράθυρα\\" στα Πρόσφατα για να επιλέξετε εφαρμογές.</string>
+  <string name="freeform_vedio_description">· Πατήστε παρατεταμένα και, στη συνέχεια, τραβήξτε προς τα κάτω μια ειδοποίηση για να την ανοίξετε σε ένα αιωρούμενο παράθυρο.\n· Πατήστε \"Αιωρούμενα παράθυρα\" στα Πρόσφατα για να επιλέξετε εφαρμογές.</string>
   <string name="frequently_fragment_delete">Διαγραφή</string>
   <string name="frequently_fragment_tempty">Τα στοιχεία με συχνή χρήση θα πρέπει να αναφέρονται εδώ</string>
   <string name="fsg_mistake_touch_summary">Σε ορισμένες περιπτώσεις, όπως παιχνίδια και βίντεο πλήρους οθόνης, απαιτείται διπλή σάρωση χειρονομιών για να εφαρμοστούν</string>
@@ -7856,7 +7856,7 @@
   <string name="zen_mode_settings_dnd_manual_indefinite">Μην Ενοχλείτε θα παραμείνει έως ότου την απενεργοποιήσετε</string>
   <string name="zen_mode_settings_summary_off">Δεν έχουν ενεργοποιηθεί αυτόματοι κανόνες</string>
   <string name="zen_mode_settings_title">"Ώρες ησυχίας "</string>
-  <string name="zen_mode_settings_turn_on_dialog_title">Ενεργοποίηση \\"Μην ενοχλείτε\\"</string>
+  <string name="zen_mode_settings_turn_on_dialog_title">Ενεργοποίηση \"Μην ενοχλείτε\"</string>
   <string name="zen_mode_slice_subtitle">Περιορίστε τις διακοπές</string>
   <string name="zen_mode_sound_summary_off">Off</string>
   <string name="zen_mode_sound_summary_off_with_info">Off / %1$s</string>

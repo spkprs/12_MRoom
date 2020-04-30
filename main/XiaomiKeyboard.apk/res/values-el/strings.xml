@@ -63,7 +63,7 @@
   <string name="agree_guide_content">ΤΟ ΚΕΙΜΕΝΟ ΠΟΤΕ ΟΧΙ ΠΡΙΝ ΠΡΙΝ!</string>
   <string name="agree_guide_title">ΔΩΡΕΑΝ FACEMOJI</string>
   <string name="allow">ΑΠΟΔΟΧΗ</string>
-  <string name="always_finish_activitys_message">Αποτυχία προσαρμογής πληκτρολογίου. Μεταβείτε στην επιλογή Ρυθμίσεις - Επιλογές προγραμματιστή. Απενεργοποίηση \\"Χωρίς αποθ. δραστηριοτήτων\\" Οποιοδήποτε άλλο πρόβλημα, παρακαλώ στείλτε τα Σχόλια σας</string>
+  <string name="always_finish_activitys_message">Αποτυχία προσαρμογής πληκτρολογίου. Μεταβείτε στην επιλογή Ρυθμίσεις - Επιλογές προγραμματιστή. Απενεργοποίηση \"Χωρίς αποθ. δραστηριοτήτων\" Οποιοδήποτε άλλο πρόβλημα, παρακαλώ στείλτε τα Σχόλια σας</string>
   <string name="always_finish_activitys_set">Μεταβείτε στις Ρυθμίσεις</string>
   <string name="android_provide">Τα Emoji προσφέρονται δωρεάν από την Google.</string>
   <string name="announce_keyboard_hidden">Απόκρυψη πληκτρολογίου</string>
@@ -77,7 +77,7 @@
   <string name="audio_2_setting_content">Απαιτούνται τα ακόλουθα δικαιώματα για να διασφαλίσετε ότι η λειτουργία Facemoji λειτουργεί σωστά.</string>
   <string name="audio_2_setting_microphone">Μικρόφωνο</string>
   <string name="audio_2_setting_ok">ΕΝΤΑΞΕΙ ΤΟ ΚΑΤΑΛΑΒΑ</string>
-  <string name="audio_2_setting_step_1">1. Πατήστε \\"Άδεια\\"</string>
+  <string name="audio_2_setting_step_1">1. Πατήστε \"Άδεια\"</string>
   <string name="audio_2_setting_step_2">2. Ενεργοποιήστε το μικρόφωνο</string>
   <string name="audio_2_setting_title">Πώς να επιτρέψετε την άδεια;</string>
   <string name="audio_permission_close">Κλείστε</string>
@@ -484,7 +484,7 @@
   <string name="guide_keyboard_setting_guide_text_1">Στυλ Emoji</string>
   <string name="guide_keyboard_setting_guide_text_2">Διαφορετικά στυλ για να επιλέξετε εδώ!</string>
   <string name="guide_keyboard_update_tip_1">Κινούμενο Emoji θα τεθεί εδώ.</string>
-  <string name="guide_keyboard_update_tip_2">Κάντε κλικ στο \\"X\\" για να δημιουργήσετε ΜΙΜΊΔΙΑ σε αυτήν την ενημερωμένη έκδοση.</string>
+  <string name="guide_keyboard_update_tip_2">Κάντε κλικ στο \"X\" για να δημιουργήσετε ΜΙΜΊΔΙΑ σε αυτήν την ενημερωμένη έκδοση.</string>
   <string name="guide_privacy_1">Με την εγκατάσταση ή τη χρήση του προϊόντος, συμφωνείτε</string>
   <string name="guide_privacy_2">\"Πολιτική Απορρήτου\"</string>
   <string name="guide_privacy_3"> and </string>

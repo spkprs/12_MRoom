@@ -1839,7 +1839,7 @@
   <string name="single_fiveg_dual_sim_dialog_btn_enable_dual_sims">Χρησιμοποιήστε διπλή SIM</string>
   <string name="single_fiveg_dual_sim_dialog_msg_dual_sim">Η χρήση δικτύων 5G απαιτεί απενεργοποίηση μίας από τις κάρτες SIM. Εάν θέλετε να συνεχίσετε να χρησιμοποιείτε τη Διπλή SIM, επιλέξτε έναν διαφορετικό τύπο δικτύου.</string>
   <string name="single_fiveg_dual_sim_dialog_title_important_prompt">Προσοχή</string>
-  <string name="single_fiveg_enable_fiveg_dialog_msg_enable_fiveg">Μόνο μία κάρτα SIM μπορεί να ενεργοποιηθεί για δίκτυα 5G. Πατώντας το \\"Ενεργοποίηση\\" παρακάτω θα απενεργοποιήσετε την άλλη κάρτα SIM.</string>
+  <string name="single_fiveg_enable_fiveg_dialog_msg_enable_fiveg">Μόνο μία κάρτα SIM μπορεί να ενεργοποιηθεί για δίκτυα 5G. Πατώντας το \"Ενεργοποίηση\" παρακάτω θα απενεργοποιήσετε την άλλη κάρτα SIM.</string>
   <string name="single_fivegg_enable_fiveg_dialog_btn_enable_sim">Ενεργοποίηση</string>
   <string name="singleContactImportedMsg">Εισαγόμενη επαφή</string>
   <string name="sip_account_disable">Ο λογαριασμός δεν είναι ενεργός. Αδύνατη η αποδοχή κλήσεων.</string>
