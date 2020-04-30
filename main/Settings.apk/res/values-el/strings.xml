@@ -7164,7 +7164,6 @@
   <string name="wifi_connect_failed_message">Το τηλέφωνο δεν μπόρεσε να συνδεθεί σε αυτό το δίκτυο Wi-Fi.</string>
   <string name="wifi_connected_mac_randomization">Συνδεδεμένη τυχαιοποίηση MAC</string>
   <string name="wifi_connected_no_internet">Συνδεδεμένο, χωρίς Internet</string>
-  <string name="wifi_connected_to_message">@string/bluetooth_connected_summary</string>
   <string name="wifi_connecting">Σύνδεση…</string>
   <string name="wifi_connection_management">Διαχείριση συνδέσεων Wi-Fi</string>
   <string name="wifi_context_menu_change_password">Αλλαγή κωδικού</string>
@@ -7189,7 +7188,6 @@
   <string name="wifi_disabled_network_failure">Αποτυχία ρύθμισης IP</string>
   <string name="wifi_disabled_password_failure">Πρόβλημα ταυτοποίησης</string>
   <string name="wifi_disabled_wifi_failure">Αποτυχία σύνδεσης Wi-Fi</string>
-  <string name="wifi_disconnect">@string/bluetooth_device_context_disconnect</string>
   <string name="wifi_disconnect_button_text">Αποσυνδέστε</string>
   <string name="wifi_disconnected">Αποσυνδεθεί</string>
   <string name="wifi_disconnected_notification_summary">Επανάληψη ή σύνδεση σε άλλο Wi-Fi.</string>
@@ -7412,7 +7410,6 @@
   <string name="wifi_sap_no_channel_error">Η μπάντα 5 GHz δεν είναι διαθέσιμη σε αυτή τη χώρα</string>
   <string name="wifi_save">Αποθήκευση</string>
   <string name="wifi_saved_access_points_label">Αποθηκευμένα δίκτυα</string>
-  <string name="wifi_saved_access_points_tab">@string/wifi_access_points</string>
   <string name="wifi_scan_always_available">Σάρωση πάντα διαθέσιμη</string>
   <string name="wifi_scan_always_available_summary">Αποδοχή της υπηρεσίας τοποθεσίας της Google και σε άλλες εφαρμογές να κάνουν σάρωση για δίκτυα, ακόμα και όταν το Wi-Fi είναι απενεργοποιημένο</string>
   <string name="wifi_scan_always_confirm_allow">Αποδοχή</string>
@@ -7435,7 +7432,6 @@
   <string name="wifi_security_none_owe">Χωρίς/Βελτιωμένο άνοιγμα</string>
   <string name="wifi_security_owe">Ενισχυμένο άνοιγμα</string>
   <string name="wifi_security_passpoint">Σημείο ελέγχου</string>
-  <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
   <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
   <string name="wifi_security_sae">WPA3-Personal</string>
   <string name="wifi_security_short_dpp">DPP</string>
@@ -7445,7 +7441,6 @@
   <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
   <string name="wifi_security_short_none_owe">Κανένα/OWE</string>
   <string name="wifi_security_short_owe">OWE</string>
-  <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
   <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
   <string name="wifi_security_short_sae">WPA3</string>
   <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>

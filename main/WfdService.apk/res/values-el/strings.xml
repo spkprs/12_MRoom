@@ -7,4 +7,6 @@
      <string name="notif_title">Ασύρματη προβολή</string>
      <string name="perm_desc">API πρόσβαση σε προβολή Wi-Fi</string>
      <string name="perm_label">QC Wi-Fi Εμφάνιση στοίβας</string>
+     <string name="notification_text">Ο Μετάδοση οθόνης είναι ενεργή</string>
+     <string name="notification_title">Ασύρματη προβολή</string>
 </resources>

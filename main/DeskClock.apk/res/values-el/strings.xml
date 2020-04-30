@@ -319,14 +319,10 @@
   <string name="ringtone_other">"Περισσότεροι ήχοι "</string>
   <string name="ringtone_weather">Ήχοι Καιρού</string>
   <string name="ringtone_week">Ήχοι Φύσης</string>
-  <string name="search_alarm_clock">@string/alarm_list_title</string>
   <string name="search_alarm_clock_keywords">Αφύπνιση;Αφύπνιση;</string>
   <string name="search_menu_title">Αναζήτηση</string>
-  <string name="search_stopwatch">@string/stopwatch_title</string>
   <string name="search_stopwatch_keywords">Χρονόμετρο</string>
-  <string name="search_timer">@string/timer_title</string>
   <string name="search_timer_keywords">Χρονόμετρο</string>
-  <string name="search_worldclock">@string/worldclock_title</string>
   <string name="search_worldclock_keywords">Ώρα;Παγκόσμιο ρολόι;Ρολόι</string>
   <string name="set_alarm">Ρύθμιση Αφύπνισης</string>
   <string name="set_alarm_choose_ringtone">Επιλογή ήχου</string>

@@ -2373,6 +2373,7 @@
   <string name="user_agreement2">" Όροι Χρήσης"</string>
   <string name="user_agreement4">Πολιτική Απορρήτου</string>
   <string name="user_alias_self">Ο εαυτός μου</string>
+  <string name="user_notice_identify_summary_format">"Χρησιμοποιώντας αυτή την υπηρεσία, αποδέχεστε τους \"Ορους χρήσης\" και \"Πολιτικής απορρήτου\" της Xiaomi</string>
   <string name="user_notice_title">Προσοχή</string>
   <string name="v7_preference_off">OFF</string>
   <string name="v7_preference_on">ON</string>

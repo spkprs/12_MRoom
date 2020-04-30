@@ -1088,6 +1088,7 @@
   <string name="missed_call_notify_once">%d φορά</string>
   <string name="missed_call_notify_ten_times">%d φορές</string>
   <string name="missed_call_notify_thrice">%d φορές</string>
+  <string name="missed_call_notify_times_summary">Ειδοποίηση (ανα 5 λεπτά)</string>
   <string name="missed_call_notify_times_title">Υπενθύμιση χαμένων κλήσεων</string>
   <string name="missed_call_notify_twice">%d φορές</string>
   <string name="miui_network_selection_reset_text">Επαναφορά</string>

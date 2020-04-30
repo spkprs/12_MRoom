@@ -699,4 +699,9 @@
   <string name="widget_havenot_content">Χωρίς περιεχόμενο. Αγγίξτε για δημιουργία νέας σημείωσης. Για αλλαγή μεγέθους, αγγίξτε παρατεταμένα &amp; σύρετε μία άκρη.</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="yesterday">Yesterday</string>
+     <string name="todo_list">Λίστα ελέγχου δευτερευουσών εργασιών</string>
+     <string name="todo_list_edit_text_hint">Πατήστε \"Enter\" για να δημιουργήσετε δευτερεύουσες εργασίες</string>
+     <string name="todo_list_new_finish_all_tip">Τα νέα στοιχεία πρέπει να περιέχουν τουλάχιστον μία μη ολοκληρωμένη εργασία</string>
+     <string name="todo_list_overflow_tip">"Δεν είναι δυνατή η δημιουργία περισσότερων δευτερευουσών εργασιών"</string>
+     <string name="todo_user_guide_tip6">Πατήστε \"Enter\" για να δημιουργήσετε μια λίστα ελέγχου με δευτερεύουσες εργασίες</string>
 </resources>

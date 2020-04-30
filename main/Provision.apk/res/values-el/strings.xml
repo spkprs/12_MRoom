@@ -245,4 +245,9 @@
     <string name="service_name_fast_pairing">Mi Link</string>
     <string name="fast_pairing_introduction">Mi Link επιτρέπει στη συσκευή σας να συνδεθεί σε κοντινές συσκευές Bluetooth. Για να μπορείτε να βρείτε συσκευές κοντά, επιτρέψτε στο Mi Link να συνδεθεί στο Internet.</string>
     <string name="disagreement_abnormal_running_fast_pairing">"Εάν δεν συμφωνήσετε να εκχωρήσετε τέτοια δικαιώματα, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή. Σε τέτοιες περιπτώσεις, μπορείτε να επιλέξετε να περιορίσετε τα δικαιώματα στις "Ρυθμίσεις"."</string>
+     <string name="mint_keyboard_oobe_checkbox">"Διάβασα και συμφώνησα με την πολιτική απορρήτου πληκτρολογίου Mint Keyboard"</string>
+     <string name="mint_keyboard_oobe_terms">Mint Keyboard πολιτική απορρήτου</string>
+     <string name="poco_launcher_privacy_policy">POCO Launcher πολιτική απορρήτου</string>
+     <string name="poco_launcher_user_agreement">POCO Launcher Συμφωνία χρήστη</string>
+     <string name="terms_of_use_lable_default_input_method_mint">\n\nΑποδοχή της Mint Keyboard πολιτική απορρήτου πριν τη χρήση του.</string>
 </resources>
