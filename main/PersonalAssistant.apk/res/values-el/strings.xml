@@ -1488,7 +1488,7 @@
      <string name="red_grow_blue_dowm">Κόκκινο - πάνω, πράσινο - κάτω</string>
      <string name="refresh_error">Παρουσιάστηκε σφάλμα δικτύου. Περιμένετε ένα λεπτό ή δύο και δοκιμάστε ξανά.</string>
      <string name="refresh_over_pull">Απελευθερώστε για ανανέωση</string>
-     <string name="refresh_pull">Τραβήξτε για ανανέωση</string>
+     <string name="refresh_pull">pull to refresh</string>
      <string name="refresh_refreshing">Ανανέωση…</string>
      <string name="remain_flow">Δεδομένα κινητού</string>
      <string name="req_no_data">Δεν ήταν δυνατή η λήψη πληροφοριών</string>

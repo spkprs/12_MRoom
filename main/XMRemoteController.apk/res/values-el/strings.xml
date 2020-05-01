@@ -811,7 +811,7 @@
     <string name="province">Επαρχία</string>
     <string name="pull_down_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
     <string name="pull_to_refresh">Τραβήξτε προς τα κάτω για ανανέωση</string>
-    <string name="pull_up_refresh">Αφήστε για ανανέωση</string>
+    <string name="pull_up_refresh">release to refresh</string>
     <string name="push_add">Βρέθηκε ένα τηλεχειριστήριο που κοινοποιήθηκε σε εσάς</string>
     <string name="push_add_desc">Ελέγξτε το κοντινό %1$s με αυτό το τηλεχειριστήριο;</string>
     <string name="rc">Τηλεχειριστήριο</string>
@@ -824,7 +824,7 @@
     <string name="refreshing">Γίνεται ανανέωση…</string>
     <string name="refreshing_no_point">Γίνεται ανανέωση…</string>
     <string name="refreshing_retry">Αδυναμία φόρτωσης, προσπαθήστε ξανά</string>
-    <string name="release_to_refresh">Αφήστε για ανανέωση</string>
+    <string name="release_to_refresh">release to refresh</string>
     <string name="rematch">Σύζευξη ξανά</string>
     <string name="remote_controller_name">Mi Τηλεχειριστήριο</string>
     <string name="remove_from_top">Ξεκαρφίτσωμα από την κορυφή</string>

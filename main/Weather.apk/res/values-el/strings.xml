@@ -261,7 +261,7 @@
      <string name="minute_rain_feedback_subtitle">Πείτε μας τι καιρό κάνει.</string>
      <string name="minute_rain_feedback_text">Σχόλια</string>
      <string name="minute_rain_feedback_title">Οι πληροφορίες καιρού φαίνονται εσφαλμένες.</string>
-     <string name="minute_rain_let_go_refresh">Αφήστε για ανανέωση</string>
+     <string name="minute_rain_let_go_refresh">release to refresh</string>
      <string name="minute_rain_no_data">Δεν υπάρχουν δεδομένα</string>
      <string name="minute_rain_now">Τώρα</string>
      <string name="minute_rain_progress_indicator_original_time">- -</string>

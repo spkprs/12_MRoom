@@ -259,8 +259,8 @@
   <string name="midrop_msg_1">Ενεργοποιήστε το Mi Drop στην άλλη συσκευή</string>
   <string name="midrop_msg_2">Όταν το Mi Drop είναι ενεργό, μπορείτε να αναζητήσετε συσκευές σε κοντινή απόσταση και να στείλετε αρχεία</string>
   <string name="midrop_send_files">Επιλέξτε αρχεία για αποστολή</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">τραβήξτε για ανανέωση</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">ανανέωση ολοκληρώθηκε</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">pull to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">refresh completed</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">refreshing</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">release to refresh</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">no data</string>
@@ -383,7 +383,7 @@
   <string name="rlv_loading_more">Μισό λεπτό…</string>
   <string name="rlv_pull_to_refresh">Σύρετε για ανανέωση</string>
   <string name="rlv_refreshing">Ανανέωση…</string>
-  <string name="rlv_release_to_refresh">Αφήστε για ανανέωση</string>
+  <string name="rlv_release_to_refresh">release to refresh</string>
   <string name="save">Αποθήκευση</string>
   <string name="search_app">Εφαρμογές και Φάκελοι</string>
   <string name="search_app_more">Περισσότερα</string>

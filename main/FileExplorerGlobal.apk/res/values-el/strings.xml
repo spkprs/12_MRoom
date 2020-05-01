@@ -365,7 +365,7 @@
   <string name="rlv_loading_more">Περιμένετε μια στιγμή…</string>
   <string name="rlv_pull_to_refresh">Τραβήξτε κάτω για ανανέωση</string>
   <string name="rlv_refreshing">Γίνεται ανανέωση…</string>
-  <string name="rlv_release_to_refresh">Αφήστε για ανανέωση</string>
+  <string name="rlv_release_to_refresh">release to refresh</string>
   <string name="s1">Αποθήκευση εικόνας</string>
   <string name="s2">Να επιτραπεί στη διαφήμιση να αποθηκεύσει την εικόνα στη Συλλογή;</string>
   <string name="s3">Αποδοχή</string>

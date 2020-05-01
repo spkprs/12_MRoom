@@ -443,7 +443,7 @@
      <string name="privacy_policy_title">Πολιτική απορρήτου</string>
      <string name="pull_to_refresh_pull_label">Σύρετε κάτω για ανανέωση</string>
      <string name="pull_to_refresh_refreshing_label">Ανανέωση…</string>
-     <string name="pull_to_refresh_release_label">Αφήστε για ανανέωση</string>
+     <string name="pull_to_refresh_release_label">release to refresh</string>
      <string name="refresh">Ανανέωση</string>
      <string name="related_question_answer_details">Σχετικό πρόβλημα</string>
      <string name="reply">Απάντηση</string>

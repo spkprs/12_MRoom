@@ -1047,7 +1047,7 @@
   <string name="refresh">Ανανέωση</string>
   <string name="refreshing">Ανανέωση…</string>
   <string name="refreshing_done">Ολοκλήρωση συγχρονισμού</string>
-  <string name="release_to_refresh">Αφήστε για ανανέωση</string>
+  <string name="release_to_refresh">release to refresh</string>
   <string name="remind_attachment_size_limit">Τα emails σας πρέπει να είναι λιγότερο από %sMB</string>
   <string name="remote_search_body_too_large_prompt">Αυτό το μήνυμα είναι πολύ μεγάλο.\nΠεριμένετε μέχρι να συγχρονιστεί πλήρως ή να το προβάλετε στον υπολογιστή σας.</string>
   <string name="remove_account">Κατάργηση λογαριασμού</string>

@@ -58,14 +58,14 @@
   <string name="iv_fw_resize_content_description">Προσαρμόστε το μέγεθος της ελαχιστοποιημένης εφαρμογής</string>
   <string name="iv_speaking_content_description">Παίζω</string>
   <string name="loading">Μισό λεπτό…</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">τραβήξτε για ανανέωση</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">η ανανέωση ολοκληρώθηκε</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">δροσιστικός</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">απελευθέρωση για ανανέωση</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">χωρίς δεδομένα</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">μην το κάνεις αυτό</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">δροσιστικός</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">αποτυγχάνω</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">pull to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">refresh completed</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">refreshing</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">release to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">no data</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">refreshing</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">fail</string>
   <string name="new_permission_agree">&lt;Data&gt;Πριν χρησιμοποιήσετε τις υπηρεσίες μας, διαβάστε και συμφωνήστε με το &amp;lt;a href=\"%1$s\"&amp;gt;Συμφωνία χρήστη&amp;lt;/a&amp;gt; και &amp;lt;a href=\"%2$s\"&amp;gt;Πολιτική Απορρήτου&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="new_permission_agree_explain">Εάν δεν συμφωνείτε να εκχωρήσετε τέτοια δικαιώματα ή να μοιραστείτε και να ανεβάσετε τα προσωπικά σας στοιχεία, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή. Μπορείτε να επιλέξετε να απεγκαταστήσετε αυτήν την εφαρμογή, να αποσυνδεθείτε ή να περιορίσετε τα δικαιώματα στις Ρυθμίσεις σε τέτοιες περιπτώσεις.</string>
   <string name="new_permission_content_first_line">Καλώς ήλθατε στο Mi Ditto! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να μεταγράψετε ήχο και να δημιουργήσετε ομιλία με βάση την εισαγωγή κειμένου σας.\nΘα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου.\nΛάβετε υπόψη ότι αυτή η εφαρμογή πρέπει να συνδεθεί στο Διαδίκτυο και απαιτεί τα ακόλουθα δικαιώματα για τη συλλογή των προσωπικών σας στοιχείων:</string>
