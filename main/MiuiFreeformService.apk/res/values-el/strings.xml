@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Αιωρούμενο παράθυρο</string>
+  <string name="contentDescription">Μετακίνηση του παραθύρου</string>
+  <string name="freeform_demo_back">Πίσω</string>
+  <string name="freeform_demo_final_over">Τέλος</string>
+  <string name="freeform_demo_final_restart">Ξεκινήστε από την αρχή</string>
+  <string name="freeform_demo_final_title">Είστε έτοιμοι!</string>
+  <string name="freeform_demo_go_on">Επόμενο</string>
+  <string name="freeform_demo_title_finish">Τέλεια!</string>
+  <string name="freeform_demo_title_skip">Παράλειψη\n</string>
+  <string name="how_to_close_or_fullscreen_freeform">Κλείσιμο Αιωρούμενων παραθύρων ή μετάβαση σε Πλήρη οθόνη</string>
+  <string name="how_to_drop_down_to_fullscreen">Σε Πλήρη οθόνη</string>
+  <string name="how_to_drop_down_to_fullscreen_summary">Πατήστε παρατεταμένα, και στη συνέχεια τραβήξτε προς τα κάτω τη Γραμμή Ενεργειών ενός Αιωρούμενου παραθύρου</string>
+  <string name="how_to_hang_freeform">Ελαχιστοποίηση Αιωρούμενων παραθύρων</string>
+  <string name="how_to_hang_to_small_freeform">Ελαχιστοποίηση</string>
+  <string name="how_to_hang_to_small_freeform_summary">Σύρετε το Αιωρούμενο παράθυρο στη γωνία της οθόνης</string>
+  <string name="how_to_move_freeform">Μετακίνηση Αιωρούμενων παραθύρων παντού</string>
+  <string name="how_to_move_freeform_window">Μετακίνηση παντού</string>
+  <string name="how_to_move_freeform_window_summary">Πατήστε παρατεταμένα τη γραμμή ενεργειών ενός Αιωρούμενου παραθύρου για μεταφορά</string>
+  <string name="how_to_notification_drop_down">Άνοιγμα</string>
+  <string name="how_to_notification_drop_down_summary">Πατήστε παρατεταμένα και στη συνέχεια, τραβήξτε προς τα κάτω τη γραμμή ενεργειών μιας ειδοποίησης</string>
+  <string name="how_to_open_freeform">Άνοιγμα ειδοποιήσεων σε Αιωρούμενο παράθυρο</string>
+  <string name="how_to_slide_up_to_close">Κλείσιμο</string>
+  <string name="how_to_slide_up_to_close_summary">Σάρωση προς τα επάνω από τη γραμμή ενεργειών ενός Αιωρούμενου παραθύρου</string>
+  <string name="how_to_use_freeform">Τρόπος χρήσης των Αιωρούμενων παραθύρων</string>
+</resources>
