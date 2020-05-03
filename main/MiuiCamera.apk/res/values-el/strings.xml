@@ -104,6 +104,7 @@
   <string name="ai_scene_top_moon_off">Νυκτερινή λειτουργία</string>
   <string name="ai_scene_top_tip">Λειτουργία Σελήνης</string>
   <string name="ai_watermark_title">Υδατογράφημα AI</string>
+  <string name="app_name">Προτίμηση</string>
   <string name="audio_focus_exit_button_text">"Απενεργοποίηση Eστίασης ήχου "</string>
   <string name="autozoom_click_hint">Αγγίξτε ένα αντικείμενο και κρατήσετε το εστιασμένο ενώ κινείται. Μείνετε τουλάχιστον 3 μέτρα μακριά για καλύτερο αποτέλεσμα.</string>
   <string name="autozoom_disabled_hint">Σταμάτησε η παρακολούθηση κινούμενου αντικειμένου</string>
@@ -527,16 +528,13 @@
   <string name="module_name_video">Βίντεο</string>
   <string name="module_name_vlog">VLOG</string>
   <string name="moive_frame">Πλαίσιο ταινίας</string>
-  <string name="monet_c_0x40">v0</string>
-  <string name="monet_c_0x47">v10</string>
-  <string name="monet_c_27810_0x0002">ultra_wide:macro:capture_intent</string>
   <string name="multi_window_mode_not_supported">Αδύνατη η χρήση Κάμερας σε λειτουργία πολλαπλών παραθύρων</string>
   <string name="music_hint_tt">服务来源爱听卓乐</string>
   <string name="network_access_user_notice_agree">Συμφωνώ</string>
-  <string name="network_access_user_notice_message_live_video">&lt;Data&gt;\"Η κάμερα πρέπει να συνδεθεί στο Internet για να παρέχει εφέ, μουσική και άλλα χαρακτηριστικά για σύντομα βίντεο.&lt;br/&gt;&lt;br/&gt;Πατώντας \"Συμφωνώ\" παρακάτω, αποδέχεστε την &lt;a href =%1$s&gt; Συμφωνία Χρήστη &lt;/a&gt;  και &lt;a href =%2$s&gt;Πολιτική Απορρήτου&lt;/a&gt;, επιτρέποντας στη Κάμερα την σύνδεση στο διαδίκτυο.\"&lt;/Data&gt;</string>
-  <string name="network_access_user_notice_message_mi_live_video">&lt;Data&gt;Καλώς ορίσατε στα Σύντομα Βίντεο! Η υπηρεσία μας πρέπει να συνδεθεί στο δίκτυο για να σας προσφέρει μουσική και άλλα χαρακτηριστικά. &lt;br/&gt;&lt;br/&gt;Πριν χρησιμοποιήσετε την υπηρεσία μας, πρέπει να διαβάσετε και να συμφωνήσετε με &lt;a href =%1$s&gt;Συμφωνία Χρήστη&lt;/a&gt; και &lt;a href =%2$s&gt;Πολιτική Απορρήτου&lt;/a&gt;, καθώς και να επιτραπεί στην εφαρμογή να συνδεθεί στο διαδίκτυο.&lt;/Data&gt;</string>
-  <string name="network_access_user_notice_message_sticker">&lt;Data&gt;\"Η κάμερα πρέπει να συνδεθεί στο Internet για να παρέχει αυτοκόλλητα για αυτό το χαρακτηριστικό.&lt;br/&gt;&lt;br/&gt;Πατώντας \"Συμφωνώ\" παρακάτω, αποδέχεστε την &lt;a href =%1$s&gt;Συμφωνία Χρήστη &lt;/a&gt; και &lt;a href =%2$s&gt;Πολιτική Απορρήτου&lt;/a&gt;, επιτρέποντας στη Κάμερα την σύνδεση στο διαδίκτυο.\"&lt;/Data&gt;</string>
-  <string name="network_access_user_notice_message_voice_caption">&lt;Data&gt;\"Η Κάμερα πρέπει να συνδεθεί στο Internet για να παρέχει λειτουργικότητα εξόδου από ομιλία σε κείμενο.&lt;br/&gt;&lt;br/&gt;Πατώντας \"Συμφωνώ\" παρακάτω, αποδέχεστε την &lt;a href =%1$s&gt;Συμφωνία Χρήστη&lt;/a&gt; και &lt;a href =%2$s&gt;Πολιτική Απορρήτου&lt;/a&gt;, επιτρέποντας στη Κάμερα την σύνδεση στο διαδίκτυο.\"&lt;/Data&gt;</string>
+  <string name="network_access_user_notice_message_live_video"><Data>"Η κάμερα πρέπει να συνδεθεί στο Internet για να παρέχει εφέ, μουσική και άλλα χαρακτηριστικά για σύντομα βίντεο. Πατώντας \"Συμφωνώ\" παρακάτω, αποδέχεστε την &lt;a href =%1$s>Συμφωνία Χρήστη &lt;/a>  και &lt;a href =%2$s>Πολιτική Απορρήτου&lt;/a>, επιτρέποντας στη Κάμερα την σύνδεση στο διαδίκτυο."</Data></string>
+  <string name="network_access_user_notice_message_mi_live_video"><Data>Καλώς ορίσατε στα Σύντομα Βίντεο! Η υπηρεσία μας πρέπει να συνδεθεί στο δίκτυο για να σας προσφέρει μουσική και άλλα χαρακτηριστικά. Πριν χρησιμοποιήσετε την υπηρεσία μας, πρέπει να διαβάσετε και να συμφωνήσετε με &lt;a href =%1$s>Συμφωνία Χρήστη&lt;/a> και &lt;a href =%2$s>Πολιτική Απορρήτου&lt;/a>, καθώς και να επιτραπεί στην εφαρμογή να συνδεθεί στο διαδίκτυο.</Data></string>
+  <string name="network_access_user_notice_message_sticker"><Data>"Η κάμερα πρέπει να συνδεθεί στο Internet για να παρέχει αυτοκόλλητα για αυτό το χαρακτηριστικό. Πατώντας \"Συμφωνώ\" παρακάτω, αποδέχεστε την &lt;a href =%1$s>Συμφωνία Χρήστη&lt;/a> και &lt;a href =%2$s>Πολιτική Απορρήτου&lt;/a>, επιτρέποντας στη Κάμερα την σύνδεση στο διαδίκτυο."</Data></string>
+  <string name="network_access_user_notice_message_voice_caption"><Data>"Η Κάμερα πρέπει να συνδεθεί στο Internet για να παρέχει λειτουργικότητα εξόδου από ομιλία σε κείμενο. Πατώντας \"Συμφωνώ\" παρακάτω, αποδέχεστε την &lt;a href =%1$s>Συμφωνία Χρήστη&lt;/a> και &lt;a href =%2$s>Πολιτική Απορρήτου&lt;/a>, επιτρέποντας στη Κάμερα την σύνδεση στο διαδίκτυο."</Data></string>
   <string name="network_access_user_notice_title">Σύνδεση στο Internet</string>
   <string name="no_storage">Εισαγωγή κάρτας SD πριν από τη χρήση κάμερας</string>
   <string name="not_enough_space">Η κάρτα SD είναι πλήρης</string>
@@ -733,7 +731,7 @@
   <string name="pref_camera_hdr_entry_normal">Pro</string>
   <string name="pref_camera_hdr_entry_off">Off</string>
   <string name="pref_camera_hdr_title">HDR</string>
-  <string name="pref_camera_heic_image_format_description">Λήψη φωτογραφιών σε μορφή HEIF υψηλής απόδοσης</string>
+  <string name="pref_camera_heic_image_format_description">Φωτογραφίες σε μορφή HEIF υψηλής απόδοσης καταλαμβάνουν λιγότερο χώρο αποθήκευσης, αλλά δεν υποστηρίζονται από ορισμένες εφαρμογές</string>
   <string name="pref_camera_heic_image_format_title">Μορφή HEIC</string>
   <string name="pref_camera_hfr_entry_off">Off</string>
   <string name="pref_camera_histogram_entry_disable">Κλείσιμο</string>
@@ -993,12 +991,10 @@
   <string name="preparing_sd">Έλεγχος SD card…</string>
   <string name="preview_back_pressed_hint">Πατήστε ξανά για να επιστρέψετε στην προεπισκόπηση</string>
   <string name="pro_color_mode">Χρώμα Pro</string>
-  <string name="provider_authority">com.xiaomi.camera.parallelservice.provider.SpecialTypesProvider</string>
   <string name="pyxis_c_0x40">v3</string>
   <string name="pyxis_c_0x47">v3</string>
   <string name="raphael_c_0x40">v4</string>
   <string name="raphaelin_c_0x40">v2</string>
-  <string name="raphaelin_live_activation_license">ec067f9cc5da6698195f7f54eaea2e4a7a4272c2d7173565e9982102c23a591e15ee493c66caa6624b5905e843b1dd5ae8c2388312a57bdd89482d4daff1814b5e2488ef93f3ee7a655d68deba53d881</string>
   <string name="recommend_macro_mode">Δοκιμάστε τη λειτουργία Macro</string>
   <string name="recommend_portrait">Δοκιμάστε τη λειτουργία πορτρέτου</string>
   <string name="recommend_soft_light_tip">Ενεργοποίηση Φλάς</string>
@@ -1088,15 +1084,12 @@
   <string name="ultra_wide_open_tip_sat">0.6X Υπέρ ευρεία γωνία</string>
   <string name="ultra_wide_recommend_tip_hint">Δοκιμάστε την Υπέρ ευρεία γωνία</string>
   <string name="ultra_wide_recommend_tip_hint_sat">Εναλλαγή σε Υπέρ Ευρεία γωνία 0.6Χ</string>
-  <string name="umi_c_0x40">v4</string>
-  <string name="umi_c_0x47">v0</string>
-  <string name="umi_c_27810_0x0002">macro:capture_intent:ultra_wide:pro</string>
   <string name="unknow_error">Άγνωστο σφάλμα</string>
   <string name="ursa_c_0x40">v0</string>
   <string name="user_agree">Συμφωνώ</string>
   <string name="user_define_watermark_cancel">Ακύρωση</string>
   <string name="user_define_watermark_save">Αποθήκευση</string>
-  <string name="user_notice_identify_summary_format">Πριν χρησιμοποιήσετε την Κάμερα, πρέπει να συμφωνήσετε με την  &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en_US\"&gt;Συμφωνία Χρήστη&lt;/a&gt; και &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en_US\"&gt;Πολιτική Απορρήτου&lt;/a&gt;. Επίσης χρειάζεται σύνδεση στο Διαδύκτιο για την σωστή λειτουργία της. Συμφωνείτε?</string>
+  <string name="user_notice_identify_summary_format">Πριν χρησιμοποιήσετε την Κάμερα, πρέπει να συμφωνήσετε με την  <a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Συμφωνία Χρήστη</a> και <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Πολιτική Απορρήτου</a>. Επίσης χρειάζεται σύνδεση στο Διαδύκτιο για την σωστή λειτουργία της. Συμφωνείτε?</string>
   <string name="user_notice_title">Οροι και Προϋποθέσεις</string>
   <string name="v7_preference_off">OFF</string>
   <string name="v7_preference_on">ON</string>
@@ -1123,7 +1116,6 @@
   <string name="video_effect_entry_rome">Ρώμη</string>
   <string name="video_effect_entry_summer_day">Καλοκαίρι</string>
   <string name="video_effect_entry_wind_sing">Άνεμος</string>
-  <string name="video_file_name_format">\'VID\'_yyyyMMdd_HHmmss</string>
   <string name="video_reach_size_limit">Μέγιστο όριο μεγέθους.</string>
   <string name="video_tag_flag_title">Σήμανση</string>
   <string name="video_ultra_clear_tip">4K UHD</string>
@@ -1149,5 +1141,4 @@
   <string name="wideselfie_rotate_to_front">Κλίση της συσκευής εμπρός</string>
   <string name="wideselfie_rotate_to_left_slowly">Περιστρέψτε προς τα αριστερά</string>
   <string name="wideselfie_rotate_to_right_slowly">Περιστρέψτε προς τα δεξιά</string>
-  <string name="willow_c_0x40">v0</string>
 </resources>
