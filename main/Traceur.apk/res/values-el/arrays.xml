@@ -35,61 +35,6 @@
         <item>3</item>
         <item>4</item>
      </string-array>
-     <string-array name="battery_labels">
-        <item>0%</item>
-        <item>50%</item>
-        <item>100%</item>
-     </string-array>
-     <integer-array name="batterymeter_bolt_points">
-        <item>73</item>
-        <item>0</item>
-        <item>392</item>
-        <item>0</item>
-        <item>201</item>
-        <item>259</item>
-        <item>442</item>
-        <item>259</item>
-        <item>4</item>
-        <item>703</item>
-        <item>157</item>
-        <item>334</item>
-        <item>0</item>
-        <item>334</item>
-     </integer-array>
-     <integer-array name="batterymeter_color_levels">
-        <item>15</item>
-        <item>100</item>
-     </integer-array>
-     <array name="batterymeter_color_values">
-        <item>?android:colorError</item>
-        <item>@android:color/white</item>
-     </array>
-     <integer-array name="batterymeter_plus_points">
-        <item>3</item>
-        <item>0</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-        <item>3</item>
-        <item>8</item>
-        <item>3</item>
-        <item>8</item>
-        <item>5</item>
-        <item>5</item>
-        <item>5</item>
-        <item>5</item>
-        <item>8</item>
-        <item>3</item>
-        <item>8</item>
-        <item>3</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-        <item>0</item>
-        <item>3</item>
-        <item>3</item>
-        <item>3</item>
-     </integer-array>
      <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
         <item>16 bit/δείγμα</item>
@@ -141,27 +86,6 @@
         <item>1002</item>
         <item>1003</item>
      </string-array>
-     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
-        <item>44,1 kHz</item>
-        <item>48,0 kHz</item>
-        <item>88,2 kHz</item>
-        <item>96,0 kHz</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
-        <item>44,1 kHz</item>
-        <item>48,0 kHz</item>
-        <item>88,2 kHz</item>
-        <item>96,0 kHz</item>
-     </string-array>
-     <string-array name="bluetooth_a2dp_codec_sample_rate_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>4</item>
-        <item>8</item>
-     </string-array>
      <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
         <item>SBC</item>
@@ -188,79 +112,11 @@
         <item>Απενεργοποίηση προαιρετικών κωδικοποιητών</item>
         <item>Disable Optional Codecs</item>
      </string-array>
-     <string-array name="bluetooth_a2dp_codec_values">
-        <item>1000000</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-     </string-array>
      <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
         <item>, ενεργή</item>
         <item>, ενεργή (μέσα)</item>
         <item>, ενεργή (τηλέφωνο)</item>
-     </string-array>
-     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp13</item>
-        <item>avrcp15</item>
-        <item>avrcp16</item>
-     </string-array>
-     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (Προεπιλογή)</item>
-        <item>AVRCP 1.3</item>
-        <item>AVRCP 1.5</item>
-        <item>AVRCP 1.6</item>
-     </string-array>
-     <string-array name="bt_hci_snoop_log_entries">
-        <item>Disabled</item>
-        <item>Enabled Filtered</item>
-        <item>Enabled</item>
-        <item>Enabled Headers Filtered</item>
-        <item>Enabled Media Pkts Filtered</item>
-     </string-array>
-     <string-array name="bt_hci_snoop_log_values">
-        <item>disabled</item>
-        <item>filtered</item>
-        <item>full</item>
-        <item>snoopheadersfiltered</item>
-        <item>mediapktsfiltered</item>
-     </string-array>
-     <array name="bt_icon_bg_colors">
-        <item>@color/bt_color_bg_1</item>
-        <item>@color/bt_color_bg_2</item>
-        <item>@color/bt_color_bg_3</item>
-        <item>@color/bt_color_bg_4</item>
-        <item>@color/bt_color_bg_5</item>
-        <item>@color/bt_color_bg_6</item>
-        <item>@color/bt_color_bg_7</item>
-     </array>
-     <array name="bt_icon_fg_colors">
-        <item>@color/bt_color_icon_1</item>
-        <item>@color/bt_color_icon_2</item>
-        <item>@color/bt_color_icon_3</item>
-        <item>@color/bt_color_icon_4</item>
-        <item>@color/bt_color_icon_5</item>
-        <item>@color/bt_color_icon_6</item>
-        <item>@color/bt_color_icon_7</item>
-     </array>
-     <string-array name="buffer_size_names">
-        <item>@string/eight_thousand_kb</item>
-        <item>@string/sixteen_thousand_kb</item>
-        <item>@string/thirtytwo_thousand_kb</item>
-        <item>@string/sixtyfive_thousand_kb</item>
-     </string-array>
-     <string-array name="buffer_size_values">
-        <item>@string/default_buffer_size</item>
-        <item>16384</item>
-        <item>32768</item>
-        <item>65536</item>
      </string-array>
      <string-array name="color_mode_descriptions">
         <item>Βελτιωμένα χρώματα</item>
@@ -314,36 +170,6 @@
         <item>drm-only</item>
         <item>always</item>
      </string-array>
-     <string-array name="long_trace_duration_names">
-        <item>@string/ten_minutes</item>
-        <item>@string/thirty_minutes</item>
-        <item>@string/one_hour</item>
-        <item>@string/eight_hours</item>
-        <item>@string/twelve_hours</item>
-        <item>@string/twentyfour_hours</item>
-     </string-array>
-     <string-array name="long_trace_duration_values">
-        <item>10</item>
-        <item>@string/default_long_trace_duration</item>
-        <item>60</item>
-        <item>480</item>
-        <item>720</item>
-        <item>1440</item>
-     </string-array>
-     <string-array name="long_trace_size_names">
-        <item>@string/two_hundred_mb</item>
-        <item>@string/one_gb</item>
-        <item>@string/five_gb</item>
-        <item>@string/ten_gb</item>
-        <item>@string/twenty_gb</item>
-     </string-array>
-     <string-array name="long_trace_size_values">
-        <item>200</item>
-        <item>1024</item>
-        <item>5120</item>
-        <item>@string/default_long_trace_size</item>
-        <item>20480</item>
-     </string-array>
      <string-array name="overlay_display_devices_entries">
         <item>Καμία</item>
         <item>480p</item>
@@ -357,26 +183,6 @@
         <item>4K (αναβαθμισμένη)</item>
         <item>4K (αναβαθμισμένη, ασφαλής)</item>
         <item>720p, 1080p (διπλή οθόνη)</item>
-     </string-array>
-     <string-array name="overlay_display_devices_values">
-        <item></item>
-        <item>720x480/142</item>
-        <item>720x480/142,secure</item>
-        <item>1280x720/213</item>
-        <item>1280x720/213,secure</item>
-        <item>1920x1080/320</item>
-        <item>1920x1080/320,secure</item>
-        <item>3840x2160/320</item>
-        <item>3840x2160/320,secure</item>
-        <item>1920x1080/320|3840x2160/640</item>
-        <item>1920x1080/320|3840x2160/640,secure</item>
-        <item>1280x720/213;1920x1080/320</item>
-     </string-array>
-     <string-array name="select_logd_size_lowram_titles">
-        <item>Ανενεργό</item>
-        <item>64 K</item>
-        <item>256 K</item>
-        <item>1 M</item>
      </string-array>
      <string-array name="select_logd_size_summaries">
         <item>Ανενεργό</item>
@@ -393,14 +199,6 @@
         <item>1 M</item>
         <item>4 M</item>
         <item>16 M</item>
-     </string-array>
-     <string-array name="select_logd_size_values">
-        <item>32768</item>
-        <item>65536</item>
-        <item>262144</item>
-        <item>1048576</item>
-        <item>4194304</item>
-        <item>16777216</item>
      </string-array>
      <string-array name="select_logpersist_summaries">
         <item>Ανενεργό</item>
@@ -429,20 +227,6 @@
         <item>hide</item>
         <item>region</item>
         <item>highlight</item>
-     </string-array>
-     <string-array name="simulate_color_space_entries">
-        <item>@string/daltonizer_mode_disabled</item>
-        <item>@string/daltonizer_mode_monochromacy</item>
-        <item>@string/daltonizer_mode_deuteranomaly</item>
-        <item>@string/daltonizer_mode_protanomaly</item>
-        <item>@string/daltonizer_mode_tritanomaly</item>
-     </string-array>
-     <string-array name="simulate_color_space_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>2</item>
-        <item>1</item>
-        <item>3</item>
      </string-array>
      <string-array name="track_frame_time_entries">
         <item>Απενεργοποιημένο</item>
@@ -480,14 +264,6 @@
         <item>spa</item>
         <item>kor</item>
      </string-array>
-     <string-array name="tts_demo_strings">
-        <item>This is an example of speech synthesis in English.</item>
-        <item>Voici un échantillon de synthèse vocale en français.</item>
-        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-        <item>Questo è un esempio di sintesi vocale in italiano.</item>
-        <item>Este es un ejemplo de síntesis de voz en español.</item>
-        <item>이것은 한국어 음성 합성의 예입니다.</item>
-     </string-array>
      <string-array name="tts_rate_entries">
         <item>Πολύ αργή</item>
         <item>Αργή</item>
@@ -499,17 +275,6 @@
         <item>Εξαιρετικά ταχεία</item>
         <item>Ταχύτατη</item>
      </string-array>
-     <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
-     </string-array>
      <string-array name="usb_configuration_titles">
         <item>Φόρτιση σε εξέλιξη</item>
         <item>MTP (Πρωτόκολλο μεταφοράς πολυμέσων)</item>
@@ -517,14 +282,6 @@
         <item>RNDIS (USB Ethernet)</item>
         <item>Πηγή ήχου</item>
         <item>MIDI</item>
-     </string-array>
-     <string-array name="usb_configuration_values">
-        <item>none</item>
-        <item>mtp</item>
-        <item>ptp</item>
-        <item>rndis</item>
-        <item>audio_source</item>
-        <item>midi</item>
      </string-array>
      <string-array name="wifi_status">
         <item></item>

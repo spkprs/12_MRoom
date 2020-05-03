@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string-array name="korea_permission_group_tags">
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-        <item>0</item>
-     </string-array>
-     <string-array name="korea_permission_groups">
-        <item>android.permission-group.PHONE</item>
-        <item>android.permission-group.SMS</item>
-        <item>android.permission-group.CONTACTS</item>
-        <item>android.permission-group.CALENDAR</item>
-        <item>android.permission-group.STORAGE</item>
-     </string-array>
      <string-array name="korea_permission_groups_descriptions">
         <item>Για τον εντοπισμό συγχρονισμένων στοιχείων</item>
         <item>Για τον συγχρονισμό μηνυμάτων</item>
@@ -41,21 +27,9 @@
         <item>Αντίγραφο ρυθμίσεων συστήματος</item>
         <item>Εύρεση συσκευής</item>
      </string-array>
-     <string-array name="privacy_dialog_finddevice_runtime_perm">
-        <item>android.permission.READ_PHONE_STATE</item>
-        <item>android.permission-group.LOCATION</item>
-     </string-array>
      <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
         <item>Για την αναγνώριση της συσκευής σας</item>
         <item>Για να εντοπίσετε τη συσκευή σας και να μεταβείτε στη λειτουργία Εύρεση συσκευής</item>
-     </string-array>
-     <string-array name="privacy_dialog_sync_runtime_perm">
-        <item>android.permission-group.CALENDAR</item>
-        <item>android.permission.READ_SMS</item>
-        <item>android.permission.READ_MMS</item>
-        <item>android.permission.READ_CONTACTS</item>
-        <item>android.permission.WRITE_CONTACTS</item>
-        <item>android.permission-group.STORAGE</item>
      </string-array>
      <string-array name="privacy_dialog_sync_runtime_perm_desc">
         <item>Για συγχρονισμό συμβάντων</item>
@@ -165,14 +139,6 @@
         <item>Ενεργοποιήστε το συγχρονισμό</item>
         <item>WiFi;WiFi;WiFi;Cloud;Συγχρονισμού;Υπηρεσίες cloud;mi</item>
      </string-array>
-     <string-array name="user_detail_fixed_item_click_action">
-        <item>action_view_cloud_data</item>
-        <item>action_view_storage_detail</item>
-     </string-array>
-     <array name="user_detail_fixed_item_icons">
-        <item>@drawable/icon_view_cloud_data</item>
-        <item>@drawable/icon_view_details</item>
-     </array>
      <string-array name="user_detail_fixed_items">
         <item>Προβολή συγχ/μένων στοιχείων</item>
         <item>Λεπτομέριες Αποθήκευσης</item>
