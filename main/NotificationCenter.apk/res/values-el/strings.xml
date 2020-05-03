@@ -325,7 +325,7 @@
   <string name="night">Evening</string>
   <string name="noon">Midday</string>
   <string name="not_sent_recently">Χωρίς πρόσφατες</string>
-  <string name="not_set">Not set</string>
+  <string name="not_set">Δεν ορίστηκε</string>
   <string name="notch_and_status_bar_setting">Εγκοπή και Γραμμή Κατάστασης</string>
   <string name="notification_aggregate_description1">Το MIUI μπορεί να ομαδοποιήσει αυτόματα τις ειδοποιήσεις push και προώθησης, καθιστώντας τον Πίνακα ειδοποιήσεων λιγότερο πολυάσχολο.</string>
   <string name="notification_aggregate_description2">Οι αλγόριθμοι μας αναλύουν το περιεχόμενο ειδοποιήσεων και δεν εφαρμόζουν αυτήν τη δυνατότητα σε σημαντικές ειδοποιήσεις και ειδοποιήσεις από άμεσους αποστολείς. Εάν διαπιστώσετε ότι οι σημαντικές ειδοποιήσεις ομαδοποιούνται κατά λάθος, αναφέρετε το πρόβλημα που αντιμετωπίσατε χρησιμοποιώντας τη λειτουργία \"Σχόλια\".</string>

@@ -279,7 +279,7 @@
      <string name="next_setp">Επόμενο</string>
      <string name="no_match_repate_scanner">Δεν βρέθηκαν αντίστοιχα δακτυλικά αποτυπώματα. Σαρώστε ξανά</string>
      <string name="normal_app">Πρώτο προφίλ</string>
-     <string name="not_set">Not set</string>
+     <string name="not_set">Δεν ορίστηκε</string>
      <string name="not_support_air_space">Αυτή η λειτουργία δεν υποστηρίζεται στο τηλέφωνό σας</string>
      <string name="not_support_multiple_users">Πολλαπλά προφίλ δεν υποστηρίζονται</string>
      <string name="notificationSetPassword">Ορισμός κωδικού</string>
@@ -361,8 +361,7 @@
      <string name="second_space_desktop_tips_dialog_title">Σημαντική ενημέρωση</string>
      <string name="second_space_finger_printf_desc">Προσθήκη δακτ.αποτυπώματος ειδικά για χρήση στο Δεύτερο προφίλ</string>
      <string name="second_space_finger_printf_title">Δακτ.αποτύπωμα Δεύτερου προφίλ</string>
-     <string name="secondspace_homepage">"Set a designated screen lock for Second space.
-Separate and secure your data."</string>
+     <string name="secondspace_homepage">Ορίστε ένα ξεχωριστό κλείδωμα\nοθόνης για το δεύτερο χώρο.\nΔιαχωρίστε και ασφαλίστε τα δεδομένα σας.</string>
      <string name="select_existed_fingerprint">Επιλέξτε δακτ.αποτύπωμα</string>
      <string name="serNameSummary">Δεύτερο προφίλ</string>
      <string name="setSecondSpacePassword">Ορισμός κωδικού Δεύτερου προφίλ</string>

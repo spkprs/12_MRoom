@@ -79,7 +79,7 @@
      <string name="name_wechat_scan">Σάρωση κωδικού Wechat</string>
      <string name="nfc_all_mipay_card_not_in_use">Η Mi Πληρωμή δεν είναι ενεργή</string>
      <string name="nfc_trans_card_not_in_use">Η κάρτα συγκοινωνιών δεν είναι ενεργή</string>
-     <string name="not_set">Not set</string>
+     <string name="not_set">Δεν ορίστηκε</string>
      <string name="not_working">%s (Δεν ανταποκρίνεται)</string>
      <string name="open">Ενεργοποίηση</string>
      <string name="open_panel">Ενεργοποίηση Βοηθού Αφής</string>

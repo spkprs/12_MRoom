@@ -296,7 +296,7 @@
      <string name="no_data">Δεν υπάρχουν δεδομένα</string>
      <string name="no_network_btn">Προσπαθήστε ξανά</string>
      <string name="no_vote_ratio">Κατά %1$s%%</string>
-     <string name="not_set">Not set</string>
+     <string name="not_set">Δεν ορίστηκε</string>
      <string name="open">Άνοιγμα τώρα</string>
      <string name="open_browser">Άνοιγμα στον φυλλομετρητή</string>
      <string name="open_now">Άνοιγμα</string>

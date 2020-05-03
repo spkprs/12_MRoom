@@ -391,7 +391,7 @@
   <string name="night">PM</string>
   <string name="noon">PM</string>
   <string name="not_now">Όχι τώρα</string>
-  <string name="not_set">Not set</string>
+  <string name="not_set">Δεν ορίστηκε</string>
   <string name="note_description_content">Η εφαρμογή Notes είναι ένα εξαιρετικό εργαλείο για την καταγραφή των ιδεών σας. Διαθέτει ενσωματωμένες υπενθυμίσεις και συγχρονίζει τα στοιχεία σας με το cloud, ώστε να μπορείτε να έχετε πρόσβαση σε αυτά οπουδήποτε, οποτεδήποτε. Βεβαιωθείτε ότι μπορείτε να το κάνετε χωρίς αυτές τις λειτουργίες προτού διαγράψετε την εφαρμογή.</string>
   <string name="note_description_title">Σχετικά με τις σημειώσεις</string>
   <string name="note_link_email">Αποστολή email</string>

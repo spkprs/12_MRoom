@@ -252,7 +252,7 @@
   <string name="no_apps">Δεν υπάρχουν εφαρμογές</string>
   <string name="no_new_perms">Αυτή η ενημερωμένη έκδοση δεν απαιτεί νέα δικαιώματα.</string>
   <string name="no_permissions">Δεν υπάρχουν δικαιώματα</string>
-  <string name="not_set">Not set</string>
+  <string name="not_set">Δεν ορίστηκε</string>
   <string name="ok">OK</string>
   <string name="old_sdk_deny_warning">Αυτή η εφαρμογή σχεδιάστηκε για μια παλαιότερη έκδοση του Android. Η άρνηση της άδειας μπορεί να την αναγκάσει να μην λειτουργήσει πλέον σύμφωνα με τις οδηγίες.</string>
   <string name="other_permissions">Άλλες λειτουργίες εφαρμογής</string>

@@ -71,6 +71,7 @@
   <string name="audio_changed">Νέος ήχος</string>
   <string name="audio_title">Ήχος</string>
   <string name="audio_track">Ήχος</string>
+  <string name="auto_open_pip_play">Ελαχιστοποίηση στο παρασκήνιο</string>
   <string name="back_to_top_txt">Επιστροφή στην αρχή</string>
   <string name="background_offline">Λήψη στο παρασκήνιο</string>
   <string name="barrage_content_empty">Δεν είναι δυνατή η αποστολή κενών σχολίων.</string>
@@ -872,6 +873,7 @@
   <string name="subtitle_title">Υπότιτλοι</string>
   <string name="subtitle_track">Υπότιτλοι</string>
   <string name="suffix_countdown">δευτ.</string>
+  <string name="suggest_open_auto_pip_play">Αυτόματη εναλλαγή στην Εικόνα σε Εικόνα</string>
   <string name="summary_guide">Πατήστε εδώ\nγια να δείτε την περιγραφή</string>
   <string name="sunday">Κυριακή</string>
   <string name="switch_ratio_pause">Η ταχύτητα αναπαραγωγής είναι ασταθής. Επαναφορά στην προεπιλεγμένη ταχύτητα…</string>

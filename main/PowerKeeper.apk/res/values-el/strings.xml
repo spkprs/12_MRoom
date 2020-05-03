@@ -102,7 +102,7 @@
      <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">fail</string>
      <string name="nonui_mode_config_description">Δεν ενεργοποιεί την οθόνη για ειδοποιήσεις, απενεργοποιεί το LED, αισθητήρα δακτυλικών αποτυπωμάτων και τα χειριστήρια αφής για εξοικονόμιση μπαταρίας όταν το MIUI εντοπίσει ότι δεν χρησιμοποιείτε τη συσκευή σας.</string>
      <string name="nonui_mode_config_title">Μη Διαδραστική λειτουργία</string>
-     <string name="not_set">Not set</string>
+     <string name="not_set">Δεν ορίστηκε</string>
      <string name="notification_exit_extreme_mode_text">Η Μπαταρία είναι πάνω απο %s φορτισμένη</string>
      <string name="notification_exit_extreme_mode_title">Απενεργοποίηση Μέγιστης εξοικονόμησης</string>
      <string name="notification_open_extreme_mode_text">Ενεργοποίηση Μέγιστης εξοικονόμησης</string>

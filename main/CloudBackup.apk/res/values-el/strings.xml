@@ -184,7 +184,7 @@
      <string name="network_error">Συνδεθείτε στο δίκτυο</string>
      <string name="no_account">Δεν έχετε συνδεθεί στο Λογαριασμό Mi.</string>
      <string name="no_backup">Δεν υπάρχουν αντίγραφα στο Xiaomi Cloud.</string>
-     <string name="not_set">Not set</string>
+     <string name="not_set">Δεν ορίστηκε</string>
      <string name="notification_channel_remind">Υπενθύμιση</string>
      <string name="notification_channel_service">Υπηρεσία</string>
      <string name="open_backup_switch">Εναλλαγή διακόπτη αντιγράφων</string>

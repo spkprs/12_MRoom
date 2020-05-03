@@ -360,7 +360,7 @@
      <string name="mr_user_route_category_name">Devices</string>
      <string name="no_application">Καμία</string>
      <string name="no_debuggable_apps">Δεν διατίθενται εφαρμογές με δυνατότητα εντοπισμού σφαλμάτων</string>
-     <string name="not_set">Not set</string>
+     <string name="not_set">Δεν ορίστηκε</string>
      <string name="notice_header" />
      <string name="oem_preferred_feedback_reporter" />
      <string name="oem_unlock_enable">Ξεκλείδωμα OEM</string>

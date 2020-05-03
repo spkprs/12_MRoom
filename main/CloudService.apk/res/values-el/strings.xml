@@ -407,7 +407,7 @@
   <string name="mx_sub_dspt_provision_with_voip">Κλήσεις μέσω διαδικτύου</string>
   <string name="mx_voip_dspt">Mi VoIP</string>
   <string name="no_sim">Δεν ανιχνεύθηκε κάρτα SIM</string>
-  <string name="not_set">Not set</string>
+  <string name="not_set">Δεν ορίστηκε</string>
   <string name="pay_info_dialog_confirm_to_pay">Πληρωμή %s</string>
   <string name="pay_info_dialog_mibi_balance_prefix">Χρήση υπό[ολοίπων Πιστώσεις Mi: %s</string>
   <string name="pay_info_dialog_title">Επιλέξτε τρόπο πληρωμής</string>

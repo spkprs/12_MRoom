@@ -84,7 +84,7 @@
      <string name="no_recorder_info">Δεν υπάρχουν βίντεο εδώ</string>
      <string name="no_recorder_info2">Αγγίξτε το εικονίδιο για εκκίνηση Εγγραφής οθόνης</string>
      <string name="no_sound">Σίγαση</string>
-     <string name="not_set">Not set</string>
+     <string name="not_set">Δεν ορίστηκε</string>
      <string name="operation_delete">Διαγραφή</string>
      <string name="operation_send">Αποστολή</string>
      <string name="permission_intro_microphone">Για την εγγραφή ήχου όταν η πηγή ήχου έχει οριστεί σε μικρόφωνο</string>

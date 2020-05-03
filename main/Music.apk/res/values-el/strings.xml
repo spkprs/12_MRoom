@@ -826,7 +826,7 @@
      <string name="not_login">Δεν έγινε σύνδεση</string>
      <string name="not_now">Not now</string>
      <string name="not_selected">Επιλογή τραγουδιού</string>
-     <string name="not_set">Not set</string>
+     <string name="not_set">Δεν ορίστηκε</string>
      <string name="not_support_documentui">"Το DocumentUI δεν υποστηρίζεται σε αυτή τη συσκευή"</string>
      <string name="notif_title_file_size">%1$d συνολικά</string>
      <string name="notif_title_single_downloading">Λήψη %1$s</string>

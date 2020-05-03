@@ -1029,7 +1029,7 @@
   <string name="noon">PM</string>
   <string name="noRecentContacts">Δεν υπάρχουν πρόσφατες επαφές</string>
   <string name="not_applied">Δεν εφαρμόστηκε</string>
-  <string name="not_set">Not set</string>
+  <string name="not_set">Δεν ορίστηκε</string>
   <string name="notification_action_voicemail_play">Αναπαραγωγή</string>
   <string name="notification_new_voicemail_ticker">Νέο φωνητικό μήνυμα από %1$s</string>
   <string name="notification_voicemail_callers_list">%1$s, %2$s</string>

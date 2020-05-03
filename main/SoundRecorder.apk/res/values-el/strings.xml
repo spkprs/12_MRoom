@@ -141,7 +141,7 @@
      <string name="network_unavailable_tip">Συνδεθείτε στο δίκτυο.</string>
      <string name="new_record_name">Νέα εγγραφή</string>
      <string name="no_file">Κενό</string>
-     <string name="not_set">Not set</string>
+     <string name="not_set">Δεν ορίστηκε</string>
      <string name="notification_message_all_paused">Αναμονή για σύνδεση Wi‑Fi.</string>
      <string name="notification_playback">Αναπαραγωγή…</string>
      <string name="notification_recording">Ηχογράφηση…</string>
