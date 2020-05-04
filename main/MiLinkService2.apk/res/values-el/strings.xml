@@ -138,6 +138,8 @@
      <string name="san_wait_msg_2">Η αναζήτηση συσκευών μπορεί να διαρκέσει κάποιο χρονικό διάστημα…</string>
      <string name="san_wait_msg_3">"Οι εξωτερικές συσκευές είναι πιο εύκολο να βρεθούν όταν είναι συνδεδεμένες στο ίδιο δίκτυο με το τηλέφωνό σας"</string>
      <string name="san_wait_msg_4">"Δείτε την \"Βοήθεια\" εάν δεν μπορείτε να βρείτε συσκευές"</string>
-     <string name="sdk_name">lebo</string>
-    <string name="actionbar_button_up_description">Πίσω</string>
+     <string name="actionbar_button_up_description">Πίσω</string>
+     <string name="small_window_not_supported">"Αδύνατη η ελαχ/ποίηση της εφαρμ. κατά τη μετάδοση"</string>
+     <string name="toast_nfc_dont_move">"Μην απομακρύνετε το τηλέφωνό σας"</string>
+     <string name="toast_turn_off_hotspot_before_cast">Απενεργοποιήστε το portable hotspot πριν από τη μετάδοση</string>
 </resources>

@@ -12,6 +12,10 @@
     <item quantity="other">Προβολή όλων των %d σχολίων</item>
     <item quantity="one">Προβολή %d σχόλιο</item>
   </plurals>
+  <plurals name="day_ago">
+    <item quantity="other">%1$d μέρες πριν</item>
+    <item quantity="one">%1$d ημέρα πριν</item>
+  </plurals>
   <plurals name="downloading_task_num">
     <item quantity="other">%d αρχεία</item>
     <item quantity="one">%d αρχείο</item>
@@ -32,6 +36,22 @@
     <item quantity="other">%1$s βίντεο</item>
     <item quantity="one">%1$s βίντεο</item>
   </plurals>
+  <plurals name="history_select_counts">
+    <item quantity="other">Επιλεγμένο %1$d στοιχεία</item>
+    <item quantity="one">Επιλεγμένο %1$d στοιχείο</item>
+  </plurals>
+  <plurals name="history_total">
+    <item quantity="other">%1$d επεισόδια</item>
+    <item quantity="one">%1$d επεισόδιο</item>
+  </plurals>
+  <plurals name="history_total_period">
+    <item quantity="other">%1$d επεισόδια</item>
+    <item quantity="one">%1$d επεισόδιο</item>
+  </plurals>
+  <plurals name="hour_ago">
+    <item quantity="other">%1$d ώρες πριν</item>
+    <item quantity="one">%1$d ώρα</item>
+  </plurals>
   <plurals name="hours_before">
     <item quantity="other">%d ώρες πριν</item>
     <item quantity="one">%d ώρα</item>
@@ -39,6 +59,14 @@
   <plurals name="minites_before">
     <item quantity="other">%d λεπτά πριν</item>
     <item quantity="one">%d λεπτά πριν</item>
+  </plurals>
+  <plurals name="minute_ago">
+    <item quantity="other">%1$d λεπτά πριν</item>
+    <item quantity="one">%1$d λεπτά πριν</item>
+  </plurals>
+  <plurals name="month_ago">
+    <item quantity="other">%1$d μήνες πριν</item>
+    <item quantity="one">%1$d μήνα</item>
   </plurals>
   <plurals name="notification_sub_title">
     <item quantity="other">Λήψη %d αρχείων με επιτυχία</item>
@@ -118,7 +146,7 @@
   </plurals>
   <plurals name="video_pre_play_tip">
     <item quantity="other">%1$d-λεπτά προεπισκοπήσεων είναι διαθέσιμα. Για να παρακολουθήσετε τα πλήρες βίντεο,&lt;Data>&lt;font color=\"#ffa201\">Αγόρασέ τα τώρα&lt;/font>&lt;/Data>.</item>
-    <item quantity="one">%1$d-λεπτά προεπισκόπησης είναι διαθέσιμη. Για να παρακολουθήσετε το πλήρες βίντεο,&lt;Data>&lt;font color=\"#ffa201\">Αγόρασέ το τώρα&lt;/font>&lt;/Data>.</item>
+    <item quantity="one">%1$d-λεπτά προεπισκόπησης είναι διαθέσιμη. Για να παρακολουθήσετε το πλήρες βίντεο,&lt;Data>&lt;font color=\"#ffa201\">Αγόρασέ τα τώρα&lt;/font>&lt;/Data>.</item>
   </plurals>
   <plurals name="vp_ad_countdown_play">
     <item quantity="other">Η διαφήμιση θα ξεκινήσει %1$d δευτ</item>
@@ -127,5 +155,9 @@
   <plurals name="vp_video_tencent_loading">
     <item quantity="other">Ξεκινώντας να παίζετε %2$s σε %1$d δευτ</item>
     <item quantity="one">Ξεκινώντας να παίζετε %2$s σε %1$d δεύτ</item>
+  </plurals>
+  <plurals name="year_ago">
+    <item quantity="other">%1$d χρόνια πριν</item>
+    <item quantity="one">%1$d χρόνο πριν</item>
   </plurals>
 </resources>

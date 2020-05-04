@@ -1151,7 +1151,6 @@
   <string name="file_cannot_screen_throw">Αδύνατη η μετάδοση αυτού του στοιχείου.</string>
   <string name="file_sending">Μεταφορά αρχείων…</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
-  <string name="filter_bg_color_component">1.0</string>
   <string name="filter_bi_bw">Μ&amp;Α</string>
   <string name="filter_bi_dusk">Σούρουπο</string>
   <string name="filter_bi_lilt">Ζωηρό</string>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="del_menbers_dlg_des">
+        <item quantity="other">Διαγραφή %1$d μελών από αυτήν τη συνομιλία?</item>
+        <item quantity="one">Διαγραφή %1$d μέλους από αυτήν τη συνομιλία?</item>
+    </plurals>
+</resources>

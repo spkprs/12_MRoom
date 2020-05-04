@@ -1855,6 +1855,14 @@
   <string name="usb_storage_stop_notification_title">Απενεργοποίηση αποθ.χώρου USB.</string>
   <string name="usb_storage_stop_title">Ο αποθ.χώρος USB είναι σε χρήση</string>
   <string name="usb_storage_title">Το USB συνδέθηκε</string>
+  <string name="usb_port_overheated_dialog_content">Η θύρα φόρτισης είναι υπερθερμαινόμενη. Αποσυνδέστε το φορτιστή από τη συσκευή σας και ελέγξτε αν η θύρα φόρτισης είναι καθαρή. Εάν έχετε ερωτήσεις, επικοινωνήστε με την υποστήριξη πελατών.</string>
+  <string name="usb_port_overheated_notification_content">Αποσυνδέστε το φορτιστή από τη συσκευή σας και ελέγξτε αν η θύρα φόρτισης είναι καθαρή.</string>
+  <string name="usb_port_overheated_title">Η θύρα φόρτισης είναι υπερθερμαινόμενη. Αποσυνδέστε το φορτιστή.</string>
+  <string name="usb_port_short_circuit_dialog_content">Η φόρτιση της συσκευής σας έχει περιοριστεί. Αποσυνδέστε το φορτιστή και καθαρίστε τη θύρα φόρτισης αφαιρώντας όλα τα υγρά για να αποκαταστήσετε τη δυνατότητα φόρτισης.</string>
+  <string name="usb_port_short_circuit_notification_content">Αποσυνδέστε το φορτιστή και καθαρίστε τη θύρα φόρτισης αφαιρώντας όλα τα υγρά.</string>
+  <string name="usb_port_short_circuit_recovered_content">Μπορείτε να το χρησιμοποιήσετε για φόρτιση ή σύνδεση σε άλλες συσκευές.</string>
+  <string name="usb_port_short_circuit_recovered_title">Η θύρα φόρτισης λειτουργεί κανονικά τώρα</string>
+  <string name="usb_port_short_circuit_title">"Υπάρχει υγρασία στη θύρα φόρτισης."</string>
   <string name="use_mtp_button_title">Τοποθέτηση ως συσκευή αναπαραγωγής πολυμέσων (MTP)</string>
   <string name="use_ptp_button_title">Τοποθέτηση ως φωτογραφική μηχανή (PTP)</string>
   <string name="use_system_language_to_select_input_method_subtypes">Χρήση γλώσσας του συστήματος</string>
