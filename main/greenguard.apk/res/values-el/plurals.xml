@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="available_time_left">
+    <item quantity="other">%s λεπ απομένουν</item>
+    <item quantity="one">%s λεπ απομένει</item>
+  </plurals>
+  <plurals name="click_view_more">
+    <item quantity="other">Δείτε %s περισσότερες χρονοθυρίδες</item>
+    <item quantity="one">Δείτε %s περισσότερο χρονοθυρίδα</item>
+  </plurals>
+  <plurals name="last_time">
+    <item quantity="other">%s λεπ απομένουν</item>
+    <item quantity="one">%s λεπ απομένει</item>
+  </plurals>
+  <plurals name="min">
+    <item quantity="other">λεπτά</item>
+    <item quantity="one">λεπτό</item>
+  </plurals>
   <plurals name="notification_today_steps_start">
     <item quantity="other">Περπάτησες %d βήματα σήμερα.</item>
     <item quantity="one">Περπάτησες %d βήμα σήμερα.</item>
+  </plurals>
+  <plurals name="time_left">
+    <item quantity="other">%s λεπ απομένει</item>
+    <item quantity="one">%s λεπ απομένει</item>
+  </plurals>
+  <plurals name="time_restrict_notice">
+    <item quantity="other">Θα φτάσετε το χρονικό όριο της οθόνης σας %s λεπτά. Επικοινωνήστε με τους γονείς σας αν θέλετε να πάρετε περισσότερο χρόνο.</item>
+    <item quantity="one">Θα φτάσετε το χρονικό όριο της οθόνης σας %s λεπτό. Επικοινωνήστε με τους γονείς σας αν θέλετε να πάρετε περισσότερο χρόνο.</item>
   </plurals>
 </resources>
