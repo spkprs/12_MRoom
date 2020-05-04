@@ -1,59 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
-    <style name="ai_scene_drawables" />
-    <style name="ai_scene_names" />
-    <style name="ai_scene_shadow_drawables" />
-    <style name="beauty_level_list" />
-    <style name="begonia_boost_params" />
-    <style name="begoniain_boost_params" />
-    <style name="dialog_camera_long_press_viewfinder_options" />
-    <style name="live_filter_directory_name" />
-    <style name="live_filter_icon" />
-    <style name="live_filter_name" />
-    <style name="pref_camera_antibanding_entries" />
-    <style name="pref_camera_antibanding_entryvalues" />
-    <style name="pref_camera_autoexposure_entries" />
-    <style name="pref_camera_autoexposure_entryvalues" />
-    <style name="pref_camera_contrast_entries" />
-    <style name="pref_camera_contrast_entryvalues" />
-    <style name="pref_camera_iso_entryvalues" />
-    <style name="pref_camera_iso_entryvalues_new" />
-    <style name="pref_camera_jpegquality_entries" />
-    <style name="pref_camera_jpegquality_entryvalues" />
-    <style name="pref_camera_long_press_shutter_feature_entries" />
-    <style name="pref_camera_long_press_shutter_feature_entryvalues" />
-    <style name="pref_camera_long_press_viewfinder_entries" />
-    <style name="pref_camera_long_press_viewfinder_entryvalues" />
-    <style name="pref_camera_saturation_entries" />
-    <style name="pref_camera_saturation_entryvalues" />
-    <style name="pref_camera_sharpness_entries" />
-    <style name="pref_camera_sharpness_entryvalues" />
-    <style name="pref_camera_snap_entries" />
-    <style name="pref_camera_snap_entryvalues" />
-    <style name="pref_camera_snap_labels" />
-    <style name="pref_camera_volumekey_function_entries" />
-    <style name="pref_camera_volumekey_function_entryvalues" />
-    <style name="pref_front_mirror_entries" />
-    <style name="pref_front_mirror_entryvalues" />
-    <style name="pref_front_mirror_labels" />
-    <style name="pref_live_volumekey_function_entries" />
-    <style name="pref_live_volumekey_function_entryvalues" />
-    <style name="pref_pro_video_volumekey_function_entries" />
-    <style name="pref_pro_video_volumekey_function_entryvalues" />
-    <style name="pref_video_encoder_entries" />
-    <style name="pref_video_encoder_entryvalues" />
-    <style name="pref_video_focusmode_entries" />
-    <style name="pref_video_focusmode_entryvalues" />
-    <style name="pref_video_hfr_entries" />
-    <style name="pref_video_hfr_entryvalues" />
-    <style name="pref_video_new_slow_motion_entries" />
-    <style name="pref_video_new_slow_motion_entryvalues" />
-    <style name="pref_video_quality_default_values" />
-    <style name="pref_video_quality_entries" />
-    <style name="pref_video_quality_entryvalues" />
-    <style name="pref_video_time_lapse_frame_interval_entries" />
-    <style name="pref_video_time_lapse_frame_interval_entryvalues" />
-    <style name="pref_video_volumekey_function_entries" />
-    <style name="pref_video_volumekey_function_entryvalues" />
+     <string-array name="ai_scene_names">
+        <item>Δεν υπάρχει</item>
+        <item>Έγγραφα</item>
+        <item>Λουλούδια</item>
+        <item>Φαγητό</item>
+        <item>Ppt</item>
+        <item>Ουρανός</item>
+        <item>Ανατολή και ηλιοβασίλεμα</item>
+        <item>Γάτες</item>
+        <item>Σκυλιά</item>
+        <item>Πράσινα φυτά</item>
+        <item>Σκηνή νύχτας</item>
+        <item>Σκηνή χιόνι</item>
+        <item>Παραθαλάσσιο</item>
+        <item>Φθινόπωρο</item>
+        <item>Φως κεριών</item>
+        <item>Αυτοκίνητο</item>
+        <item>Λιβάδι</item>
+        <item>Φύλλο σφενδάμου</item>
+        <item>Πολλά κρέατα</item>
+        <item>Αρχιτεκτονική</item>
+        <item>Πόλη</item>
+        <item>Συννεφιά</item>
+        <item>Βροχερός</item>
+        <item>Οπίσθιος φωτισμός</item>
+        <item>Σιλουέτα</item>
+        <item>Πορτρέτο</item>
+        <item>Κοσμήματα</item>
+        <item>Άγαλμα του Βούδα</item>
+        <item>Βοοειδή</item>
+        <item>Μπαχαρικό</item>
+        <item>Μοτοσυκλέτα</item>
+		<item>Ναός</item>
+        <item>Παραλία</item>
+        <item>Υποβρύχια</item>
+        <item>Πύργος</item>
+        <item>Φεγγάρι</item>
+        <item>Group_photo</item>
+        <item>Αγαλμα</item>
+     </string-array>
 </resources>
