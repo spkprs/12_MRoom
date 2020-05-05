@@ -299,7 +299,7 @@
   <string name="privacy_relative">Απόρρητο</string>
   <string name="privacyPerms">Απόρρητο</string>
   <string name="reboot_time">Προετοιμασία για επανεκκίνηση ... (%1$s)</string>
-  <string name="replace_app_des_text">Θέλετε να αντικαταστήσετε την εγκατάσταση αυτής της εφαρμογής;</string>
+  <string name="replace_app_des_text">Αντικατάσταση της εφαρμογής με αυτήν την έκδοση;</string>
   <string name="review_button_cancel">Ακύρωση</string>
   <string name="review_button_continue">Συνεχίστε</string>
   <string name="risk_warning_bottom_button">Εγκατάσταση από GetApps</string>
@@ -309,7 +309,7 @@
   <string name="safe_guard_support">Τεχνική υποστήριξη από την %1$s</string>
   <string name="safe_relative">Ασφάλεια</string>
   <string name="screen_overlay_button">Ανοίξτε τις ρυθμίσεις</string>
-  <string name="screen_overlay_message">Για να αλλάξετε αυτήν τη ρύθμιση δικαιωμάτων, πρέπει πρώτα να απενεργοποιήσετε την επικάλυψη οθόνης από τις Ρυθμίσεις&gt; Εφαρμογές</string>
+  <string name="screen_overlay_message">Για να αλλάξετε αυτήν τη ρύθμιση δικαιωμάτων, πρέπει πρώτα να απενεργοποιήσετε την επικάλυψη οθόνης από τις Ρυθμίσεις > Εφαρμογές</string>
   <string name="screen_overlay_title">Έχει εντοπιστεί επικάλυψη οθόνης</string>
   <string name="search_menu_title">Search</string>
   <string name="security_settings_desc">Να επιτρέπεται σε αυτήν την εφαρμογή να:</string>

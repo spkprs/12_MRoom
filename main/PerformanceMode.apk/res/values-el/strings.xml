@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Λειτουργία απόδοσης</string>
+    <string name="help_resource">Θα παρέχει καλύτερες επιδόσεις στα περισσότερα σενάρια, αλλά θα υπάρχουν και λίγο υψηλότερες καταναλώσεις ενέργειας.</string>
+    <string name="turn_off_fail">Αποτυχία απενεργοποίησης λειτουργίας απόδοσης!</string>
+    <string name="turn_off_invalid_handle">Μη έγκυρη παράμετρος χειρισμού!</string>
+    <string name="turn_off_now">Απενεργοποίηση τώρα</string>
+    <string name="turn_on_fail">Αποτυχία ενεργοποίησης λειτουργίας απόδοσης!</string>
+    <string name="turn_on_now">Ενεργοποίηση τώρα</string>
+</resources>

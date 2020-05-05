@@ -3433,8 +3433,8 @@
   <string name="vb_advanced_settings_after_open">Μετά</string>
   <string name="vb_advanced_settings_before_open">Πριν</string>
   <string name="vb_advanced_settings_pic_stronger_desc">Κάντε τα κινούμενα αντικείμενα πιο ευκρινή βελτιώνοντας τις κινούμενες εικόνες. Αυτό το χαρακτηριστικό απαιτεί μεγαλύτερη κατανάλωση ενέργειας.</string>
-  <string name="vb_quick_func_hangup_listening">Αναπαραγωγή ήχου βίντεο χωρίς οθόνη</string>
-  <string name="vb_quick_func_screen_capture">Στιγμιότυπο οθόνης</string>
+  <string name="vb_quick_func_hangup_listening">Ήχ. σε ανεν. οθόνη</string>
+  <string name="vb_quick_func_screen_capture">Στιγμιότυπο</string>
   <string name="vb_quick_func_screen_record">Εγγραφή</string>
   <string name="vb_quick_func_screening">Μετάδοση</string>
   <string name="vb_settings">Ρυθμίσεις</string>
