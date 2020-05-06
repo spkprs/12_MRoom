@@ -106,8 +106,8 @@
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_has_new_version">Διαθέσιμη ενημέρωση</string>
   <string name="classification_more_understand_you">Επιλέξτε την αγαπημένη σας κατηγορία</string>
-  <string name="clear_text_end_icon_content_description">Απαλοιφή κειμένου</string>
-  <string name="clearable_edittext_clear_description">Απαλοιφή</string>
+  <string name="clear_text_end_icon_content_description">Εκκαθ. κειμένου</string>
+  <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
   <string name="close">Κλείσιμο</string>
   <string name="common_applying">Εφαρμογή…</string>
   <string name="common_downloading">Λήψη…</string>
@@ -525,7 +525,7 @@
   <string name="resource_comment_edit_text_second_hint">Τα σχόλιά σας είναι εξαιρετικά σημαντικά για εμάς.</string>
   <string name="resource_comment_edit_title">Επεξεργασία σχολίου: %1$s</string>
   <string name="resource_comment_entry_tips">Σχόλια (%1$s)</string>
-  <string name="resource_comment_expand_full_text">Αναπτύξτε το πλήρες κείμενο▼</string>
+  <string name="resource_comment_expand_full_text">Ανάπτυξη πλήρες κείμενο▼</string>
   <string name="resource_comment_footer">Τα κενά σχόλια δεν εμφανίζονται.</string>
   <string name="resource_comment_good_comments">Θετικά</string>
   <string name="resource_comment_invalid">Πατήστε τα αστέρια για να βαθμολογήσετε το θέμα</string>

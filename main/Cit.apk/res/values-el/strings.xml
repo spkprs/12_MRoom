@@ -1083,8 +1083,8 @@
   <string name="radio_info_cid">CID</string>
   <string name="radio_info_current_network_label">Τρέχον δίκτυο:</string>
   <string name="radio_info_data_connected">Συνδεδεμένος</string>
-  <string name="radio_info_data_connecting">Συνδετικός</string>
-  <string name="radio_info_data_disconnected">Ασύνδετος</string>
+  <string name="radio_info_data_connecting">Συνδέεται</string>
+  <string name="radio_info_data_disconnected">Αποσυνδέθηκε</string>
   <string name="radio_info_data_network_type_label">Τύπος δικτύου δεδομένων:</string>
   <string name="radio_info_data_suspended">Ανασταλεί</string>
   <string name="radio_info_display_asu">asu</string>

@@ -10,7 +10,7 @@
   <string name="deleted_key">%1$s διαγράφηκε</string>
   <string name="done_label">Εγινε</string>
   <string name="every_day">Κάθε μέρα</string>
-  <string name="expand_switch">Αναπτύξτε το διακόπτη</string>
+  <string name="expand_switch">Ανάπτυξη διακόπτη</string>
   <string name="hour">1 ώρα</string>
   <string name="hour_picker_description">Ώρες κυκλικό ρυθμιστικό</string>
   <string name="hours">%s ώρες</string>

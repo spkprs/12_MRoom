@@ -26,7 +26,8 @@
      <string name="antispam_network_remind_summary">Λήψη ενημερώσεων με χρήση δεδομένων κινητής?</string>
      <string name="antispam_network_remind_title">Προειδοποίηση χρήσης δεδομένων</string>
      <string name="antispam_pull_newest">Ενημερώθηκε σε έκδοση %d επιτυχώς</string>
-     <string name="app_label">Τηλ. Κατάλογος</string>
+     <string name="app_label">Yellow pages</string>
+     <string name="app_name">Προτίμηση</string>
      <string name="app_recommendation_install">Εγκατάσταση</string>
      <string name="average_price">Μέσος όρος %d RMB</string>
      <string name="back">Επιστροφή</string>

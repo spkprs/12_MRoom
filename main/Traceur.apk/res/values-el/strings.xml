@@ -327,7 +327,7 @@
      <string name="managed_user_title">Όλες οι εφαρμ. εργασίας</string>
      <string name="max_long_trace_duration">Maximum long trace duration</string>
      <string name="max_long_trace_size">Maximum long trace size</string>
-     <string name="media_category">Μέσα</string>
+     <string name="media_category">Πολυμέσα</string>
      <string name="media_transfer_this_device_name">This device</string>
      <string name="mobile_data_always_on">Πάντα ενεργά δεδομένα κινητής τηλεφωνίας</string>
      <string name="mobile_data_always_on_summary">Τα δεδομένα κινητής τηλεφωνίας να διατηρούνται πάντα ενεργά, ακόμα και όταν είναι ενεργό το Wi-Fi (για γρήγορη εναλλαγή δικτύου).</string>

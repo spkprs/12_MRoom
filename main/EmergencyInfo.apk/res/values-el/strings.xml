@@ -256,7 +256,7 @@
      <string name="local_backup_password_toast_success">Νέος κωδικός πρόσβασης αντιγράφων ασφαλείας</string>
      <string name="local_backup_password_toast_validation_failure">Αποτυχία ορισμού κωδικού αντιγράφων ασφαλείας</string>
      <string name="managed_user_title">Όλες οι εφαρμογές εργασίας</string>
-     <string name="media_category">Media</string>
+     <string name="media_category">Πολυμέσα</string>
      <string name="medical_conditions">Ιατρικές σημειώσεις</string>
      <string name="medical_conditions_hint">Για παράδειγμα, το άσθμα</string>
      <string name="medications">Φάρμακα</string>

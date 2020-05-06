@@ -302,7 +302,7 @@
   <string name="local_backup_password_toast_success">Νέο σύνολο εφεδρικών κωδικών πρόσβασης</string>
   <string name="local_backup_password_toast_validation_failure">Αποτυχία ρύθμισης εφεδρικού κωδικού πρόσβασης</string>
   <string name="managed_user_title">Όλες οι εφαρμογές εργασίας</string>
-  <string name="media_category">Media</string>
+  <string name="media_category">Πολυμέσα</string>
   <string name="media_transfer_this_device_name">Αυτή η συσκευή</string>
   <string name="mi_band_vibrate_alarm">Δόνηση κατά την αφύπνιση</string>
   <string name="mi_band_vibrate_incall">Δόνηση όταν κουδουνίζει</string>
@@ -347,8 +347,8 @@
   <string name="mock_location_app_set">Εικονική εφαρμογή τοποθεσίας: %1$s</string>
   <string name="mr_button_content_description">Cast button</string>
   <string name="mr_cast_button_connected">Κουμπί μετάδοσης. Συνδεδεμένος</string>
-  <string name="mr_cast_button_connecting">Κουμπί μετάδοσης. Συνδετικός</string>
-  <string name="mr_cast_button_disconnected">Κουμπί μετάδοσης. Ασύνδετος</string>
+  <string name="mr_cast_button_connecting">Κουμπί μετάδοσης. Συνδέεται</string>
+  <string name="mr_cast_button_disconnected">Κουμπί μετάδοσης. Αποσυνδέθηκε</string>
   <string name="mr_cast_dialog_title_view_placeholder">Δεν υπάρχουν διαθέσιμες πληροφορίες</string>
   <string name="mr_chooser_searching">Εύρεση συσκευών</string>
   <string name="mr_chooser_title">Μετάδοση σε</string>
@@ -357,7 +357,7 @@
   <string name="mr_controller_close_description">Κλείσετε</string>
   <string name="mr_controller_collapse_group">Collapse</string>
   <string name="mr_controller_disconnect">Διαχωρίζω</string>
-  <string name="mr_controller_expand_group">Αναπτύξτε</string>
+  <string name="mr_controller_expand_group">Ανάπτυξη</string>
   <string name="mr_controller_no_info_available">Δεν υπάρχουν διαθέσιμες πληροφορίες</string>
   <string name="mr_controller_no_media_selected">Δεν έχει επιλεγεί μέσο αποθήκευσης</string>
   <string name="mr_controller_pause">Παύση</string>
@@ -576,8 +576,8 @@
   <string name="wifi_disabled_generic">Άτομα με ειδικές ανάγκες</string>
   <string name="wifi_disabled_network_failure">IP Configuration Failure</string>
   <string name="wifi_disabled_password_failure">Πρόβλημα πιστοποίησης</string>
-  <string name="wifi_disabled_wifi_failure">Αποτυχία σύνδεσης WLAN</string>
-  <string name="wifi_disconnected">Ασύνδετος</string>
+  <string name="wifi_disabled_wifi_failure">Αποτυχία σύνδεσης WiFi</string>
+  <string name="wifi_disconnected">Αποσυνδέθηκε</string>
   <string name="wifi_display_certification">Πιστοποίηση ασύρματης οθόνης</string>
   <string name="wifi_display_certification_summary">Εμφάνιση επιλογών για πιστοποίηση ασύρματης οθόνης</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>

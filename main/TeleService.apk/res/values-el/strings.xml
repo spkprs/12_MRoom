@@ -1059,7 +1059,7 @@
   <string name="manageConferenceLabel">Διαχείριση κλήσεων συνδιάσκεψης</string>
   <string name="managed_user_title">Όλες οι εφαρμογές εργασίας</string>
   <string name="manual_mode_disallowed_summary">Μη διαθέσιμο κατά τη σύνδεση σε %1$s</string>
-  <string name="media_category">Media</string>
+  <string name="media_category">Πολυμέσα</string>
   <string name="media_transfer_this_device_name">Αυτή η συσκευή</string>
   <string name="menu_add">Προσθήκη επαφής</string>
   <string name="menu_delete">Διαγραφή επαφής</string>
@@ -1144,8 +1144,8 @@
   <string name="modem_setting_text_title">έλεγχος ρρυθμίσεων ιδιοτήτων μόντεμ</string>
   <string name="mr_button_content_description">Κουμπί μετάδοσης</string>
   <string name="mr_cast_button_connected">Κουμπί μετάδοσης. Συνδεδεμένος</string>
-  <string name="mr_cast_button_connecting">Κουμπί μετάδοσης. Συνδετικός</string>
-  <string name="mr_cast_button_disconnected">Κουμπί μετάδοσης. Ασύνδετος</string>
+  <string name="mr_cast_button_connecting">Κουμπί μετάδοσης. Συνδέεται</string>
+  <string name="mr_cast_button_disconnected">Κουμπί μετάδοσης. Αποσυνδέθηκε</string>
   <string name="mr_cast_dialog_title_view_placeholder">Δεν υπάρχουν διαθέσιμες πληροφορίες</string>
   <string name="mr_chooser_searching">Εύρεση συσκευών</string>
   <string name="mr_chooser_title">Μετάδοση σε</string>
@@ -1154,7 +1154,7 @@
   <string name="mr_controller_close_description">Κλείσε</string>
   <string name="mr_controller_collapse_group">Κατάρρευση</string>
   <string name="mr_controller_disconnect">Αποσυνδέστε</string>
-  <string name="mr_controller_expand_group">Αναπτύξτε</string>
+  <string name="mr_controller_expand_group">Ανάπτυξη</string>
   <string name="mr_controller_no_info_available">Δεν υπάρχουν διαθέσιμες πληροφορίες</string>
   <string name="mr_controller_no_media_selected">Δεν έχει επιλεγεί μέσο αποθήκευσης</string>
   <string name="mr_controller_pause">Παύση</string>
@@ -1223,7 +1223,7 @@
   <string name="network_active">Ενεργά δίκτυα</string>
   <string name="network_available">Διαθέσιμα δίκτυα</string>
   <string name="network_connected">Συνδεδεμένος</string>
-  <string name="network_connecting">Συνδετικός...</string>
+  <string name="network_connecting">Συνδέεται...</string>
   <string name="network_could_not_connect">Δεν ήταν δυνατή η σύνδεση</string>
   <string name="network_disconnected">Αποσυνδεθεί</string>
   <string name="network_error_message">Μήνυμα σφάλματος</string>

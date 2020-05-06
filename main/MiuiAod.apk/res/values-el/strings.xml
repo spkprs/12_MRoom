@@ -53,7 +53,7 @@
   <string name="chip_text">Κείμενο chip</string>
   <string name="choose_aod_style">Επιλογή θέματος</string>
   <string name="chosen_picture">Επιλέξτε φόντο</string>
-  <string name="clear_text_end_icon_content_description">Καθαρισμός κειμένου</string>
+  <string name="clear_text_end_icon_content_description">Εκκαθ. κειμένου</string>
   <string name="clock_panel_icon">Επιφάνεια ρολογιού</string>
   <string name="color_change_with_time_description">Αυτόματη αλλαγή χρώματος κειμένου ανάλογα την ώρα</string>
   <string name="color_change_with_time_title">Αυτόματη αλλαγή χρώματος</string>

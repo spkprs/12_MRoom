@@ -56,7 +56,7 @@
   <string name="character_counter_overflowed_content_description">Όριο χαρακτήρων υπέρβαση %1$d του %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="chip_text">Chip text</string>
-  <string name="clear_text_end_icon_content_description">Clear text</string>
+  <string name="clear_text_end_icon_content_description">Εκκαθ. κειμένου</string>
   <string name="close_list">Κλείστε τη λίστα</string>
   <string name="collapse">Collapse</string>
   <string name="comp_profile_benefits_description">Χρησιμοποιώντας ένα προφίλ εργασίας, μπορείτε να διατηρήσετε τις εφαρμογές εργασίας σας σε ένα μέρος</string>
@@ -98,8 +98,8 @@
   <string name="error_hash_mismatch">Δεν ήταν δυνατή η χρήση της εφαρμογής διαχειριστή λόγω σφάλματος αθροίσματος ελέγχου. Για βοήθεια, επικοινωνήστε με τον διαχειριστή IT σας.</string>
   <string name="error_installation_failed">Δεν ήταν δυνατή η εγκατάσταση της εφαρμογής διαχειριστή</string>
   <string name="error_package_invalid">Δεν είναι δυνατή η χρήση της εφαρμογής διαχειριστή. Λείπουν στοιχεία ή έχουν καταστραφεί. Για βοήθεια, επικοινωνήστε με το διαχειριστή IT.</string>
-  <string name="error_wifi">Δεν ήταν δυνατή η σύνδεση στο WLAN</string>
-  <string name="expand">Αναπτύξτε</string>
+  <string name="error_wifi">Δεν ήταν δυνατή η σύνδεση στο WiFi</string>
+  <string name="expand">Ανάπτυξη</string>
   <string name="expand_button_title">Για προχωρημένους</string>
   <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
   <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
@@ -147,10 +147,6 @@
   <string name="opening_paragraph_delete_profile">Έχετε ήδη ένα προφίλ εργασίας. Διαχειρίζεται με την ακόλουθη εφαρμογή:</string>
   <string name="organization_admin">διοίκηση του οργανισμού</string>
   <string name="password_toggle_content_description">Δείξε τον κωδικό</string>
-  <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-  <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-  <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-  <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
   <string name="pick_launcher">OK</string>
   <string name="preference_copied">\"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
   <string name="profile_benefits_description">Χρησιμοποιώντας ένα προφίλ εργασίας, μπορείτε να διαχωρίσετε δεδομένα εργασίας από προσωπικά δεδομένα</string>

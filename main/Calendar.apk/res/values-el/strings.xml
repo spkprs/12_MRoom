@@ -221,8 +221,8 @@
   <string name="clear_and_bright">清明</string>
   <string name="clear_and_bright_tradition">清明</string>
   <string name="clear_net_mock_success">Net mock clear success</string>
-  <string name="clear_text_end_icon_content_description">Clear text</string>
-  <string name="clearable_edittext_clear_description">Clear</string>
+  <string name="clear_text_end_icon_content_description">Εκκαθ. κειμένου</string>
+  <string name="clearable_edittext_clear_description">Εκκαθάριση</string>
   <string name="close_alarm">Απενεργοποίηση</string>
   <string name="cold_dews">寒露</string>
   <string name="cold_dews_tradition">寒露</string>
