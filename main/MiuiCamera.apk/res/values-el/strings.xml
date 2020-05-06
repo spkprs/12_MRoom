@@ -28,8 +28,8 @@
   <string name="abc_shareactionprovider_share_with_application">Μοιραστείτε το με %s</string>
   <string name="abc_toolbar_collapse_description">Collapse</string>
   <string name="access_sd_fail">Αδύνατη η πρόσβαση στην κάρτα SD.</string>
-  <string name="accessibility_ai_scene_off">AI camera είναι Κλειστή</string>
-  <string name="accessibility_ai_scene_on">AI camera είναι Ανοιχτή</string>
+  <string name="accessibility_ai_scene_off">Ανενεργή AI κάμερα</string>
+  <string name="accessibility_ai_scene_on">Ενεργή AI κάμερα</string>
   <string name="accessibility_back_preview_status">Προεπισκόπηση Πίσω κάμερας</string>
   <string name="accessibility_beauty_panel_closed">Το μενού Αισθητικής είναι κρυφό</string>
   <string name="accessibility_beauty_panel_open">Το μενού Αισθητικής είναι εμφανές</string>
@@ -49,8 +49,8 @@
   <string name="accessibility_camera_record_stop">Παύση εγγραφής Βίντεο</string>
   <string name="accessibility_camera_shutter_finish">Ελήφθη με επιτυχία μια φωτογραφία</string>
   <string name="accessibility_camera_switch_capture_recording">Εναλλαγή μεταξύ λειτουργιών φωτογραφίας και βίντεο</string>
-  <string name="accessibility_camera_ultra_wide_bokeh_off">Υπέρ Ευρεία Θόλωση, Ανενεργή</string>
-  <string name="accessibility_camera_ultra_wide_bokeh_on">Υπέρ Ευρεία Θόλωση, Ενεργή</string>
+  <string name="accessibility_camera_ultra_wide_bokeh_off">Λειτ. πλήρους σώματος Ανενεργή</string>
+  <string name="accessibility_camera_ultra_wide_bokeh_on">Λειτ. πλήρους σώματος Ενεργή</string>
   <string name="accessibility_closed">Απενεργοποιημένο</string>
   <string name="accessibility_effect_mode_button">Διακόπτης Εφέ</string>
   <string name="accessibility_eis_normal">Ενεργό EIS</string>
@@ -391,9 +391,9 @@
   <string name="location_permission_not_ask_again">Να επιτρέπεται στην κάμερα η πρόσβαση στη θέση σας στις Ρυθμίσεις.</string>
   <string name="location_permission_not_ask_again_go_to_settings">Αποδοχή</string>
   <string name="log_format">LOG</string>
-  <string name="lpl_dialog_item_name_burst">Πατήστε παρατεταμένα για συνεχόμενες λήψεις</string>
-  <string name="lpl_dialog_item_name_record">Πατήστε παρατεταμένα για την εγγραφή βίντεο</string>
-  <string name="lpl_dialog_title">Επιλέξτε λειτουργία για το κλείστρο</string>
+  <string name="lpl_dialog_item_name_burst">Παρατεταμένα για συνεχείς λήψεις</string>
+  <string name="lpl_dialog_item_name_record">Παρατεταμένα για εγγραφή βίντεο</string>
+  <string name="lpl_dialog_title">Επιλέξτε λειτουργία κλείστρου</string>
   <string name="lying_direct_hint">Τρέχων προσανατολισμός</string>
   <string name="macro_mode">Λειτουργία Macro</string>
   <string name="macro_mode_tip">Η απόσταση μεταξύ φακού και αντικειμένου δεν πρέπει να υπερβαίνει τα 10εκ</string>
@@ -976,7 +976,7 @@
   <string name="snap_confirmed">Αντικατάσταση</string>
   <string name="spaceIsLow_content_external_storage_priority">Η κάρτα SD εξαντλείται</string>
   <string name="spaceIsLow_content_primary_storage_priority">Ο χώρος USB εξαντλείται</string>
-  <string name="speech_shutter_open_tip">Πείτε \"Hello\" ή \"what\" για να τραβήξετε μια φωτογραφία</string>
+  <string name="speech_shutter_open_tip">Πείτε \"Hello\" ή \"what\" για λήψη φωτογραφίας</string>
   <string name="speech_shutter_tip">Φωνητικό κλείστρο</string>
   <string name="start_capture">OK</string>
   <string name="sticker_tab1">Χαριτωμένο</string>
@@ -1012,8 +1012,8 @@
   <string name="ultra_pixel_portrait_hint">Πορτρέτο χαμηλού φωτισμού</string>
   <string name="ultra_pixel_zoom_no_support_tip">Το Ζούμ δεν λειτουργεί σε %s Ultra HD</string>
   <string name="ultra_tele_use_hint_text_body">Χρήση zoom 50X για την αποτύπωση απομακρυσμένων αντικειμένων με περισσότερες λεπτομέρειες</string>
-  <string name="ultra_wide_bokeh_close_tip">Λειτουργία Θόλωσης Ανενεργή</string>
-  <string name="ultra_wide_bokeh_open_tip">Λειτουργία Θόλωσης Ενεργή</string>
+  <string name="ultra_wide_bokeh_close_tip">Λειτ. πλήρους σώματος Ανενεργή</string>
+  <string name="ultra_wide_bokeh_open_tip">Λειτ. πλήρους σώματος</string>
   <string name="ultra_wide_close_tip">Η λειτουργία Υπέρ Ευρείας γωνίας είναι ανενεργή</string>
   <string name="ultra_wide_mode">Υπέρ ευρεία γωνία</string>
   <string name="ultra_wide_mode_use_hint_text">Χρησιμοποιήστε αυτήν τη λειτουργία για να συμπεριλάβετε περισσότερα απο την σκηνή στη φωτογραφία σας.\nΗ λειτουργία Υπέρ ευρείας γωνίας βοηθάει όταν δεν μπορείτε να μετακινηθείτε μακρύτερα από τη σκηνή.</string>
