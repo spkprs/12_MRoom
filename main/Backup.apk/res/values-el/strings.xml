@@ -330,7 +330,7 @@
   <string name="new_pc_backup_restore_link">Κινητή συσκευή</string>
   <string name="new_pc_backup_summary1">Επιλέξτε στοιχεία και πατήστε \"Δημιουργία αντιγράφου\".</string>
   <string name="new_pc_backup_summary2">Συνδέστε την κινητή συσκευή σας στον υπολογιστή μέσω καλωδίου USB.</string>
-  <string name="new_pc_backup_summary4">Σημείωση: μπορείτε επίσης να αντιγράψετε φωτογραφίες και βίντεο από το MIUI-DCIM.</string>
+  <string name="new_pc_backup_summary4">Σημείωση: μπορείτε επίσης να αντιγράψετε φωτογραφίες και βίντεο από το DCIM.</string>
   <string name="new_pc_restore_content1">%d. Συνδέστε την κινητή συσκευή σας στον υπολογιστή μέσω καλωδίου USB.</string>
   <string name="new_pc_restore_content2">%d. Αντιγράψτε το αντίγραφο ασφαλείας από τον υπολογιστή σας σε MIUI-Backup-AllBackup.</string>
   <string name="new_pc_restore_content3">%1$d. Ανοιξτε \"%2$s\" και επιλέξτε στοιχεία για επαναφορά.</string>
@@ -415,7 +415,6 @@
   <string name="recreate_soft_ap_tips">Αγγίξτε το παρακάτω κουμπί για να δοκιμάσετε ξανά.</string>
   <string name="refresh">Ανανέωση</string>
   <string name="remote_receive">Λήψη</string>
-  <string name="required_permissions">android.permission.READ_PHONE_STATE;android.permission.READ_CALL_LOG;android.permission.WRITE_CALL_LOG;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.GET_ACCOUNTS;android.permission.ACCESS_COARSE_LOCATION;android.permission.READ_CALENDAR;android.permission.WRITE_CALENDAR;android.permission.READ_SMS;android.permission.CAMERA;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
   <string name="restore">Επαναφορά</string>
   <string name="restore_backup">Επαναφορά</string>
   <string name="restore_contact">Επαναφορά επαφών</string>

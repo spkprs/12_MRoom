@@ -462,7 +462,6 @@
   <string name="repeat_mode_set_title">Επανάληψη</string>
   <string name="repeat_mode_week">Κάθε εβδομάδα</string>
   <string name="repeat_mode_year">Κάθε χρόνο</string>
-  <string name="required_permissions">android.permission.READ_PRIVILEGED_PHONE_STATE;android.permission.GET_ACCOUNTS_PRIVILEGED</string>
   <string name="rich_text_bold_description">Bold</string>
   <string name="rich_text_center_description">Κέντρο</string>
   <string name="rich_text_chooser_title">Επιλογή στύλ</string>

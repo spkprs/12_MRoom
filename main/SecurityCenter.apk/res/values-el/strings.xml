@@ -2535,7 +2535,7 @@
   <string name="privacy_look_all_permission_times">Όλες οι εφαρμογές</string>
   <string name="privacy_manage_title">Διαχείρισης</string>
   <string name="privacy_mask_summary">MIUI Virtual Identity ID (OAID) θα παρέχεται σε τρίτη εφαρμογή αντί της πραγματικής σας ταυτότητας, εμποδίζοντας την εφαρμογή να παρακολουθεί τη συμπεριφορά και τις προτιμήσεις σας και να προστατεύει το προσωπικό σας απόρρητο.</string>
-  <string name="privacy_mask_title">Ενεργή η εικον.ταυτ. ID</string>
+  <string name="privacy_mask_title">Ενεργό Εικονικό ID</string>
   <string name="privacy_mode_dialog_title">Λειτουργία Επισκέπτη</string>
   <string name="privacy_more_info_title">Μάθετε περισσότερα σχετικά με τις δυνατότητες προστασίας απορρήτου</string>
   <string name="privacy_notification_subtitle">Πατήστε για διαχείριση δικαιωμάτων</string>

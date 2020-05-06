@@ -843,7 +843,6 @@
      <string name="replace">Αντικατάσταση</string>
      <string name="replace_image">Αντικατάσταση εικόνας</string>
      <string name="reply_button_msg">Απάντηση</string>
-     <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.CALL_PHONE;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.RECEIVE_SMS;android.permission.RECEIVE_MMS;android.permission.SEND_SMS;android.permission.READ_SMS;android.permission.WRITE_SMS;android.permission.READ_PHONE_STATE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.CAMERA;android.permission.READ_CALL_LOG;android.permission.GET_ACCOUNTS;</string>
      <string name="resent_message">Επαναποστολή</string>
      <string name="resize_image_error_information">Αυτή η εικόνα είναι πολύ μεγάλη για αποστολή, ακόμη και αν αλλάξει το μέγεθός της.</string>
      <string name="resource_price_free">Δωρεάν</string>

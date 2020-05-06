@@ -1975,7 +1975,6 @@
   <string name="request_sms_url_failed">Αποτυχία αίτησης Διεύθυνση για κοινή χρήση μέσω SMS</string>
   <string name="request_sms_url_msg">Αίτηση πληροφοριών…</string>
   <string name="request_sms_url_title">Συμβουλή</string>
-  <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
   <string name="retry_to_create_album">Δοκιμή ξανά</string>
   <string name="retry_to_request_qr_code">Δοκιμή ξανά</string>
   <string name="risk_control_deleted_date">MM/dd</string>

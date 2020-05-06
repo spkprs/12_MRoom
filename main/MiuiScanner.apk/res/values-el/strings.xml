@@ -284,7 +284,6 @@
      <string name="recognize">Σάρωση</string>
      <string name="recognize_fail">Αδυναμία ανάγνωσης κωδικού</string>
      <string name="request_server_failed">"Δεν ήταν δυνατή η σύνδεση στο διακομιστή"</string>
-     <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.CAMERA;</string>
      <string name="saveDone">Αποθηκεύτηκε με επιτυχία</string>
      <string name="scanHistory">Ιστορικό Σαρωτή</string>
      <string name="scanHistory_close">Απενεργοποίηση</string>

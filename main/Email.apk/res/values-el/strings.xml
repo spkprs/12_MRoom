@@ -1067,7 +1067,6 @@
   <string name="request_copy_db_to_disk">Το Mail ζητά να αντιγράψετε τη βάση δεδομένων σας σε ένα αρχείο</string>
   <string name="request_entity_large">Το ζητούμενο αρχείο είναι μεγάλο!</string>
   <string name="request_permission_activity">Απαιτούνται δικαιώματα</string>
-  <string name="required_permissions">android.permission.WRITE_EXTERNAL_STORAGE;</string>
   <string name="respond_inline">Απάντηση σε μια γραμμή</string>
   <string name="retry_login">Παρακαλώ συνδεθείτε ξανά</string>
   <string name="save_action">Αποθήκευση</string>

@@ -869,7 +869,6 @@
   <string name="reply_comment_hint">Απάντηση σε %s:</string>
   <string name="report">Έκθεση</string>
   <string name="report_comment_success">Θα εξετάσουμε την αναφορά σας. Ευχαριστώ για τα σχόλιά σας.</string>
-  <string name="required_permissions">android.permission.READ_PHONE_STATE;android.permission.GET_ACCOUNTS;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
   <string name="restart_download">Επανεκκίνηση</string>
   <string name="restart_immediate">Επανεκκίνηση</string>
   <string name="resume_download">Συνεχίσετε</string>

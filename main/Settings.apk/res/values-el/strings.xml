@@ -3528,9 +3528,9 @@
   <string name="master_clear_button_text">Επαναφορά τηλεφώνου</string>
   <string name="master_clear_confirm_title">Επαναφορά</string>
   <string name="master_clear_desc">Θα διαγραφούν όλα τα δεδομένα της συσκευής από τον εσωτερικό χώρο, καθώς και:\n\n\"Ο λογαριασμός σας στην Google\"\n\"Ρυθμίσεις και δεδομένα εφαρμογών\"\n\"Ληφθέντες εφαρμογές\"</string>
-  <string name="master_clear_desc_also_erases_esim">&lt;li&gt;eSIMs&lt;/li&gt;</string>
+  <string name="master_clear_desc_also_erases_esim"><li>eSIMs</li></string>
   <string name="master_clear_desc_also_erases_external">Μουσική, Φωτογραφίες, δεδομένα χρήστη</string>
-  <string name="master_clear_desc_erase_external_storage">\"\n\nΓια να καθαρίσετε μουσική, εικόνες και άλλα δεδομένα χρήστη, η \"&lt;b&gt;Κάρτα SD&lt;/b&gt; πρέπει να διαγραφεί.</string>
+  <string name="master_clear_desc_erase_external_storage">\"\n\nΓια να καθαρίσετε μουσική, εικόνες και άλλα δεδομένα χρήστη, η \"<b>Κάρτα SD</b> πρέπει να διαγραφεί.</string>
   <string name="master_clear_desc_no_cancel_mobile_plan">\n\n\nΑυτό δεν θα ακυρώσει το πρόγραμμα υπηρεσιών κινητής τηλεφωνίας σας.</string>
   <string name="master_clear_erase_application_progress">Διαγραφή εφαρμογών σε εξέλιξη</string>
   <string name="master_clear_failed">Δεν πραγματοποιήθηκε επαναφορά επειδή η υπηρεσία Εκκαθάρισης του συστήματος δεν είναι διαθέσιμη</string>
@@ -6917,7 +6917,7 @@
   <string name="vpn_cant_connect_title">%1$s δεν μπορεί να συνδεθεί</string>
   <string name="vpn_configure">Ρύθμιση VPN</string>
   <string name="vpn_connect">Σύνδεση</string>
-  <string name="vpn_connect_to">Σύνδεση στο to %s</string>
+  <string name="vpn_connect_to">Σύνδεση στο %s</string>
   <string name="vpn_create">Προσθήκη δικτύου VPN</string>
   <string name="vpn_disconnect">Αποσύνδεση</string>
   <string name="vpn_disconnect_confirm">Αποσύνδεση σ\' αυτό το VPN.</string>
