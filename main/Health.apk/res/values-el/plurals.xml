@@ -62,8 +62,8 @@
     <item quantity="one">%1$d εγγρ.</item>
   </plurals>
   <plurals name="dream_talk_segment_unit">
-    <item quantity="other">εγγρ.</item>
-    <item quantity="one">εγγρ.</item>
+    <item quantity="other">" περιόδους"</item>
+    <item quantity="one">" περίοδο"</item>
   </plurals>
   <plurals name="duration_unit_hour_format">
     <item quantity="other">%1$d ώρες</item>
