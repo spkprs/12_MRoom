@@ -193,7 +193,7 @@
     <string name="dining_room">Τραπεζαρία</string>
     <string name="disagree_cancel">Ακύρωση</string>
     <string name="disagree_confirm">ΟΚ</string>
-    <string name="disagree_legal_terms_warning">"Η ανάκληση εξουσιοδότησης ενδέχεται να καταστήσει πολλαπλές σημαντικές λειτουργίες μη διαθέσιμες. Ανάκληση παρ' όλα αυτά;"</string>
+    <string name="disagree_legal_terms_warning">"Η ανάκληση εξουσιοδότησης ενδέχεται να καταστήσει πολλαπλές σημαντικές λειτουργίες μη διαθέσιμες. Ανάκληση παρ\' όλα αυτά;"</string>
     <string name="download_assistant">Οθόνη μετάδοσης</string>
     <string name="download_path_fail">Αδυναία λήψης. Ελέγξτε την κάρτα SD ή το USB της συσκευής σας.</string>
     <string name="download_times">Λήψεις: %1$d</string>

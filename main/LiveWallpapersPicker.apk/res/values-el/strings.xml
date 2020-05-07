@@ -26,7 +26,7 @@
   <string name="abc_searchview_description_voice">Voice search</string>
   <string name="abc_shareactionprovider_share_with">Share with</string>
   <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_slice_error">Couldn\'t connect</string>
+  <string name="abc_slice_error">Couldn't connect</string>
   <string name="abc_slice_more">More</string>
   <string name="abc_slice_more_content">+ %1$d</string>
   <string name="abc_slice_permission_allow">Allow</string>

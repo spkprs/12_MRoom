@@ -30,7 +30,6 @@
      <string name="abc_toolbar_collapse_description">Collapse</string>
      <string name="allow">Αποδοχή</string>
      <string name="altitude">%.1f</string>
-     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
      <string name="altitude_title">Ύψος</string>
      <string name="altitude_uncalibrate_cancel">Ακύρωση</string>
      <string name="altitude_uncalibrate_msg">Αδύνατη η βαθμονόμηση υψομέτρου με ακρίβεια χωρίς GPS ή σύνδεση δεδομένων κινητής.</string>

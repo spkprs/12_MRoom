@@ -161,7 +161,7 @@
   <string name="db_downgrade_clear_date_reminder">Η μετάβαση σε διαφορετική έκδοση του MIUI απαιτεί την εκκαθάριση των δεδομένων της εφαρμογής για το Notes. Πριν το κάνετε αυτό, βεβαιωθείτε ότι έχετε δημιουργήσει αντίγραφα ασφαλείας των σημειώσεών σας στο cloud.</string>
   <string name="default_folder_name">Φάκελος χωρίς όνομα</string>
   <string name="delete_folder_dialog_tile">Διαγραφή φακέλου</string>
-  <string name="dialog_privacy_revoke_tips">Αφού ανακαλέσετε την εξουσιοδότηση, η εφαρμογή θα σταματήσει να συλλέγει δεδομένα και όλα τα σχετικά δεδομένα θα διαγραφούν από τους διακομιστές. Αυτό μπορεί να κάνει την εφαρμογή σχεδόν άχρηστη. Revoke authorization anyway? To ensure your account\'s security, sign in to i.mi.com before revoking authorization for the cloud services.</string>
+  <string name="dialog_privacy_revoke_tips">Αφού ανακαλέσετε την εξουσιοδότηση, η εφαρμογή θα σταματήσει να συλλέγει δεδομένα και όλα τα σχετικά δεδομένα θα διαγραφούν από τους διακομιστές. Αυτό μπορεί να κάνει την εφαρμογή σχεδόν άχρηστη. Ανάκληση εξουσιοδότησης ούτως ή άλλως; Για να διασφαλίσετε την ασφάλεια του λογαριασμού σας, συνδεθείτε στο i.mi.com πριν από την ανάκληση της εξουσιοδότησης για υπηρεσίες Xiaomi Cloud.</string>
   <string name="dialog_share_as_pic">Μοιραστείτε τη σημείωση ως εικόνα</string>
   <string name="dialog_share_as_text">Μοιραστείτε τη σημείωση ως κείμενο</string>
   <string name="dlg_btn_set_password">Ορισμός κωδικού</string>
