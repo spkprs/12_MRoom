@@ -108,7 +108,7 @@
   <string name="close_twice_auth_operation">Διεύθυνση URL:\u000d\nhttps://appleid.apple.com/#!&amp;page=signin to close</string>
   <string name="close_twice_auth_step_1">1. Ανοίξτε οποιοδήποτε πρόγραμμα περιήγησης ιστού σε οποιονδήποτε υπολογιστή και μεταβείτε στο appleid.apple.com.</string>
   <string name="close_twice_auth_step_2">2. Συνδεθείτε με το Apple ID που θέλετε να απενεργοποιήσετε δύο παράγοντες ελέγχου ταυτότητας , μεταβείτε στην ενότητα \"Ασφάλεια\" του λογαριασμού ρυθμίσεις και επιλέξτε \"Επεξεργασία\".</string>
-  <string name="close_twice_auth_step_3">3. Κάντε Κλικ Στο Κουμπί \"Απενεργοποίηση Του Ελέγχου Ταυτότητας Δύο Παραγόντων. Κάντε κλικ ξανά για  επιβεβαιώση.</string>
+  <string name="close_twice_auth_step_3">3. Κάντε Κλικ Στο Κουμπί \"Απενεργοποίηση Του Ελέγχου Ταυτότητας Δύο Παραγόντων\". Κάντε κλικ ξανά για  επιβεβαιώση.</string>
   <string name="close_twice_auth_steps">Ακολουθήστε αυτά τα βήματα για να απενεργοποιήσετε τον έλεγχο ταυτότητας δύο παραγόντων για το Apple ID σας:</string>
   <string name="close_twice_auth_tutor">Απενεργοποιήστε το Apple ID για τον έλεγχο ταυτότητας δύο παραγόντων</string>
   <string name="cloud_app_name">Αντίγραφα Mi Cloud</string>
