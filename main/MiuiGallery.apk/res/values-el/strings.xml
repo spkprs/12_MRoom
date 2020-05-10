@@ -1307,7 +1307,7 @@
   <string name="operation_force_top">Καρφίτσωμα</string>
   <string name="operation_hide">Απόκρυψη</string>
   <string name="operation_in_process">Επεξεργασία…</string>
-  <string name="operation_move">Move</string>
+  <string name="operation_move">Μετακίνηση</string>
   <string name="operation_move_to_other_albums">Μετακίνηση σε άλλα άλμπουμ</string>
   <string name="operation_move_to_rubbish_albums">Μετακίνηση στα απορρίμματα</string>
   <string name="operation_not_show_in_photos_tab">Να μην εμφανίζεται στην καρτέλα Φωτογραφίες</string>

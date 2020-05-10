@@ -162,8 +162,6 @@
   <string name="category_group_summary">Κατηγοριοποίηση στο Συρτάρι εφαρμογών</string>
   <string name="category_not_selected">Διαθέσιμες εφαρμογές</string>
   <string name="change_wallpaper">Αλλαγή</string>
-  <string name="check_result_title">检测结果-%s</string>
-  <string name="checked_database_list_title">检测数据库列表</string>
   <string name="choose_wallpaper">Επιλογή ταπετσαρίας</string>
   <string name="chooser_wallpaper">Επιλογή ταπετσαρίας από</string>
   <string name="cloud_app_restore_title">Σε αναμονή</string>
@@ -199,13 +197,6 @@
   <string name="delete_screen">Διαγραφή οθόνης</string>
   <string name="delete_wallpaper_message">Διαγραφή %1$d επιλεγμένης ταπετσαρίας;</string>
   <string name="deselect_all">Αποεπιλογή όλων</string>
-  <string name="diagnosis_detail_btn_title">详细&gt;&gt;</string>
-  <string name="diagnosis_detail_title">检测结果详细</string>
-  <string name="diagnosis_ext_info_title">相关栈信息:\n%s</string>
-  <string name="diagnosis_level_error">严重</string>
-  <string name="diagnosis_level_suggestion">建议</string>
-  <string name="diagnosis_level_tips">提示</string>
-  <string name="diagnosis_level_warning">警告</string>
   <string name="disable_wallpaper_scroll">Απενεργοποίηση κύλισης ταπετσαρίας</string>
   <string name="double_tap_to_lock_title">Πατήστε δύο φορές για κλείδωμα της οθόνης</string>
   <string name="download_action">Λήψη</string>
@@ -472,8 +463,6 @@
   <string name="reset_fail">Αδύνατη η Επαναφορά</string>
   <string name="reset_scene_prompt">H διάταξη θα επανέλθει στην προεπιλογή</string>
   <string name="reset_title">Επαναφορά</string>
-  <string name="resource_canary_leak_tip">έχει διαρροή!</string>
-  <string name="resource_canary_wait_for_heapdump_message">Στιγμιότυπο Dumping heap...</string>
   <string name="screen_cells_config_title">Διάταξη Αρχικής οθόνης</string>
   <string name="screen_locked_toast">Η διάταξη Αρχική οθόνης είναι κλειδωμένη</string>
   <string name="screen_number">Η %d οθόνη</string>

@@ -132,6 +132,8 @@
   <string name="incall_error_supp_service_unknown">Μη υποστηριζόμενη υπηρεσία.</string>
   <string name="inCallLabel">Τηλέφωνο</string>
   <string name="incoming_call_forwarded_title">Προώθηση εισερχόμενων κλήσεων</string>
+  <string name="incoming_circle_text_answer">Αφήστε</string>
+  <string name="incoming_circle_text_reject">Αφήστε</string>
   <string name="incoming_circle_text_answer_p">Σύρετε επάνω</string>
   <string name="incoming_circle_text_reject_p">Σύρετε επάνω</string>
   <string name="incoming_circle_text_video_answer">Αφήστε να απαντήσετε με βίντεο</string>

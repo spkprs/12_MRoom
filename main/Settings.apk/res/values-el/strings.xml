@@ -1622,6 +1622,7 @@
   <string name="continue_reset_factory">Εργοστασιακή επαναφορά</string>
   <string name="contributors_title">Συνεργάτες</string>
   <string name="controls_label">Έλεγχοι</string>
+  <string name="control_panel_switch_side">Πλευρά διακόπτη Κέντρου Ελέγχου</string>
   <string name="controls_subtitle">Ρυθμίστε τη χρήση ενέργειας</string>
   <string name="convenience_key_category_title">Έλεγχος συστήματος</string>
   <string name="convert_to_fbe_warning">Μετατροπή διαμερίσματος δεδομένων σε κρυπτογράφηση βάσει αρχείων.\n !!Προειδοποίηση!! Αυτό θα διαγράψει όλα τα δεδομένα σας.\n Αυτό είναι σε επίπεδο alpha και μπορεί να μην λειτουργεί σωστά.\n Πατήστε \'Διαγραφή και μετατροπή...\' για να συνεχίσετε.</string>
@@ -4251,6 +4252,7 @@
   <string name="notifications_title">Ειδοποιήσεις</string>
   <string name="now">Επανεκκίνηση τώρα</string>
   <string name="number_of_device_admins_none">Δεν υπάρχουν ενεργές εφαρμογές</string>
+  <string name="oaid_string">Τρέχον εικονικό ID:\n%1s</string>
   <string name="oem_lock_info_message">Επανεκκινήστε τη συσκευή για να ενεργοποιήσετε τη δυνατότητα προστασίας της συσκευής.</string>
   <string name="oem_radio_info_label">Συγκεκριμένες πληροφορίες ΟΕΜ/Ρυθμίσεις</string>
   <string name="oem_unlock_enable">Ξεκλείδωμα OEM</string>
@@ -4950,6 +4952,7 @@
   <string name="reset_network_final_desc_esim">Επαναφορά όλων των ρυθμίσεων δικτύου και διαγραφή των ληφθέντων SIM; Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.</string>
   <string name="reset_network_title">Επαναφορά δικτύων WiFi Κινητής και Bluetooth</string>
   <string name="reset_network_wifi">WiFi</string>
+  <string name="restore_oaid_positive_step">Επαναφορά (%1$d)</string>
   <string name="reset_second_space_passwd">Επαναφορά κωδικού Δεύτερου προφίλ</string>
   <string name="reset_second_space_passwd_cancel">Ακύρωση</string>
   <string name="reset_second_space_passwd_confirm">Συνέχεια</string>

@@ -66,6 +66,7 @@
   <string name="app_disable_transparent_wallpaper">Χωρίς διαφανή ταπετσαρία</string>
   <string name="app_enable_transparent_wallpaper">Με διαφανή ταπετσαρία</string>
   <string name="app_name">Θέματα</string>
+  <string name="apply_choosen_type_resource">Εφαρμογή επιλεγμένων στοιχείων</string>
   <string name="apply_default_font_tip">Χρήση της τρέχουσας γραμ/σειράς του συστήματος?</string>
   <string name="apply_font_btn_exclude">Εφαρμογή χωρίς γραμματοσειρά</string>
   <string name="apply_font_btn_reboot">Επανεκκίνηση</string>
@@ -113,6 +114,10 @@
   <string name="common_downloading">Λήψη…</string>
   <string name="common_format_date_no_year">MM/dd</string>
   <string name="common_skip">Παράβλεψη</string>
+  <string name="community_cta_dialog_cancel">Ακύρωση</string>
+  <string name="community_cta_dialog_des">Αυτό το θέμα περιέχει μια συντόμευση ρολογιού που εμφανίζει το αναγνωριστικό λογαριασμού Mi και την κατάσταση της κοινότητας Mi. Μπορείτε να απενεργοποιήσετε αυτήν τη λειτουργία μεταβαίνοντας σε διαφορετικό θέμα ή αφαιρώντας το widget Ρολόι.</string>
+  <string name="community_cta_dialog_ok">Κατανοητό</string>
+  <string name="community_cta_dialog_title">Συντόμευση ρολογιού</string>
   <string name="component_backup_preference_title">Αντίγραφο θέματος</string>
   <string name="component_category_finest_title">Προτεινόμενα</string>
   <string name="component_category_more_title">Περισσότερα</string>
@@ -129,6 +134,8 @@
   <string name="current_using_lockscreen_wallpaper_text">Οθόνη κλειδώματος</string>
   <string name="current_version">Τρέχουσα έκδοση: %1$s</string>
   <string name="current_version_incompatible">Ασυμβατότητα έκδοσης</string>
+  <string name="de_apply_icons">Εικονίδια εφαρμ.</string>
+  <string name="de_apply_icons_and_wallpaper">Εικονίδια και Ταπετσαρίες</string>
   <string name="de_author_follow">Ακόλουθοι</string>
   <string name="de_author_following">Ακολουθούν</string>
   <string name="de_component_aod_author">Δημιουργός</string>
@@ -137,6 +144,7 @@
   <string name="de_component_tags">Ετικέτες</string>
   <string name="de_font_exchange_success">Αγορασμένα επιτυχώς</string>
   <string name="de_icon_text_comment">Σχόλιο</string>
+  <string name="de_icon_text_discuss">Συζήτηση</string>
   <string name="de_icon_text_favorite">Προσθήκη στα αγαπημένα</string>
   <string name="de_icon_text_like">Αρέσει</string>
   <string name="de_icon_text_share">Μοιραστείτε</string>
@@ -156,6 +164,7 @@
   <string name="de_more_resource">Σύρετε για περισσότερα</string>
   <string name="de_no_more_recommendations">Αυτα για τωρα.</string>
   <string name="de_preview">Προεπισκόπηση</string>
+  <string name="de_resource_author">Δημιουργός (%1$s)</string>
   <string name="de_redeem">Εξαργυρώστε</string>
   <string name="de_to_comment">Σχόλιο</string>
   <string name="de_try">Δοκιμάστε</string>
