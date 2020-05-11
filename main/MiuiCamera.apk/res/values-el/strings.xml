@@ -863,7 +863,7 @@
   <string name="pref_custom_feature_layout_title">Διάταξη χαρακτηριστικών</string>
   <string name="pref_custom_shutter_sound_title">Ήχος</string>
   <string name="pref_custom_tint_title">Χρωματιστά</string>
-  <string name="pref_customization_title">Προσαρμόστε</string>
+  <string name="pref_customization_title">Προσαρμογή</string>
   <string name="pref_document_mode">Έγγραφα</string>
   <string name="pref_dual_camera_video">Μπροστά πίσω</string>
   <string name="pref_face_beauty_title">Αισθητική</string>

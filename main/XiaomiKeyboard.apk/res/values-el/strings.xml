@@ -81,7 +81,7 @@
   <string name="audio_2_setting_step_2">2. Ενεργοποιήστε το μικρόφωνο</string>
   <string name="audio_2_setting_title">Πώς να επιτρέψετε την άδεια;</string>
   <string name="audio_permission_close">Κλείστε</string>
-  <string name="audio_permission_content">Απαιτείται πρόσβαση στο MICROPHONE για να επιτρέπεται η φωνητική πληκτρολόγηση και να κάνετε τη φωνή σας σε κείμενο</string>
+  <string name="audio_permission_content">Απαιτείται πρόσβαση στο Μικρόφωνο για να επιτρέπεται η φωνητική πληκτρολόγηση και να κάνετε τη φωνή σας σε κείμενο</string>
   <string name="audio_permission_ok">Μεταβείτε στις Ρυθμίσεις</string>
   <string name="audio_permission_title">Έλεγχος αδειών</string>
   <string name="auto_cap">Αυτόματη χρήση κεφαλαίων</string>

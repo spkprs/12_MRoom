@@ -8,9 +8,6 @@
      <string name="application_desc">Εφαρμογή</string>
      <string name="applications_search_label">Εφαρμογές</string>
      <string name="apps_search_activity" />
-     <string name="apps_whites">( \"com.android.quicksearchbox\", \"com.android.browser\", \"com.android.contacts\", \"com.android.mms\", \"com.miui.gallery\", \"com.android.settings\", \"com.android.deskclock\", \"com.android.camera\", \"com.miui.video\", \"com.miui.securitycenter\", \"com.miui.weather2\", \"com.xiaomi.market\", \"com.android.calendar\", \"com.android.fileexplorer\", \"com.miui.player\", \"com.android.thememanager\", \"com.android.calculator2\", \"com.xiaomi.gamecenter\", \"com.miui.notes\", \"com.xiaomi.smarthome\", \"com.xiaomi.account\", \"com.android.updater\", \"com.xiaomi.o2o\", \"com.xiaomi.shop\", \"com.android.soundrecorder\", \"com.mipay.wallet\", \"com.miui.voip\", \"com.miui.voiceassist\", \"com.android.email\", \"com.miui.networkassistant\", \"com.xiaomi.jr\", \"com.miui.compass\", \"com.miui.luckymoney\", \"com.xiaomi.hm.health\", \"com.xiaomi.channel\", \"com.miui.fm\", \"com.miui.bugreport\", \"com.mi.vtalk\", \"com.xiaomi.payment\", \"com.miui.virtualsim\", \"com.xiaomi.router\", \"com.miui.cloudbackup\", \"com.xiaomi.pass\", \"com.xiaomi.mitv.phone.tvassistan\", \"com.xiaomi.tag\", \"com.xiaomi.xy.sportscamera\", \"com.xiaomi.mishare\", \"com.xiaomi.pricecheck\", \"com.miui.userbook\", \"com.xiaomi.mitv.soundbarapp\", \"com.miui.livetalk\", \"com.android.providers.downloads.ui\", \"com.xiaomi.midrop\", \"com.miui.miuibbs\", \"com.xiaomi.scanner\", \"com.miui.voip\", \"com.wali.live\", \"com.miui.milivetalk\", \"com.android.phone\", \"com.miui.cloudservice\", \"com.miui.yellowpage\", \"com.miui.securitycore\", \"com.duokan.reader\", \"com.xiaomi.vip\", \"com.miui.calculator\", \"com.android.providers.downloads.ui\", \"com.mi.misupport\" )</string>
-     <string name="baidu_search_url_from_default">https://m.baidu.com/s?from=1002253t&amp;word={searchTerms}&amp;tn=ins</string>
-     <string name="baidu_suggest_base">http://m.baidu.com/su?wd=%s&amp;action=opensearch</string>
      <string name="barcode_install_back">Πίσω</string>
      <string name="barcode_install_cancel">Άκυρο</string>
      <string name="barcode_install_confirm">Εγκατάσταση</string>
@@ -48,13 +45,10 @@
      <string name="distance_unit_meter">μ</string>
      <string name="entrance_setting">Εκκίνηση αναζήτησης</string>
      <string name="google_app_label">Αναζήτηση Google</string>
-     <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
-     <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
      <string name="google_search_description">Προτάσεις αναζήτησης της Google</string>
      <string name="google_search_hint">Αναζήτηση Google</string>
      <string name="google_search_label">Google</string>
      <string name="google_settings_category_title">Αναζήτηση Google</string>
-     <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
      <string name="hot_search">Δημοφιλή</string>
      <string name="loading">Μισό λεπτό…</string>
      <string name="local_app">Εφαρμογές</string>
@@ -87,7 +81,6 @@
      <string name="remove_from_history">Διαγραφή αυτού του στοιχείου από το ιστορικό αναζήτησης;</string>
      <string name="remove_from_history_failed">Αδύνατη η διαγραφή από το ιστορικό</string>
      <string name="search_apps">Αναζήτηση εφαρμογών</string>
-     <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
      <string name="search_button">Αναζήτηση</string>
      <string name="search_group_fold">Απόκρυψη</string>
      <string name="search_group_unfold">Περισσότερα</string>
@@ -101,7 +94,6 @@
      <string name="search_sources_summary">Επιλέξτε τι αναζητάτε στην συσκευή σας</string>
      <string name="search_suggestion">Συμβουλές</string>
      <string name="search_videos">Αναζήτηση βίντεο</string>
-     <string name="search_videos_url">https://www.youtube.com/results?search_query=%s</string>
      <string name="search_widget">Αναζήτηση</string>
      <string name="send_secret_code">Αποστολή κωδικού</string>
      <string name="setting_other">Άλλα</string>
@@ -138,11 +130,4 @@
      <string name="voice_search_hint_quotation_start">\"</string>
      <string name="voice_search_hint_title">"Προσπαθήστε να πείτε "</string>
      <string name="web_search_results">Αποτελέσματα αναζήτησης Web</string>
-     <string name="xiaomi_hint">http://global.search.xiaomi.net/global/v3/hint</string>
-     <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v5/hints</string>
-     <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v5/home</string>
-     <string name="xiaomi_search_label">Αποτελέσματα</string>
-     <string name="xiaomi_source_url">https://search.browser.miui.com/</string>
-     <string name="xiaomi_source_url_alpha">https://search.browser.miui.com/alpha/</string>
-     <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v5/topclick</string>
 </resources>

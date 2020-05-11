@@ -49,12 +49,12 @@
     <item quantity="one">Θα ειδοποιηθείτε για ευαίσθητες ενέργειες που εκτελούνται από %1$d εφαρμ.</item>
   </plurals>
   <plurals name="app_behavior_wakepath_multiple">
-    <item quantity="other">%1$1s launched %2$d apps</item>
-    <item quantity="one">%1$1s launched %2$d app</item>
+    <item quantity="other">%1$1s εκκιν. %2$d εφαρμ.</item>
+    <item quantity="one">%1$1s εκκιν. %2$d εφαρμ.</item>
   </plurals>
   <plurals name="app_behavior_wakepath_multiple_single">
-    <item quantity="other">This app launched %1$d other apps</item>
-    <item quantity="one">This app launched %1$d other app</item>
+    <item quantity="other">Αυτή εκκιν. %1$d άλλες εφαρμ.</item>
+    <item quantity="one">Αυτή εκκιν. %1$d άλλες εφαρμ.</item>
   </plurals>
   <plurals name="app_manager_permission_summary_accept">
     <item quantity="other">Επιτρέπονται %d άδειες</item>
@@ -258,8 +258,8 @@
     <item quantity="one">%d μηνύμα και κλήση μπλοκαρίστηκε</item>
   </plurals>
   <plurals name="menu_text_antivirus_day_ex">
-    <item quantity="other">Δεν έχει γίνει σάρωση της συσκευής %d ημ.</item>
-    <item quantity="one">Δεν έχει γίνει σάρωση της συσκευής %d ημ.</item>
+    <item quantity="other">Χωρίς σάρωση %d ημ.</item>
+    <item quantity="one">Χωρίς σάρωση %d ημ.</item>
   </plurals>
   <plurals name="menu_text_antivirus_virus_ex">
     <item quantity="other">%d εφαρμ. περιέχουν ιούς ή κακόβουλο λογισμικό</item>
@@ -330,12 +330,12 @@
     <item quantity="one">%d εφαρμ που αδειάζει μπαταρία</item>
   </plurals>
   <plurals name="pc_battery_history_hour">
-    <item quantity="other">" hrs"</item>
-    <item quantity="one">" hr"</item>
+    <item quantity="other">" ώρ."</item>
+    <item quantity="one">" ώρ."</item>
   </plurals>
   <plurals name="pc_battery_history_minute">
-    <item quantity="other">" mins"</item>
-    <item quantity="one">" min"</item>
+    <item quantity="other">" λεπ."</item>
+    <item quantity="one">" λεπ."</item>
   </plurals>
   <plurals name="pc_main_power_center_battery_day">
     <item quantity="other">%s ημ.</item>

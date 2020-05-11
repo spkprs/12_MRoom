@@ -288,7 +288,7 @@
   <string name="hide_free_font">Απόκρυψη δωρεάν γραμ/σειρών</string>
   <string name="hide_free_theme">Απόκρυψη δωρεάν θεμάτων</string>
   <string name="hide_free_wallpaper">Απόκρυψη δωρεάν ταπετσαριών</string>
-  <string name="hide_incompatible">Απόκρυψη ασύμβατου/της %1$s</string>
+  <string name="hide_incompatible">Απόκρυψη ασύμβατα %1$s</string>
   <string name="hide_mamual_hide_aod">Να μην εμφανίζονται μη αυτόματα κρυφά στοιχεία</string>
   <string name="hide_mamual_hide_font">Να μην εμφανίζονται κρυφές γραμματοσειρές</string>
   <string name="hide_mamual_hide_theme">Να μην εμφανίζονται κρυφά θέματα</string>

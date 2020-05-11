@@ -1008,7 +1008,7 @@
   <string name="permgroupdesc_sensors">πρόσβαση στα δεδομένα αισθητήρα σχετικά με τις ζωτικές ενδείξεις σας</string>
   <string name="permgroupdesc_sms">αποστολή και προβολή μηνυμάτων SMS</string>
   <string name="permgroupdesc_storage">έχει πρόσβαση στις φωτογραφίες/πολυμέσα/αρχεία στη συσκευή σας</string>
-  <string name="permgrouplab_activityRecognition">Physical activity</string>
+  <string name="permgrouplab_activityRecognition">Σωματική δραστηριότητα</string>
   <string name="permgrouplab_calendar">Ημερολόγιο</string>
   <string name="permgrouplab_calllog">Αρχεία καταγραφής κλήσεων</string>
   <string name="permgrouplab_camera">Κάμερα</string>

@@ -168,7 +168,7 @@
   <string name="extended_storage_file_can_not_open">Αδυναμία αντιγραφής αρχείου. Αντιγράψτε πρώτα το αρχείο στην εσωτερική μνήμη.</string>
   <string name="extract">Εξαγωγή</string>
   <string name="fab_menu_ball">快捷操作球</string>
-  <string name="fab_menu_sort">Sort</string>
+  <string name="fab_menu_sort">Ταξινόμ.</string>
   <string name="fail_to_create_folder_unknown">Αδυναμία δημιουργίας φακέλου</string>
   <string name="failed_not_access_sd_card">Επιτρέψτε την πρόσβαση στην SD card πρώτα</string>
   <string name="failed_obtain_permissions">Αδυναμία λήψης αδειών</string>
@@ -223,7 +223,7 @@
   <string name="hot_sticker">Αυτοκόλλητα</string>
   <string name="if_cancel">Ακύρωση λειτουργίας;</string>
   <string name="image_loading_error">Αδυναμία φόρτωσης εικόνας</string>
-  <string name="imm_str_storage">Storage</string>
+  <string name="imm_str_storage">Αποθήκευση</string>
   <string name="instruction">Εισάγετε την παρακάτω διεύθυνση στον FTP client: </string>
   <string name="instruction_pre_pad">Πατήστε για εκκίνηση του διακομιστή FTP</string>
   <string name="instruction_pre_phone">Πατήστε για εκκίνηση του διακομιστή FTP</string>
@@ -477,7 +477,7 @@
   <string name="utf8_title">UTF-8</string>
   <string name="v7_preference_off">OFF</string>
   <string name="v7_preference_on">ON</string>
-  <string name="view_type">View</string>
+  <string name="view_type">Προβολή</string>
   <string name="wechat_video">Βίντεο %s</string>
   <string name="wifi_state">Δίκτυο Wi‑Fi</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>

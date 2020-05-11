@@ -5,7 +5,7 @@
   <string name="abc_action_bar_home_description">Πλοήγηση στην αρχική</string>
   <string name="abc_action_bar_up_description">Πλοηγηθείτε επάνω</string>
   <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>
-  <string name="abc_action_mode_done">Ολοκληρώθηκε</string>
+  <string name="abc_action_mode_done">Τέλος</string>
   <string name="abc_activity_chooser_view_see_all">Προβολή όλων</string>
   <string name="abc_activitychooserview_choose_application">Επιλέξτε μια εφαρμογή</string>
   <string name="abc_capital_off">OFF</string>
@@ -1392,8 +1392,8 @@
   <string name="quick_settings_dnd_alarms_label">Μόνο Αφυπνήσεις</string>
   <string name="quick_settings_dnd_label">Μην Ενοχλείτε</string>
   <string name="quick_settings_dnd_none_label">Απόλυτη σίγαση</string>
-  <string name="quick_settings_dnd_priority_label">Προτεραιότητα μόνο</string>
-  <string name="quick_settings_done">Ολοκληρώθηκε</string>
+  <string name="quick_settings_dnd_priority_label">Προτεραιότητας μόνο</string>
+  <string name="quick_settings_done">Τέλος</string>
   <string name="quick_settings_drivemode_label">Λειτουργία αυτοκινήτου</string>
   <string name="quick_settings_dual_location_label">Διπλό GPS</string>
   <string name="quick_settings_edit_label">Επεξεργασία</string>

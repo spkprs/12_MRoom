@@ -417,7 +417,7 @@
   <string name="remote_receive">Λήψη</string>
   <string name="restore">Επαναφορά</string>
   <string name="restore_backup">Επαναφορά</string>
-  <string name="restore_contact">Επαναφορά επαφών</string>
+  <string name="restore_contact">Επαν. επαφών</string>
   <string name="restore_contact_content">Η επαναφορά επαφών ίσως δημιουργήσει διπλότυπες είστε σίγουροι?</string>
   <string name="restore_contacts_hit">Μπορεί να χρειαστεί να συνδεθείτε ξανά για να δείτε τα δεδομένα που έχουν επαναφερθεί.</string>
   <string name="restore_counts">Επαναφορά:</string>
