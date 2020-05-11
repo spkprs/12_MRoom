@@ -322,7 +322,7 @@
   <string name="allow_lights_title">Να επιτρέπεται ο φωτισμός LED</string>
   <string name="allow_mock_location">Να επιτρέπονται οι ψευδείς τοποθεσίες</string>
   <string name="allow_mock_location_summary">Ψευδείς τοποθεσίες</string>
-  <string name="allow_oaid_used">Επιτρέπεται η χρήση ID συσκευής</string>
+  <string name="allow_oaid_used">Χρήση Εικονικής Ταυτότητας</string>
   <string name="allow_oaid_used_desc">Οι εφαρμογές δεν θα έχουν πρόσβαση σε κανένα αναγνωριστικό, εκτός εάν τους επιτρέπετε ρητά να το κάνουν. Ορισμένες δυνατότητες προσωπικών προτάσεων ενδέχεται να μην λειτουργούν σωστά όταν αυτή η λειτουργία είναι ενεργοποιημένη.</string>
   <string name="allow_overlay_description">Αυτή η άδεια επιτρέπει σε μια εφαρμογή να εμφανίζεται πάνω από άλλες εφαρμογές που χρησιμοποιείτε και μπορεί να παρεμβαίνει στη χρήση της διεπαφής άλλων εφαρμογών ή να αλλάζει ότι περιμένετε ότι θα δείτε στο περιεχόμενο άλλων εφαρμογών.</string>
   <string name="allow_sound_title">Να επιτρέπεται ο ήχος</string>
@@ -2734,7 +2734,7 @@
   <string name="google_title">Google</string>
   <string name="got_it">Το κατάλαβα</string>
   <string name="gps_description">Υποστηρίζονται πολλαπλά δορυφορικά συστήματα πλοήγησης (GPS, BeiDou, GLONASS, Galileo)</string>
-  <string name="gps_description_global">Πολλαπλά συστήματα δορυφορικής πλοήγησης (%s) υποστηρίζονται</string>
+  <string name="gps_description_global">Οι συσκευές Xiaomi είναι συμβατές με πολλαπλά συστήματα πλοήγησης, συμπεριλαμβανομένων των GPS, NavIC, BeiDou, GLONASS και Galileo.</string>
   <string name="gsm_to_wifi_connect_type_title">Κινητή σε Wi-Fi</string>
   <string name="gxzw_add_fingerprint_area">Σαρωτής Δακτύλου</string>
   <string name="gxzw_add_fingerprint_continue">Συνέχεια</string>
@@ -7948,5 +7948,9 @@
      <string name="two_lines_app_title">Τίτλοι Εφαρμ. σε 2 γραμμές</string>
      <string name="app_manager_anomaly_analysis">Ανάλυση ανωμαλιών εφαρμογών</string>
      <string name="switch_gesture_side_title">Εναλλαγή πλευράς χειρονομίας</string>
+    <string name="bluetooth_paired">Αποθηκεύτηκε</string>
+    <string name="reset_confirm_directory">"Σημείωση: Πριν την επαναφορά στοιχείων, ελέγξτε αν ο φάκελος \"MIUI-Backup-AllBackup\" υπάρχει στην κινητή συσκευή σας. Εάν όχι, δημιουργήστε τον."</string>
+    <string name="reset_remove_data_hint">Όλα τα παραπάνω στοιχεία θα διαγραφούν μόνιμα. Δημιουργήστε αντίγραφο ασφαλείας όλων των σημαντικών στοιχείων στον υπολογιστή σας ή στο Xiaomi Cloud πριν συνεχίσετε.</string>
+    <string name="restore_oaid_dialog_content">Πολλαπλές εφαρμογές χρησιμοποιούν την εικονική σας ταυτότητα. Εάν την επαναφέρετε τώρα, ένα μέρος των δεδομένων της εφαρμογής σας ενδέχεται να χαθεί ή να μην είναι δυνατό να χρησιμοποιηθεί. Να γίνει επαναφορά?</string>
 </resources>
 

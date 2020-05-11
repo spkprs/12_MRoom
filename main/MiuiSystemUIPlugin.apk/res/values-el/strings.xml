@@ -4,4 +4,5 @@
   <string name="no_avaliable_application">Δεν υπάρχουν διαθέσιμες εφαρμογές</string>
   <string name="quick_settings_hang_label">Αναδυόμενα παράθυρα</string>
   <string name="quick_settings_hang_on">Μπορείτε να χρησιμοποιήσετε τα αναδυόμενα παράθυρα τώρα</string>
+  <string name="quick_settings_scanner_label">Σαρωτής</string>
 </resources>

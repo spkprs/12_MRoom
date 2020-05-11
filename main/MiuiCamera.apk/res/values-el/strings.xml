@@ -1076,4 +1076,25 @@
   <string name="wideselfie_rotate_to_front">Κλίση της συσκευής εμπρός</string>
   <string name="wideselfie_rotate_to_left_slowly">Περιστρέψτε προς τα αριστερά</string>
   <string name="wideselfie_rotate_to_right_slowly">Περιστρέψτε προς τα δεξιά</string>
+    <string name="ambilight_description_title">Σχετικά με τη μακρά έκθεση</string>
+    <string name="ambilight_intro_crowd_moving_part1">Κατά τη λήψη σε πολυσύχναστο δρόμο, ζητήστε από το θέμα σας να σταματήσει. Άλλα άτομα θα εμφανίζονται ως θολές γραμμές.</string>
+    <string name="ambilight_intro_crowd_moving_part2">Μπορείτε επίσης να φωτογραφίσετε την κίνηση και τα κινούμενα πλήθη. Η μακρά έκθεση θα διατηρήσει τα κτίρια σε κατάσταση ευκρίνειας, αλλά όλα τα κινούμενα αντικείμενα θα είναι θολά.</string>
+    <string name="ambilight_intro_light_track">Χρησιμοποιήστε μια πηγή φωτός για να \"χρωματίσετε\" πάνω από μια σκοτεινή σκηνή για να συγκεντρώσετε όλα τα φωτισμένα κομμάτια σε μία εικόνα.</string>
+    <string name="ambilight_intro_magic_star">Χρησιμοποιήστε αυτή τη λειτουργία σε μέρη με χαμηλό φωτισμό. Η έκθεση θα οριστεί σε %d δευτ, επομένως η χρήση ενός τρίποδου είναι εξαιρετική ιδέα.</string>
+    <string name="ambilight_intro_silky_water_part1">Χρησιμοποιήστε αυτή τη λειτουργία σε κινούμενα σύννεφα. Θα δώσει στον ουρανό ένα αποτέλεσμα \"ελαιογραφίας\".</string>
+    <string name="ambilight_intro_silky_water_part2">Αυτή η λειτουργία σε κινούμενο νερό (ποτάμια, καταρράκτες, και λίμνες) τα κάνει να μοιάζουν μεταξένια.</string>
+    <string name="ambilight_intro_star_track">"Το να κάνετε λήψη τον έναστρο ουρανό για πολύ ώρα μπορεί να συλλάβει τις τροχιές των αστέρων. Μην ξεχάσετε να χρησιμοποιήσετε ένα τρίποδο και να κάνετε συνεχόμενη λήψη για τουλάχιστον %d λεπτά."</string>
+    <string name="ambilight_intro_traffic_light">Τη νύχτα, μπορείτε να συλλάβετε την τροχιά των φωτεινών κινούμενων φώτων (π.χ. σε αυτοκίνητα και πλοία). Αυτή η λειτουργία επιτρέπει την προεπισκόπηση του τελικού αποτελέσματος στην οθόνη σας σε πραγματικό χρόνο.</string>
+    <string name="ambilight_scene_crowd_moving">Κινούμενο πλήθος</string>
+    <string name="ambilight_scene_light_track">Ζωγραφική Φωτός</string>
+    <string name="ambilight_scene_magic_star">Εναστρος ουρανός</string>
+    <string name="ambilight_scene_silky_water">Μεταξένιο νερό</string>
+    <string name="ambilight_scene_star_track">Τροχιές αστεριών</string>
+    <string name="ambilight_scene_traffic_light">Τροχιές Neon</string>
+    <string name="ambilight_tips_for_using_tripod">Χρησιμοποιήστε τρίποδο</string>
+    <string name="more_mode_style">"Επιλέξτε πώς θέλετε να τακτοποιήσετε όλες τις λειτουργίες της κάμερας"</string>
+    <string name="more_mode_style_popup">\"Περισσότερο\" πίνακα</string>
+    <string name="more_mode_style_tab">\"Περισσότερο\" καρτέλες</string>
+    <string name="parameter_ambilight_title">Μακρά έκθεση</string>
+    <string name="pref_more_mode_style_title">Λειτουργίες Κάμερας</string>
 </resources>

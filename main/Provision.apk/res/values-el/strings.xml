@@ -250,4 +250,8 @@
      <string name="poco_launcher_privacy_policy">POCO Launcher πολιτική απορρήτου</string>
      <string name="poco_launcher_user_agreement">POCO Launcher Συμφωνία χρήστη</string>
      <string name="terms_of_use_lable_default_input_method_mint">\n\nΑποδοχή της Mint Keyboard πολιτική απορρήτου πριν τη χρήση του.</string>
+    <string name="backup_introduction">Χρησιμοποιήσετε αυτήν την εφαρμογή για να δημιουργήσετε αντίγραφα ασφαλείας και να επαναφέρετε στοιχεία στη συσκευή σας.</string>
+    <string name="permission_backup">Πρόσβαση στον Αποθ. χώρο</string>
+    <string name="permission_backup_introduction">Για πρόσβαση και αποθήκευση αντιγράφων ασφαλείας στη συσκευή σας</string>
+    <string name="service_name_backup">Αντίγραφα ασφαλείας</string>
 </resources>

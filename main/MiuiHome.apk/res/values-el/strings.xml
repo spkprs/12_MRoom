@@ -384,6 +384,8 @@
   <string name="open_personal_assistant_dialog_title">Απενεργ. Προσωπικού βοηθού</string>
   <string name="open_personal_assistant_title">Προσωπικός βοηθός</string>
   <string name="out_of_space">Δεν υπάρχει χώρος σε αυτή την οθόνη.</string>
+  <string name="perfect_icons_switch_summary">Επανασχεδίαση εικονιδίων εφαρμογών τρίτων</string>
+  <string name="perfect_icons_switch_title">Τέλεια εικονίδια</string>
   <string name="permdesc_install_shortcut">Επιτρέπει σε μια εφαρμογή την προσθήκη συντομεύσεων χωρίς την παρέμβαση του χρήστη.</string>
   <string name="permdesc_install_widget">Επιτρέπει σε μια εφαρμογή να προσθέτει widgets, χωρίς την παρέμβαση του χρήστη.</string>
   <string name="permdesc_read_settings">Επιτρέπει σε μια εφαρμογή την ανάγνωση των ρυθμίσεων και των συντομεύσεων στην αρχική οθόνη.</string>

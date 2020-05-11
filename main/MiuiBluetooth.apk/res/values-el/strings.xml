@@ -111,7 +111,8 @@
   <string name="bluetooth_opp_profile_summary_not_connected">Δεν είναι συνδεδεμένος με το διακομιστή μεταφοράς αρχείων</string>
   <string name="bluetooth_opp_profile_summary_use_for">Χρήση για μεταφορά αρχείων</string>
   <string name="bluetooth_pairing">Αντιστοίχιση…</string>
-  <string name="bluetooth_pairing_accept">Pair</string>
+  <string name="bluetooth_paired">Αποθηκεύτηκε</string>
+  <string name="bluetooth_pairing_accept">Σύζευξη</string>
   <string name="bluetooth_pairing_accept_all_caps">PAIR</string>
   <string name="bluetooth_pairing_decline">Ακύρωση</string>
   <string name="bluetooth_pairing_device_down_error_message">Δεν είναι δυνατή η επικοινωνία με %1$s.</string>
