@@ -384,9 +384,9 @@
   <string name="micloud_warn_low_sum">Το Xiaomi Cloud σας είναι 90% πλήρες.</string>
   <string name="micloud_warn_low_title">Σχεδόν χωρίς χώρο…</string>
   <string name="micloud_web_discription_place_holder">Επισκεφθείτε %1$s στον υπολογιστή σας για τη διαχείριση των δεδομένων σας.</string>
-  <string name="micloud_wipe_data_confirm_label">Αφαίρεση δεδομένων από το Xiaomi Cloud</string>
-  <string name="micloud_wipe_data_confirm_title">Αφαίρεση στοιχείων συγχρονισμένων με το Xiaomi Cloud από το τηλέφωνο αφού αποσυνδεθείτε;</string>
-  <string name="micloud_wipe_data_remove">Αφαίρεση</string>
+  <string name="micloud_wipe_data_confirm_label">Διαγραφή συγχρονισμένων στοιχείων από αυτήν τη συσκευή;</string>
+  <string name="micloud_wipe_data_confirm_title">Ορισμένα στοιχεία από τις ακόλουθες εφαρμογές συγχρονίζονται με το Xiaomi Cloud. Μπορείτε να τα διαγράψετε από αυτήν τη συσκευή, διατηρώντας τα στο cloud.</string>
+  <string name="micloud_wipe_data_remove">Διαγραφή</string>
   <string name="micloud_wipe_data_retain">Διατήρηση</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">pull to refresh</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">refresh completed</string>

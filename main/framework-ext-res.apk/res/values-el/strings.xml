@@ -228,6 +228,7 @@
   <string name="select">Επιλογή</string>
   <string name="select_all">Επιλογή όλων</string>
   <string name="send_files_to">Αποστολή στοιχείων σε</string>
+  <string name="serviceEnabled">Η υπηρεσία ήταν ενεργή.</string>
   <string name="service_not_subscribed">WITHOUT SUBSCRIPTION TO SERVICE -33-</string>
   <string name="set_password_action">Ορισμός κωδικού πρόσβασης</string>
   <string name="set_password_message">Ορισμός νέου κωδικού πρόσβασης;</string>

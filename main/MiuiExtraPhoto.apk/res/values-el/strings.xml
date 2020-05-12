@@ -3,6 +3,9 @@
 <resources>
      <string name="doc_photo_adjust_section_title">Σύρετε για προσαρμογή</string>
      <string name="doc_photo_doc_photo_title">Επεξεργασία εγγράφου</string>
+     <string name="doc_photo_cancel">Ακύρωση</string>
+     <string name="doc_photo_confirm">Έξοδος</string>
+     <string name="doc_photo_idcard_alert_msg">Απόρριψη όλων των αλλαγών και έξοδος από την επεξεργασία;</string>
      <string name="doc_photo_enhance_bin">Μ&amp;Α</string>
      <string name="doc_photo_enhance_color">Βελτιωμένο</string>
      <string name="doc_photo_enhance_none">Κανονικό</string>
