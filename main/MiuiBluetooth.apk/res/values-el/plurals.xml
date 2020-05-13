@@ -13,7 +13,7 @@
     <item quantity="one">%1$d συνδεδεμένη συσκευή</item>
   </plurals>
     <plurals name="fast_connect_reset_nzbt">
-        <item quantity="other">Κρατήστε πατημένο το επάνω κουμπί για %1$s δευτ κατά την απενεργοποίηση</item>
-        <item quantity="one">Κρατήστε πατημένο το επάνω κουμπί για %1$s δευτ κατά την απενεργοποίηση</item>
+        <item quantity="other">Κρατήστε πατημένο το κουμπί για %1$s δευτ σε ανενεργή συσκευή</item>
+        <item quantity="one">Κρατήστε πατημένο το κουμπί για %1$s δευτ σε ανενεργή συσκευή</item>
     </plurals>
 </resources>

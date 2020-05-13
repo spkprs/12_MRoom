@@ -852,6 +852,8 @@
   <string name="fiveg_bearer_status1">"5G κατάσταση κομιστή  : "</string>
   <string name="fiveg_endc_available1">NR ENDC διαθέσιμο:</string>
   <string name="fiveg_endc_status1">Κατάσταση Τέλους :</string>
+  <string name="fiveg_hosted_mode_summary">Αυτόματη εναλλαγή στα καλύτερα διαθέσιμα δίκτυα όταν η συνδεσιμότητα 5G είναι κακή</string>
+  <string name="fiveg_hosted_mode_title">5G Έξυπνη εναλλαγή</string>
   <string name="fiveg_icon_type1">Τύπος εικονιδίου NR :</string>
   <string name="fiveg_infos">5G Πληρ/ρίες</string>
   <string name="fiveg_network_config_type1">"Διαμόρφωση δικτύου Τύπου  : "</string>

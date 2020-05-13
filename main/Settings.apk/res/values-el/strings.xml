@@ -3690,6 +3690,8 @@
   <string name="miui_sos_call_warning_sim_unable">Χωρίς σήμα. Αδύνατη η αποστολή SMS.</string>
   <string name="miui_sos_calling_summary">Η συσκευή σας θα πραγματοποιήσει αυτόματες κλήσεις στις επαφές έκτακτης ανάγκης παίζοντας το φωνητικό μήνυμα SOS που έχετε εγγράψει. Η κλήση θα τερματιστεί αφού ολοκληρωθεί η αναπαραγωγή του μηνύματός σας. Η αυτόματη κλήση θα σταματήσει μετά την πρώτη επιτυχή προσπάθεια.</string>
   <string name="miui_sos_calling_title">Αυτόματη Κλήση</string>
+  <string name="miui_sos_remind_close">Η λειτουργία SOS είναι ενεργοποιημένη. Να απενεργοποιηθεί μαζί με όλες τις σχετικές λειτουργίες;</string>
+  <string name="miui_sos_remind_close_confirm">Απενεργοποίηση</string>
   <string name="miui_sos_contacts_add">Επαφές έκτακτης ανάγκης</string>
   <string name="miui_sos_contacts_category">Επαφές έκτακτης ανάγκης</string>
   <string name="miui_sos_emergency_contacts">Επαφές έκτακτης ανάγκης</string>

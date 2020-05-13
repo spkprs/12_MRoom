@@ -262,6 +262,7 @@
   <string name="fast_connect_device_title_find_headset_others">Φαίνεται ότι αυτή η συσκευή δεν είναι δική σας: %1$s</string>
   <string name="fast_connect_nzbt_name">ZMI NZBT01</string>
   <string name="fast_connect_nzbt_reset">Παρατεταμένα το επάνω κουμπί για %1$s δευτ. κατά την απενεργοποίηση</string>
+  <string name="fast_connect_reset_common">Επαναφορά αυτής της συσκευής ώστε να είναι δυνατή η σύζευξη</string>
   <string name="fast_connect_wbs_name">Ασύρματο ηχείο φορτιστή Mi</string>
   <string name="fast_connect_wbs_reset">Παρατεταμένα το επάνω κουμπί για %1$s δευτ. κατά την απενεργοποίηση</string>
   <string name="feiyu_vlog_name">Τσέπη Feiyu VLOG</string>

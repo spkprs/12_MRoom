@@ -269,6 +269,7 @@
      <string name="fail_to_view_attachment">Το συνημμένο δεν είναι διαθέσιμο</string>
      <string name="failed_to_add_media">Δεν μπορείτε να προσθέσετε το %1$s στο μήνυμά σας.</string>
      <string name="failed_to_resize_image">Η εικόνα δεν άλλαξε μέγεθός.</string>
+     <string name="failed_to_send">Αποτυχία αποστολής</string>
      <string name="fake_cell_alert_detect_error">"Αυτό δεν στάλθηκε από ψεύτικο δικτύο βάσης "</string>
      <string name="fake_cell_alert_hint">Φαίνεται ότι αυτό το μήνυμα στάλθηκε από αριθμό τηλεφώνου διαφορετικό από αυτόν που εμφανίζεται. Να είστε προσεκτικοί με τα SMS που περιέχει οικονομικά αιτήματα.</string>
      <string name="fake_cell_checking_hint">Έλεγχος ασφαλείας…</string>
