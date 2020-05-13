@@ -1331,7 +1331,7 @@
   <string name="qs_control_customize_other_tiles_title">Διαθέσιμοι διακόπτες</string>
   <string name="qs_control_customize_save_text">Τέλος</string>
   <string name="qs_control_customize_sub_title">Σύρετε για αναδιάταξη διακοπτών</string>
-  <string name="qs_control_customize_title">Προστέθηκαν διακόπτες</string>
+  <string name="qs_control_customize_title">Διακόπτες σε χρήση</string>
   <string name="qs_control_expand_detail_title">Τα δεδομένα μου</string>
   <string name="qs_control_header_tiles_title">Κέντρο ελέγχου</string>
   <string name="qs_customize">Επιτρέπει παρατεταμένο πάτημα και προσαρμογή Γρήγορων Ρυθμίσεων</string>

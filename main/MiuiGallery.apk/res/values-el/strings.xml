@@ -1489,7 +1489,7 @@
   <string name="picker_title_format">Επιλέξτε %1$d έως %2$d φωτογραφίες</string>
   <string name="picker_title_format_video">Επιλογή βίντεο (%1$d)</string>
   <string name="picker_title_selection_format">Επιλεγμένες φωτογραφίες: %d</string>
-  <string name="picker_title_selection_format_multiple">Επιλογή %1$d σε %2$d φωτό (%3$d)</string>
+  <string name="picker_title_selection_format_multiple">Επιλογή %1$d από %2$d φωτό (%3$d)</string>
   <string name="picker_title_specify_format">Επιλέξτε %d φωτογραφίες</string>
   <string name="picker_title_specify_format_one">Επιλέξτε %d φωτογραφία</string>
   <string name="picker_title_unlimit">Επιλέξτε φωτογραφίες</string>

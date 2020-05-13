@@ -159,8 +159,8 @@
   <string name="callrecordview_menu_add_call_note">Προσθήκη σημείωσης κλήσης</string>
   <string name="callrecordview_menu_aiphone">Κλήσεις AI</string>
   <string name="callrecordview_menu_batch_delete">Ομαδική διαγραφή</string>
-  <string name="callrecordview_menu_blocklist">Λίστα αποκλεισμών</string>
-  <string name="callrecordview_menu_conference">Κλήση συνδιάσκεψης</string>
+  <string name="callrecordview_menu_blocklist">Αποκλεισμένοι</string>
+  <string name="callrecordview_menu_conference">Συνδιάσκεψη</string>
   <string name="callrecordview_menu_delete">Εκκαθ. ιστορικού</string>
   <string name="callrecordview_menu_delete_accepted">Εκκαθάριση απαντημένων</string>
   <string name="callrecordview_menu_delete_all">Εκκαθ. ιστορικού</string>
@@ -172,7 +172,7 @@
   <string name="callrecordview_menu_delete_sim">Εκκαθάριση %s ιστορικού κλήσεων</string>
   <string name="callrecordview_menu_delete_stranger">Εκκαθάριση άγνωστων αριθμών</string>
   <string name="callrecordview_menu_edit_call_note">Επεξεργασία σημείωσης κλήσης</string>
-  <string name="callrecordview_menu_identify_numbers">Αναγνώριση αριθμών</string>
+  <string name="callrecordview_menu_identify_numbers">Εντοπισμός</string>
   <string name="callrecordview_menu_ip">Αυτόματη κλήση IP</string>
   <string name="callrecordview_menu_livetalk">Πακέτο Top-up</string>
   <string name="callrecordview_menu_misim">Mi SIM</string>
@@ -589,8 +589,8 @@
   <string name="export_to_sim">Εξαγωγή σε κάρτα SIM</string>
   <string name="export_to_sim_prepare_title">Προετοιμασία…</string>
   <string name="export_to_sim_title">Εξαγωγή…</string>
-  <string name="export_to_sim1">Εξαγωγή σε κάρτα SIM 1</string>
-  <string name="export_to_sim2">Εξαγωγή σε κάρτα SIM 2</string>
+  <string name="export_to_sim1">Εξαγωγή σε SIM 1</string>
+  <string name="export_to_sim2">Εξαγωγή σε SIM 2</string>
   <string name="export_vcard_description">Εξαγωγή vCard στον εσωτερικό χώρο αποθήκευσης του τηλεφώνου</string>
   <string name="exporting_contact_failed_message">Τα στοιχεία επικοινωνίας δεν εξήχθησαν.\nΑιτία: \"%s\"</string>
   <string name="exporting_contact_failed_title">Δεν ήταν δυνατή η εξαγωγή</string>
@@ -741,9 +741,9 @@
   <string name="import_from_onekey_migrate">Εισαγωγή με την Μεταφορά</string>
   <string name="import_from_other_device">Εισαγωγή από άλλη συσκευή</string>
   <string name="import_from_sdcard">Εισαγωγή από αποθηκευτικό χώρο</string>
-  <string name="import_from_sim">Εισαγωγή από κάρτα SIM</string>
-  <string name="import_from_sim1">Εισαγωγή από κάρτα SIM 1</string>
-  <string name="import_from_sim2">Εισαγωγή από κάρτα SIM 2</string>
+  <string name="import_from_sim">Εισαγωγή από SIM</string>
+  <string name="import_from_sim1">Εισαγωγή από SIM 1</string>
+  <string name="import_from_sim2">Εισαγωγή από SIM 2</string>
   <string name="import_multiple_vcard_string">Εισαγωγή πολλαπλών αρχείων vCard</string>
   <string name="import_name">Όνομα</string>
   <string name="import_one_vcard_string">Εισαγωγή %d αρχείου vCard</string>

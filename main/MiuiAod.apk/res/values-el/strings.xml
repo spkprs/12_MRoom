@@ -159,5 +159,5 @@
   <string name="time_location">Θέση ρολογιού</string>
   <string name="time_style">Στυλ</string>
   <string name="time_style_layout">Διάταξη</string>
-  <string name="tip_to_open_aod_mode">Η λειτουργία \"\Πάντα στην Οθόνη\"\ είναι ανενεργή. Να ενεργοποιηθεί τώρα;</string>
+  <string name="tip_to_open_aod_mode">Η λειτουργία \"Πάντα στην Οθόνη\" είναι ανενεργή. Να ενεργοποιηθεί τώρα;</string>
 </resources>

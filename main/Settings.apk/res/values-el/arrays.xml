@@ -262,24 +262,24 @@
     <item>Λειτουργία Χαμηλής Αδράνειας</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-    <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
+    <item>Προεπιλογή συστήματος</item>
     <item>16 bit/δείγμα</item>
     <item>24 bit/δείγμα</item>
     <item>32 bit/δείγμα</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-    <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
+    <item>Προεπιλογή συστήματος</item>
     <item>16 bit/δείγμα</item>
     <item>24 bit/δείγμα</item>
     <item>32 bit/δείγμα</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-    <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
+    <item>Προεπιλογή συστήματος</item>
     <item>Μονοφωνικό</item>
     <item>Στερεοφωνικό</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-    <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
+    <item>Προεπιλογή συστήματος</item>
     <item>Μονοφωνικό</item>
     <item>Στερεοφωνικό</item>
   </string-array>
@@ -320,14 +320,14 @@
     <item>Καλύτερη προσπάθεια (αυτόμ. ρυθμός μετάδοσης bit)</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-    <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
+    <item>Προεπιλογή συστήματος</item>
     <item>44,1 kHz</item>
     <item>48,0 kHz</item>
     <item>88,2 kHz</item>
     <item>96,0 kHz</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-    <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
+    <item>Προεπιλογή συστήματος</item>
     <item>44,1 kHz</item>
     <item>48,0 kHz</item>
     <item>88,2 kHz</item>
@@ -341,7 +341,7 @@
     <item>8</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_summaries">
-    <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
+    <item>Προεπιλογή συστήματος</item>
     <item>SBC</item>
     <item>AAC</item>
     <item>Qualcomm® aptX™ audio</item>
@@ -356,7 +356,7 @@
     <item>Απενεργοποίηση προαιρετικών κωδικοποιητών</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_titles">
-    <item>Χρήση επιλογής συστήματος (Προεπιλογή)</item>
+    <item>Προεπιλογή συστήματος</item>
     <item>SBC</item>
     <item>AAC</item>
     <item>Qualcomm® aptX™ audio</item>

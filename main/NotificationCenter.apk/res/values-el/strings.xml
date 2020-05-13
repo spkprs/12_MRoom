@@ -236,11 +236,11 @@
   <string name="menu_setting_toast_recommend_minus">Θα βλέπετε λιγότερες ειδοποιήσεις από %s</string>
   <string name="menu_setting_toast_recommend_normal">Οι ειδοποιήσεις από %s δεν θα μειωθούν</string>
   <string name="menu_setting_toast_show_in_home">Οι ειδοποιήσεις από %s δεν θα ομαδοποιηθούν</string>
-  <string name="menu_setting_unfold">Important</string>
-  <string name="midnight">Night</string>
-  <string name="miuix_appcompat_cloud_state_disabled">Ο συγχρονισμός με το σύννεφο είναι απενεργοποιημένος</string>
-  <string name="miuix_appcompat_cloud_state_finished">Συγχρονίστηκε με το σύννεφο με επιτυχία</string>
-  <string name="miuix_appcompat_cloud_state_syncing">Συγχρονισμός με το σύννεφο…</string>
+  <string name="menu_setting_unfold">Σημαντικές</string>
+  <string name="midnight">Νύχτα</string>
+  <string name="miuix_appcompat_cloud_state_disabled">Ο συγχρονισμός με το cloud είναι απενεργοποιημένος</string>
+  <string name="miuix_appcompat_cloud_state_finished">Συγχρονίστηκε με το cloud με επιτυχία</string>
+  <string name="miuix_appcompat_cloud_state_syncing">Συγχρονισμός με το cloud…</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
