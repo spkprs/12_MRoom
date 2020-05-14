@@ -685,7 +685,7 @@
   <string name="notification_channel_play">play</string>
   <string name="notification_comment_fav_title">Αρέσει</string>
   <string name="notification_comment_reply_title">Απαντήσεις σε σχόλια</string>
-  <string name="notification_download_complete">Η λήψη ολοκληρώθηκε</string>
+  <string name="notification_download_complete">Επιτυχής λήψη</string>
   <string name="notification_download_failed">Δεν ήταν δυνατή η λήψη</string>
   <string name="notification_need_wifi_for_size">Το μέγεθος λήψης απαιτεί Wi-Fi.</string>
   <string name="notification_setting">Ρυθμίσεις ειδοποιήσεων</string>

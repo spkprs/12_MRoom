@@ -47,7 +47,7 @@
      <string name="ad_update_time_unKnown">Ενημερώθηκε: άγνωστο</string>
      <string name="ad_update_title">Αυτόματη ενημέρωση</string>
      <string name="address">Διεύθυνση</string>
-     <string name="address_choose_hint">%1$s, %2$s και %3$d άλλες τοποθεσίες</string>
+     <string name="address_choose_hint">%1$s, %2$s, και %3$d άλλες τοποθεσίες</string>
      <string name="addwhitelist">Προσθήκη στις εξαιρέσεις</string>
      <string name="all_address_choose_hint">Όλοι οι αριθμοί σε αυτή την τοποθεσία</string>
      <string name="antispam_notificaiton_type_show_all">Όλοι οι αριθμοί</string>
