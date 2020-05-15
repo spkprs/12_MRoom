@@ -284,9 +284,9 @@
   <string name="mibi_msg_send_no_sim_error">Αποτυχία αποστολής μηνύματος: δοκιμάστε να τοποθετήσετε ξανά την κάρτα SIM.</string>
   <string name="mibi_msg_send_parameter_error">Αποτυχία αποστολής μηνύματος ， υπάρχει σφάλμα στο περιεχόμενο.</string>
   <string name="mibi_msg_send_send_fail_error">Αποτυχία αποστολής μηνύματος</string>
-  <string name="mibi_msg_telecom_order_denom">￥% 1s （δεν περιλαμβάνονται τα τέλη δεδομένων δικτύου κινητής τηλεφωνίας）</string>
+  <string name="mibi_msg_telecom_order_denom">￥%1s （δεν περιλαμβάνονται τα τέλη δεδομένων δικτύου κινητής τηλεφωνίας）</string>
   <string name="mibi_msg_telecom_order_denom_label">Ποσό</string>
-  <string name="mibi_msg_telecom_order_goods">κέρματα% 1s Mi</string>
+  <string name="mibi_msg_telecom_order_goods">κέρματα %1s Mi</string>
   <string name="mibi_msg_telecom_order_goods_label">Προϊόν</string>
   <string name="mibi_msg_telecom_picker_hint_1_1">Αφού αγγίξετε Επιβεβαίωση αγοράς, το τηλέφωνό σας θα</string>
   <string name="mibi_msg_telecom_picker_hint_1_2">Επικοινωνήστε αυτόματα με τον πάροχο υπηρεσιών σας.</string>
