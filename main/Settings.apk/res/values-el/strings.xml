@@ -1703,7 +1703,7 @@
   <string name="current_use_uicc_wallet">Χρησιμοποιείτε SIM%1$s Πορτοφόλι</string>
   <string name="current_zone">(τρέχουσα)</string>
   <string name="custom_carrier_title">Επεξεργασία ονόματος φορέα</string>
-  <string name="custom_color">Προσαρμοσμένη</string>
+  <string name="custom_color">Προσαρμογή</string>
   <string name="custom_wifi_name_title">Επεξεργασία ονόματος WiFi</string>
   <string name="cutout_mode_always">Εμφάνιση πάντα εγκοπής</string>
   <string name="cutout_mode_default">Αυτόματα</string>
