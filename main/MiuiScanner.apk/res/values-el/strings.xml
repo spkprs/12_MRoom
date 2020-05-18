@@ -187,11 +187,7 @@
      <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
      <string name="importFailed">"Αδύνατη η εισαγωγή"</string>
      <string name="import_contact">Εισαγωγή επαφής</string>
-     <!-- MNPS mismatch found! Translated: 0 Original: 1
-	%s: 0 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: "Scanner needs to use your camera and process the images you take while using the app. Don't use Scanner to take photos of the objects containing your personal information. By tapping \"Agree\", you're agreeing to our &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt; and allowing Scanner to connect to the internet." -->
-     <string name="impunity_declaration_content">"Ο Σαρωτής απαιτεί άδεια πρόσβασης στην Κάμερα για δημιουργία φωτογραφιών. Μη τον χρησιμοποιείτε για φωτογράφηση αντικειμένων που περιέχουν προσωπικές πληροφορίες. Όταν επιλέξετε \"Αποδοχή\", συμφωνείτε με την \"Πολιτική Απορρήτου\" μας και την πρόσβαση στο διαδίκτυο."</string>
+     <string name="impunity_declaration_content">"Ο Σαρωτής απαιτεί άδεια πρόσβασης στην Κάμερα για δημιουργία φωτογραφιών. Μη τον χρησιμοποιείτε για φωτογράφηση αντικειμένων που περιέχουν προσωπικές πληροφορίες. Όταν επιλέξετε \"Αποδοχή\", συμφωνείτε με την  &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Πολιτική Απορρήτου&lt;/a>&lt;/font> μας και την πρόσβαση στο διαδίκτυο."</string>
      <string name="impunity_declaration_negative_text">Έξοδος</string>
      <string name="impunity_declaration_title">Πολιτική Απορρήτου</string>
      <string name="jd_shopping_title">Search on JD</string>
@@ -385,4 +381,13 @@
      <string name="you_have_permission_to_download">Πατήστε για λήψη της έκδοσης Beta</string>
      <string name="you_id">"Το ID σας: "</string>
      <string name="your_application_is_under_review">" (Η αίτησή σας εξετάζεται.)"</string>
+	 <string name="copy">Αντιγραφή</string>
+	 <string name="document_ocr_fail">"Δεν ήταν δυνατή η αναγνώριση του κειμένου. Περιστρέψτε την εικόνα ώστε να ταιριάζει με τον προσανατολισμό της συσκευής σας και προσπαθήστε ξανά."</string>
+	 <string name="document_spin">Περιστροφή</string>
+	 <string name="expand_button_title">Για προχωρημένους</string>
+	 <string name="feedback_phone">Στοιχεία επικοινωνίας (προαιρετικά)</string>
+	 <string name="history_empty">Δεν υπάρχουν στοιχεία εδώ ακόμη</string>
+	 <string name="if_to_open_milogo_scanning">Αναγνώριση λογότυπου Xiaomi</string>
+	 <string name="not_set">Δεν έχει οριστεί</string>
+	 <string name="preference_copied">\"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
 </resources>
