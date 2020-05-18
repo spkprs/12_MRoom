@@ -1097,4 +1097,5 @@
     <string name="more_mode_style_tab">\"Περισσότερο\" καρτέλες</string>
     <string name="parameter_ambilight_title">Μακρά έκθεση</string>
     <string name="pref_more_mode_style_title">Λειτουργίες Κάμερας</string>
+    <string name="pref_module_settings">Λειτουργίες</string>
 </resources>
