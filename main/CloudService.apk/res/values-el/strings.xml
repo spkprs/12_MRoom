@@ -104,6 +104,7 @@
   <string name="finddevice_miservice_notification_content">Εάν χαθεί, κλειδώστε τη συσκευή σας από απόσταση</string>
   <string name="finddevice_miservice_notification_title">Ενεργοποίηση Εύρεση συσκευής</string>
   <string name="forget_password"><u>Ξέχασα τον κωδικό</u></string>
+  <string name="help_and_feedback">Βοήθεια &amp; σχόλια</string>
   <string name="i_know">ΟΚ</string>
   <string name="input_password_hint">Εισαγωγή κωδικού</string>
   <string name="internet_access_dspt">Αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet για να λειτουργήσει κανονικά.</string>
@@ -219,6 +220,8 @@
   <string name="micloud_find_device_guide_alert_positive">OK</string>
   <string name="micloud_find_device_guide_alert_title">Θυμηθείτε τον κωδικό σας</string>
   <string name="micloud_find_device_guide_button">Ενεργοποίηση της Εύρεση συσκευής</string>
+  <string name="micloud_find_device_guide_desc_pad">"Είσοδος σε &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> για εντοπισμό, κλείδωμα ή διαγραφή της συσκευής σας. Αυτό μπορεί να σας βοηθήσει να βρείτε τη συσκευή σας σε περίπτωση που χαθεί. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[Βοήθεια]&lt;/a>"</string>
+  <string name="micloud_find_device_guide_desc_phone">"Είσοδος σε &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> για εντοπισμό, κλείδωμα ή διαγραφή της συσκευής σας. Αυτό μπορεί να σας βοηθήσει να βρείτε τη συσκευή σας σε περίπτωση που χαθεί. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[Βοήθεια]&lt;/a>"</string>
   <string name="micloud_find_device_guide_fail_reopen">Ενεργοποίηση του Εύρεση συσκευής στο Xiaomi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Ελέγξτε τη σύνδεση δικτύου σας και δοκιμάστε ξανά.</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Συγχρονίστε επαφές, φωτογραφίες, σημειώσεις και άλλα πολλά με το Xiaomi Cloud</string>

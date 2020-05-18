@@ -1277,7 +1277,7 @@
   <string name="free_time_traffic_title">Εισάγετε το δωρεάν όριο δεδομένων</string>
   <string name="free_traffic_settings">Ρυθμίσεις δωρεάν χρήσης δεδομένων</string>
   <string name="function_close">Ανενεργό</string>
-  <string name="function_gwsd_detail">Σχετικά με αυτή τη λειτουργία:\n1. Οι εισερχόμενες κλήσεις στην κάρτα δεδομένων σας δεν θα διακόψουν τη σύνδεση δεδομένων κινητής. Η σύνδεση θα διακοπεί μόνο όταν απαντήσετε σε μια κλήση.\n2. Όταν η λειτουργία αυτή είναι ενεργή, ο καλών δεν θα ακούσει τους ήχους αναμονής κλήσης. Οι εισερχόμενες κλήσεις θα ολοκληρωθούν εκτός αν απαντήσετε μέσα σε 6 δευτερόλεπτα.\n3. Αυτή η λειτουργία λειτουργεί μόνο για κάρτες SIM δεδομένων. Οι κλήσεις προς την κύρια SIM θα διακόψουν τη σύνδεση δεδομένων κινητής τηλεφωνίας.\n4. Αυτή η λειτουργία υποστηρίζεται μόνο από την China Mobile και την China Unicom.</string>
+  <string name="function_gwsd_detail">Σχετικά με αυτήν την λειτουργία:\n+1. Όταν χρησιμοποιείτε δεδομένα κινητής σε SIM δεδομένων ή σε κανονική κάρτα SIM που είναι συνδεδεμένη σε δίκτυο VoLTE, η σύνδεση δεν θα διακοπεί με εισερχόμενες κλήσεις μέχρι να συνεχίσετε.\n+2. Όταν αυτή η λειτουργία είναι ενεργοποιημένη, το άλλο άτομο δεν θα μπορεί να ακούσει τους τόνους επιστροφής κλήσης εκτός εάν χρησιμοποιείτε μια κανονική κάρτα SIM. Οι εισερχόμενες κλήσεις θα απορρίπτονται αυτόματα μετά από 7-10 δευτ αδράνειας.\n+3. Υποστηρίζονται οι κάρτες SIM δεδομένων που εκδίδονται από την China Mobile και την China Unicom. Υποστηρίζονται οι κανονικές κάρτες SIM που εκδίδονται από τις China Mobile, China Unicom και China Telecom.</string>
   <string name="function_gwsd_title">Μην επιτρέπετε εισερχόμενες κλήσεις να διακόπτουν τη σύνδεση δεδομένων SIM</string>
   <string name="function_shield_auto_bright">Απενεργοποίηση αυτόματης φωτεινότητας</string>
   <string name="function_shield_eye_shield">Απενεργοποίηση λειτουργίας ανάγνωσης</string>
@@ -2202,6 +2202,7 @@
   <string name="pm_auto_start_by_system">Έναρξη εφαρμογών</string>
   <string name="pm_auto_start_by_system_event">Επιτρέψτε στην εφαρμογή την αυτόματη εκκίνηση</string>
   <string name="pm_auto_start_proc_is_running">Εκτελείται</string>
+  <string name="pm_newfeature_sub_text">ΝΕΟ</string>
   <string name="pm_remember_choice">Απομνημόνευση επιλογής</string>
   <string name="pm_root_success_notification_infomation">Βεβαιωθείτε ότι κατανοείτε τους κινδύνους σχετικά με την πρόσβαση root</string>
   <string name="pm_root_success_notification_title">Πρόσβαση root ενεργή</string>

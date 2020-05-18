@@ -323,7 +323,9 @@
   <string name="operation_show_sys">Εμφάνιση κρυφών αρχείων</string>
   <string name="operation_unfavorite">Αφαίρεση από τα Αγαπημένα</string>
   <string name="optional_change_wifi">Για απομακρυσμένη διαχείριση αρχείων μέσω Wi-Fi</string>
-  <string name="otg_file_security_confirm">αντιγραφή στο τηλέφωνο</string>
+  <string name="otg_data_transfer_success">Μεταφέρθηκε με επιτυχία</string>
+  <string name="otg_data_transferring">"Μεταφορά αρχείων... Μην αποσυνδέετε τον εξωτερικό χώρο αποθήκευσης."</string>
+  <string name="otg_file_security_confirm">Αντιγραφή στο τηλέφωνο</string>
   <string name="otg_file_security_details">Παρακαλώ αντιγραφή στο τηλέφωνο</string>
   <string name="otg_file_security_note">OGTΑσφάλεια</string>
   <string name="overwrite_msg">Το \"%s\" υπάρχει ήδη. Πατήστε για αντικατάσταση με το νέο αρχείο.</string>

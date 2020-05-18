@@ -28,7 +28,7 @@
      <string name="abc_shareactionprovider_share_with">Share with</string>
      <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
      <string name="abc_toolbar_collapse_description">Collapse</string>
-     <string name="agree_description">请您同意应用联网，获取更完整的功能体验。</string>
+     <string name="agree_description">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Internet για να μπορεί να χρησιμοποιεί όλες τις δυνατότητές της.</string>
      <string name="alert_message_clear_records">Διαγραφή επιλεγμένων εγγραφών;</string>
      <string name="alert_message_delete_local_record">Διαγραφή αυτής της εγγραφής;</string>
      <string name="alert_message_delete_record">Η διαγραφή της εγγραφής από τη συσκευή σας θα διαγράψει επίσης αυτήν την εγγραφή από το Xiaomi Cloud. Διαγραφή τώρα;</string>

@@ -151,8 +151,9 @@
      <string name="error_num_placeholder">--</string>
      <string name="error_retry_later">"Απέτυχε η ολοκλήρωση ενέργειας, προσπαθήστε αργότερα παρακαλώ."</string>
      <string name="error_unknown">Κάτι έγινε λάθος</string>
-     <string name="expand_button_title">Advanced</string>
+     <string name="expand_button_title">Προχωρημένες</string>
      <string name="get_device_id_error">Το αναγνωριστικό συσκευής απέτυχε</string>
+     <string name="help_and_feedback">Βοήθεια και σχόλια</string>
      <string name="hint_restore_cross_space">Η διάταξη της αρχικής οθόνης ενδέχεται να μην εμφανίζεται σωστά εάν μεταφέρετε στοιχεία μεταξύ διαστημάτων.</string>
      <string name="home_hint_global_launcher">Εκκινητής POCO</string>
      <string name="home_hint_other_launcher">Άλλος Εκκινητής</string>

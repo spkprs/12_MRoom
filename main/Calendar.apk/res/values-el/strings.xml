@@ -684,6 +684,7 @@
   <string name="miuix_search_history_clear">Clear search history</string>
   <string name="miuix_search_history_default_title">Ιστορικό αναζήτησης</string>
   <string name="miuix_search_recommendation_default_title">Μπορεί να σας ενδιαφέρουν αυτά τα</string>
+  <string name="miuix_search_recommendation_item_del_des">Διαγραφή</string>
   <string name="modify_all">Αλλαγή όλων των γεγονότων στη σειρά</string>
   <string name="modify_all_following">Αλλαγή τρέχοντος και όλων των μελλοντικών γεγονότων</string>
   <string name="modify_event">Αλλαγή μόνο αυτού του γεγονότος</string>

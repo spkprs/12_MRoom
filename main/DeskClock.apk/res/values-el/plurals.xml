@@ -76,6 +76,14 @@
     <item quantity="other">Αναβολή για %d λεπ</item>
     <item quantity="one">Αναβολή για %d λεπ</item>
   </plurals>
+    <plurals name="stopwatch_running_notification_day">
+        <item quantity="other">Το χρονόμετρο εκτελείται εδώ και %s ημέρες. Πατήστε για προβολή.</item>
+        <item quantity="one">Το χρονόμετρο εκτελείται εδώ και %s ημέρα. Πατήστε για προβολή.</item>
+    </plurals>
+    <plurals name="stopwatch_running_notification_hour">
+        <item quantity="other">Το χρονόμετρο εκτελείται εδώ και %s ώρες. Πατήστε για προβολή.</item>
+        <item quantity="one">Το χρονόμετρο εκτελείται εδώ και %s ώρα. Πατήστε για προβολή.</item>
+    </plurals>
   <plurals name="timer_message_hour">
     <item quantity="other">"%1$d ώρ "</item>
     <item quantity="one">%1$d ώρ</item>

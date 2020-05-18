@@ -1225,7 +1225,7 @@
   <string name="notification_otg_trackball_out">Το Trackball αποσυνδέθηκε</string>
   <string name="notification_otg_unknow_in">Η συσκευή OTG συνδέθηκε</string>
   <string name="notification_otg_unknow_out">Η συσκευή OTG αποσυνδέθηκε</string>
-  <string name="notification_summary_message_format">%1$s: %2$s</string>
+  <string name="notification_storage_float">Εξωτερική αποθήκευση</string>
   <string name="notification_tap_again">Πατήστε ξανά για άνοιγμα</string>
   <string name="notification_template_text">Νέα ειδοποίηση. Πατήστε για εμφάνιση</string>
   <string name="np_mcc">429</string>
@@ -1668,6 +1668,7 @@
   <string name="status_bar_volte_label">HD</string>
   <string name="status_bar_work">Προφίλ εργασίας</string>
   <string name="status_unavailable">Μη διαθέσιμο</string>
+  <string name="storage_is_connecting">%1$s είναι συνδεδεμένο</string>
   <string name="stream_accessibility">Προσβασιμότητα</string>
   <string name="stream_alarm">Αφύπνηση</string>
   <string name="stream_bluetooth_sco">Bluetooth</string>

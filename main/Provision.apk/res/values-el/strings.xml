@@ -204,11 +204,9 @@
      <string name="skip_gesture_guide_dialog_title">Χειρονομίες πλήρους οθόνης</string>
      <string name="skip_underline">Παράλειψη</string>
      <string name="start_up_slogan">Η ζωή γίνεται ευκολότερη</string>
-     <string name="suggested_actions_uri">android.resource://com.android.provision/raw/suggested_actions</string>
      <string name="summary_not_set">Χωρίς ρύθμιση</string>
      <string name="system_navigation_mode">Λειτουργία πλοήγησης Συστήματος</string>
      <string name="terms_of_use">Όροι και Προϋποθέσεις</string>
-     <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTMLViewer</string>
      <string name="terms_of_use_label">"Παρακαλούμε διαβάστε τους Όρους Χρήσης και την Πολιτική Απορρήτου για να καταλάβετε τι είδους πληροφορίες συλλέγουμε, πώς τις χρησιμοποιούμε και τι επιλογές είναι διαθέσιμες σε εσάς.
 Πρέπει να συμφωνήσετε με τους Όρους Χρήσης και την Πολιτική Απορρήτου πριν χρησιμοποιήσετε το MIUI.
 %s και με τα στοιχεία λογαριασμού Mi θα συνδεθεί στο δίκτυο για να προσδιορίσουν την τοποθεσία σας."</string>
@@ -240,7 +238,6 @@
      <string name="voice_assist_desp">Πείτε \"Mi AI\" στο τηλέφωνό σας. Η Mi AI θα αναγνωρίσει τη φωνή σας και θα μπορέσετε να ελέγξετε τη συσκευή σας.</string>
      <string name="voice_assist_title">Φωνητική Αφύπνιση</string>
      <string name="welcome">Καλωσορίσατε!</string>
-     <string name="wizard_script_uri">android.resource://com.android.provision/raw/wizard_script</string>
      <string name="zone_picker_title">Επιλογή ζώνης ώρας</string>
     <string name="service_name_fast_pairing">Mi Link</string>
     <string name="fast_pairing_introduction">Mi Link επιτρέπει στη συσκευή σας να συνδεθεί σε κοντινές συσκευές Bluetooth. Για να μπορείτε να βρείτε συσκευές κοντά, επιτρέψτε στο Mi Link να συνδεθεί στο Internet.</string>
@@ -254,4 +251,10 @@
     <string name="permission_backup">Πρόσβαση στον Αποθ. χώρο</string>
     <string name="permission_backup_introduction">Για πρόσβαση και αποθήκευση αντιγράφων ασφαλείας στη συσκευή σας</string>
     <string name="service_name_backup">Αντίγραφα ασφαλείας</string>
+    <string name="mobile_network">Χρήση δεδομένων κινητής</string>
+    <string name="move_data_dialog_box_le">"Αυτό επιτρέπει τη χρήση δεδομένων κινητής τηλεφωνίας και σύνδεσης GPS με βάση το αίτημα του χρήστη. Ο συγχρονισμός λογαριασμών και άλλων στοιχείων ενδέχεται να απαιτεί τη χρήση δεδομένων, ανάλογα με τις προδιαγραφές της συσκευής."</string>
+    <string name="move_data_dialog_box_title">Εκτός εάν έχετε ένα πρόγραμμα με απεριόριστα δεδομένα, η χρήση δεδομένων μπορεί να προκαλέσει πρόσθετες χρεώσεις φορέα. Χρήση΄ δεδομένων οπωσδήποτε;</string>
+    <string name="move_data_dialog_cancel">Ακύρωση</string>
+    <string name="move_data_dialog_title">Μπορείτε αργότερα να περιορίσετε τη σύνδεση δεδομένων στις Ρυθμίσεις</string>
+    <string name="move_data_dialog_use">Χρήση</string>
 </resources>
