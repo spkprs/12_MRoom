@@ -443,7 +443,7 @@
   <string name="redo">Ακύρωση αναίρεσης</string>
   <string name="refuse_to_open_as_pic_because_of_loading">Περιμένετε μέχρι να φορτωθεί η Σημείωση, και δοκιμάστε ξανά.</string>
   <string name="refuse_to_share_as_pic_because_of_content">Η σημείωση είναι πολύ μεγάλη για κοινοποίηση.</string>
-  <string name="remind_title">Reminders</string>
+  <string name="remind_title">Υπενθυμίσεις</string>
   <string name="rename_folder_dialog_tile">Μετονομασία φακέλου</string>
   <string name="repeat_mode_day">Κάθε μέρα</string>
   <string name="repeat_mode_default">Ποτέ</string>
