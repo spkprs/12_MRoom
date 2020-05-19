@@ -4175,7 +4175,7 @@
   <string name="notification_importance_unspecified">Να αποφασίσει η εφαρμογή</string>
   <string name="notification_listener_disable_warning_cancel">Ακύρωση</string>
   <string name="notification_listener_disable_warning_confirm">Απενεργοποιήστε</string>
-  <string name="notification_listener_disable_warning_summary">Εάν απενεργοποιήσετε την πρόσβαση ειδοποίησης για %1$s, η πρόσβαση Μην ενοχλείτε μπορεί να είναι αναενεργή.</string>
+  <string name="notification_listener_disable_warning_summary">Εάν απενεργοποιήσετε την πρόσβαση ειδοποίησης της %1$s, η πρόσβαση Μην ενοχλείτε μπορεί να απενεργοποιηθεί επίσης</string>
   <string name="notification_listener_security_warning_summary">Η εφαρμ. %1$s θα είναι σε θέση να διαβάσει όλες τις ειδοποιήσεις, συμπεριλαμβανομένων των προσωπικών πληροφοριών, όπως ονόματα επαφών και του κειμένου των μηνυμάτων που λαμβάνετε. Θα είναι επίσης σε θέση να απορρίψει τις ειδοποιήσεις ή να πατήσει τα κουμπιά ενεργειών που περιέχουν.</string>
   <string name="notification_listener_security_warning_title">Ενεργοποίηση %1$s;</string>
   <string name="notification_log_details_actions">ενέργειες</string>

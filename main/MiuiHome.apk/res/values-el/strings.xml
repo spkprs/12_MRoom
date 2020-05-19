@@ -489,12 +489,12 @@
   <string name="show_most_popular_apps_you_used">Εμφάνιση εφαρμογών συχνής χρήσης στο συρτάρι</string>
   <string name="show_recents_recommend_title">Εμφάνιση συστάσεων</string>
   <string name="slide_to_open_newhome">Σύρετε προς τα πάνω για να ανοίξετε το Κέντρο περιεχομένου</string>
-  <string name="small_window_button_complete">Ολοκληρώθηκε</string>
+  <string name="small_window_button_complete">Τέλος</string>
   <string name="small_window_edit_content">Μπορείτε να προσθέσετε έως %d εφαρμογές</string>
   <string name="small_window_edit_title">Τρέχουσες εφαρμογές</string>
   <string name="small_window_empty">Επιλέξτε από τις διαθέσιμες εφαρμογές</string>
-  <string name="small_window_select_title">Διαθέσιμες εφαρμ.</string>
-  <string name="small_window_title_text">Πατήστε για να ανοίξετε ένα αιωρούμενο παράθυρο</string>
+  <string name="small_window_select_title">Διαθέσιμες εφαρμογές</string>
+  <string name="small_window_title_text">Ανοίξτε σε ένα αιωρούμενο παράθυρο</string>
   <string name="small_window_toast">Μπορείτε να προσθέσετε έως %d εφαρμογές</string>
   <string name="sort_by_abc">Ταξινόμ. ανά όνομα</string>
   <string name="sort_by_frequency">Ταξινόμ. ανά χρήση</string>

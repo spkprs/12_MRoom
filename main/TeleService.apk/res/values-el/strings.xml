@@ -1192,8 +1192,8 @@
   <string name="msim_set_sub_not_supported_phone_in_call">Αδύνατο κατά τη διάρκεια κλήσης</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Σφάλμα κάρτας SIM</string>
   <string name="msim_setting_categery_title">Ρυθμίσεις κάρτας SIM</string>
-  <string name="msim_setting_default_data">Κάρτα δεδομένων</string>
-  <string name="msim_setting_default_voice">Προεπιλογή για κλήσεις</string>
+  <string name="msim_setting_default_data">Δεδομένων</string>
+  <string name="msim_setting_default_voice">Κλήσεων</string>
   <string name="msim_setting_install_virtual_sim_install">Εγκατάσταση</string>
   <string name="msim_setting_install_virtual_sim_message">Εγκαταστήστε τις υπηρεσίες Mi Carrier Services για να αγοράσετε κάρτες SIM και να διαχειριστείτε το πρόγραμμα κινητής τηλεφωνίας σας.</string>
   <string name="msim_setting_install_virtual_sim_tip">Mi Carrier Services</string>
@@ -2077,7 +2077,7 @@
   <string name="vice_card_data_in_use_alert">Μπορεί να υπάρξουν πρόσθετα τέλη δεδομένων.</string>
   <string name="vice_slot_volte_data_switch_prompt">Η συσκευή σας θα συνδεθεί σε δίκτυο δεδομένων κινητής με τη δευτερεύουσα SIM κατά τις κλήσεις VoLTE. Αυτό μπορεί να δημιουργήσει πρόσθετες χρεώσεις δεδομένων. Επικοινωνήστε με τον πάροχο σας σχετικά.</string>
   <string name="vice_slot_volte_data_switch_summary">Κατά τις κλήσεις VoLTE, θα συνδεθείτε σε δίκτυο δεδομένων κινητής με την δευτερεύουσα SIM</string>
-  <string name="vice_slot_volte_data_switch_title">Χρήση δεδομένων κινητής κατά τις κλήσεις VoLTE στη δεύτερη SIM</string>
+  <string name="vice_slot_volte_data_switch_title">Χρήση δεδομένων κινητής κατά τις κλήσεις VoLTE στη SIM2</string>
   <string name="video_calling_settings_title">Κλήση βίντεο παρόχου</string>
   <string name="vm_change_failed">Δεν ήταν δυνατή η αλλαγή του αριθμού του τηλεφωνητή.\nΕπικοινωνήστε με τον πάροχο σας, εάν το πρόβλημα παραμένει.</string>
   <string name="vm_change_pin_error_invalid">Το νέο PIN περιέχει χαρακτήρες που δεν είναι έγκυροι.</string>
