@@ -2269,4 +2269,9 @@
   <string name="zen_mode_forever">Μέχρι να απενεργοποιήσετε</string>
   <string name="zen_mode_settings_summary_off">Ποτέ</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Ενεργοποίηση \"Μην ενοχλείτε\"</string>
+  <string name="incall_error_out_of_service_kr">Διατίθεται μόνο κλήση έκτακτης ανάγκης.</string>
+  <string name="incall_number_anonymous">Αγνωστος αριθμός</string>
+  <string name="msim_setting_default_data_description">Δεδομένα SIM %d</string>
+  <string name="msim_setting_default_voice_description">SIM %d</string>
+  <string name="private_num_kr">ID καλούντος περιορισμένο</string>
 </resources>

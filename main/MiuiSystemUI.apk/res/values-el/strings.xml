@@ -312,6 +312,8 @@
   <string name="audio_effect_custom">Ρύθμιση</string>
   <string name="audio_effect_info">Βελτιστοποίηση ήχου</string>
   <string name="audio_effect_settings">Επιλέξτε τύπο ακουστικών</string>
+  <string name="auto_brightness_off">Η αυτόματη φωτεινότητα απενεργοποιήθηκε</string>
+  <string name="auto_brightness_on">Η αυτόματη φωτεινότητα ενεργοποιήθηκε</string>
   <string name="auto_disable_screenbuttons_disable_toast_text">Πλήκτρα οθόνης ανενεργά. Διπλό χτύπημα σε οποιοδήποτε πλήκτρο για να τα ενεργοποιήσετε</string>
   <string name="auto_disable_screenbuttons_enable_toast_text">Πλήκτρα οθόνης ενεργά</string>
   <string name="available_via_carrier">Διατίθεται μέσω %1$s</string>

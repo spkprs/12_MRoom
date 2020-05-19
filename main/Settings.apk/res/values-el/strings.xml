@@ -4107,7 +4107,7 @@
   <string name="not_battery_optimizing">Δεν χρησιμοποιεί βελτιστοποίηση μπαταρίας</string>
   <string name="not_installed">Δεν είναι εγκατεστημένο</string>
   <string name="not_set">Δεν ρυθμίστηκε</string>
-  <string name="notch_and_status_bar_settings">Εγκοπή &amp; Γραμμή κατάστασης</string>
+  <string name="notch_and_status_bar_settings">Κέντρο ελέγχου &amp; Γραμμή κατάστασης</string>
   <string name="notch_force_black_desc">Ενεργοποίηση για αμαύρωση της περιοχής γύρω από την εγκοπή</string>
   <string name="notch_force_black_title">Απόκρυψη εγκοπής</string>
   <string name="notch_settings">Εγκοπή</string>
