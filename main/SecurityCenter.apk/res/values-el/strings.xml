@@ -1560,14 +1560,14 @@
   <string name="hints_virus_app_list_item_summary">εφαρμ.</string>
   <string name="hints_virus_app_summary">%s (app)</string>
   <string name="hints_virus_lib_update_default_summary">Χρόνος τελευταίας ενημέρωσης άγνωστος</string>
-  <string name="HIPS_Perm_add_voicemail_Desc">Προσθήκη φωνητικά μηνύματα συστήματος</string>
+  <string name="HIPS_Perm_add_voicemail_Desc">Προσθήκη σε φωνητικά μηνύματα συστήματος</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Ενεργοποίηση και απενεργοποίηση Bluetooth</string>
   <string name="HIPS_Perm_Call_Desc">Απευθείας κλήση τηλεφωνικών αριθμών</string>
   <string name="HIPS_Perm_CallLog_Desc">Εγγραφή και διαγραφή ιστορικού κλήσεων</string>
   <string name="HIPS_Perm_Contact_Desc">Τροποποίηση και διαγραφή επαφών</string>
   <string name="HIPS_Perm_get_accounts_Desc">Πρόσβαση σε όλους τους λογαριασμούς που είναι αποθηκευμένοι στη συσκευή</string>
-  <string name="HIPS_Perm_PhoneID_Desc">Πρόσβαση αριθμό τηλεφώνου , IMEI και IMSI</string>
-  <string name="HIPS_Perm_PhoneID_Desc_Q">Πρόσβαση αριθμό τηλεφώνου και κατάστασης συσκευής</string>
+  <string name="HIPS_Perm_PhoneID_Desc">Πρόσβαση στον αριθμό τηλεφώνου , IMEI και IMSI</string>
+  <string name="HIPS_Perm_PhoneID_Desc_Q">Πρόσβαση στον αριθμό τηλεφώνου και στην κατάστασης συσκευής</string>
   <string name="HIPS_Perm_process_nfc_Desc">Χρήση nfc</string>
   <string name="HIPS_Perm_Read_Call_Log_Desc">Ανάγνωση ιστορικού κλήσεων</string>
   <string name="HIPS_Perm_Read_Contact_Desc">Ανάγνωση των επαφών</string>
@@ -2650,7 +2650,7 @@
   <string name="report_warning">Αναφορά %1$s SMS στη Mi; Αυτά τα μηνύματα και οι αριθμοί τηλεφώνου από τους οποίους στάλθηκαν, θα φορτωθούν στους διακομιστές Mi για επανεξέταση. Οποιεσδήποτε προσωπικές πληροφορίες που σχετίζονται με αυτά τα μηνύματα, παραμένουν πάντα ανώνυμες.</string>
   <string name="report_warning_title">Αναφορά SMS</string>
   <string name="required_permissions">Υποχρεωτικά δικαιώματα</string>
-  <string name="required_permissions_desc">Αυτά τα δικαιώματα απαιτούνται για να είναι διαθέσιμες οι βασικές δυνατότητες και υπηρεσίες αυτής της εφαρμογής.</string>
+  <string name="required_permissions_desc">" Αυτά τα δικαιώματα απαιτούνται για να είναι διαθέσιμες οι βασικές δυνατότητες και υπηρεσίες αυτής της εφαρμογής."</string>
   <string name="reset_data_dialog_message">Αυτή η συσκευή δεν συσχετίζεται με το δικό σας Λογαριασμό Mi. Δεν είναι δυνατή η επαναφορά ή μηδενισμός του κωδικού. Δημιουργήστε αντίγραφα ασφαλείας όλων των σημαντικών αντικειμένων και πραγματοποιήστε επαναφορά Εργοστασιακών ρυθμίσεων. Όλα τα δεδομένα θα διαγραφούν οριστικά και η κάρτα SD σας θα διαμορφωθεί κατά την επαναφορά Εργοστασιακών ρυθμίσεων.</string>
   <string name="reset_data_dialog_ok">Εργοστασιακές ρυθμίσεις</string>
   <string name="reset_data_title">Αδύνατη η επαναφορά του κωδικού</string>
@@ -3134,7 +3134,7 @@
   <string name="system_permission_declare_no_say_no_non_mandatory">Εάν επιλέξετε να μην δώσετε τα απαιτούμενα δικαιώματα ή δεν μας επιτρέψετε να συλλέξουμε και να χρησιμοποιήσουμε τα δεδομένα σας, αυτή η εφαρμογή δεν θα μπορεί να λειτουργήσει μερικώς.</string>
   <string name="system_permission_declare_privacy_declare">Θα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τις σχετικές Νομοθεσίες, Κανονισμούς και πολιτικές απορρήτου. Σημειώστε ότι αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet και απαιτεί τα ακόλουθα δικαιώματα για τη συλλογή των προσωπικών σας στοιχείων:</string>
   <string name="system_permission_declare_privacy_no_network">Αυτή η εφαρμογή χρειάζεται τα ακόλουθα δικαιώματα για να μπορεί να λειτουργήσει κανονικά:</string>
-  <string name="system_permission_declare_privacy_no_permission">Σημειώστε ότι αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet και να συλλέξει τις απαιτούμενες προσωπικές πληροφορίες προκειμένου να σας παρέχει υπηρεσίες.Θα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τις σχετικές Νομοθεσίες, Κανονισμούς και πολιτικές απορρήτου.</string>
+  <string name="system_permission_declare_privacy_no_permission">Σημειώστε ότι αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet και να συλλέξει τις απαιτούμενες προσωπικές πληροφορίες προκειμένου να λειτουργήσει κανονικά.</string>
   <string name="system_permission_declare_privacy_policy"><Data>Διαβάστε και Συμφωνείστε  με την &lt;a href=\"%1$s\">Πολιτική Απορρήτου&lt;/a>.</Data></string>
   <string name="system_permission_declare_revoke_system">Μπορείτε να εξέλθετε από την Εφαρμογή.</string>
   <string name="system_permission_declare_revoke_uninstallable">Μπορείτε να αποσυνδεθείτε, να απεγκαταστήσετε αυτήν την εφαρμογή ή να ανακαλέσετε την εξουσιοδότησή σας στην Ασφάλεια> Διαχείρηση Εφαρμογών > Δικαιώματα > Δικαιώματα.</string>

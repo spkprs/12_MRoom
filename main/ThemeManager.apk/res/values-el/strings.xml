@@ -769,12 +769,12 @@
   <string name="system_aod_dialog_message">Πρώτα ενεργοποιήστε την Πάντα στην οθόνη στις Ρυθμίσεις.</string>
   <string name="system_aod_dialog_positive_button">Ρυθμίσεις</string>
   <string name="system_aod_dialog_title">Η οθόνη πάντα ενεργή είναι απενεργοποιημένη</string>
-  <string name="system_cta_agree_desc">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Διαδίκτυο και να εκχωρήσει τα υποχρεωτικά δικαιώματα που αναφέρονται παραπάνω.</string>
+  <string name="system_cta_agree_desc">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Διαδίκτυο και εκχωρήστε τις υποχρεωτικές άδειες που αναφέρονται παραπάνω.</string>
   <string name="system_cta_all_purpose">Καλώς ήλθατε στα Θέματα! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να διαχειριστείτε τα θέματα, τις ταπετσαρίες, τους ήχους κλήσης και τις γραμματοσειρές σας.</string>
   <string name="system_cta_main_purpose">Διαχειριστείτε και χρησιμοποιήστε διαδικτυακά και offline θέματα, ταπετσαρίες, ήχους κλήσης, γραμματοσειρές και ταπετσαρίες βίντεο</string>
   <string name="system_cta_runtime_perm_desc_get_accounts">Για πρόσβαση στο IMEI και παροχή υπηρεσιών λήψης</string>
-  <string name="system_cta_runtime_perm_desc_read_phone_state">Αποκτήστε πρόσβαση στο αναγνωριστικό της συσκευής για να αναγνωρίσετε τη συσκευή σας</string>
-  <string name="system_cta_runtime_perm_desc_storage">Για την αποθήκευση αποθηκευμένων θεμάτων και άλλων αντικειμένων</string>
+  <string name="system_cta_runtime_perm_desc_read_phone_state">Απόκτηση πρόσβασης στο αναγνωριστικό της συσκευής για την αναγνώριση της συσκευή σας</string>
+  <string name="system_cta_runtime_perm_desc_storage">Για την φύλαξη αποθηκευμένων θεμάτων και άλλων στοιχείων</string>
   <string name="system_precust">Προεγκατεστημένες</string>
   <string name="tag_ad">Προσθήκη</string>
   <string name="the_picture_is_not_support">Η εικόνα δεν υποστηρίζεται</string>

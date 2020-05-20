@@ -113,7 +113,7 @@
   <string name="dialog_request_permission_message_extra">Εάν δεν συμφωνείτε να εκχωρήσετε τέτοιες άδειες ή για κοινή χρήση και αποστολή προσωπικών σας στοιχείων, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή. Μπορείτε να καταργήσετε την εγκατάσταση ή να αποσυνδεθείτε από αυτήν την εφαρμογή σε τέτοιες περιπτώσεις.</string>
   <string name="dialog_request_permission_message_extra_summary">Αυτά τα δικαιώματα απαιτούνται για να καταστούν διαθέσιμες οι βασικές δυνατότητες και υπηρεσίες αυτής της εφαρμογής.</string>
   <string name="dialog_request_permission_message_extra_title">Υποχρεωτικά δικαιώματα</string>
-  <string name="dialog_request_permission_message_link" formatted="false">&lt;Data&gt;\"Διαβάστε και συμγωνήστε με την &lt;a href=\'%1s\'&gt;Συμφωνία χρήστη&lt;/a&gt; και την &lt;a href=\'%2s\'&gt;Πολιτική Απορρήτου&lt;/a&gt; πριν την χρησιμοποιήσετε.\"&lt;/Data&gt;</string>
+  <string name="dialog_request_permission_message_link" formatted="false"><Data>"Ταυτόχρονα, για να κατανοήσετε πλήρως τα δικαιώματά σας ως χρήστη, καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και συμφωνήστε με τις &lt;a href='%1s'>Συμφωνία χρήστη&lt;/a> και &lt;a href='%2s'>Πολιτική Απορρήτου&lt;/a>."</Data></string>
   <string name="dialog_request_permission_title">Προσοχή</string>
   <string name="dialog_tip_upgrade_summary">Φαίνεται οτι η έκδοση του Mi Mover είναι παλιά. Ενημερώστε το Mi Mover στην τελευταία του έκδοση για να μπορέσετε να μεταφέρετε αρχεία.</string>
   <string name="dialog_tip_upgrade_title">Ενημέρωση Mi Mover</string>

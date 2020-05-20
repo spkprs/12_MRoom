@@ -291,7 +291,7 @@
   <string name="no_matching">Δεν βρέθησαν προγράμματα για το άνοιγμα της σύνδεσης</string>
   <string name="noon">PM</string>
   <string name="normal_mode">Κανονική</string>
-  <string name="normal_mode_summary">Μη μειώνετε το τρεμόπαιγμα σε συνθήκες χαμηλού φωτισμού</string>
+  <string name="normal_mode_summary">Χωρίς μείωση τρεμοπαίγματος σε συνθήκες χαμηλού φωτισμού</string>
   <string name="not_set">Δεν ρυθμίστηκε</string>
   <string name="notification_sound">Ήχοι ειδοποίησης</string>
   <string name="other_parameter">" Άλλα"</string>
@@ -540,7 +540,7 @@
   <string name="usage_request_timeout_summary">Το χρονικό όριο της αίτησης έληξε</string>
   <string name="usage_runtime_per_des_summary">Για την αποθήκευση των στατιστικών χρόνου οθόνης</string>
   <string name="usage_runtime_per_des_title">Προσθήκη και διαγραφή αρχείων στον εσωτερικό χώρο αποθήκευσης της συσκευής</string>
-  <string name="usage_runtime_summary">Αυτά τα δικαιώματα απαιτούνται για να καταστούν διαθέσιμες οι βασικές δυνατότητες και υπηρεσίες αυτής της εφαρμογής.</string>
+  <string name="usage_runtime_summary">" Αυτά τα δικαιώματα απαιτούνται για να καταστούν διαθέσιμες οι βασικές δυνατότητες και υπηρεσίες αυτής της εφαρμογής."</string>
   <string name="usage_runtime_title">Υποχρεωτικά δικαιώματα</string>
   <string name="usage_special_feature">Ειδικές Λειτουργίες</string>
   <string name="usage_state_accurate_date">MMMM dd, yyyy</string>

@@ -157,7 +157,7 @@
      <string name="download_speed">Ταχύτητα λήψης:</string>
      <string name="download_spend_time">Χρόνος</string>
      <string name="download_status_continue">Συνέχεια</string>
-     <string name="download_status_fail">Προσπαθήστε ξανά</string>
+     <string name="download_status_fail">Επανάληψη</string>
      <string name="download_status_paused">Παύση</string>
      <string name="download_success">Ολοκληρώθηκε</string>
      <string name="download_title_sorted_by_date">Κατά ημερ/νία</string>
