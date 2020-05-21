@@ -27,6 +27,8 @@
   <string name="abc_shareactionprovider_share_with">Μοιραστείτε το με</string>
   <string name="abc_shareactionprovider_share_with_application">Μοιραστείτε το με %s</string>
   <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="accessibility_menu_item_smallwindow_disable">"Η εφαρμογή δεν υποστηρίζεται σε Αιωρούμενο παράθυρο"</string>
+  <string name="accessibility_menu_item_smallwindow_enable">Η εφαρμογή υποστηρίζεται σε Αιωρούμενο παράθυρο</string>
   <string name="accessibility_menu_item_split_disable">Η εφαρμογή δεν υποστηρίζει Διαίρεση οθόνης.</string>
   <string name="accessibility_menu_item_split_enable">Η εφαρμογή υποστηρίζει Διαίρεση οθόνης</string>
   <string name="accessibility_recent_task_enter">Άνοιγμα Πρόσφατα</string>
