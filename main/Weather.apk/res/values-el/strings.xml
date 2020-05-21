@@ -69,10 +69,10 @@
      <string name="alert_weather_enable_settings_title">Προειδοποιήσεις καιρού</string>
      <string name="already_voted_toast">Έχετε ήδη ψηφίσει σήμερα</string>
      <string name="app_name">Καιρός</string>
-     <string name="aqi_15_days_desc">15天空气质量预报</string>
-     <string name="aqi_24_hours_desc">24小时空气质量预报</string>
-     <string name="aqi_48_hours_desc">48小时空气质量预报</string>
-     <string name="aqi_5_days_desc">5天空气质量预报</string>
+     <string name="aqi_15_days_desc">15ημ πρόβλεψη ΔΠΑ</string>
+     <string name="aqi_24_hours_desc">24ημ πρόβλεψη ΔΠΑ</string>
+     <string name="aqi_48_hours_desc">48ημ πρόβλεψη ΔΠΑ</string>
+     <string name="aqi_5_days_desc">5ημ πρόβλεψη ΔΠΑ</string>
      <string name="aqi_data_source">Τροφοδοτείται από Colorful Clouds</string>
      <string name="aqi_desc">Δείκτης Ποιότητας Αέρα</string>
      <string name="aqi_detail_24_hours">24ωρη πρόβλεψη</string>
@@ -427,8 +427,8 @@
      <string name="weather_introduce">Πάντα μαζί σας, στην βροχή ή στον ήλιο.</string>
      <string name="weather_list_info">相关资讯</string>
      <string name="weather_list_title">天气头条</string>
-     <string name="weather_main_aqi_desc">空气质量</string>
-     <string name="weather_main_minute_hour">2小时降雨概率</string>
+     <string name="weather_main_aqi_desc">ΔΠΑ</string>
+     <string name="weather_main_minute_hour">2ώρ υετός</string>
      <string name="weather_main_speak_tips">点击可语音播报天气</string>
      <string name="weather_permission_agree">Αποδοχή</string>
      <string name="weather_service_channel_name">Υπηρεσίες παρασκηνίου</string>
@@ -439,4 +439,7 @@
      <string name="xiaomi_weather_description_title">Σχετικά με Καιρό</string>
      <string name="yes_vote_ratio">Υπέρ %1$s%%</string>
      <string name="your_location">Η τοποθεσία σας</string>
+     <string name="global_not_enable_warning">"Δεν είναι δυνατή η χρήση αυτής της εφαρμογής. Δεν εγκαταστάθηκε από τις επίσημες πηγές."</string>
+     <string name="index_item_install_dialog">%1$s Πραγματοποιήσατε λήψη και εγκατάσταση με επιτυχία. Θέλετε να απολαύσετε την εμπειρία τώρα;</string>
+     <string name="widget_cta_not_agree">Πατήστε για να λάβετε πληροφορίες καιρού</string>
 </resources>
