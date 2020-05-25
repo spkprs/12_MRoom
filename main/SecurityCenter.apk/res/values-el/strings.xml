@@ -267,6 +267,8 @@
   <string name="app_behavior_start_from_notification_single">Αυτή η εφαρμογή ξεκίνησε από ειδοποίηση</string>
   <string name="app_behavior_start_from_recent">%1s ξεκίνησε από τις πρόσφατες εφαρμογές</string>
   <string name="app_behavior_start_from_recent_single">Αυτή η εφαρμογή ξεκίνησε από τις Πρόσφατες</string>
+  <string name="app_behavior_start_from_widget">%1s εκκινήθηκε από ένα γραφικό στοιχείο</string>
+  <string name="app_behavior_start_from_widget_single">Αυτή η εφαρμογή ξεκίνησε από ένα γραφικό στοιχείο</string>
   <string name="app_behavior_storage">%1s πρόσβαση ή αποθ αρχείων</string>
   <string name="app_behavior_storage_bg">%1s πρόσβαση ή αποθ αρχείων στο παρασκήνιο</string>
   <string name="app_behavior_storage_bg_single">Είχε πρόσβαση ή αποθηκεύει αρχεία στο παρασκήνιο</string>

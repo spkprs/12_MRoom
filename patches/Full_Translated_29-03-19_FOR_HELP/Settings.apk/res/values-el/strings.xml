@@ -4672,7 +4672,7 @@
   <string name="search_wifi_advanced_mac_address_title">Διεύθυνση MAC Wi-Fi, διεύθυνση MAC Wi-Fi</string>
   <string name="search_wifi_enable">Ενεργοποίηση Wi-Fi,</string>
   <string name="search_wifi_install_credentials">Εγκατάσταση πιστοποιητικών</string>
-  <string name="search_wifi_menu_p2p">Wi-Fi Direct;WLAN Direct</string>
+  <string name="search_wifi_menu_p2p">Wi-Fi Direct;WiFi Direct</string>
   <string name="search_wifi_menu_wps_pin">WPS εισόδου PIN,</string>
   <string name="search_wifi_scan_always_available">Η σάρωση είναι πάντα διαθέσιμη,</string>
   <string name="search_wifi_setting_frequency_band_title">Ζώνη συχνοτήτων Wi-Fi, συχνότητα WI-FI, συχνότητα Wi-Fi, ζώνη συχνότητας</string>

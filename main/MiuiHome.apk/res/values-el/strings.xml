@@ -68,6 +68,7 @@
   <string name="all_apps_setting_drawer_tips_desc">Το συρτάρι εφαρμογών ανοίγει σαρώνοντας προς τα επάνω στην αρχική οθόνη. Η εναλλαγή στη λειτουργία αρχικής οθόνης με το συρτάρι εφαρμογών θα καταστήσει το Κέντρο περιεχομένου μη διαθέσιμο. Αλλαγή ούτως ή άλλως?</string>
   <string name="all_apps_setting_drawer_tips_title">Χρήση Συρταριού εφαρμογών</string>
   <string name="all_apps_setting_drawer_title">Λειτουργία Συρταριού</string>
+  <string name="all_apps_setting_classic_title">Κανονική</string>
   <string name="all_apps_setting_letter_scrollbar">A-Z</string>
   <string name="all_apps_setting_original_scrollbar">Αρχική διάταξη</string>
   <string name="all_apps_setting_scroll_bar">Μπάρα κύλισης</string>
@@ -387,7 +388,7 @@
   <string name="open_personal_assistant_title">Προσωπικός βοηθός</string>
   <string name="out_of_space">Δεν υπάρχει χώρος σε αυτή την οθόνη.</string>
   <string name="perfect_icons_switch_summary">Επανασχεδίαση εικονιδίων εφαρμογών τρίτων</string>
-  <string name="perfect_icons_switch_title">Τέλεια εικονίδια</string>
+  <string name="perfect_icons_switch_title">Καθολικές κινήσεις εικονιδίων</string>
   <string name="permdesc_install_shortcut">Επιτρέπει σε μια εφαρμογή την προσθήκη συντομεύσεων χωρίς την παρέμβαση του χρήστη.</string>
   <string name="permdesc_install_widget">Επιτρέπει σε μια εφαρμογή να προσθέτει widgets, χωρίς την παρέμβαση του χρήστη.</string>
   <string name="permdesc_read_settings">Επιτρέπει σε μια εφαρμογή την ανάγνωση των ρυθμίσεων και των συντομεύσεων στην αρχική οθόνη.</string>

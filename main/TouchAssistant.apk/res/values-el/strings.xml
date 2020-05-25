@@ -37,6 +37,11 @@
      <string name="close_panel">Απενεργοποίηση Βοηθού Αφής</string>
      <string name="copy">Copy</string>
      <string name="customize_entries">Προσαρμογή λειτουργίας</string>
+     <string name="edge_distance_pref_summary">Πατήστε τις περιοχές αφύπνισης στα άκρα της οθόνης για εμφάνιση Βοηθού Αφής</string>
+     <string name="edge_distance_pref_title">Περιοχές αφύπνισης</string>
+     <string name="edge_mode_custom_summary">Προσαρμογή του μεγέθους των περιοχών αφύπνισης κοντά στα άκρα της οθόνης</string>
+     <string name="edge_mode_custom_title">Προσαρμογή</string>
+     <string name="edge_mode_default_title">Προεπιλογή</string>
      <string name="enable_touch_assistant">Ενεργοποίηση Βοηθού Αφής</string>
      <string name="expand_button_title">Advanced</string>
      <string name="function_settings">Ρυθμίσεις λειτουργίας</string>

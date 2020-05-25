@@ -220,8 +220,8 @@
   <string name="micloud_find_device_guide_alert_positive">OK</string>
   <string name="micloud_find_device_guide_alert_title">Θυμηθείτε τον κωδικό σας</string>
   <string name="micloud_find_device_guide_button">Ενεργοποίηση της Εύρεση συσκευής</string>
-  <string name="micloud_find_device_guide_desc_pad">"Είσοδος σε &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> για εντοπισμό, κλείδωμα ή διαγραφή της συσκευής σας. Αυτό μπορεί να σας βοηθήσει να βρείτε τη συσκευή σας σε περίπτωση που χαθεί. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[Βοήθεια]&lt;/a>"</string>
-  <string name="micloud_find_device_guide_desc_phone">"Είσοδος σε &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> για εντοπισμό, κλείδωμα ή διαγραφή της συσκευής σας. Αυτό μπορεί να σας βοηθήσει να βρείτε τη συσκευή σας σε περίπτωση που χαθεί. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>[Βοήθεια]&lt;/a>"</string>
+  <string name="micloud_find_device_guide_desc_pad">Αν η συσκευή σας χαθεί, συνδεθείτε στο &lt;font color=#0097FF>%s&lt;/font> σε οποιαδήποτε άλλη συσκευή για να εντοπίσετε, να κλειδώσετε απομακρυσμένα ή να διαγράψετε δεδομένα σε χαμένη συσκευή. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Προβολή λεπτομερειών&lt;/a>.</string>
+  <string name="micloud_find_device_guide_desc_phone">Αν η συσκευή σας χαθεί, συνδεθείτε στο &lt;font color=#0097FF>%s&lt;/font> σε οποιαδήποτε άλλη συσκευή για να εντοπίσετε, να κλειδώσετε απομακρυσμένα ή να διαγράψετε δεδομένα σε χαμένη συσκευή. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Προβολή λεπτομερειών&lt;/a>.</string>
   <string name="micloud_find_device_guide_fail_reopen">Ενεργοποίηση του Εύρεση συσκευής στο Xiaomi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Ελέγξτε τη σύνδεση δικτύου σας και δοκιμάστε ξανά.</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Συγχρονίστε επαφές, φωτογραφίες, σημειώσεις και άλλα πολλά με το Xiaomi Cloud</string>
@@ -542,4 +542,19 @@
   <string name="wipe_secret_photo_dialog_title">Οι κρυφές φωτογραφίες δεν συγχρονίζονται</string>
   <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
   <string name="xiaomi_cloud_service_subtitle">Όλα τα σημαντικά σε ένα μέρος</string>
+  <string name="btn_restore_wait_china">Αναμονή για WiFi</string>
+  <string name="cloud_back_up_detail_discription_china">Θα δημιουργηθεί αντίγραφο αυτών των στοιχείων στο Xiaomi Cloud όταν συνδεθείτε σε WiFi:\n*  Εφαρμογές, διάταξη αρχικής οθόνης και ταπετσαρίες \n*  Ξυπνητήρι, ρολόι και ρυθμίσεις ώρας \n*  Ρυθμίσεις ειδοποιήσεων \n*  MIUI και ρυθμίσεις συστήματος \nΣημείωση: Δεν θα δημιουργηθεί αντίγραφο των δεδομένων για τις εγκατεστημένες εφαρμογές, στο Xiaomi Cloud.</string>
+  <string name="cloud_backup_detail_state_summary_china">Δημιουργήστε αντίγραφα στο Xiaomi Cloud αυτόματα όταν συνδέεστε στο WiFi.</string>
+  <string name="dialog_msg_restore_require_wlan_china">Η επαναφορά αντιγράφων ασφαλείας απαιτεί σύνδεση σε WiFi.</string>
+  <string name="dialog_title_require_wlan_china">Σύνδεση στο WiFi</string>
+  <string name="micloud_dspt_provision_china">Χρησιμοποιήστε το Xiaomi Cloud για να συγχρονίσετε δεδομένα, να εντοπίσετε τη συσκευή σας και να μοιραστείτε πράγματα με φίλους.</string>
+  <string name="micloud_dspt_provision_xms_china">Χρησιμοποιήστε το Xiaomi Cloud για συγχρονισμό δεδομένων.</string>
+  <string name="micloud_notif_content_depend_wifi_china">Σύνδεση σε WiFi για συγχρονισμό.</string>
+  <string name="micloud_setting_wifi_summary_china">Ρυθμίσεις WiFi</string>
+  <string name="micloud_sync_result_wifi_only_china">Αυτό το στοιχείο είναι πολύ μεγάλο. Συγχρονίστε το όταν συνδεθείτε στο WiFi.</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only_china">Χρήση WiFi μόνο για συγχρονισμό φωτογραφιών</string>
+  <string name="soundrecorder_sync_only_in_wifi_china">Χρήση WiFi μόνο για συγχρονισμό</string>
+  <string name="soundrecorder_sync_only_in_wifi_summary_china">Η υπηρεσία καταγραφής δεν θα χρησιμοποιεί δεδομένα κινητής τηλεφωνίας για τη λήψη ή την αποστολή εγγραφών</string>
+  <string name="sub_sync_item_sms_title_wifi_only_china">Χρήση WiFi μόνο για συγχρονισμό MMS</string>
+  <string name="sync_dspt_entrance_provision_network_china">Αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet για να λειτουργεί κανονικά. Ο συγχρονισμός δεδομένων ενδέχεται να απαιτεί σύνδεση δεδομένων κινητής και ενεργοποίηση του WiFi.</string>
 </resources>

@@ -63,6 +63,7 @@
   <string name="deep_space_planet_des">Αυτό το θέμα απεικονίζει τις αλλαγές φωτός που συμβαίνουν γύρω σας κατά τη διάρκεια της ημέρας. Η Ανατολή και το Ηλιοβασίλεμα είναι επίσης συγχρονισμένα με την τοποθεσία σας.</string>
   <string name="delete">Διαγραφή</string>
   <string name="digital_clock">Ψηφιακό</string>
+  <string name="disable_aod_in_dark_room">Απενεργοποίηση όταν βρίσκεστε στο σκοτάδι</string>
   <string name="disable_aod_in_power_save_mode">Απενεργοποίηση όταν είναι ενεργή η εξοικονόμηση μπαταρίας</string>
   <string name="disable_aod_in_power_save_mode_summary">Να μην εμφανίζονται στοιχεία για εξοικονόμηση ενέργειας</string>
   <string name="error_icon_content_description">Σφάλμα</string>
