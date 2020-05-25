@@ -392,7 +392,6 @@
   <string name="passport_back">Πίσω</string>
   <string name="passport_bad_authentication">Μη έγκυρο όνομα ή κωδικός</string>
   <string name="passport_barcode_add_account_prompt">Για να προσθέσετε έναν λογαριασμό, σαρώστε ξανά τον κωδικό QR μετά τη σύνδεσή σας.</string>
-  <string name="passport_barcode_add_account_prompt">Για να συνδέσετε έναν λογαριασμό, σαρώστε ξανά τον κωδικό QR μετά τη σύνδεσή σας.</string>
   <string name="passport_can_not_receive_verification_code">Δεν μπορείτε να λάβετε κωδικό επαλήθευσης;</string>
   <string name="passport_captcha_title">Captcha</string>
   <string name="passport_change_account">&lt;u&gt;Αλλαγή λογαριασμού&lt;/u&gt;</string>
@@ -419,7 +418,6 @@
   <string name="passport_error_empty_captcha_code">Εισάγετε captcha</string>
   <string name="passport_error_empty_email">Εισάγετε τη διευθύνση του ηλεκτρονικού ταχυδρομείου σας</string>
   <string name="passport_error_empty_phone_num">Εισάγετε τον αριθμό τηλεφώνου</string>
-  <string name="passport_error_empty_pwd">Εισάγετε τον κωδικό σας</string>
   <string name="passport_error_empty_pwd">Ο κωδικός πρόσβασης δεν μπορεί να είναι κενός</string>
   <string name="passport_error_empty_username">Καταχωρίστε το αναγνωριστικό λογαριασμού σας</string>
   <string name="passport_error_empty_vcode">Βάλτε κωδικό επιβεβαίωσης</string>
@@ -429,24 +427,20 @@
   <string name="passport_error_invalid_phone_num">Μη έγκυρος αριθμός τηλεφώνου</string>
   <string name="passport_error_login">Δεν ήταν δυνατή η σύνδεση</string>
   <string name="passport_error_network">Δεν είναι δυνατή η σύνδεση στο δίκτυο</string>
-  <string name="passport_error_network">Δεν είναι δυνατή η σύνδεση στο δίκτυο</string>
   <string name="passport_error_no_password_user">Δεν έχετε ορίσει τον κωδικό πρόσβασης ακόμα. Συνδεθείτε με SMS.</string>
   <string name="passport_error_phone_error">Μη έγκυρος αριθμός τηλεφώνου</string>
   <string name="passport_error_server">Σφάλμα Διακομιστή</string>
   <string name="passport_error_sim_not_ready">Δεν είναι δυνατή η εύρεση κάρτας SIM</string>
   <string name="passport_error_ssl_hand_shake">Δεν ήταν δυνατή η σύνδεση με διακομιστή</string>
   <string name="passport_error_unknown">Αγνωστο σφάλμα</string>
-  <string name="passport_error_unknown">Δεν είναι δυνατή η σύνδεση</string>
   <string name="passport_error_user_agreement_error">Αποδεχτείτε πρώτα τους όρους και τις προϋποθέσεις</string>
   <string name="passport_error_user_name">Το όνομα χρήστη που εισάγατε δεν είναι έγκυρο.</string>
-  <string name="passport_error_user_name">Το όνομα χρήστη που εισαγάγατε δεν είναι έγκυρο</string>
   <string name="passport_failed_to_send_activate_email">Δεν ήταν δυνατή η αποστολή μηνύματος ηλεκτρονικού ταχυδρομείου ενεργοποίησης</string>
   <string name="passport_find_password_on_web_msg">Επισκευθείτε το account.mi.com για επαναφορά του κωδικού σας.</string>
   <string name="passport_forget_password">&lt;u&gt;Ξέχασα τον κωδικό&lt;/u&gt;</string>
   <string name="passport_forget_password_no_underline">Ξέχασα τον κωδικό</string>
   <string name="passport_get_back_pwd">Ανάκτηση κωδικού πρόσβασης λογαριασμού</string>
   <string name="passport_get_verify_code">Λήψη κωδικού</string>
-  <string name="passport_getting_verify_code">Λήψη</string>
   <string name="passport_getting_verify_code">Μισό λεπτό…</string>
   <string name="passport_i_know">Κατανοητό</string>
   <string name="passport_identification_expired">Ο κωδικός επαλήθευσης έληξε. Ξανά από την αρχή.</string>
@@ -475,7 +469,6 @@
   <string name="passport_next">Επόμενο</string>
   <string name="passport_next_step">ΕΠΟΜΕΝΟ</string>
   <string name="passport_notification_title">Σφάλμα υπογραφής για %1$s</string>
-  <string name="passport_password_req_notice">Ο κωδικός πρόσβασης πρέπει να έχει μήκος 8-16 χαρακτήρες και να περιλαμβάνει αριθμούς και γράμματα (πεζών-κεφαλαίων).</string>
   <string name="passport_password_req_notice">Ο κωδικός πρόσβασης πρέπει να έχει μήκος 8-16 χαρακτήρων και να συνδυάζει τουλάχιστον δύο από τα ακόλουθα: ψηφία, γράμματα και ειδικά σύμβολα (π.χ.. 123abc@#, η 123abc, η abc@#).</string>
   <string name="passport_phone_num_hint_text">Αριθμός τηλεφώνου</string>
   <string name="passport_prev">Πίσω</string>
@@ -505,7 +498,6 @@
   <string name="passport_register_account_goto_email">Πηγαίνετε στα Εισερχόμενα</string>
   <string name="passport_register_account_verified_confirm">Έλεγχος λογαριασμού</string>
   <string name="passport_register_by_email">&lt;u&gt;Δημιουργήστε έναν λογαριασμό χρησιμοποιώντας διεύθυνση email&lt;/u&gt;</string>
-  <string name="passport_register_restricted">Έχουν συνδεθεί πάρα πολλοί λογαριασμοί με αυτόν τον αριθμό, δοκιμάστε διαφορετικό</string>
   <string name="passport_register_restricted">Έχουν συσχετιστεί πάρα πολλοί λογαριασμοί με αυτόν τον αριθμό. Δοκιμάστε ένα διαφορετικό.</string>
   <string name="passport_register_restricted_title">Δεν είναι δυνατή η χρήση αυτού του αριθμού τηλεφώνου</string>
   <string name="passport_registered_phone_user_ID">Ταυτότητα χρήστη: %s</string>
@@ -545,7 +537,6 @@
   <string name="passport_timeout_network_error">Το αίτημα δικτύου έληξε</string>
   <string name="passport_title_reg">Δημιουργία λογαριασμού</string>
   <string name="passport_trust_device">Αυτή είναι μια αξιόπιστη συσκευή</string>
-  <string name="passport_trust_device">Προσθέστε αυτήν τη συσκευή στις επαληθευμένες συσκευές</string>
   <string name="passport_trying_read_verify_code_sms">Λήψη κωδικού επαλήθευσης…</string>
   <string name="passport_unknow_error">Συνέβη ένα άγνωστο σφάλμα</string>
   <string name="passport_unknow_host_network_error">Ελέγξτε τις ρυθμίσεις του δικτύου σας και δοκιμάστε ξανά</string>
