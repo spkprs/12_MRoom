@@ -4107,7 +4107,7 @@
   <string name="not_battery_optimizing">Δεν χρησιμοποιεί βελτιστοποίηση μπαταρίας</string>
   <string name="not_installed">Δεν είναι εγκατεστημένο</string>
   <string name="not_set">Δεν ρυθμίστηκε</string>
-  <string name="notch_and_status_bar_settings">Κέντρο ελέγχου &amp; Γραμμή κατάστασης</string>
+  <string name="notch_and_status_bar_settings">Κέντρο ελέγχου &amp; Πίνακας ειδοπ/σεων</string>
   <string name="notch_force_black_desc">Ενεργοποίηση για αμαύρωση της περιοχής γύρω από την εγκοπή</string>
   <string name="notch_force_black_title">Απόκρυψη εγκοπής</string>
   <string name="notch_settings">Εγκοπή</string>
@@ -6701,7 +6701,7 @@
   <string name="usb_use_photo_transfers_desc">Μεταφορά φωτογραφιών ή αρχείων, εάν δεν υποστηρίζεται το MTP (PTP)</string>
   <string name="usb_use_power_only">Παροχή ρεύματος</string>
   <string name="usb_use_tethering">Σύνδεση USB</string>
-  <string name="use_control_panel">Χρησιμοποιήστε το Κέντρο ελέγχου</string>
+  <string name="use_control_panel">Χρήση νέου Κέντρου Ελέγχου</string>
   <string name="use_location_summary">Η Google χρησιμοποιεί την τοποθεσία σας για βελτίωση των αποτελεσμάτων και άλλων υπηρεσιών</string>
   <string name="use_location_title">Τοποθεσία &amp; αναζήτηση Google</string>
   <string name="use_open_wifi_automatically_summary">Αυτόματη σύνδεση σε δημόσια δίκτυα υψηλής ποιότητας</string>

@@ -28,6 +28,8 @@
   <string name="abc_shareactionprovider_share_with_application">Μοιραστείτε το με %s</string>
   <string name="abc_toolbar_collapse_description">Collapse</string>
   <string name="access_sd_fail">Αδύνατη η πρόσβαση στην κάρτα SD.</string>
+  <string name="accessibility_8k_off">AI 8K Ανενεργή</string>
+  <string name="accessibility_8k_on">AI 8K Ενεργή</string>
   <string name="accessibility_ai_scene_off">Ανενεργή AI κάμερα</string>
   <string name="accessibility_ai_scene_on">Ενεργή AI κάμερα</string>
   <string name="accessibility_back_preview_status">Προεπισκόπηση Πίσω κάμερας</string>

@@ -102,7 +102,10 @@
   <string name="accessibility_desc_recent_apps">Επισκόπηση</string>
   <string name="accessibility_desc_settings">Ρυθμίσεις</string>
   <string name="accessibility_desc_work_lock">Οθόνη κλειδώματος εργασίας</string>
-  <string name="accessibility_detail_switch">Εναλλαγή διακόπτη</string>
+  <string name="accessibility_detail_switch">Εναλλαγή μεταξύ διακοπτών</string>
+  <string name="accessibility_detail_switch_disable">Μη διαθέσιμο</string>
+  <string name="accessibility_detail_switch_off">Απενεργοποίηση</string>
+  <string name="accessibility_detail_switch_on">Ενεργοποίηση</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Αυτή η λειτουργία είναι πειραματική και μπορεί να επηρεάσει την απόδοση.</string>
   <string name="accessibility_display_daltonizer_preference_title">Διόρθωση χρώματος</string>
   <string name="accessibility_divider">Διαχωριστικό Διαιρούμενης οθόνης</string>
@@ -110,7 +113,7 @@
   <string name="accessibility_enter_lock_wallpaper">Πατήστε για άνοιγμα Καθημερινών Ταπετσαρίων</string>
   <string name="accessibility_ethernet_connected">Το Ethernet συνδέθηκε.</string>
   <string name="accessibility_ethernet_disconnected">Το Ethernet αποσυνδέθηκε.</string>
-  <string name="accessibility_expand_button">Ανάπτυξη</string>
+  <string name="accessibility_expand_button">Περισσότερα</string>
   <string name="accessibility_face_dialog_face_icon">Εικονίδιο προσώπου</string>
   <string name="accessibility_fingerprint_dialog_app_icon">Εικονίδιο εφαρμογής</string>
   <string name="accessibility_fingerprint_dialog_fingerprint_icon">Εικονίδιο Δακτυλικού αποτυπώματος</string>
