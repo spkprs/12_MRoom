@@ -168,6 +168,10 @@
   <string name="choose_wallpaper">Επιλογή ταπετσαρίας</string>
   <string name="chooser_wallpaper">Επιλογή ταπετσαρίας από</string>
   <string name="cloud_app_restore_title">Σε αναμονή</string>
+  <string name="common_home_search_delete">Διαγραφή γραμμής Αναζήτησης στην Αρχική Οθόνη</string>
+  <string name="common_home_search_delete_cancle">Ακύρωση</string>
+  <string name="common_home_search_delete_confirm">Διαγραφή</string>
+  <string name="common_home_search_delete_content">"Δεν θα μπορείτε να αναζητήσετε στοιχεία χρησιμοποιώντας τη γραμμή Αναζήτησης στην Αρχική Οθόνη αφού τη διαγράψετε. Να διαγραφεί οπωσδήποτε;"</string>
   <string name="configure_wallpaper">Ρυθμίσεις</string>
   <string name="confirm_btn_label">ΟΚ</string>
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Οι διπλές εφαρμογές θα απεγκατασταθούν μαζί με αυτές.</string>
