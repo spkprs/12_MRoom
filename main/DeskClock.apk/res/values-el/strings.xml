@@ -97,6 +97,7 @@
   <string name="birthday_alarm_summary">Χρήση του \"Happy Birthday\" αντί της προεπιλεγμένης Αφύπνιση στα γενέθλιά σας</string>
   <string name="cancel">Ακύρωση</string>
   <string name="channel_name_alarm">Συναγερμός</string>
+  <string name="channel_name_stopwatch">Αντίστροφα</string>
   <string name="channel_name_sleep">Ύπνος</string>
   <string name="channel_name_timer">Χρονόμετρο</string>
   <string name="check_theme_app_install">Βεβαιωθείτε ότι η εφαρμογή Θέματα είναι εγκατεστημένη στη συσκευή σας.</string>

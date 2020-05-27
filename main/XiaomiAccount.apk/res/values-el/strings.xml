@@ -222,6 +222,7 @@ ID:%s
      <string name="for_diagnosis_usage_only">Χρήση της πληροφ. για διάγνωση μόνο.</string>
      <string name="get_back_pwd">Επαναφορά κωδικού</string>
      <string name="get_device_list_failed">Αδυναμία λήψης συσκευών</string>
+     <string name="get_identity_auth_url_failed">"Αδυνατή η επαλήθευση του ID"</string>
      <string name="get_phone_bind_exceed_limit">Μπορείτε να συσχετίσετε έως 3 Λογαριασμούς Mi με έναν αριθμό τηλεφώνου. Δεν είναι δυνατή η προσθήκη νέων λογαριασμών.</string>
      <string name="get_phone_verifycode_exceed_limit">Έχουν σταλεί πάρα πολλοί κωδικοί επαλήθευσης σε αυτή τον αριθμό. Περιμένετε 24 ώρες και προσπαθήστε ξανά.</string>
      <string name="google">Google</string>
