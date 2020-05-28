@@ -10,4 +10,14 @@
     <item>Για εύρεση διαθέσιμων συσκευών σε κοντινή απόσταση χρησιμοποιώντας Bluetooth</item>
     <item>Για εύρεση διαθέσιμων συσκευών σε κοντινή απόσταση και μεταφορά αρχείων μέσω Wi-Fi</item>
   </string-array>
+  <string-array name="permissions_desc_china">
+    <item>Για πρόσβαση και αποθήκευση εικόνων, εφαρμογών και άλλων αρχείων, καθώς και τη μεταφορά τους</item>
+    <item>Για τη μεταφορά αρχείων μέσω Bluetooth και Wi-Fi</item>
+  </string-array>
+  <string-array name="permissions_desc_v12_china">
+    <item>Για αποστολή και λήψη αρχείων</item>
+    <item>Για μεταφορά αρχείων μέσω Bluetooth και Wi-Fi</item>
+    <item>Για εύρεση διαθέσιμων συσκευών σε κοντινή απόσταση χρησιμοποιώντας Bluetooth</item>
+    <item>Για εύρεση διαθέσιμων συσκευών σε κοντινή απόσταση και μεταφορά αρχείων μέσω Wi-Fi</item>
+  </string-array>
 </resources>
