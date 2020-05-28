@@ -205,7 +205,7 @@
   <string name="miui_feedback_answer_detail_feedback_unresolved">Οχι</string>
   <string name="miui_feedback_answer_detail_menu_online_service">Λάβετε βοήθεια online</string>
   <string name="miui_feedback_answer_detail_menu_phone_service">Καλέστε την υποστήριξη πελατών</string>
-  <string name="miui_feedback_answer_detail_relative_tip">Αυτό μπορεί να είναι χρήσιμο:</string>
+  <string name="miui_feedback_answer_detail_relative_tip">Σχετικές πληροφορίες</string>
   <string name="miui_feedback_answer_detail_title">Λεπτομέριες</string>
   <string name="miui_feedback_edit_action_submit">Στείλετε</string>
   <string name="miui_feedback_edit_add_original_images">Προσθήκη φωτογραφίας</string>
@@ -273,13 +273,14 @@
   <string name="miui_feedback_main_menu_catch_full_log">Δημιουργία αρχείων καταγραφής</string>
   <string name="miui_feedback_main_menu_feedback_list">Προβολή ιστορικού σχολίων</string>
   <string name="miui_feedback_main_search_footer">Αυτά δεν είναι τα ερωτήματα που θέλετε να ρωτήσετε;</string>
-  <string name="miui_feedback_main_search_footer_submit">立即提交问题</string>
+  <string name="miui_feedback_main_search_footer_submit">Υποβολή σχολίων</string>
   <string name="miui_feedback_main_search_issue">Πληκτρολογήστε λέξεις-κλειδιά για αναζήτηση</string>
   <string name="miui_feedback_main_start_submit">Υποβολή σχολίων</string>
   <string name="miui_feedback_main_submit_dialog_confirm">Υποβολή</string>
   <string name="miui_feedback_main_submit_dialog_content">Φαίνεται ότι δεν μπορέσαμε να βρούμε μια λύση στο πρόβλημά σας. Μπορείτε να υποβάλετε τα σχόλιά σας σε εμάς.</string>
   <string name="miui_feedback_main_submit_dialog_title">Υποβολή σχολίων</string>
   <string name="miui_feedback_main_title">Ανατροφοδότηση</string>
+  <string name="miui_guide_accessibility_image_desc">Εικόνα</string>
   <string name="miui_guide_clear_db_service">Η \"Υπηρεσίες &amp; Σχόλια\" κάνει εκκαθάριση προσωρινής μνήμης γλώσσας…</string>
   <string name="miui_guide_footer_desc">Ο οδηγός για αρχάριους έχει σχεδιαστεί για να σας βοηθήσει να μάθετε περισσότερα σχετικά με τη συσκευή σας και το MIUI. Ορισμένες εικόνες και βίντεο στον οδηγό δημιουργήθηκαν μόνο για λόγους αναφοράς και ενδέχεται να διαφέρουν από το πραγματικό προϊόν. Οι λειτουργίες που περιγράφονται σε αυτόν τον οδηγό ενδέχεται να διαφέρουν ανάλογα με το μοντέλο της συσκευής σας, την έκδοση MIUI και το περιβάλλον χρήσης.</string>
   <string name="miui_guide_item_complete">Ολοκληρώθηκε</string>
@@ -372,11 +373,11 @@
   <string name="permission_device_info">Πρόσβαση σε πληροφορίες συσκευής</string>
   <string name="permission_device_introduce">Για τον καθορισμό της περιόδου περιορισμένης εγγύησης</string>
   <string name="permission_exit">Εξοδος</string>
-  <string name="permission_external_storage_introduce">将您提交的反馈内容保存并上传</string>
+  <string name="permission_external_storage_introduce">Για την αποθήκευση και την αποστολή των σχολίων σας</string>
   <string name="permission_first_start_network_title">Οροι και Προϋποθέσεις</string>
-  <string name="permission_imei_disable_desc">请您同意应用联网。</string>
-  <string name="permission_imei_enable_desc">请您同意应用联网及以上必要权限。</string>
-  <string name="permission_location_introduce">展示离您最近的服务网点</string>
+  <string name="permission_imei_disable_desc">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Internet.</string>
+  <string name="permission_imei_enable_desc">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Internet και εκχωρήστε τα υποχρεωτικά δικαιώματα που αναφέρονται παραπάνω.</string>
+  <string name="permission_location_introduce">Για εμφάνιση κοντινών σημείων εξυπηρέτησης</string>
   <string name="permission_main_purpose">Εμφάνιση επίδειξης χαρακτηριστικών MIUI, υποβολή σχολίων και υποβολή αίτησης για υπηρεσίες μετά την πώληση.</string>
   <string name="permission_privacy">Πολιτική απορρήτου (υποχρεωτική)</string>
   <string name="permission_region_version_msg">&lt;Data&gt;Πριν χρησιμοποιήσετε την \"Υπηρεσίες &amp; Σχόλια\", πρέπει να διαβάσετε και να συμφωνήσετε με την &lt;a href=%1$s&gt;Συμφωνία χρήσης&lt;/a&gt; και &lt;a href=%2$s&gt;Πολιτική απορρήτου&lt;/a&gt;.&lt;/Data&gt;</string>
