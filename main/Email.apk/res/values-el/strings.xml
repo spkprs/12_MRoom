@@ -190,7 +190,7 @@
 		<string name="archived">Στο Αρχείο</string>
 		<string name="att_download_failed_content">Η λήψη απέτυχε</string>
 		<string name="att_download_failed_network_slow">Η ταχύτητα σύνδεσης είναι πολύ αργή. Δοκιμάστε ξανά αργότερα</string>
-		<string name="att_download_failed_permission_denied">Δεν έχετε δικαιώματα πρόσβασης σε εξωτερικά μέσα αποθήκευσης</string>
+		<string name="att_download_failed_permission_denied">Δεν έχετε Άδειες πρόσβασης σε εξωτερικά μέσα αποθήκευσης</string>
 		<string name="att_download_failed_title">Η λήψη συνημμένου απέτυχε</string>
 		<string name="att_file_not_exists">Το αρχείο %s δεν βρέθηκε!</string>
 		<string name="att_mgr_no_attachment">Δεν υπάρχουν συνημμένα!</string>
@@ -212,7 +212,7 @@
 		<string name="attachment_list_search_hint">Αναζήτηση συνημμένων</string>
 		<string name="attachment_mgr_name">Συνημμένα</string>
 		<string name="attachment_not_exists">Το συνημμένο δεν βρέθηκε!</string>
-		<string name="attachment_open_SecurityException_hint">Ελέγξτε τα δικαιώματα, ζημιές, κλπ.</string>
+		<string name="attachment_open_SecurityException_hint">Ελέγξτε τις Άδειες, ζημιές, κλπ.</string>
 		<string name="attachment_open_SecurityException_title">Αποτυχία ανοίγματος αρχείου</string>
 		<string name="attachment_opening_mode">Εφαρμογές για συνημμένα</string>
 		<string name="attachment_size_exceed_limit">Φαίνεται πως ξεπεράστηκε το όριο μεγέθους του διακομιστή</string>
@@ -784,7 +784,7 @@
 		<string name="notification_exchange_calendar_added">Προστέθηκε ημερολόγιο Exchange</string>
 		<string name="notify_channel_new_mail">Ειδοποίηση για νέα μηνύματα</string>
 		<string name="notify_channel_no_disterb">Λειτουργία Μην Ενοχλείτε</string>
-		<string name="notify_channel_permission_notice">Απαιτούνται δικαιώματα</string>
+		<string name="notify_channel_permission_notice">Απαιτούνται Άδειες</string>
 		<string name="notify_channel_send_fail">Ειδοποίηση αποτυχημένης παράδοσης</string>
 		<string name="notify_channel_service">Υπενθύμιση Συγχρονισμού Παρασκηνίου</string>
 		<string name="oauth_error_description">Σφάλμα ελέγχου ταυτότητας</string>
@@ -835,7 +835,7 @@
 		<string name="over_16_content">Επιβεβαιώστε ότι έχετε ήδη κλείσει τα 16;</string>
 		<string name="over_due">Εκπρόθεσμη</string>
 		<string name="over_sixteen">Είμαι άνω από 16 ετών.</string>
-		<string name="overlays_fail_tip">Λυπούμαστε πολύ που το γραμματοκιβώτιό σας δεν έχει ρυθμιστεί με επιτυχία, ανοίξτε τα δικαιώματα των Windows και δοκιμάστε ξανά</string>
+		<string name="overlays_fail_tip">Λυπούμαστε πολύ που το γραμματοκιβώτιό σας δεν έχει ρυθμιστεί με επιτυχία, ανοίξτε τις Άδειες των Windows και δοκιμάστε ξανά</string>
 		<string name="overlays_ok">Άνοιγμα αδειών</string>
 		<string name="overlays_tip">Ρυθμίσεις τηλεφώνου - Εφαρμογή - Λεπτομέρειες εφαρμογής - Ανοίξτε το αναδυόμενο παράθυρο Δικαιωμάτων στον Διαχειριστή Δικαιωμάτων, και απολαύστε άμεσα το 139 mailbox για να ρυθμίσετε αυτόματα την μέγιστη εμπειρία.</string>
 		<string name="overlays_tip_23">Ανοίξτε το αναδυόμενο παράθυρο Δικαιωμάτων και απολαύστε άμεσα το 139 mailbox για να ρυθμίσετε αυτόματα την μέγιστη εμπειρία.</string>
@@ -1057,7 +1057,7 @@
 		<string name="report_spam">Αναφορά spam</string>
 		<string name="request_copy_db_to_disk">Το Mail ζητά να αντιγράψετε τη βάση δεδομένων σας σε ένα αρχείο</string>
 		<string name="request_entity_large">Το ζητούμενο αρχείο είναι μεγάλο!</string>
-		<string name="request_permission_activity">Απαιτούνται δικαιώματα</string>
+		<string name="request_permission_activity">Απαιτούνται Άδειες</string>
 		<string name="respond_inline">Απάντηση σε μια γραμμή</string>
 		<string name="retry_login">Παρακαλώ συνδεθείτε ξανά</string>
 		<string name="save_action">Αποθήκευση</string>
@@ -1247,7 +1247,7 @@
 		<string name="uploading_logs">Αποστολή αρχείων καταγραφής…</string>
 		<string name="user_new_auth_code">Είσοδος με νέο κωδικό εξουσιοδότησης</string>
 		<string name="user_privacy_settings">Ρυθμίσεις απορρήτου</string>
-		<string name="user_privacy_settings_agreement_authorization">(Πατώντας \"Συμφωνώ\" εκχωρείτε στο Mail όλα τα απαιτούμενα δικαιώματα)</string>
+		<string name="user_privacy_settings_agreement_authorization">(Πατώντας \"Συμφωνώ\" εκχωρείτε στο Mail όλα τις απαιτούμενες Άδειες)</string>
 		<string name="user_privacy_settings_path">Για να ανακαλέσετε την εξουσιοδότησή σας, μεταβείτε στην επιλογή Ρυθμίσεις > Ρυθμίσεις απορρήτου.</string>
 		<string name="user_privacy_settings_summary">Θα συλλέξουμε το αναγνωριστικό Android σας στην κρυπτογραφημένη φόρμα και θα το χρησιμοποιήσουμε ως μοναδικό αναγνωριστικό χρήστη στην Αλληλογραφία. Μπορεί επίσης να συλλέγουμε αρχεία καταγραφής χρήσης. Μπορείτε να ανακαλέσετε την εξουσιοδότησή σας στις ρυθμίσεις απορρήτου οποιαδήποτε στιγμή.</string>
 		<string name="user_privacy_settings_title">Mail δήλωση προστασίας</string>

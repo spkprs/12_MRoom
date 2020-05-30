@@ -52,7 +52,7 @@
      <string name="cannot_get_location">--</string>
      <string name="compass_settings">Ρυθμίσεις</string>
      <string name="copy">Αντιγραφή</string>
-     <string name="cta_agree_desc">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Internet και να εκχωρήσει προαιρετικά δικαιώματα για να μπορεί να χρησιμοποιεί όλες τις δυνατότητές της.</string>
+     <string name="cta_agree_desc">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Internet και να εκχωρήσει προαιρετικές Άδειες για να μπορεί να χρησιμοποιεί όλες τις δυνατότητές της.</string>
      <string name="cta_v2_app_purpose">Εμφάνιση κατευθύνσεων, συντεταγμένων, ατμοσφαιρικής πίεσης και τρέχοντος υψομέτρου</string>
      <string name="dialog_body_no_network">Αδυναμία σύνδεσης στο δίκτυο</string>
     <string name="dialog_body_no_network_china">Συνδεθείτε σε WiFi ή ενεργοποιήστε τα δεδομένα κινητής.</string>
@@ -89,7 +89,7 @@
      <string name="mobiledata_alert_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
      <string name="not_set">Δεν έχει οριστεί</string>
      <string name="open_perm_msg">Η Πυξίδα χρειάζεται πρόσβαση σε πληροφορίες τοποθεσίας και κάμερα. Αυτό είναι απαραίτητο για τον προσδιορισμό των συντεταγμένων και την παροχή ζωντανών προεπισκοπήσεων. Αποδοχή?</string>
-     <string name="open_perm_title">Απαιτούνται δικαιώματα</string>
+     <string name="open_perm_title">Απαιτούνται Άδειες</string>
      <string name="permission_camera_desc">Χρήση επιπέδου spirit</string>
      <string name="permission_location_desc">Εμφάνιση συντεταγμένων και ατμοσφαιρική πίεση</string>
      <string name="preference_copied">\"%1$s\" copied to clipboard.</string>

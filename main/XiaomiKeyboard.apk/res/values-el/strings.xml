@@ -74,7 +74,7 @@
   <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
   <string name="apply_theme_success">Εφαρμόστηκε με επιτυχία</string>
   <string name="appsflyer_dev_key">BZuZHUbBxQ2PTtArgcmYo3</string>
-  <string name="audio_2_setting_content">Απαιτούνται τα ακόλουθα δικαιώματα για να διασφαλίσετε ότι η λειτουργία Facemoji λειτουργεί σωστά.</string>
+  <string name="audio_2_setting_content">Απαιτούνται τις ακόλουθες Άδειες για να διασφαλίσετε ότι η λειτουργία Facemoji λειτουργεί σωστά.</string>
   <string name="audio_2_setting_microphone">Μικρόφωνο</string>
   <string name="audio_2_setting_ok">ΕΝΤΑΞΕΙ ΤΟ ΚΑΤΑΛΑΒΑ</string>
   <string name="audio_2_setting_step_1">1. Πατήστε \"Άδεια\"</string>
@@ -1253,7 +1253,7 @@
   <string name="translate_timeout_hint">Ωραία! Το αίτημα έχει λήξει %1$s</string>
   <string name="translate_try">Ξαναδοκιμάσετε</string>
   <string name="travel">Ταξίδια &amp; Μέρη</string>
-  <string name="twemoji_provide">Πνευματικά δικαιώματα 2014 Twitter, Inc και άλλοι συνεισφέροντες.</string>
+  <string name="twemoji_provide">Πνευματικά Δικαιώματα 2014 Twitter, Inc και άλλοι συνεισφέροντες.</string>
   <string name="txt_voice_typing_cannot_be_useed">Δεν είναι δυνατή η χρήση της φωνητικής πληκτρολόγησης για αυτό το πεδίο.</string>
   <string name="ugc_logout_toast_tips">Έχετε αλλάξει περιοχή. Η πρόσβαση στο λογαριασμό δεν μπορεί να χρησιμοποιηθεί στην περιοχή σας τώρα.</string>
   <string name="update_dialog_go_update">Πηγαίνετε να ενημερώσετε</string>

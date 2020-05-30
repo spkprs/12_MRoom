@@ -85,7 +85,7 @@
   <string name="connection_tips_owner_message">Το Mi Mover είναι προεγκατεστημένο σε όλες τις συσκευές που εκτελούν MIUI 11. Εάν διαθέτετε παλαιότερη έκδοση MIUI, μπορείτε να κάνετε λήψη της τελευταίας έκδοσης του Mi Mover στο GetApps ή να χρησιμοποιήσετε αυτήν τη σύνδεση: %1$s.</string>
   <string name="connection_tips_owner_title">Εάν η παλιά σας συσκευή είναι τηλέφωνο Mi:</string>
   <string name="contacts">Επαφές</string>
-  <string name="copyright">Πνευματικά δικαιώματα</string>
+  <string name="copyright">Πνευματικά Δικαιώματα</string>
   <string name="current_user_not_supported_summary">Οι τρέχουσες ρυθμίσεις συστήματος περιορίζουν τη μεταφορά δεδομένων χρησιμοποιώντας το Mi Mover.</string>
   <string name="current_user_not_supported_title">Δεν είναι δυνατή η μεταφορά στοιχείων</string>
   <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
@@ -106,13 +106,13 @@
   <string name="dialog_rating_title">Βαθμολογήστε το Mi Mover</string>
   <string name="dialog_request_network_btn_negative">Εξοδος</string>
   <string name="dialog_request_network_btn_positive">Συμφωνώ</string>
-  <string name="dialog_request_network_message">Καλώς ήρθατε στην Mi Mover! Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για να μεταφέρετε δεδομένα από την παλιά συσκευή σας σε νέα.\nΘα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τις σχετικές Νομοθεσίες, Κανονισμούς και πολιτικές απορρήτου. Σημειώστε ότι η Mi Mover πρέπει να συνδεθεί στο Internet και απαιτεί τα ακόλουθα δικαιώματα για τη συλλογή των προσωπικών σας στοιχείων: ενεργοποίηση και απενεργοποίηση Wi-Fi, πρόσβαση και μεταφορά των επαφών σας, ιστορικό κλήσεων, SMS, MMS, εγγραφές κλήσεων και εγγραφές ήχου.</string>
-  <string name="dialog_request_network_message_extra">Εάν δεν συμφωνείτε να εκχωρήσετε τέτοια δικαιώματα ή να κάνετε κοινή χρήση και αποστολή των προσωπικών σας στοιχείων, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή. Μπορείτε να επιλέξετε να καταργήσετε την εγκατάσταση αυτής της εφαρμογής ή να περιορίσετε τα δικαιώματα στις Ρυθμίσεις σε τέτοιες περιπτώσεις.</string>
-  <string name="dialog_request_permission_message">Καλώς ήλθατε στο Mi Mover! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να μεταφέρετε δεδομένα από την παλιά σας συσκευή ή το iCloud σε μια νέα συσκευή.\nΘα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου.\nΣημειώστε ότι το Mi Mover χρειάζεται να συνδεθεί στο διαδίκτυο, να μπορεί να ενεργοποιεί και να απενεργοποιεί τα Wi-Fi και Bluetooth και απαιτεί τα ακόλουθα δικαιώματα για τη συλλογή των προσωπικών σας πληροφοριών:</string>
-  <string name="dialog_request_permission_message_buttom_content">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Διαδίκτυο και να εκχωρήσει τα υποχρεωτικά δικαιώματα που αναφέρονται παραπάνω.</string>
+  <string name="dialog_request_network_message">Καλώς ήρθατε στην Mi Mover! Μπορείτε να χρησιμοποιήσετε αυτή την εφαρμογή για να μεταφέρετε δεδομένα από την παλιά συσκευή σας σε νέα.\nΘα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τις σχετικές Νομοθεσίες, Κανονισμούς και πολιτικές απορρήτου. Σημειώστε ότι η Mi Mover πρέπει να συνδεθεί στο Internet και απαιτεί τις ακόλουθες Άδειες για τη συλλογή των προσωπικών σας στοιχείων: ενεργοποίηση και απενεργοποίηση Wi-Fi, πρόσβαση και μεταφορά των επαφών σας, ιστορικό κλήσεων, SMS, MMS, εγγραφές κλήσεων και εγγραφές ήχου.</string>
+  <string name="dialog_request_network_message_extra">Εάν δεν συμφωνείτε να εκχωρήσετε τέτοιες Άδειες ή να κάνετε κοινή χρήση και αποστολή των προσωπικών σας στοιχείων, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή. Μπορείτε να επιλέξετε να καταργήσετε την εγκατάσταση αυτής της εφαρμογής ή να περιορίσετε τις Άδειες στις Ρυθμίσεις σε τέτοιες περιπτώσεις.</string>
+  <string name="dialog_request_permission_message">Καλώς ήλθατε στο Mi Mover! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να μεταφέρετε δεδομένα από την παλιά σας συσκευή ή το iCloud σε μια νέα συσκευή.\nΘα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές απορρήτου.\nΣημειώστε ότι το Mi Mover χρειάζεται να συνδεθεί στο διαδίκτυο, να μπορεί να ενεργοποιεί και να απενεργοποιεί τα Wi-Fi και Bluetooth και απαιτεί τις ακόλουθες Άδειες για τη συλλογή των προσωπικών σας πληροφοριών:</string>
+  <string name="dialog_request_permission_message_buttom_content">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Διαδίκτυο και να εκχωρήσει τις υποχρεωτικές Άδειες που αναφέρονται παραπάνω.</string>
   <string name="dialog_request_permission_message_extra">Εάν δεν συμφωνείτε να εκχωρήσετε τέτοιες άδειες ή για κοινή χρήση και αποστολή προσωπικών σας στοιχείων, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή. Μπορείτε να καταργήσετε την εγκατάσταση ή να αποσυνδεθείτε από αυτήν την εφαρμογή σε τέτοιες περιπτώσεις.</string>
-  <string name="dialog_request_permission_message_extra_summary">Αυτά τα δικαιώματα απαιτούνται για να καταστούν διαθέσιμες οι βασικές δυνατότητες και υπηρεσίες αυτής της εφαρμογής.</string>
-  <string name="dialog_request_permission_message_extra_title">Υποχρεωτικά δικαιώματα</string>
+  <string name="dialog_request_permission_message_extra_summary">Αυτές οι Άδειες απαιτούνται για να καταστούν διαθέσιμες οι βασικές δυνατότητες και υπηρεσίες αυτής της εφαρμογής.</string>
+  <string name="dialog_request_permission_message_extra_title">Υποχρεωτικές Άδειες</string>
   <string name="dialog_request_permission_message_link" formatted="false"><Data>"Ταυτόχρονα, για να κατανοήσετε πλήρως τα δικαιώματά σας ως χρήστη, καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και συμφωνήστε με τις &lt;a href='%1s'>Συμφωνία χρήστη&lt;/a> και &lt;a href='%2s'>Πολιτική Απορρήτου&lt;/a>."</Data></string>
   <string name="dialog_request_permission_title">Προσοχή</string>
   <string name="dialog_tip_upgrade_summary">Φαίνεται οτι η έκδοση του Mi Mover είναι παλιά. Ενημερώστε το Mi Mover στην τελευταία του έκδοση για να μπορέσετε να μεταφέρετε αρχεία.</string>
@@ -142,7 +142,7 @@
   <string name="err_version_unsupported">Η έκδοση αντιγράφων ασφαλείας δεν υποστηρίζεται.</string>
   <string name="error_forbidden">Ο συγχρονισμός έχει απενεργοποιηθεί λόγω προβλημάτων με το Λογαριασμό Mi.</string>
   <string name="error_not_acceptable">Ο συγχρονισμός έχει απενεργοποιηθεί.</string>
-  <string name="error_permissions">Αυτή η εφαρμογή δεν διαθέτει τα απαιτούμενα δικαιώματα για την πρόσβαση στο Ημερολόγιο. Μεταβείτε στις Ρυθμίσεις και ελέγξτε τα δικαιώματα για να συνεχίσετε.</string>
+  <string name="error_permissions">Αυτή η εφαρμογή δεν διαθέτει τις απαιτούμενες Άδειες για την πρόσβαση στο Ημερολόγιο. Μεταβείτε στις Ρυθμίσεις και ελέγξτε τις Άδειες για να συνεχίσετε.</string>
   <string name="error_title">Αδύνατη η συγχρονισμός</string>
   <string name="error_unauthorized">Ο συγχρονισμός έχει απενεργοποιηθεί λόγω υπερβολικά πολλών προσπαθειών σύνδεσης.</string>
   <string name="evening">ΜΜ</string>
@@ -282,8 +282,8 @@
   <string name="international_new_trans_intro_question_8">8. Γιατί δεν είναι δυνατή η μεταφορά μηνυμάτων κειμένου και δεδομένων ορισμένων εφαρμογών τρίτων?</string>
   <string name="international_scanner_send_dialog_message">Δεν είναι δυνατή η μεταφορά μηνυμάτων κειμένου και δεδομένων ορισμένων εφαρμογών τρίτων. Μην απενεργοποιείτε το Wi-Fi ή κάνετε εναλλαγή μεταξύ δικτύων κατά τη μεταφορά.</string>
   <string name="label">MIUI SDK</string>
-  <string name="lack_perm_msg">Το Mi Mover χρειάζεται τα ακόλουθα δικαιώματα για σωστή λειτουργία: &lt;b&gt;%s&lt;/b&gt;.</string>
-  <string name="lack_perm_title">Απαιτούνται δικαιώματα</string>
+  <string name="lack_perm_msg">Το Mi Mover χρειάζεται τις ακόλουθες Άδειες για σωστή λειτουργία: &lt;b&gt;%s&lt;/b&gt;.</string>
+  <string name="lack_perm_title">Απαιτούνται Άδειες</string>
   <string name="launcher">Διάταξη αρχικής οθόνης</string>
   <string name="less_than_1_minute">Λιγότερο από 1 λεπτό</string>
   <string name="loading_data">Μισό λεπτό…</string>
@@ -296,7 +296,7 @@
   <string name="main_chooser_item_android_others">Εισαγωγή από άλλο τηλέφωνο Android</string>
   <string name="main_chooser_item_ios">Εισαγωγή από iPhone</string>
   <string name="main_chooser_title">Επιλέξτε την παλιά συσκευή</string>
-  <string name="message_request_package_stats_perm">Πατήστε \"Συνέχεια\" για να ανοίξετε τις Ρυθμίσεις και δώστε στο Mi Mover τα απαιτούμενα δικαιώματα.</string>
+  <string name="message_request_package_stats_perm">Πατήστε \"Συνέχεια\" για να ανοίξετε τις Ρυθμίσεις και δώστε στο Mi Mover τις απαιτούμενες Άδειες.</string>
   <string name="midnight">ΜΜ</string>
   <string name="miui_need_location_permission_summary">\"Επιτρέψτε στο Mi Mover να αποκτήσει πρόσβαση στη τοποθεσία σας, προκειμένου να εντοπίσει κοντινές συσκευές. Θα είναι αδύνατη η χρήση του Mi Mover αν δεν το επιτρέψετε\".</string>
   <string name="miui_need_location_permission_title">Πρόσβαση στην τοποθεσία</string>
@@ -352,7 +352,7 @@
   <string name="name_password_not_consistent">Το αναγνωριστικό και ο κωδικός πρόσβασης Apple που εισάγατε δεν ταιριάζουν</string>
   <string name="need_location_permission_confirm">Ρυθμίσεις</string>
   <string name="need_location_permission_summary">Επιτρέψτε στο Mi Mover να αποκτήσει πρόσβαση στη τοποθεσία σας, προκειμένου να εντοπίσει κοντινές συσκευές.</string>
-  <string name="need_location_permission_title">Απαιτούνται δικαιώματα</string>
+  <string name="need_location_permission_title">Απαιτούνται Άδειες</string>
   <string name="need_more_memory_cacel">Ακύρωση</string>
   <string name="need_more_memory_confirm">Εκκαθαριστής</string>
   <string name="need_more_memory_summary">Ανεπαρκής χώρος αποθήκευσης. Το Mi Mover χρειάζεται %1$s επιπλέον χώρο αποθήκευσης για να δημιουργήσει συμπιεσμένα πακέτα πριν από τη μεταφορά.\n1. Δοκιμάστε να μεταφέρετε μόνο σημαντικά στοιχεία.\n2. Να μην επιλέγονται εφαρμογές με πολλά δεδομένα.\n3. Χρησιμοποιήστε την Εκκαθάριση για να ελευθερώσετε χώρο.</string>
@@ -363,7 +363,7 @@
   <string name="new_trans_intro_desc_3">Το Mi Mover χρειάζεται αποθηκευτικό χώρο για να δημιουργήσει ένα πακέτο μεταφοράς στην παλιά συσκευή σας πριν το στείλει στη νέα. Ελευθερώστε χώρο αποθήκευσης για να μπορείτε να συνεχίσετε.</string>
   <string name="new_trans_intro_desc_4">Ενδέχεται να υπάρχουν ζητήματα συμβατότητας συσκευών, συστημάτων και εκδόσεων εφαρμογών που αποτρέπουν την επιτυχή μεταφορά ορισμένων εφαρμογών.</string>
   <string name="new_trans_intro_desc_5">Ορισμένες εφαρμογές (π.χ. οικονομικές υπηρεσίες και εργαλεία πληρωμής) δεν επιτρέπουν τη μεταφορά κωδικών πρόσβασης για λόγους ασφαλείας.</string>
-  <string name="new_trans_intro_desc_6">Το νέο σας τηλέφωνο Mi ενδέχεται να μην έχει τα απαραίτητα δικαιώματα για να το κάνει αυτό.</string>
+  <string name="new_trans_intro_desc_6">Το νέο σας τηλέφωνο Mi ενδέχεται να μην έχει τις απαραίτητες Άδειες για να το κάνει αυτό.</string>
   <string name="new_trans_intro_desc_7">Το Mi Mover θα μπορέσει να συνεχίσει από εκεί που σταμάτησε. Εντούτοις, ίσως χρειαστεί να ξεκινήσετε πάλι αν τα ζητήματα συμβατότητας συσκευών σας εμποδίζουν να συνεχίσετε τη διακοπή της μεταφοράς.</string>
   <string name="new_trans_intro_desc_8">Το ιστορικό συνομιλιών από την παλιά συσκευή σας θα αντικαταστήσει το ιστορικό Wechat της νέας συσκευής σας κατά τη μεταφορά.</string>
   <string name="new_trans_intro_desc_new">1. Βεβαιωθείτε ότι η Mi Mover στη νέα συσκευή σας είναι ενημερωμένη. Μπορείτε να κάνετε λήψη της τελευταίας έκδοσης του Mi Mover στο GetApps ή να χρησιμοποιήσετε αυτήν τη σύνδεση: %1$s.</string>
@@ -441,7 +441,7 @@
   <string name="perm_write_settings">Αλλαγή ρυθμίσεων συστήματος</string>
   <string name="permdesc_sendSmsNoConfirmation">Η εφαρμογή μπορεί να στείλει μηνύματα SMS χωρίς να ζητήσει την άδειά σας. Ο φορέας σας μπορεί να σας χρεώσει για αυτά τα μηνύματα.</string>
   <string name="permission_alert_message_usage_access">Το Mi Mover πρέπει να έχει πρόσβαση στα στατιστικά στοιχεία χρήσης της εφαρμογής. Δώστε στο Mi Mover τις απαιτούμενες άδειες στις Ρυθμίσεις.</string>
-  <string name="permission_alert_title">Απαιτούνται δικαιώματα</string>
+  <string name="permission_alert_title">Απαιτούνται Άδειες</string>
   <string name="permission_bluetooth_summary">Για εύρεση διαθέσιμων συσκευών σε κοντινή απόσταση</string>
   <string name="permission_bluetooth_title">Ενεργοποίηση και απενεργοποίηση του Bluetooth</string>
   <string name="permission_calender_summary">Για τη μεταφορά συμβάντων ημερολογίου από την παλιά συσκευή σε νέα</string>
@@ -631,7 +631,7 @@
   <string name="time_picker_label_hour">Ω</string>
   <string name="time_picker_label_minute">Λ</string>
   <string name="time_spent">Χρόνος: &lt;g id=\"time\"&gt;%1$s&lt;/g&gt;</string>
-  <string name="title_request_package_stats_perm">Απαιτούνται δικαιώματα</string>
+  <string name="title_request_package_stats_perm">Απαιτούνται Άδειες</string>
   <string name="title_request_write_settings_perm">Απαιτείται άδεια αλλαγής των ρυθμίσεων συστήματος</string>
   <string name="today">Σήμερα</string>
   <string name="tomorrow">Αύριο</string>

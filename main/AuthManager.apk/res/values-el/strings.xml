@@ -143,12 +143,12 @@
   <string name="permission_group_title_charges_related">Χρεώσεις</string>
   <string name="permission_group_title_media_related">Πολυμέσα</string>
   <string name="permission_group_title_privacy_related">Ιδιωτικότητα</string>
-  <string name="permission_group_title_sensitive_privacy_related">Ευαίσθητα δικαιώματα</string>
+  <string name="permission_group_title_sensitive_privacy_related">Ευαίσθητες Άδειες</string>
   <string name="permission_group_title_settings_related">Ρυθμίσεις</string>
   <string name="permission_list_include">Συμπεριλαμβάνονται τα ακόλουθα\n</string>
   <string name="permission_reminders">Υπενθυμίσεις δικαιωμάτων</string>
   <string name="permission_warning_template">Επιτρέπετε στην %1$s να %2$s;</string>
-  <string name="permission_warning_template_ask">Επιτρέπετε στην %1$s τα ακόλουθα δικαιώματα;</string>
+  <string name="permission_warning_template_ask">Επιτρέπετε στην %1$s τις ακόλουθες Άδειες;</string>
   <string name="permisson_reject_notice_toast_text2">δεν έχει δικαίωμα να %1$s.</string>
   <string name="screen_overlay_button">Άνοιγμα ρυθμίσεων</string>
   <string name="screen_overlay_message">Για να αλλάξετε αυτή τη ρύθμιση της άδειας, πρέπει πρώτα να απενεργοποιήσετε την επικάλυψη της οθόνης από το Ρυθμίσεις&gt;Εφαρμογές</string>

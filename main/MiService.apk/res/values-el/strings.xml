@@ -232,7 +232,7 @@
   <string name="miui_feedback_edit_mobile_data_note_dialog_title">Προειδοποίηση χρήσης δεδομένων</string>
   <string name="miui_feedback_edit_need_phone_state_permission">Αφήστε την εφαρμογή να αποκτήσει πρόσβαση στις πληροφορίες της συσκευής για να της επιτρέψει να διαβάσει το IMEI, το οποίο θα βοηθήσει στην εύρεση προβλημάτων. Πατήστε \"OK\" για να ανοίξετε τις Ρυθμίσεις.</string>
   <string name="miui_feedback_edit_need_storage_permission">Αφήστε την εφαρμογή να αποκτήσει πρόσβαση στο χώρο αποθήκευσης συσκευών, για να μπορέσετε να επισυνάψετε εικόνες και βίντεο στα σχόλιά σας. Πατήστε \"OK\" για να ανοίξετε τις Ρυθμίσεις.</string>
-  <string name="miui_feedback_edit_permission_denied_title">Περιορισμένα δικαιώματα: %1$s</string>
+  <string name="miui_feedback_edit_permission_denied_title">Περιορισμένες Άδειες: %1$s</string>
   <string name="miui_feedback_edit_phone_state_permission_name">Πρόσβαση σε πληροφορίες συσκευής</string>
   <string name="miui_feedback_edit_reproductivity_everytime">Κάθε φορά</string>
   <string name="miui_feedback_edit_reproductivity_occasionally">Ενίοτε</string>
@@ -376,7 +376,7 @@
   <string name="permission_external_storage_introduce">Για την αποθήκευση και την αποστολή των σχολίων σας</string>
   <string name="permission_first_start_network_title">Οροι και Προϋποθέσεις</string>
   <string name="permission_imei_disable_desc">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Internet.</string>
-  <string name="permission_imei_enable_desc">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Internet και εκχωρήστε τα υποχρεωτικά δικαιώματα που αναφέρονται παραπάνω.</string>
+  <string name="permission_imei_enable_desc">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Internet και εκχωρήστε τις υποχρεωτικές Άδειες που αναφέρονται παραπάνω.</string>
   <string name="permission_location_introduce">Για εμφάνιση κοντινών σημείων εξυπηρέτησης</string>
   <string name="permission_main_purpose">Εμφάνιση επίδειξης χαρακτηριστικών MIUI, υποβολή σχολίων και υποβολή αίτησης για υπηρεσίες μετά την πώληση.</string>
   <string name="permission_privacy">Πολιτική απορρήτου (υποχρεωτική)</string>
@@ -390,8 +390,8 @@
   <string name="public_net_error_retry">Προσπαθήστε ξανά</string>
   <string name="public_net_error_sub_title">Ελέγξτε τις ρυθμίσεις δικτύου και δοκιμάστε ξανά</string>
   <string name="public_net_error_title">Δεν ήταν δυνατή η σύνδεση στο δίκτυο</string>
-  <string name="rationale_ask">Αυτή η εφαρμογή ενδέχεται να μην λειτουργεί σωστά χωρίς τα απαιτούμενα δικαιώματα.</string>
-  <string name="rationale_ask_again">Αυτή η εφαρμογή ενδέχεται να μην λειτουργεί σωστά χωρίς τα απαιτούμενα δικαιώματα. Ανοίξτε την οθόνη ρυθμίσεων εφαρμογής για να τροποποιήσετε τα δικαιώματα εφαρμογής.</string>
+  <string name="rationale_ask">Αυτή η εφαρμογή ενδέχεται να μην λειτουργεί σωστά χωρίς τις απαιτούμενες Άδειες.</string>
+  <string name="rationale_ask_again">Αυτή η εφαρμογή ενδέχεται να μην λειτουργεί σωστά χωρίς τις απαιτούμενες Άδειες. Ανοίξτε την οθόνη ρυθμίσεων εφαρμογής για να τροποποιήσετε τις Άδειες εφαρμογής.</string>
   <string name="required_permissions">;</string>
   <string name="saturday">Σάββατο</string>
   <string name="saturday_short">Sat</string>

@@ -41,7 +41,7 @@
   <string name="app_name_miuiwallpaper">Ταπετσαρίες</string>
   <string name="app_name_screenshot">Στιγμιότυπα οθόνης</string>
   <string name="app_permissions">Άδειες εφαρμογής</string>
-  <string name="app_permissions_desc">Ο Διαχειριστής αρχείων χρειάζεται κάποια δικαιώματα για κανονική λειτουργία.</string>
+  <string name="app_permissions_desc">Ο Διαχειριστής αρχείων χρειάζεται κάποιες Άδειες για κανονική λειτουργία.</string>
   <string name="auto">Σύστημα</string>
   <string name="auto_upgrade">Αυτόματη ενημέρωση</string>
   <string name="byteShort">B</string>
@@ -342,7 +342,7 @@
   <string name="player_tips_up_down_left">Σύρετε κάθετα στα αριστερά</string>
   <string name="player_tips_up_down_right">Σύρετε κάθετα στα δεξιά</string>
   <string name="player_tips_volume">Προσαρμογή έντασης ήχου</string>
-  <string name="possible_permissions">Προαιρετικά δικαιώματα</string>
+  <string name="possible_permissions">Προαιρετικές Άδειες</string>
   <string name="private_files">Κρυφά</string>
   <string name="private_folder">Κρυφά αρχεία</string>
   <string name="private_folder_no_file_hints">Δεν υπάρχουν κρυφά αρχεία.</string>

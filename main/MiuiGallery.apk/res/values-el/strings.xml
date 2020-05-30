@@ -1358,7 +1358,7 @@
   <string name="percent_sign">%</string>
   <string name="permission_contacts_desc">Για την εκχώρηση επαφών σε φωτογραφίες</string>
   <string name="permission_contacts_name">Επαφές</string>
-  <string name="permission_optional_category">Προαιρετικά δικαιώματα</string>
+  <string name="permission_optional_category">Προαιρετικές Άδειες</string>
   <string name="permission_phone_desc">Για αιτήσεις δικτύου που βασίζονται στο ID συσκευής</string>
   <string name="permission_phone_name">Τηλέφωνο</string>
   <string name="permission_require_category">Υποχρεωτικές Άδειες</string>
@@ -1503,7 +1503,7 @@
   <string name="privacy_permission_request_message">Η Συλλογή χρειάζεται πρόσβαση σε %3$s. Οι πληροφορίες που συλλέγουμε θα χρησιμοποιηθούν σύμφωνα με την %1$s και %2$s. Επιτρέπετε?</string>
   <string name="privacy_permission_request_negative">Απόρριψη</string>
   <string name="privacy_permission_request_positive">Αποδοχή</string>
-  <string name="privacy_permission_request_title">Απαιτούμενα δικαιώματα</string>
+  <string name="privacy_permission_request_title">Απαιτούμενες Άδειες</string>
   <string name="private_entry_lock_state_activated_text">Αφήστε το για να ανοίξετε τον ιδιωτικό φάκελο</string>
   <string name="private_entry_lock_state_enterd_text">Τραβήξτε προς τα κάτω για να ανοίξετε τον ιδιωτικό φάκελο</string>
   <string name="projection_cancel">Ακύρωση</string>
@@ -1702,7 +1702,7 @@
   <string name="secret_reason_type_not_support">Αυτός ο τύπος αρχείου δεν υποστηρίζεται</string>
   <string name="secret_reason_unknow_reasons">Άγνωστο σφάλμα</string>
   <string name="secret_reason_video_not_support">Αδύνατη η προσθήκη βίντεο σε ιδιωτικό άλμπουμ</string>
-  <string name="security_share_subtitle_default">Προστασία προσωπικών δεδομένων</string>
+  <string name="security_share_subtitle_default">Προστασία Απορρήτου</string>
   <string name="security_share_subtitle_hide">Location info was removed</string>
   <string name="security_share_subtitle_no_hide">Contains location info</string>
   <string name="see_ignore_faces">Προβολή ατόμων που αγνοήσατε</string>

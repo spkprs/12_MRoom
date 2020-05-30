@@ -153,7 +153,7 @@
   <string name="confirm_opening">Επιβεβαίωση εκκίνησης</string>
   <string name="copy">Αντιγραφή</string>
   <string name="copy_done">Επιτυχής αντιγραφή</string>
-  <string name="copyright_statement">Πνευματικά δικαιώματα © Xiaomi Inc. Με επιφύλαξη παντός δικαιώματος.</string>
+  <string name="copyright_statement">Πνευματικά Δικαιώματα © Xiaomi Inc. Με επιφύλαξη παντός δικαιώματος.</string>
   <string name="cousume_unit_float_format">%1$.2f Cal</string>
   <string name="cross_hiking">Πεζοπορία</string>
   <string name="cumulative_decline">Απώλεια ανύψωσης</string>
@@ -221,7 +221,7 @@
   <string name="dialog_delete_record_confirm">Διαγραφή αυτής της εγγραφής;</string>
   <string name="dialog_exercise_purpose">Καλωσορίσατε στη Xiaomi Health! Ο \"Μετρητής βημάτων\" σας επιτρέπει να δείτε πόσα βήματα κάνετε κατά τη διάρκεια της ημέρας, καθώς και να ορίσετε τους στόχους δραστηριότητας. Όλα τα σχετικά δεδομένα θα αποθηκευτούν τοπικά στη συσκευή σας, που σας επιτρέπει να τα διαχειρίζεστε εύκολα.</string>
   <string name="dialog_exit">Έξοδος</string>
-  <string name="dialog_feedback_content">Εάν δεν συμφωνείτε να παραχωρήσετε τέτοια δικαιώματα, δεν θα μπορείτε να χρησιμοποιήσετε κάποιες λειτουργίες αυτής της εφαρμογής. Ωστόσο, η βασική λειτουργικότητα θα είναι ακόμα διαθέσιμη σε εσάς. Μπορείτε πάντα να περιορίσετε τα δικαιώματα ή να ανακαλέσετε την εξουσιοδότησή σας στις Ρυθμίσεις.</string>
+  <string name="dialog_feedback_content">Εάν δεν συμφωνείτε να παραχωρήσετε τέτοιες Άδειες, δεν θα μπορείτε να χρησιμοποιήσετε κάποιες λειτουργίες αυτής της εφαρμογής. Ωστόσο, η βασική λειτουργικότητα θα είναι ακόμα διαθέσιμη σε εσάς. Μπορείτε πάντα να περιορίσετε τις Άδειες ή να ανακαλέσετε την εξουσιοδότησή σας στις Ρυθμίσεις.</string>
   <string name="dialog_feedback_purpose">Η Xiaomi Health πρέπει να έχει πρόσβαση στην αποθήκευση για να υποβάλει σχόλια.</string>
   <string name="dialog_feedback_purpose2">Για την υποβολή σχολίων</string>
   <string name="dialog_feedback_title">Σχόλια</string>

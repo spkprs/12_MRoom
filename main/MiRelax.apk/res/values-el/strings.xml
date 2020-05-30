@@ -21,7 +21,7 @@
   <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
   <string name="app_share_desp">Χρήσιμη και άνετη</string>
   <string name="authority_management_title">Διαχείριση δικαιωμάτων αναπαραγωγής παρασκηνίου</string>
-  <string name="bg_authority_management_description">Βήματα για να ανοίξετε τα ακόλουθα δικαιώματα, μπορείτε να αφήσετε το λευκό θόρυβο της xiaomi να συνεχίσει να αναπαράγεται στο παρασκήνιο</string>
+  <string name="bg_authority_management_description">Βήματα για να ανοίξετε τις ακόλουθες Άδειες, μπορείτε να αφήσετε το λευκό θόρυβο της xiaomi να συνεχίσει να αναπαράγεται στο παρασκήνιο</string>
   <string name="bg_authority_management_lock">Κλείδωμα εργασιών παρασκηνίου</string>
   <string name="bg_authority_management_play">Αγνόηση βελτιστοποίησης μπαταρίας</string>
   <string name="bg_authority_management_self_start">Επιτρέψτε την αυτόματη εκκίνηση</string>

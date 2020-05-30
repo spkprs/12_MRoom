@@ -170,7 +170,7 @@
     <item quantity="one">+%1$d περισ. χαρακτήρα</item>
   </plurals>
   <plurals name="hints_apps_perm_count">
-    <item quantity="other">%d δικαιώματα</item>
+    <item quantity="other">%d Άδειες</item>
     <item quantity="one">%d δικαίωμα</item>
   </plurals>
   <plurals name="hints_auto_start_disable_title">

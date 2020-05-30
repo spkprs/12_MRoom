@@ -46,7 +46,7 @@
      <string name="adb_warning_title">Επιτρέπετε την κατ. σφαλμ. USB?</string>
      <string name="additional_permissions">Πρόσθετα διακαιώματα</string>
      <string name="allPerms">Όλα</string>
-     <string name="all_permissions">Όλα τα δικαιώματα</string>
+     <string name="all_permissions">Όλα τις Άδειες</string>
      <string name="allow_mock_location">Allow mock locations</string>
      <string name="allow_mock_location_summary">Allow mock locations</string>
      <string name="animator_duration_scale_title">Animator duration scale</string>
@@ -200,7 +200,7 @@
      <string name="force_resizable_activities_summary">Make all activities resizable for multi-window, regardless of manifest values.</string>
      <string name="force_rtl_layout_all_locales">Force RTL layout direction</string>
      <string name="force_rtl_layout_all_locales_summary">Force screen layout direction to RTL for all locales</string>
-     <string name="grant_confirm_question">Θέλετε να χορηγηθούν τα ακόλουθα δικαιώματα; Θα έχει πρόσβαση σε:</string>
+     <string name="grant_confirm_question">Θέλετε να χορηγηθούν τις ακόλουθες Άδειες; Θα έχει πρόσβαση σε:</string>
      <string name="grant_dialog_button_allow">Αποδοχή</string>
      <string name="grant_dialog_button_deny">Απόρριψη</string>
      <string name="grant_dialog_button_deny_anyway">Άρνηση</string>
@@ -299,8 +299,8 @@
      <string name="next">Επόμενο</string>
      <string name="no_application">Nothing</string>
      <string name="no_apps">Χωρίς εφαρμογές</string>
-     <string name="no_new_perms">Αυτή η ενημέρωση δεν απαιτεί νέα δικαιώματα.</string>
-     <string name="no_permissions">Χωρίς δικαιώματα</string>
+     <string name="no_new_perms">Αυτή η ενημέρωση δεν απαιτεί νέες Άδειες.</string>
+     <string name="no_permissions">Χωρίς Άδειες</string>
      <string name="oem_preferred_feedback_reporter" />
      <string name="oem_unlock_enable">OEM unlocking</string>
      <string name="oem_unlock_enable_summary">Allow the bootloader to be unlocked</string>
@@ -317,7 +317,7 @@
      <string name="permission_review_title_template_update">%1$s has been updated. Choose what to allow this app to access.</string>
      <string name="permission_review_warning_title_template_update">%1$s has been updated. Allow %1$s to access the following?</string>
      <string name="permission_summary_enforced_by_policy">Επιβάλλεται από την πολιτική</string>
-     <string name="permission_title">%1$s δικαιώματα</string>
+     <string name="permission_title">%1$s Άδειες</string>
      <string name="permission_warning_template">Να επιτρέπεται στο %1$s να %2$s;</string>
      <string name="permlab_togglePermissions">εναλλαγή δικαιωμάτων</string>
      <string name="picture_color_mode">Picture color mode</string>

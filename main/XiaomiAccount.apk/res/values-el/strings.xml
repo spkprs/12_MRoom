@@ -295,10 +295,10 @@ ID:%s
      <string name="notify_network_restricted_title">Ο λογαριασμός Mi δεν μπορεί να συνδεθεί στο δίκτυο</string>
      <string name="oauth_get_scopes_failed">Δεν ήταν δυνατή η λήψη πληροφοριών λογαριασμού</string>
      <string name="oauth_getting_scopes">Επαλήθευση λογαριασμού…</string>
-     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> θα ληφθούν τα ακόλουθα δικαιώματα:&lt;br> &lt;br> %3$s</string>
+     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> θα ληφθούν τις ακόλουθες Άδειες:&lt;br> &lt;br> %3$s</string>
      <string name="oauth_title">Συνδεθείτε με το Λογαριασμό Mi</string>
      <string name="ok">OK</string>
-     <string name="optional_permissions">Προαιρετικά δικαιώματα</string>
+     <string name="optional_permissions">Προαιρετικές Άδειες</string>
      <string name="passport_Resend">Επαναποστολή</string>
      <string name="passport_access_denied">Δεν επιτρέπετε η πρόσβαση</string>
      <string name="passport_account_hint_text">Διεύθυνση email ή αριθμός τηλεφώνου</string>

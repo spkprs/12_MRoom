@@ -12,7 +12,7 @@
 	<string name="notification_sound_default">Ήχος ειδ/σης</string>
 	<string name="permission_audio">Αποδοχή &lt;b&gt;^1&lt;/b&gt; τροποποίηση ή διαγραφή αυτής της μουσικής?</string>
 	<string name="permission_images">Αποδοχή &lt;b&gt;^1&lt;/b&gt; τροποποίηση ή διαγραφή αυτής της εικόνας?</string>
-	<string name="permission_required">Απαιτούνται δικαιώματα για την τροποποίηση ή τη διαγραφή αυτού του στοιχείου.</string>
+	<string name="permission_required">Απαιτούνται Άδειες για την τροποποίηση ή τη διαγραφή αυτού του στοιχείου.</string>
 	<string name="permission_required_action">Συνέχεια</string>
 	<string name="permission_video">Αποδοχή &lt;b&gt;^1&lt;/b&gt; για τροποποίηση ή διαγραφή αυτού του βίντεο?</string>
 	<string name="ringtone_default">Ήχος κλήσης</string>

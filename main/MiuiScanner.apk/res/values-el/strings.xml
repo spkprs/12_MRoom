@@ -154,9 +154,9 @@
      <string name="error_empty_result">Δεν βρέθηκαν αποτελέσματα</string>
      <string name="error_get_image">"Δεν ήταν δυνατή η λήψη εικόνας"</string>
      <string name="error_media_storage_failure">Αδυναμία αποθήκευσης φωτογραφίας</string>
-     <string name="error_permissions">Ο Σαρωτής δεν έχει τα δικαιώματα που απαιτούνται για να λειτουργήσει κανονικά. Πηγαίνετε στις Ρυθμίσεις και ελέγξτε τα δικαιώματα για να συνεχίσετε.</string>
+     <string name="error_permissions">Ο Σαρωτής δεν έχει τις Άδειες που απαιτούνται για να λειτουργήσει κανονικά. Πηγαίνετε στις Ρυθμίσεις και ελέγξτε τις Άδειες για να συνεχίσετε.</string>
      <string name="error_server_error">Σφάλμα διακομιστή</string>
-     <string name="experience_new_feature_tips">"Εισέλθετε στο λογαριασμό σας Mi για να υποβάλετε αίτηση για δικαιώματα χρήσης της έκδοσης Beta. Θα μπορείτε να χρησιμοποιήσετε την έκδοση Beta μετά την αναθεώρηση της εφαρμογής σας. Η έκδοση beta μπορεί να περιέχει σφάλματα."</string>
+     <string name="experience_new_feature_tips">"Εισέλθετε στο λογαριασμό σας Mi για να υποβάλετε αίτηση για Άδειες χρήσης της έκδοσης Beta. Θα μπορείτε να χρησιμοποιήσετε την έκδοση Beta μετά την αναθεώρηση της εφαρμογής σας. Η έκδοση beta μπορεί να περιέχει σφάλματα."</string>
      <string name="experience_new_features">Έκδοση beta</string>
      <string name="experiential_version_of_the_prompt_content">Εισέλθετε στο λογαριασμό σας Mi για να αποκτήσετε πρόσβαση στην έκδοση Beta του Σαρωτή. Είσοδος τώρα;</string>
      <string name="fab_transformation_scrim_behavior">android.support.design.transformation.FabTransformationScrimBehavior</string>
@@ -235,7 +235,7 @@
      <string name="name">Όνομα:</string>
      <string name="new_schedule">Δημιουργία συμβάντος</string>
      <string name="nickname">Ψευδώνυμο:</string>
-     <string name="no_has_experience_version_permission">"Δεν έχετε δικαιώματα χρήσης του Σαρωτή Beta. Κάντε αίτηση για δικαιώματα ή κάντε λήψη της σταθερής έκδοσης."</string>
+     <string name="no_has_experience_version_permission">"Δεν έχετε Άδειες χρήσης του Σαρωτή Beta. Κάντε αίτηση για Άδειες ή κάντε λήψη της σταθερής έκδοσης."</string>
      <string name="no_inner_version">"Η έκδοση beta δεν είναι διαθέσιμη"</string>
      <string name="no_network">Αδυναμία σύνδεσης στο δίκτυο</string>
      <string name="no_storage">Δεν βρέθηκε αποθηκευτικός χώρος</string>

@@ -39,7 +39,7 @@
 	<string name="com_xiaomi_shop">Mi Store</string>
 	<string name="com_xiaomi_youpin">Youpin</string>
 	<string name="confirm_description">Επιβεβαίωση</string>
-	<string name="copyright">Πνευματικά δικαιώματα</string>
+	<string name="copyright">Πνευματικά Δικαιώματα</string>
 	<string name="date_picker_dialog_title">Ορισμός ημερ.</string>
 	<string name="date_picker_lunar">Traditional Chinese calendar</string>
 	<string name="date_time_done">Ολοκληρώθηκε</string>
@@ -48,6 +48,7 @@
 	<string name="deselect_all">Αποεπιλογή</string>
 	<string name="deselect_all_description">Αποεπιλογή Όλων</string>
 	<string name="do_not_restore_temporarily">Όχι τώρα</string>
+    <string name="download_right_now">Λήψη</string>
 	<string name="early_morning">ΠΜ</string>
 	<string name="email">E-Mail</string>
 	<string name="eras_ad">ΜΧ</string>
@@ -65,6 +66,8 @@
 	<string name="instruction">Σημαντικές πληροφορίες ασφαλείας</string>
 	<string name="label">MIUI SDK</string>
 	<string name="midnight">ΠΜ</string>
+    <string name="mobile_data_remind">Προειδοποίηση χρήσης δεδομένων</string>
+    <string name="mobile_data_consume">Για τη λήψη στοιχείων τώρα απαιτείται η χρήση %1$s MB δεδομένων. Λήψη οπωσδήποτε;</string>
 	<string name="monday">Δευτέρα</string>
 	<string name="monday_short">Δευ</string>
 	<string name="monday_shortest">Δ</string>

@@ -307,7 +307,7 @@ ID:%s
      <string name="lks_subscription_toast">Η Αλλαγή ταπετσαρίας ολοκληρώθηκε</string>
      <string name="llks_add_cate">Εγγραφείτε στο %s</string>
      <string name="llks_auto_switch_wp">Εγγραφείτε στις κατηγορίες που σας αρέσει</string>
-     <string name="llks_display_error">Απαιτούνται δικαιώματα</string>
+     <string name="llks_display_error">Απαιτούνται Άδειες</string>
      <string name="llks_display_error_des">Να επιτρέπεται η εικόνα του καρουσέλ ταπετσαρίας στην οθόνη κλειδώματος στις ρυθμίσεις.</string>
      <string name="llks_learn_more_cate">Περισσότερες κατηγορίες</string>
      <string name="llks_pop_btm_des">Ξεκίνα την μέρα σου με χαμόγελο</string>
@@ -395,7 +395,7 @@ ID:%s
      <string name="open_freq_title">Ορισμός συχνότητας ενημέρωσης</string>
      <string name="open_gallery">Καρουσέλ ταπετσαρίας</string>
      <string name="open_gallery_tips">Πατήστε εδώ για να ενεργοποιήσετε το καρουσέλ ταπετσαρία</string>
-     <string name="open_guid_des">Μεταβείτε στην επιλογή Ρυθμίσεις &gt; Δικαιώματα &gt; Άλλες άδειες &gt; Καρουσέλ ταπετσαρίες και δώστε στην εφαρμογή όλα τα απαιτούμενα δικαιώματα.</string>
+     <string name="open_guid_des">Μεταβείτε στην επιλογή Ρυθμίσεις &gt; Δικαιώματα &gt; Άλλες άδειες &gt; Καρουσέλ ταπετσαρίες και δώστε στην εφαρμογή όλα τις απαιτούμενες Άδειες.</string>
      <string name="open_sub_title">Επιλέξτε κατηγορίες</string>
      <string name="open_title">Καρουσέλ Ταπετσαρίες</string>
      <string name="open_unable">Το Καρουσέλ ταπετσαρίες λειτουργεί μόνο με την προεπιλεγμένη Οθόνη Κλειδώματος του MIUI.</string>
@@ -528,7 +528,7 @@ ID:%s
      <string name="recommend_switch_title">Εξατομικευμένες συστάσεις</string>
      <string name="refresh_network">Ανανέωση</string>
      <string name="remove">Αφαιρέστε</string>
-     <string name="req_permission_dis_tip">Απαιτούνται δικαιώματα</string>
+     <string name="req_permission_dis_tip">Απαιτούνται Άδειες</string>
      <string name="resend_active_email">Επανάληψη αποστολής</string>
      <string name="resend_email_reach_limit_message">"Ζητήσατε πάρα πολλά email επαλήθευσης. Βεβαιωθείτε ότι το email επαλήθευσης δεν βρίσκεται στο φάκελο Spam των Εισερχομένων σας."</string>
      <string name="resend_email_reach_limit_title">Πάρα πολλές προσπάθειες</string>

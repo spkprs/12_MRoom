@@ -261,7 +261,7 @@
   <string name="galleryplus_gallery_video_slow_edit">Αργή κίνηση</string>
   <string name="galleryplus_gallery_view_tags">Εμφάνιση σημείων</string>
   <string name="galleryplus_is_higher_definition">Άνοιξε προεπισκόπηση HD</string>
-  <string name="galleryplus_permission_content">Δώστε στο Mi Video τα απαιτούμενα δικαιώματα για να μπορείτε να χρησιμοποιήσετε αυτήν τη λειτουργία.</string>
+  <string name="galleryplus_permission_content">Δώστε στο Mi Video τις απαιτούμενες Άδειες για να μπορείτε να χρησιμοποιήσετε αυτήν τη λειτουργία.</string>
   <string name="galleryplus_permission_content2">Για να μπορείτε να χρησιμοποιήσετε αυτήν τη λειτουργία, μεταβείτε στις Ρυθμίσεις > Εφαρμογές > Mi Video > Άδειες εφαρμογών και επιτρέψτε στο Mi Video να κάνει τα εξής:\n\n1. Πρόσβαση στον αποθηκευτικό χώρο\n2. Πρόσβαση στο αναγνωριστικό συσκευής</string>
   <string name="galleryplus_permission_open_settings">Ρυθμίσεις</string>
   <string name="galleryplus_permission_refuse">Οχι ευχαριστώ</string>
@@ -509,8 +509,8 @@
   <string name="pay_record_empty">Δεν υπάρχουν αρχεία αγοράς.</string>
   <string name="performance_mode">Λειτουργία Εκτέλεσης</string>
   <string name="performance_mode_desc">Προτεραιότητα Επιδόσεων</string>
-  <string name="permission_content">Δεν μπορείτε να χρησιμοποιήσετε βίντεο έως ότου εκχωρήσετε δικαιώματα</string>
-  <string name="permission_content2">Το Mi Video χρειάζεται άδεια για κανονική εργασία. Μεταβείτε στις Ρυθμίσεις &gt; Εγκατεστημένες εφαρμογές &gt; Mi Video &gt; Δικαιώματα εφαρμογής και δώστε στο Mi Video τα απαιτούμενα δικαιώματα σχετικά με τα εξής:\n\n1. Αποθήκευση\n2. Τηλέφωνο</string>
+  <string name="permission_content">Δεν μπορείτε να χρησιμοποιήσετε βίντεο έως ότου εκχωρήσετε Άδειες</string>
+  <string name="permission_content2">Το Mi Video χρειάζεται άδεια για κανονική εργασία. Μεταβείτε στις Ρυθμίσεις &gt; Εγκατεστημένες εφαρμογές &gt; Mi Video &gt; Δικαιώματα εφαρμογής και δώστε στο Mi Video τις απαιτούμενες Άδειες σχετικά με τα εξής:\n\n1. Αποθήκευση\n2. Τηλέφωνο</string>
   <string name="permission_open_settings">Ρυθμίσεις</string>
   <string name="permission_refuse">αρνηση</string>
   <string name="permission_retry">ξαναδοκιμάσετε</string>

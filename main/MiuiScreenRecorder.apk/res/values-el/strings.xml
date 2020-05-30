@@ -55,7 +55,7 @@
      <string name="error_open_file_failed_no_app_found">Αδυναμία εύρεσης εφαρμογής που ανοίγει το αρχείο αυτό</string>
      <string name="expand_button_title">Advanced</string>
      <string name="first_using_mic_dialog_message">Η συσκευή Εγγραφής οθόνης χρειάζεται πρόσβαση στο μικρόφωνο σας για την εγγραφή ήχου. Επιτρέπετε?</string>
-     <string name="first_using_mic_dialog_title">Απαιτούνται δικαιώματα</string>
+     <string name="first_using_mic_dialog_title">Απαιτούνται Άδειες</string>
      <string name="fixed_frame_rate">Σταθερό ρυθμό καρέ</string>
      <string name="fixed_frame_rate_summary">Η εγγραφή βίντεο με σταθερό ρυθμό καρέ βελτιώνει την αναπαραγωγή σε πλατφόρμες κοινωνικών δικτύων αλλά μειώνει την διάρκεια της μπαταρίας.</string>
      <string name="frames">Ρυθμός ανάλυσης</string>

@@ -650,7 +650,7 @@
   <string name="menu_reminder_preferences">Υπενθυμίσεις</string>
   <string name="midnight">AM</string>
   <string name="missing_name">(Χωρίς όνομα)</string>
-  <string name="missing_required_permission">Έχετε περιορίσει τα απαιτούμενα δικαιώματα.</string>
+  <string name="missing_required_permission">Έχετε περιορίσει τις απαιτούμενες Άδειες.</string>
   <string name="miuishare_account_activate_confirmation">Ενεργοποίηση λογαριασμού Mi</string>
   <string name="miuishare_account_activate_ok">Ενεργοποίηση</string>
   <string name="miuishare_account_login_cancel">Ακύρωση</string>
@@ -877,7 +877,7 @@
   <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">Έναρξη εβδομάδος</string>
   <string name="preferences_week_start_day_title">Έναρξη εβδομάδος</string>
-  <string name="premission_description_agree">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Διαδίκτυο και να εκχωρήσει τα υποχρεωτικά δικαιώματα που αναφέρονται παραπάνω.</string>
+  <string name="premission_description_agree">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Διαδίκτυο και να εκχωρήσει τις υποχρεωτικές Άδειες που αναφέρονται παραπάνω.</string>
   <string name="premission_description_calendar">Για την προσθήκη και την εμφάνιση των εκδηλώσεών σας</string>
   <string name="premission_description_contact">Για την εμφάνιση γενεθλίων των επαφών σας</string>
   <string name="premission_description_log">Για την αποθήκευση αρχείων καταγραφής</string>

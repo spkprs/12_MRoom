@@ -110,7 +110,7 @@
      <string name="rename_alert">Αν αλλάξετε την επέκταση αυτού του αρχείου, ενδέχεται να μην μπορείτε να το ανοίξετε.</string>
      <string name="rename_failed">Υπάρχει ήδη ένα αρχείο με το ίδιο όνομα.</string>
      <string name="request_permission_msg">Επιτρέψτε στο Mi Drive να αποκτήσει πρόσβαση στις πληροφορίες του λογαριασμού σας και στον Εξωτερικό χώρο αποθήκευσης για να λειτουργήσει κανονικά.</string>
-     <string name="request_permission_title">Απαιτούνται δικαιώματα</string>
+     <string name="request_permission_title">Απαιτούνται Άδειες</string>
      <string name="sd_full">Η κάρτα SD είναι γεμάτη.</string>
      <string name="sd_invalid">Η κάρτα SD σας είναι κατεστραμμένη.</string>
      <string name="send_to_midrive_failed">Αυτός ο τύπος αρχείου δεν υποστηρίζεται.</string>

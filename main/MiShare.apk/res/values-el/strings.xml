@@ -27,7 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Κοινή χρήση με</string>
   <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
   <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
-  <string name="agree_desc">Εκχωρήστε τα υποχρεωτικά δικαιώματα που αναφέρονται παραπάνω.</string>
+  <string name="agree_desc">Εκχωρήστε τις υποχρεωτικές Άδειες που αναφέρονται παραπάνω.</string>
   <string name="app_name">MiShare</string>
   <string name="btn_cancel">Ακύρωση</string>
   <string name="btn_cancel_send">Ακύρωση αυτής της μεταφοράς</string>
@@ -119,8 +119,8 @@
   <string name="oppo">OPPO</string>
   <string name="oppo_phone">OPPO手机</string>
   <string name="pc_device_model_name">Υπολογιστής</string>
-  <string name="permission_denied_hint">Χορηγήστε τα απαιτούμενα δικαιώματα για να μπορείτε να χρησιμοποιήσετε το Mi Share</string>
-  <string name="purpose">Καλώς ήρθατε στο Mi Share! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να μεταφέρετε αρχεία μεταξύ συσκευών. Προστατεύουμε τα προσωπικά σας στοιχεία σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές.\nΠριν χρησιμοποιήσετε το Mi Share, πρέπει να δώσετε τα ακόλουθα δικαιώματα, καθώς και να του επιτρέψετε να συλλέξει τα απαραίτητα προσωπικά στοιχεία:</string>
+  <string name="permission_denied_hint">Χορηγήστε τις απαιτούμενες Άδειες για να μπορείτε να χρησιμοποιήσετε το Mi Share</string>
+  <string name="purpose">Καλώς ήρθατε στο Mi Share! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να μεταφέρετε αρχεία μεταξύ συσκευών. Προστατεύουμε τα προσωπικά σας στοιχεία σύμφωνα με τους σχετικούς νόμους, κανονισμούς και πολιτικές.\nΠριν χρησιμοποιήσετε το Mi Share, πρέπει να δώσετε τις ακόλουθες Άδειες, καθώς και να του επιτρέψετε να συλλέξει τα απαραίτητα προσωπικά στοιχεία:</string>
   <string name="purpose_v12">Καλώς ήλθατε στο Mi Share! Μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή για να μεταφέρετε αρχεία μεταξύ συσκευών.</string>
   <string name="queue_full">Ολοκληρώστε τις τρέχουσες μεταφορές πριν από την προσθήκη νέων.</string>
   <string name="receive_complete">Ελήφθει με επιτυχία</string>
