@@ -194,7 +194,7 @@
      <string name="exo_track_surround_5_point_1">5.1 surround sound</string>
      <string name="exo_track_surround_7_point_1">7.1 surround sound</string>
      <string name="exo_track_unknown">Unknown</string>
-     <string name="expand_button_title">Advanced</string>
+     <string name="expand_button_title">Προχωρημένες</string>
      <string name="feedback">Αναφορά εσφαλμένων πληροφοριών καιρού</string>
      <string name="feedback_cloudy">Συνvεφιά</string>
      <string name="feedback_foggy">Ομίχλη</string>

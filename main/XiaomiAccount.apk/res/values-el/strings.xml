@@ -184,7 +184,7 @@ ID:%s
      <string name="error_invalid_bind_address">Η διεύθυνση email που εισαγάγατε δεν είναι έγκυρη.</string>
      <string name="exceed_binded_phone_times_notice">Αυτός ο αριθμός τηλεφώνου έχει ήδη συσχετιστεί με κάποιον άλλο Λογαριασμό Mi.</string>
      <string name="exit">Έξοδος</string>
-     <string name="expand_button_title">Advanced</string>
+     <string name="expand_button_title">Προχωρημένες</string>
      <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
      <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
      <string name="facebook">Facebook</string>

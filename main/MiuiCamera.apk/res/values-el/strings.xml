@@ -106,6 +106,8 @@
   <string name="ai_scene_top_moon_off">Νυκτερινή λειτουργία</string>
   <string name="ai_scene_top_tip">Λειτουργία Σελήνης</string>
   <string name="ai_watermark_title">Υδατογράφημα AI</string>
+  <string name="ambilight_tips_for_longtime_using_tripod">Χρησιμοποιήστε ένα τρίποδο για περισσότερη έκθεση</string>
+  <string name="ambilight_tips_for_suggest_using_tripod">Χρήση Τριπόδου</string>
   <string name="app_name">Προτίμηση</string>
   <string name="audio_focus_exit_button_text">"Απενεργοποίηση Eστίασης ήχου "</string>
   <string name="autozoom_click_hint">Αγγίξτε ένα αντικείμενο και κρατήσετε το εστιασμένο ενώ κινείται. Μείνετε τουλάχιστον 3 μέτρα μακριά για καλύτερο αποτέλεσμα.</string>

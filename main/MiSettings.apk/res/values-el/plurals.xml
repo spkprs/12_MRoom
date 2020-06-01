@@ -185,4 +185,8 @@
     <item quantity="other">"λεπ "</item>
     <item quantity="one">"λεπ "</item>
   </plurals>
+    <plurals name="usage_new_home_total_unlocks_new">
+        <item quantity="other">Ξεκλειδώθηκε %1$d φορές στις %2$s</item>
+        <item quantity="one">Ξεκλειδώθηκε %1$d φορά στις %2$s</item>
+    </plurals>
 </resources>

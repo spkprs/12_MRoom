@@ -518,6 +518,7 @@
   <string name="apps_summary_example">εγκατεστημένες 24 εφαρμογές</string>
   <string name="apps_with_restrictions_header">Εφαρμογές με περιορισμούς</string>
   <string name="apps_with_restrictions_settings_button">Ανάπτυξη ρυθμίσεων εφαρμογής</string>
+  <string name="error_apn_restrict_string">Το πεδίο APN δεν μπορεί να περιέχει %1$s</string>
   <string name="art_verifier_for_debuggable_summary">Να επιτρέπεται στο ART η επαλήθευση του bytecode για εφαρμογές με δυνατότητα εντοπισμού σφαλμάτων</string>
   <string name="art_verifier_for_debuggable_title">Βεβαιωθείτε bytecode της debuggable εφαρμογές</string>
   <string name="ask_compatibility">Ερώτηση κατά την εκτέλεση</string>

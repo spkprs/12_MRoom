@@ -74,12 +74,44 @@
     <item>Παρ</item>
     <item>Σαβ</item>
   </string-array>
-  <string-array name="weight_unit">
-    <item>" g"</item>
-    <item>" kg"</item>
-    <item>" t"</item>
-    <item>" liang"</item>
-    <item>" jin"</item>
-    <item>" lb"</item>
-  </string-array>
+    <string-array name="contact_relation_array">
+        <item>Δεν έχει οριστεί</item>
+        <item>Γονείς</item>
+        <item>Αδελφές</item>
+        <item>Αδελφοί</item>
+        <item>Ζευγάρι</item>
+        <item>Εραστές</item>
+        <item>Φίλοι</item>
+        <item>Συνάδελφοι</item>
+        <item>Συμμαθητές</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Δεν έχει οριστεί</item>
+        <item>Άνδρας</item>
+        <item>Γυναίκα</item>
+    </string-array>
+    <string-array name="normal_blood_array">
+        <item>Δεν έχει οριστεί</item>
+        <item>Type A</item>
+        <item>Type B</item>
+        <item>Type AB</item>
+        <item>Type O</item>
+    </string-array>
+    <string-array name="normal_blood_types">
+        <item>Δεν έχει οριστεί</item>
+        <item>Type A</item>
+        <item>Type B</item>
+        <item>Type AB</item>
+        <item>Type O</item>
+    </string-array>
+    <string-array name="rh_blood_array">
+        <item>Δεν έχει οριστεί</item>
+        <item>Negative</item>
+        <item>Positive</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>Δεν έχει οριστεί</item>
+        <item>yes</item>
+        <item>no</item>
+    </string-array>
 </resources>

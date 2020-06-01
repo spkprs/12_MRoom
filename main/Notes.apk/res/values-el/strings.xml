@@ -220,6 +220,9 @@
   <string name="float_todo_guide_message">Η συντόμευση στην αρχική οθόνη σάς επιτρέπει να σύρετε από την άκρη της οθόνης για προβολή και δημιουργία εργασιών. Δημιουργία συντόμευσης τώρα;</string>
   <string name="float_todo_guide_ok">Δημιουργία</string>
   <string name="float_todo_guide_title">Συντόμευση σε αρχική οθόνη</string>
+  <string name="float_todo_guide_message_v2">Η συντόμευση σάρωσης σάς επιτρέπει να προβάλλετε και να δημιουργείτε εργασίες σαρώνοντας από την άκρη της οθόνης. Μπορείτε να ενεργοποιήσετε και να απενεργοποιήσετε αυτήν τη δυνατότητα στις Ρυθμίσεις.</string>
+  <string name="float_todo_guide_ok_v2">Ενεργοποίηση</string>
+  <string name="float_todo_guide_title_v2">Συντόμευση σάρωσης</string>
   <string name="fmt_chinese_date">N e</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
@@ -426,7 +429,9 @@
   <string name="pref_desc_skip_confirm_for_quick_delete">Σύρετε προς τα επάνω με 2 δάχτυλα για να διαγράψετε σημειώσεις χωρίς επιβεβαίωση</string>
   <string name="pref_desc_todo_float_mode">Σύρετε από την αριστερή άκρη στην Αρχική οθόνη για να ανοίξετε την εργαλειοθήκη εργασιών</string>
   <string name="pref_remind_type_summary">Αναπαραγωγή ήχου υπενθύμισης σε αθόρυβη λειτουργία</string>
+  <string name="pref_remind_type_summary_new">Παράβλεψη της αθόρυβης λειτουργίας και διατήρηση του ήχου αναπαραγωγής μέχρι να απενεργοποιηθεί η ειδοποίηση</string>
   <string name="pref_remind_type_title">Παράβλεψη αθόρυβης λειτουργίας</string>
+  <string name="pref_remind_type_title_new">Υπενθυμίσεις υψηλής προτεραιότητας</string>
   <string name="pref_title_cloud_trash_bin">Διαγραφή σημειώσεων στο Mi Cloud</string>
   <string name="pref_title_common">Πρόσθετες ρυθμίσεις</string>
   <string name="pref_title_font_size">Μέγεθος Γραμματοσειράς</string>
@@ -617,7 +622,8 @@
   <string name="toast_refuse_to_use_external_storage">Οι Άδειες αποθήκευσης είναι περιορισμένα.\nΝα επιτρέπεται στις σημειώσεις να διαβάζουν τα περιεχόμενα της κάρτας SD.</string>
   <string name="toast_refuse_to_use_phone_state">Οι Άδειες τηλεφώνου είναι περιορισμένα.\nΝα επιτρέπεται στις σημειώσεις να διαβάζουν την κατάσταση και την ταυτότητα τηλεφώνου.</string>
   <string name="toast_refuse_to_use_record_audio">Οι Άδειες μικροφώνου είναι περιορισμένα.\nΝα επιτρέπεται στις σημειώσεις την εγγραφή ήχου.</string>
-  <string name="today">Today</string>
+  <string name="toast_refuse_to_record_when_in_multi_window_new">"Δεν είναι δυνατή η χρήση αυτής της δυνατότητας σε Διαιρεμένη οθόνη ή Αιωρούμενα παράθυρα"</string>
+  <string name="today">Σήμερα</string>
   <string name="todo_alert_title_delete">Διαγραφή ολοκληρ. εργασιών</string>
   <string name="todo_audio_default_content">"[Φωνητική Εργασία] "</string>
   <string name="todo_custom_remind_tag_pattern_with_md">MM/dd HH:mm</string>
