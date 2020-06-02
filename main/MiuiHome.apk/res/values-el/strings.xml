@@ -447,7 +447,7 @@
   <string name="recents_task_screening">Μετάδοση</string>
   <string name="recents_title_app_manager">Διαχείριση εφαρμογών</string>
   <string name="recents_title_game">Παιχνίδια</string>
-  <string name="recents_title_garbage_cleanup">Εκκαθαριστής</string>
+  <string name="recents_title_garbage_cleanup">Καθαρισμός</string>
   <string name="recents_title_garbage_deepclean">Βαθύς καθαρισμός</string>
   <string name="recents_title_market">Εύρεση εφαρμογών</string>
   <string name="recents_title_security_scan">Σάρωση ασφαλείας</string>

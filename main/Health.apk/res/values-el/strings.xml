@@ -458,7 +458,7 @@
 	<string name="light_sleep_time_decrease_description">Ο ελαφρύς ύπνος σου είναι πολύ λίγος.</string>
 	<string name="light_sleep_time_increase_description">Ο ελαφρύς ύπνος σου είναι πολύ μεγάλος.</string>
 	<string name="light_sleep_time_normal_description">Έχετε επαρκή ποσότητα ελαφρού ύπνου</string>
-	<string name="load_failed">"Δεν ήταν δυνατή η φόρτωση στοιχείων. Περιμένετε ένα λεπτό ή δύο και προσπαθήστε ξανά."</string> - can be double!!!
+	<string name="load_failed">"Δεν ήταν δυνατή η φόρτωση στοιχείων. Περιμένετε ένα λεπτό ή δύο και προσπαθήστε ξανά."</string>
 	<string name="login_and_open_sync">Είσοδος και ενεργοποίηση συγχρονισμού</string>
 	<string name="login_and_open_sync2">Είσοδος και ενεργοποίηση συγχρονισμού</string>
 	<string name="low">Χαμηλή</string>

@@ -342,6 +342,11 @@
   <string name="ok">OK</string>
   <string name="percentage">%</string>
   <string name="percentDesc">τοις εκατό</string>
+  <string name="permission_location_desc_miui12">Για τη χρήση φορολογικών συντελεστών και συντελεστών ενυπόθηκης πίστης που σχετίζονται με την τοποθεσία σας</string>
+  <string name="permission_option_desc_miui12">" Αυτές οι άδειες απαιτούνται όταν χρησιμοποιείτε πρόσθετες δυνατότητες."</string>
+  <string name="permission_option_miui12">Προαιρετικές άδειες</string>
+  <string name="permission_purpose_miui12">Καλώς ορίσατε στην Αριθμομηχανή! Αυτή η εφαρμογή συνδυάζει τα χαρακτηριστικά ενός τακτικού υπολογιστή με πολλούς μετατροπείς και λειτουργίες του τρόπου ζωής.\nΣημειώστε ότι αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet και απαιτεί τις ακόλουθες άδειες για τη συλλογή των προσωπικών σας στοιχείων:</string>
+  <string name="permission_remove_desc_miui12">Επιτρέψτε σε αυτήν την εφαρμογή να συνδεθεί στο Internet και εκχωρήστε τις Προαιρετικές άδειες για να μπορεί να χρησιμοποιεί όλες τις δυνατότητές της.</string>
   <string name="pi">π</string>
   <string name="piDesc">π</string>
   <string name="plus">+</string>
