@@ -80,4 +80,8 @@
     <item quantity="other">Δεν είναι δυνατή η επιλογή περισσότερων από %d στοιχεία</item>
     <item quantity="one">Δεν είναι δυνατή η επιλογή περισσότερων από %d στοιχείο</item>
   </plurals>
+    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d δίκτυα WIFI</item>
+        <item quantity="one">%d δίκτυο WIFI</item>
+    </plurals>
 </resources>

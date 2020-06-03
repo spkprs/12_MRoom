@@ -88,4 +88,12 @@
     <item quantity="other">%d μήνες</item>
     <item quantity="one">%d μήνας</item>
   </plurals>
+    <plurals name="delete_msg">
+        <item quantity="other">Διαγραφή %d στοιχείων τώρα;</item>
+        <item quantity="one">Διαγραφή %d στοιχείου τώρα;</item>
+    </plurals>
+    <plurals name="select_items">
+        <item quantity="other">Επιλεγμένα %d στοιχεία</item>
+        <item quantity="one">Επιλεγμένα %d στοιχείο</item>
+    </plurals>
 </resources>

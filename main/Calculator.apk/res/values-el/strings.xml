@@ -93,7 +93,9 @@
   <string name="day">ημέρα</string>
   <string name="degDesc">Γωνία</string>
   <string name="del">DEL</string>
-  <string name="deleteDesc">διαγραφή</string>
+  <string name="delete">Διαγραφή</string>
+  <string name="delete_tips">Διαγραφή στοιχείων</string>
+  <string name="deleteDesc">Διαγραφή</string>
   <string name="description_content">Εκτός από τα βασικά χαρακτηριστικά της, η Αριθμομηχανή λειτουργεί επίσης ως πολυλειτουργικός μετατροπέας και υπολογίζει δάνεια και φόρους. Βεβαιωθείτε ότι δεν χρειάζεστε πλέον αυτές τις λειτουργίες πριν απεγκαταστήσετε την εφαρμογή.</string>
   <string name="description_title">Σχετικά με την Αριθμομηχανή</string>
   <string name="deselect_all">Αποεπιλογή</string>
@@ -109,6 +111,7 @@
   <string name="dot">.</string>
   <string name="dotDesc">κόμμα</string>
   <string name="eDesc">Αριθμός Euler\'s</string>
+  <string name="empty_history">Χωρίς στοιχεία εδώ ακόμα</string>
   <string name="enter">↓</string>
   <string name="equal">=</string>
   <string name="equalDesc">ίσον</string>
@@ -141,7 +144,9 @@
   <string name="hint_annual_rate">Εισαγάγετε την ετήσια τιμή</string>
   <string name="hint_enter_amount">Εισάγετε το ποσό</string>
   <string name="hint_floatwindow_alpha_guide_text">Αγγίξτε για προσαρμογή αδιαφάνειας</string>
+  <string name="histories">Ιστορικό</string>
   <string name="history_delete_confirmation">Απαλοιφή ιστορικού τώρα;</string>
+  <string name="history_time_date_format">dd/MM/yyyy</string>
   <string name="home_loan">Στεγαστικό ενδιαφέρον</string>
   <string name="home_title_calculator">Αριθμομηχανή</string>
   <string name="house_rent">Ενοίκιο</string>
@@ -378,11 +383,13 @@
   <string name="preference_use_voice_title">Έξοδος ομιλίας</string>
   <string name="preference_user_feedback_title">Σχόλια</string>
   <string name="privacy_policy">Πολιτική Απορρήτου</string>
+  <string name="pull_to_refresh">Τραβήξτε προς τα κάτω για προβολή ιστορικού</string>
   <string name="radDesc">Ακτίνιο</string>
   <string name="radian">rad</string>
   <string name="rate_data_provider">Οι τιμές επιτοκίων παρέχονται από hexun.com</string>
   <string name="reciprocal">1/X</string>
   <string name="reciprocalDesc">Αμοιβαία</string>
+  <string name="release_to_refresh">Αφήστε για προβολή ιστορικού</string>
   <string name="rightParenDesc">δεξιά παρένθεση</string>
   <string name="saturday">Σάββατο</string>
   <string name="saturday_short">Σάβ</string>
