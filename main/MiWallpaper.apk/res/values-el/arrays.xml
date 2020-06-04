@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Αρχική</item>
+        <item>Ταπετσαρίες/Super Ταπετσαρίες/Αρχική</item>
+        <item>Γή;Super Ταπετσαρίες;Έκδοση Γή;Ταπετσαρίες</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Ο Κόκκινος πλανήτης</item>
+        <item>Ταπετσαρίες/Super Ταπετσαρίες/Ο Κόκκινος πλανήτης</item>
+        <item>Άρης;Έκδοση Άρη;Super Ταπετσαρίες;Ταπετσαρίες</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Super Ταπετσαρίες</item>
+        <item>Ταπετσαρίες/Super Ταπετσαρίες</item>
+        <item>Super Ταπετσαρίες;Ταπετσαρίες;Δυναμικές Ταπετσαρίες;3D Ταπετσαρίες</item>
+    </string-array>
+</resources>
