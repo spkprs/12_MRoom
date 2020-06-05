@@ -77,13 +77,13 @@
     <string-array name="contact_relation_array">
         <item>Δεν έχει οριστεί</item>
         <item>Γονείς</item>
-        <item>Αδελφές</item>
-        <item>Αδελφοί</item>
+        <item>Αδελφή</item>
+        <item>Αδελφός</item>
         <item>Ζευγάρι</item>
-        <item>Εραστές</item>
-        <item>Φίλοι</item>
-        <item>Συνάδελφοι</item>
-        <item>Συμμαθητές</item>
+        <item>Συνεργάτης</item>
+        <item>Φίλος</item>
+        <item>Συνάδελφος</item>
+        <item>Συμμαθητής</item>
     </string-array>
     <string-array name="gender_array">
         <item>Δεν έχει οριστεί</item>
@@ -92,17 +92,17 @@
     </string-array>
     <string-array name="normal_blood_array">
         <item>Δεν έχει οριστεί</item>
-        <item>Type A</item>
-        <item>Type B</item>
-        <item>Type AB</item>
-        <item>Type O</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
     </string-array>
     <string-array name="normal_blood_types">
         <item>Δεν έχει οριστεί</item>
-        <item>Type A</item>
-        <item>Type B</item>
-        <item>Type AB</item>
-        <item>Type O</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
     </string-array>
     <string-array name="rh_blood_array">
         <item>Δεν έχει οριστεί</item>
@@ -111,7 +111,7 @@
     </string-array>
     <string-array name="yes_no_array">
         <item>Δεν έχει οριστεί</item>
-        <item>yes</item>
-        <item>no</item>
+        <item>Ναί</item>
+        <item>Όχι</item>
     </string-array>
 </resources>
