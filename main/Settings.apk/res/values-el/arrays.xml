@@ -789,6 +789,12 @@
 	<item>Μαγκαντάν</item>
 	<item>Τόνγκα</item>
   </string-array>
+  <string-array name="charge_animation_style_entries">
+     <item>Χωρίς</item>
+     <item>Ροή</item>
+     <item>Λάμψη</item>
+     <item>Κύμα</item>
+  </string-array>
   <string-array name="color_mode_descriptions">
     <item>Βελτιωμένα χρώματα</item>
     <item>Φυσικά χρώματα όπως είναι ορατά στο μάτι</item>
