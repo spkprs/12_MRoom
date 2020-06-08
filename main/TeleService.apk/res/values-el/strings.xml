@@ -1863,6 +1863,9 @@
   <string name="smart_divert_title">Έξυπνη εκτροπή</string>
   <string name="smart_forwarding_settings_menu">Έξυπνη προώθηση</string>
   <string name="smart_forwarding_settings_menu_summary">Όταν ένας αριθμός δεν είναι προσβάσιμος, προωθήστε πάντα κλήσεις στον άλλο αριθμό σας</string>
+  <string name="smart_dual_sim_prompt">Η συσκευή σας θα συνδεθεί σε δίκτυο δεδομένων κινητής χρησιμοποιώντας τη δεύτερη SIM όταν η τρέχουσα συνδεσιμότητα είναι χαμηλή. Αυτό μπορεί να δημιουργήσει πρόσθετες χρεώσεις δεδομένων. Επικοινωνήστε με τον τοπικό πάροχο για λεπτομέρειες σχετικά με το πρόγραμμα δεδομένων σας.</string>
+  <string name="smart_dual_sim_summary">Μετάβαση στη δεύτερη κάρτα SIM και χρήση δεδομένων κινητής αυτόματα όταν η τρέχουσα συνδεσιμότητα είναι χαμηλή. Όταν η συνδεσιμότητα βελτιωθεί, επιστρέψτε στην αρχική κάρτα SIM.</string>
+  <string name="smart_dual_sim_title">Έξυπνη Διπλή SIM</string>
   <string name="sms_messages_title">Sms</string>
   <string name="smsc_dialog_message">Βεβαιωθείτε ότι ο αριθμός που πληκτρολογείτε είναι σωστός. Διαφορετικά, δεν θα μπορείτε να στέλνετε ή να λαμβάνετε SMS. Επικοινωνήστε με τον πάροχό σας για να επιβεβαιώσετε τον αριθμό SMSC.</string>
   <string name="speed_label_fast">Γρήγορη</string>

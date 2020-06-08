@@ -518,7 +518,7 @@
 		<string name="start_activity_failed">Αδυναμία έναρξης Εκκινητή</string>
 		<string name="starting_preset_app">Εκκίνηση</string>
 		<string name="status_bar_notification_info_overflow">999+</string>
-		<string name="status_bar_recent_memory_info1">Διαθέσιμα %1$sB απο %2$sB</string>
+		<string name="status_bar_recent_memory_info1">Διαθέσιμα %1$s απο %2$s</string>
 		<string name="status_downloaded">Έχει ληφθεί</string>
 		<string name="status_downloading">Λήψη…</string>
 		<string name="status_installing">Εγκατάσταση…</string>

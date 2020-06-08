@@ -2370,6 +2370,7 @@
   <string name="erase_sd_data_description">Η διαμόρφωση θα διαγράψει όλα τα αρχεία και τα δεδομένα στην κάρτα SD</string>
   <string name="erase_sure">Προσοχή Επιβεβαίωση διαγραφής</string>
   <string name="error_adding_apn_type">Η εταιρεία κινητής τηλεφωνίας δεν επιτρέπει την προσθήκη APN τύπου %s.</string>
+  <string name="error_apn_not_allowed">"Αυτό το APN δεν επιτρέπεται σε αυτήν τη συσκευή. Δοκίμασε άλλο."</string>
   <string name="error_apn_empty">"Το σημείο πρόσβασης δε μπορεί να είναι κενό "</string>
   <string name="error_capturing_system_heap_dump_message">Δεν ήταν δυνατή η καταγραφή της ένδειξης σωρού συστήματος</string>
   <string name="error_mcc_not3">Το πεδίο MCC πρέπει να αποτελείται από 3 ψηφία</string>
@@ -3698,9 +3699,9 @@
   <string name="miui_sos_contacts_category">Επαφές έκτακτης ανάγκης</string>
   <string name="miui_sos_emergency_contacts">Επαφές έκτακτης ανάγκης</string>
   <string name="miui_sos_emergency_delete">Διαγραφή</string>
-  <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) έχει ήδη αποδεχθεί</string>
-  <string name="miui_sos_emergency_delivered_sms_noname">%1s έχει ήδη αποδεχθεί</string>
-  <string name="miui_sos_emergency_failed_sms" formatted="false">Αδύνατη η αποστολή μηνυμάτων σε %1s (%2s).</string>
+  <string name="miui_sos_emergency_delivered_sms">%1$s (%2$s) έλαβε το μήνυμα</string>
+  <string name="miui_sos_emergency_delivered_sms_noname">%1$s έλαβε το μήνυμα</string>
+  <string name="miui_sos_emergency_failed_sms">"Δεν ήταν δυνατή η αποστολή μηνύματος στο %1$s (%2$s)"</string>
   <string name="miui_sos_emergency_failed_sms_noname">Αδύνατη η αποστολή μηνυμάτων σε %1s</string>
   <string name="miui_sos_enable_switch_summary">Πατήστε γρήγορα το κουμπί [POWER] 5 φορές για να στείλετε ένα μήνυμα κειμένου SOS με την τοποθεσία σας στις επαφές έκτακτης ανάγκης</string>
   <string name="miui_sos_enable_switch_title">Έκτακτη ανάγκη SOS</string>

@@ -1103,4 +1103,9 @@
     <string name="parameter_ambilight_title">Μακρά έκθεση</string>
     <string name="pref_more_mode_style_title">Λειτουργίες Κάμερας</string>
     <string name="pref_module_settings">Λειτουργίες</string>
+    <string name="timer_burst">Χρον/πτης Συνεχ. Λήψεων</string>
+    <string name="timer_burst_manu_param_interval">Χρονικό διάστημα (δεν περιέχει χρόνο έκθεσης)</string>
+    <string name="timer_burst_param_interval">Χρονικό διάστημα</string>
+    <string name="timer_burst_param_total_count">Συνολικές Λήψεις</string>
+    <string name="timer_burst_setting_total_count">Σύνολο: %1$s</string>
 </resources>
