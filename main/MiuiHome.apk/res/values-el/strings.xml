@@ -59,12 +59,12 @@
 		<string name="all_app_category_knowledge_education">Μάθηση &amp; εκπαίδευση</string>
 		<string name="all_app_category_lifestyle">Τρόπος ζωής</string>
 		<string name="all_app_category_news_reading">Νέα &amp; ανάγνωση</string>
-		<string name="all_app_category_personal">Personal</string>
+		<string name="all_app_category_personal">Προσωπική</string>
 		<string name="all_app_category_personalization">Εξατομίκευση</string>
 		<string name="all_app_category_photography">Φωτογραφία</string>
 		<string name="all_app_category_shopping">Αγορές</string>
 		<string name="all_app_category_tools">Εργαλεία</string>
-		<string name="all_app_category_work">Work</string>
+		<string name="all_app_category_work">Εργασία</string>
 		<string name="all_apps">Όλες οι εφαρμογές</string>
 		<string name="all_apps_no_search_results">Χωρίς αποτελέσματα</string>
 		<string name="all_apps_search_app">Αναζήτηση τοπικών εφαρμογών</string>
@@ -574,8 +574,8 @@
 		<string name="widget_global_search">Αναζήτηση</string>
 		<string name="widget_quick_function">Γρήγορες λειτουργίες</string>
 		<string name="widgets_preview_title">Προσθήκη Γραφικού στοιχείου</string>
-		<string name="work_mode_off_label">Notifications and apps are off</string>
-		<string name="work_mode_on_label">Managed by your organization</string>
-		<string name="work_profile_toggle_label">Work profile</string>
+		<string name="work_mode_off_label">Ειδοποιήσεις και Εφαρμ. Ανενεργές</string>
+		<string name="work_mode_on_label">Διαχείριση από τον οργανισμό σας</string>
+		<string name="work_profile_toggle_label">Προφίλ Εργασίας</string>
 </resources>
 
