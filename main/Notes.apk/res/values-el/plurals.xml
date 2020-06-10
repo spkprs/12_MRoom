@@ -117,8 +117,8 @@
     <item quantity="one">%1$d πριν από μια μέρα</item>
   </plurals>
   <plurals name="todo_terms">
-    <item quantity="other">%1$s条便签</item>
-    <item quantity="one">%1$s条便签</item>
+    <item quantity="other">%1$s εργασίες</item>
+    <item quantity="one">%1$s εργασία</item>
   </plurals>
   <plurals name="word_count">
     <item quantity="other">%d χαρακτήρες</item>

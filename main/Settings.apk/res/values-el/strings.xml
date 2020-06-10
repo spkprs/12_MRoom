@@ -2815,6 +2815,7 @@
   <string name="hidden_ssid_label">Κρυφό SSID:</string>
   <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
   <string name="hide_extra_apps">Εμφάνιση χρήσης εφαρμογής</string>
+  <string name="hide_ext_tile_title">Απόκρυψη πληροφοριών πλακιδίου</string>
   <string name="hide_silent_icons_summary">Τα εικονίδια από ήπιες ειδοποιήσεις δεν εμφανίζονται στη γραμμή κατάστασης</string>
   <string name="hide_silent_icons_title">Απόκρυψη εικονιδίων από ήπιες ειδοποιήσεις</string>
   <string name="high_label">Υψηλή</string>

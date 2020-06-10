@@ -310,6 +310,7 @@ ID:%s
      <string name="llks_display_error">Απαιτούνται Άδειες</string>
      <string name="llks_display_error_des">Να επιτρέπεται η εικόνα του καρουσέλ ταπετσαρίας στην οθόνη κλειδώματος στις ρυθμίσεις.</string>
      <string name="llks_learn_more_cate">Περισσότερες κατηγορίες</string>
+     <string name="lks_logo_desc_search">Φρέσκες ταπετσαρίες καθημερινά</string>
      <string name="llks_pop_btm_des">Ξεκίνα την μέρα σου με χαμόγελο</string>
      <string name="llks_pop_btm_des_backup">Λάβετε ένα υπέροχο ξεκίνημα για την ημέρα σας</string>
      <string name="llks_pop_btm_title">Καλημέρα</string>

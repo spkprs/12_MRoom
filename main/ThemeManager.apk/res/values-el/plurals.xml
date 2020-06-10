@@ -92,6 +92,10 @@
     <item quantity="other">%d σχόλια</item>
     <item quantity="one">%d σχόλιο</item>
   </plurals>
+   <plurals name="resource_download_notification_title_many">
+     <item quantity="one">Ελήφθησαν επιτυχώς %1$d στοιχεία</item>
+     <item quantity="other">Ελήφθη επιτυχώς %1$d στοιχείο</item>
+  </plurals>
   <plurals name="resource_rating">
     <item quantity="other">%1$.1f πόντοι</item>
     <item quantity="one">%1$.1f πόντος</item>

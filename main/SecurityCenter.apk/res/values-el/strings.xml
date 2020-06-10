@@ -334,7 +334,7 @@
 	<string name="app_manager_card_permission_title">Άδειες</string>
 	<string name="app_manager_clear_all_data">Καθαρισμός όλων των δεδομένων</string>
 	<string name="app_manager_clear_cache">Καθαρισμός Cache</string>
-	<string name="app_manager_clear_data_dlg_message">Όλα τα δεδομένα αυτής της εφαρμογής θα διαγραφούν μόνιμα. Αυτό περιλαμβάνει όλα τα αρχεία, ρυθμίσεις, λογαριασμούς, βάσεις δεδομένων κλπ.</string>
+	<string name="app_manager_clear_data_dlg_message">Όλα τα δεδομένα αυτής της εφαρμογής θα διαγραφούν οριστικά. Αυτό περιλαμβάνει όλα τα αρχεία, ρυθμίσεις, λογαριασμούς, βάσεις δεδομένων κλπ.</string>
 	<string name="app_manager_clear_data_dlg_title">Διαγραφή δεδομένων εφαρμογής;</string>
 	<string name="app_manager_clear_dlg_title">Καθαρισμός δεδ/νων</string>
 	<string name="app_manager_clear_failed_dlg_message">Αδυναμία καθαρισμού δεδομένων εφαρμογής.</string>
@@ -2036,7 +2036,7 @@
 	<string name="optimize_result_toast_system_default_settings">Έγινε επαναφορά προεπιλεγμένων ρυθμίσεων</string>
 	<string name="optimize_result_toast_system_no_item_selected">Δεν έχουν επιλεγεί στοιχεία</string>
 	<string name="optional_permissions">Προαιρετικές Άδειες</string>
-	<string name="optional_permissions_desc">Αυτές οι Άδειες απαιτούνται όταν χρησιμοποιείτε πρόσθετες δυνατότητες.</string>
+	<string name="optional_permissions_desc">Αυτές οι Άδειες απαιτούνται όταν χρησιμοποιείτε πρόσθετες λειτουργίες.</string>
 	<string name="optmizingbar_optimize_done">Βελτιστοποιήθηκε</string>
 	<string name="optmizingbar_ready">Βελτιστοποίηση…</string>
 	<string name="optmizingbar_stop_optmize">Διακοπή</string>

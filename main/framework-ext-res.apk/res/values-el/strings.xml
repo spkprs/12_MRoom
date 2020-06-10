@@ -287,6 +287,7 @@
   <string name="switch_desc_tv">Δύο χώροι. Μία συσκευή.</string>
   <string name="switching_tv">Εναλλαγή…</string>
   <string name="takeback_camera_front_failed">Αδύνατον το κλείσιμο της εμπρός Κάμερας. Προσπάθησε ξανά.</string>
+  <string name="talk_back_conflict_with_handy_mode">"Αδύνατη η χρήση της λειτουργίας \"Με ένα χέρι\" με ενεργό το TalkBack"</string>
   <string name="talk_back_water_mark_string1">TalkBack είναι ενεργό</string>
   <string name="talk_back_water_mark_string2">Κρατήστε πατημένο \"Volume+\" και \"Volume-\" για 3 δευτ για απενεργοποίηση</string>
   <string name="throwing_print">Εκτύπωση</string>

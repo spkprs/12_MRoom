@@ -66,6 +66,7 @@
 	<string name="cancel_alarm_description">Ακύρωση ειδοποίησης</string>
 	<string name="check_in_todo_app">Προβολή εργασιών</string>
 	<string name="cloud_service_state_open_reminder">Ενεργοποιήστε το συγχρονισμό στο Mi Cloud για να συγχρονίσετε τις σημειώσεις.</string>
+    <string name="cloud_service_state_open_reminder_note_and_todo">Ενεργοποιήστε το συγχρονισμό στο Mi Cloud , τις σημαντικές σημειώσεις, για να μην χαθούν.</string>
 	<string name="cloud_trash_bin_title">Διαγραφή σημειώσεων από το Mi Cloud</string>
 	<string name="confirm_cancel">Δεν συμφωνώ</string>
 	<string name="confirm_ok">Συμφωνώ</string>
@@ -396,6 +397,8 @@
 	<string name="sunday_short">Sun</string>
 	<string name="sunday_shortest">S</string>
 	<string name="sync_tips">Πατήστε για συγχρονισμό σημειώσεων με το Mi Cloud.</string>
+    <string name="sync_all_terms">%1$s και %2$s , %3$s</string>
+    <string name="sync_note_folder">%1$s και %2$s</string>
 	<string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
 	<string name="the_anti_aggression_day">Anti-aggression Day</string>
 	<string name="the_arbor_day">Arbor Day</string>
@@ -542,8 +545,8 @@
 	<string name="toolbar_undo_description">Αναίρεση</string>
 	<string name="toolbar_voice_description">Φωνή</string>
 	<string name="trash_folder_name">Διαγραμμένες</string>
-	<string name="trash_folder_reminder">Σημειώσεις που διαγράφετε θα διαγραφούν μόνιμα σε 30 ημέρες.</string>
-	<string name="trash_folder_reminder_new">Οι σημειώσεις διατηρούνται στον κάδο για 30 ημ. πριν διαγραφούν οριστικά</string>
+	<string name="trash_folder_reminder">Σημειώσεις που διαγράφετε θα διαγραφούν οριστικά σε 30 ημέρες.</string>
+	<string name="trash_folder_reminder_new">Οι σημειώσεις διατηρούνται στον κάδο για %d ημ. πριν διαγραφούν οριστικά</string>
 	<string name="tuesday">Tuesday</string>
 	<string name="tuesday_short">Tue</string>
 	<string name="tuesday_shortest">T</string>

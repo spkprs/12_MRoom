@@ -114,9 +114,14 @@
         <item>Κάντε λήψη αντιγράφων ασφαλείας στοιχείων στη συσκευή σας</item>
         <item>Cloud;Back up;Backup;Restore;Cloud services;Mi Cloud</item>
      </string-array>
+     <string-array name="settings_search_phrase">
+        <item>Συγχρονισμός γρήγορων απαντήσεων</item>
+        <item>Ενεργοποίηση συγχρονισμού</item>
+        <item>Quick replies;Clipboard;Editor;Cloud;Sync;Cloud services</item>
+     </string-array>
      <string-array name="settings_search_security">
-        <item>Συγχρονίστε την ασφάλεια με το Mi Cloud</item>
-        <item>Ενεργοποιήστε το συγχρονισμό</item>
+        <item>Συγχρονισμός ασφάλειας Cloud</item>
+        <item>Ενεργοποίηση συγχρονισμού</item>
         <item>Security;Cloud;Sync;Cloud services;Mi Cloud</item>
      </string-array>
      <string-array name="settings_search_sms">
