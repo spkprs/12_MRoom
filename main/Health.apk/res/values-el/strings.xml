@@ -51,7 +51,7 @@
 	<string name="add_model_card">Πατήστε το κουμπί στην επάνω αριστερή γωνία\nγια να προσθέσετε κάρτες</string>
 	<string name="add_record">Προσθήκη</string>
 	<string name="added_data_source">Προστέθηκαν πηγές</string>
-	<string name="afternoon">ΜΜ</string>
+	<string name="afternoon">Απόγευμα</string>
 	<string name="all_records">Όλες οι εγγραφές</string>
 	<string name="allergic_drugs">Αλλεργίες φαρμάκων</string>
 	<string name="allergic_drugs_hint">Εισάγετε φάρμακα και αντιδράσεις σε αυτά</string>
@@ -171,6 +171,7 @@
 	<string name="cross_hiking">Πεζοπορία</string>
 	<string name="cumulative_decline">Απώλεια ανύψωσης</string>
 	<string name="cumulative_rise">Κέρδος ύψους</string>
+	<string name="current_phone">Αυτή η συσκευή</string>
 	<string name="cycle">Ποδηλασία</string>
 	<string name="daily_consumption_label">Θερμίδες</string>
 	<string name="daily_distance_label">Απόσταση</string>
@@ -189,6 +190,8 @@
 	<string name="data_source_list_description">Η Xiaomi Health λαμβάνει δεδομένα υγείας (%1$s) από αυτές τις πηγές. Εάν τα δεδομένα αντιγράφονται σε πολλαπλές πηγές, θα δείτε τα δεδομένα από τις πηγές που εμφανίζονται πρώτα στη λίστα στο Xiaomi Health.</string>
 	<string name="data_source_manage">Διαχείριση πηγών δεδομένων</string>
 	<string name="data_source_not_support_hm_description">%1$s δεν παρέχει λεπτομερή καταμέτρηση βημάτων. Μπορείτε να δοκιμάσετε να μεταβείτε σε άλλες πηγές δεδομένων στις Περισσότερες > Πηγές δεδομένων.</string>
+	<string name="data_source_not_support_hm_description_consume">"Η επιλεγμένη πηγή δεδομένων (%1$s) δεν παρέχει λεπτομερείς πληροφορίες σχετικά με τις Θερμίδες. Μπορείτε να επιλέξετε μια διαφορετική πηγή στις επιλογές Περισσότερα > Πηγές δεδομένων."</string>
+	<string name="data_source_not_support_hm_description_duration">"Το επιλεγμένο αρχείο πηγής δεδομένων (%1$s) δεν παρέχει λεπτομερείς πληροφορίες σχετικά με τις προπονήσεις μέτριας έως υψηλής έντασης. Μπορείτε να επιλέξετε διαφορετικό αρχείο στις επιλογές Περισσότερα > Πηγές δεδομένων."</string>
 	<string name="date">Ημερομηνία</string>
 	<string name="date_format_m_d">d/M</string>
 	<string name="date_format_m_d_2">dd/MM</string>
@@ -225,6 +228,10 @@
 	<string name="delete_all_data_sources_description">Να διαγραφούν όλες οι πηγές δεδομένων που προστέθηκαν;</string>
 	<string name="delete_avatar">Διαγραφή τρέχουσας φωτογραφίας</string>
 	<string name="delete_contact">Διαγραφή</string>
+	<string name="delete_data_source">Διαγραφή πηγής δεδομένων</string>
+	<string name="delete_dialog_close_sync_msg">Για να διαγράψετε το αρχείο %1$s, απενεργοποιήστε πρώτα το συγχρονισμό στην αντίστοιχη συσκευή.</string>
+	<string name="delete_dialog_confirm_msg_cloud">Να γίνει διαγραφή του %1$s μαζί με τα σχετικά δεδομένα που είναι αποθηκευμένα σε αυτήν τη συσκευή και στο cloud;</string>
+	<string name="delete_dialog_confirm_msg_local">Διαγραφή %1$s μαζί με τα σχετικά δεδομένα;</string>
 	<string name="delete_menstruation_record_confirm">Διαγραφή αυτής της εγγραφής;</string>
 	<string name="delete_origin_data_description">Διαγράψτε όλα τα δεδομένα που δημιουργούνται από το %1$s?</string>
 	<string name="delete_record">Διαγραφή εγγραφής</string>
@@ -297,7 +304,7 @@
 	<string name="dream_talk_title">Ομιλία</string>
 	<string name="drink_water">Πιείτε λίγο νερό και κάντε μια βόλτα.</string>
 	<string name="early">Νωρίς</string>
-	<string name="early_morning">ΠΜ</string>
+	<string name="early_morning">Πρωί</string>
 	<string name="edit_aid_file">Επεξεργασία</string>
 	<string name="edit_basic_info_desc">Βασικές πληροφορίες</string>
 	<string name="edit_immediately">Εισαγωγή πληροφοριών</string>
@@ -313,7 +320,7 @@
 	<string name="equivalent_exercise">≈%1$s χλμ περπάτημα (%2$s kcal)</string>
 	<string name="eras_ad">AD</string>
 	<string name="eras_bc">BC</string>
-	<string name="evening">ΜΜ</string>
+	<string name="evening">Απόγευμα</string>
 	<string name="excessive">Υπεραρκετά</string>
 	<string name="exercise">Άσκηση</string>
 	<string name="exercise_consume">Κάψατε %1$d Cal</string>
@@ -350,6 +357,9 @@
 	<string name="exercise_reminder_accomplished">Επιτύχατε το στόχο της δραστηριότητάς σας!</string>
 	<string name="exercise_reminder_title">Υπενθύμιση δραστηριότητας</string>
 	<string name="exercise_reminder_unaccomplished">Δεν επιτύχατε ακόμη το στόχο της δραστηριότητάς σας. Συνεχίστε!</string>
+	<string name="exercise_result_reminder_content">%1$d λεπ άσκησης (%2$d Cal). Πατήστε για λεπτομέρειες.</string>
+	<string name="exercise_result_reminder_title">"Μέτρηση σημερινών βημάτων: %1$d. Φτάσατε στο στόχο!"</string>
+	<string name="exercise_result_reminder_title_unaccomplished">"Μέτρηση σημερινών βημάτων: %1$d. Μπορείτε ακόμα να επιτύχετε το στόχο!"</string>
 	<string name="exercise_setting_label_reach_standard_remind">Ειδοποίηση δραστηριότητας</string>
 	<string name="exercise_setting_page_title">Ρυθμίσεις δραστηριότητας</string>
 	<string name="exercise_start">Έναρξη</string>
@@ -398,6 +408,7 @@
 	<string name="go_on">Συνέχεια</string>
 	<string name="go_open_sleep_detector">Εκκίνηση</string>
 	<string name="go_setting">Ρυθμίσεις</string>
+	<string name="go_to_close">Ρυθμίσεις</string>
 	<string name="go_to_open">Ενεργοποίηση</string>
 	<string name="goal_daily_exercise">Στόχος δραστηριότητας</string>
 	<string name="goal_sleep_time">Στόχος διάρκειας Ύπνου</string>
@@ -545,15 +556,15 @@
 	<string name="mi_sports">Mi Fit</string>
 	<string name="middle">Μεσαία</string>
 	<string name="middle_intensity_description">Ταχύτερος αναπνευστικός ρυθμός που σας επιτρέπει να ολοκληρώσετε προτάσεις</string>
-	<string name="midnight">Π.μ</string>
+	<string name="midnight">Νύχτα</string>
 	<string name="min_altitude">Ελάχιστο ύψος</string>
 	<string name="min_heart_rate">Χαμηλότερος καρδιακός ρυθμός</string>
 	<string name="min_pace">Χαμηλότερος ρυθμός</string>
 	<string name="minimum">Ελάχιστα</string>
 	<string name="minute">Λ</string>
 	<string name="miuix_appcompat_cloud_state_disabled">Ο συγχρονισμός με το cloud είναι απενεργοποιημένος</string>
-	<string name="miuix_appcompat_cloud_state_finished">Συγχρονισμένο με το cloud</string>
-	<string name="miuix_appcompat_cloud_state_syncing">Συγχρονισμός με το cloud</string>
+	<string name="miuix_appcompat_cloud_state_finished">Συγχρονίστηκε με το cloud</string>
+	<string name="miuix_appcompat_cloud_state_syncing">Συγχρονίζεται με το cloud...</string>
 	<string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">pull to refresh</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshed">refresh completed</string>
 	<string name="miuix_sbl_tracking_progress_labe_refreshing">refreshing</string>
@@ -625,7 +636,7 @@
 	<string name="network_connect_failure">Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις του δικτύου σας και προσπαθήστε ξανά.</string>
 	<string name="network_not_available">"Δεν ήταν δυνατή η σύνδεση στο δίκτυο. Ελέγξτε τις ρυθμίσεις δικτύου σας και δοκιμάστε ξανά."</string>
 	<string name="next_step">Επόμενο</string>
-	<string name="night">ΜΜ</string>
+	<string name="night">Απόγευμα</string>
 	<string name="no_available_device">Χωρίς συσκευές</string>
 	<string name="no_body_weight_record">Χωρίς ακόμα αρχεία εδώ</string>
 	<string name="no_data">Χωρίς δεδομένα</string>
@@ -633,7 +644,7 @@
 	<string name="no_snore">Δεν ροχάλησες ή μίλησες στον ύπνο σου.</string>
 	<string name="no_snore_1">Χωρίς στοιχεία εδώ ακόμη</string>
 	<string name="no_sport_delete">Διαγραφή εσφαλμένης εγγραφής</string>
-	<string name="noon">ΜΜ</string>
+	<string name="noon">Μεσημέρι</string>
 	<string name="normal">Φυσιολογικά</string>
 	<string name="not_achieve_stand_goals">Ο μόνιμος στόχος δεν επιτεύχθηκε</string>
 	<string name="not_added">Δεν προστέθηκε</string>
@@ -731,6 +742,8 @@
 	<string name="remind_query_menstruation_end">Τελείωσε η εμμηνόρροιά σας; Μην ξεχάσετε να την καταγράψετε.</string>
 	<string name="remind_query_menstruation_start">Ξεκίνησε η εμμηνόρροιά σας; Μην ξεχάσετε να την καταγράψετε.</string>
 	<string name="remind_sleep_report_complete">Τα στατιστικά στοιχεία ύπνου είναι έτοιμα</string>
+	<string name="remind_sleep_report_content">Κοιμηθήκατε %1$d ώρ. %2$d λεπ. χθες το βράδυ. Πατήστε για προβολή λεπτομερειών.</string>
+	<string name="remind_sleep_report_title">Τα στατιστικά ύπνου είναι έτοιμα</string>
 	<string name="remind_subtitle_menstruation_start">Λάβετε υπενθύμιση 2 ημέρες πριν από την πιθανή έναρξη της επόμενης εμμηνόρροιας</string>
 	<string name="remind_subtitle_record">Λάβετε υπενθυμίσεις όταν πρέπει να καταγράψετε της ημερομηνίες έναρξης και τέλους των εμμηνορροιών σας</string>
 	<string name="remind_title_menstruation_start">Υπενθύμιση αρχής εμμηνόρροιας</string>
@@ -841,11 +854,13 @@
 	<string name="sleep_no_data_info">Πρέπει να ολοκληρώσετε συνολικό\nκύκλο ύπνου</string>
 	<string name="sleep_no_deep_light_data_tip">Γιατί δεν καταγράφεται ο ελαφρύς και βαθύς ύπνος;</string>
 	<string name="sleep_no_generate_report">Αδυναμία εύρεσης\nδεδομένων ύπνου</string>
+	<string name="sleep_notice">Ειδοποιήσεις Ύπνου</string>
 	<string name="sleep_record_content">Η Xiaomi Health θα καταγράψει αυτόματα τον ύπνο σας βάσει της χρήσης του τηλεφώνου, των στατιστικών στοιχείων δραστηριότητας, καθώς και της ώρας που θα ορίσετε για να κοιμηθείτε και να ξυπνήσετε.</string>
 	<string name="sleep_record_go_open">Μετακινήστε το κουμπί \"Παρακολούθηση ύπνου\" για να αρχίσετε να καταγράφετε τα δεδομένα ύπνου</string>
 	<string name="sleep_record_label">Εγγραφή ύπνου</string>
 	<string name="sleep_remind">Υπενθύμιση ύπνου</string>
 	<string name="sleep_report">Στατιστικά στοιχεία ύπνου</string>
+	<string name="sleep_report_notice">Ειδοποιήσεις στατιστικών ύπνου</string>
 	<string name="sleep_require_auto_start_permission">Επιτρέψτε η Xiaomi Health να εκκινείτε αυτόματα για να παρακολουθεί τη δραστηριότητα και τον ύπνο σας.</string>
 	<string name="sleep_schedule">Κατάκλιση</string>
 	<string name="sleep_service">Υπηρεσία παρακολούθησης ύπνου</string>
@@ -987,6 +1002,7 @@
 	<string name="swim">Κολύμπι</string>
 	<string name="swim_type">Στυλ</string>
 	<string name="sync_immediately">Συγχρονισμός</string>
+	<string name="sync_is_not_closed">Ο συγχρονισμός είναι ενεργός τώρα</string>
 	<string name="sync_is_off">Ο συγχρονισμός είναι απενεργοποιημένος</string>
 	<string name="sync_set_network">Ρυθμίσεις δικτύου</string>
 	<string name="sync_status">Κατάσταση</string>

@@ -574,7 +574,7 @@
 		<string name="widget_global_search">Αναζήτηση</string>
 		<string name="widget_quick_function">Γρήγορες λειτουργίες</string>
 		<string name="widgets_preview_title">Προσθήκη Γραφικού στοιχείου</string>
-		<string name="work_mode_off_label">Ειδοποιήσεις και Εφαρμ. Ανενεργές</string>
+		<string name="work_mode_off_label">"Οι ειδοποιήσεις είναι ανενεργές και οι εφαρμογές δεν είναι διαθέσιμες αυτήν τη στιγμή"</string>
 		<string name="work_mode_on_label">Διαχείριση από τον οργανισμό σας</string>
 		<string name="work_profile_toggle_label">Προφίλ Εργασίας</string>
 </resources>
