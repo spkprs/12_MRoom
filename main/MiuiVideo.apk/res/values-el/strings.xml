@@ -460,7 +460,7 @@
   <string name="offline_pause">Παύση όλων των λήψεων</string>
   <string name="offline_setting">Ρυθμίσεις αναπαραγωγής</string>
   <string name="offline_setting_mobile_net_limit_summary">Περιορίστε τη χρήση των δεδομένων όταν το μέγεθος των ληφθέντων βίντεο φτάσει σε ένα καθορισμένο όριο</string>
-  <string name="offline_setting_mobile_net_limit_title">Όριο δεδομένων</string>
+  <string name="offline_setting_mobile_net_limit_title">"Όριο δεδομένων "</string>
   <string name="offline_setting_mobile_net_limit_unlimited_title">Περιορισμός χρήσης δεδομένων κινητής (Απεριόριστα)</string>
   <string name="offline_setting_mobile_net_unlimited">Απεριόριστα</string>
   <string name="offline_success">Λήψη με επιτυχία</string>

@@ -35,17 +35,17 @@
      <string-array name="date_of_app_all">
         <item>"Χθές (κινητής) "</item>
         <item>"Σήμερα (κινητής) "</item>
-        <item>"Τον προηγούμενο μήνα (κινητής) "</item>
+        <item>"Προηγούμενο μήνα (κινητής) "</item>
         <item>"Αυτό το μήνα (κινητής) "</item>
         <item>"Χθες (Wi-Fi) "</item>
         <item>"Σήμερα (Wi-Fi) "</item>
-        <item>"Τον προηγούμενο μήνα (Wi-Fi) "</item>
+        <item>"Προηγούμενο μήνα (Wi-Fi) "</item>
         <item>"Αυτό το μήνα (Wi-Fi) "</item>
      </string-array>
      <string-array name="date_of_traffic">
         <item>"Χθές "</item>
         <item>"Σήμερα "</item>
-        <item>"Τον προηγούμενο μήνα "</item>
+        <item>"Προηγούμενο μήνα "</item>
         <item>"Αυτό το μήνα "</item>
      </string-array>
      <string-array name="date_of_traffic_cmcc">
@@ -56,7 +56,7 @@
      <string-array name="date_of_traffic_prefix">
         <item>"Χθές: "</item>
         <item>"Σήμερα: "</item>
-        <item>"Τον προηγούμενο μήνα: "</item>
+        <item>"Προηγούμενο μήνα: "</item>
         <item>"Αυτό το μήνα: "</item>
      </string-array>
      <string-array name="date_of_traffic_prefix_cmcc">

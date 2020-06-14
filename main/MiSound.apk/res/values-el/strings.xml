@@ -82,7 +82,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">refreshing</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">fail</string>
-  <string name="multi_music_coexistence_summary">Μην προσαρμόζετε την ένταση του μέσου κατά τις εισερχόμενες ειδοποιήσεις ή κατά την αναπαραγωγή ήχου από άλλη πηγή</string>
+  <string name="multi_music_coexistence_summary">Χωρίς προσαρμογή έντασης πολυμέσου κατά τις εισερχόμενες ειδοποιήσεις ή κατά την αναπαραγωγή ήχου από άλλη πηγή</string>
   <string name="multi_music_coexistence_title">Πολλαπλές πηγές ήχου</string>
   <string name="music_add_my_sound">Προσαρμ. ρύθμισης</string>
   <string name="music_app_unavailable">Βεβαιωθείτε ότι η εφαρμ. Mi Music είναι διαθέσιμη</string>
@@ -196,8 +196,8 @@
   <string name="save_and_apply">Αποθήκευση και εφαρμογή</string>
   <string name="search_menu_title">Αναζήτηση</string>
   <string name="second_note">Βάλτε τα ακουστικά σας.</string>
-  <string name="sound_assist_key_summary">Προσαρμόστε τον ήχο για μεμονωμένες εφαρμογές ενώ πολλές εφαρμογές παίζουν ήχο ταυτόχρονα</string>
-  <string name="sound_assist_key_title">Προσαρμόστε τον ήχο πολυμέσων σε πολλές εφαρμογές</string>
+  <string name="sound_assist_key_summary">Προσαρμόστε τον ήχο για μεμονωμένες εφαρμογές όταν πολλές εφαρμογές παίζουν ταυτόχρονα ήχο</string>
+  <string name="sound_assist_key_title">Προσαρμογή ήχου πολυμέσων σε πολλές εφαρμογές</string>
   <string name="sound_assist_title">Βοηθός ήχου</string>
   <string name="sound_test_title">Δοκιμή ακουστικής αντίληψης</string>
   <string name="start_test_sound">Ξεκινήστε τη δοκιμή</string>

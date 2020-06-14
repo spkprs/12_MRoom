@@ -28,13 +28,25 @@
   <string name="abc_shareactionprovider_share_with_application">Κοινή χρήση με %s</string>
   <string name="abc_toolbar_collapse_description">Σύμπτυξη</string>
   <string name="app_name">CameraTools</string>
+  <string name="cali_button">Βαθμονόμηση</string>
+  <string name="cali_done">Η βαθμονόμηση έγινε!</string>
+  <string name="cali_fail">Fail</string>
+  <string name="cali_failed">Η βαθμονόμηση απέτυχε, παρακαλούμε δοκιμάστε ξανά!</string>
+  <string name="cali_failed_module_mismatch">Βαθμονόμηση απέτυχε, παρακαλώ σημειώστε τις σχέσεις που ταιριάζουν φακό!</string>
+  <string name="cali_going">Η βαθμονόμηση βρίσκεται σε εξέλιξη...</string>
+  <string name="cali_pass">Pass</string>
+  <string name="cali_title">Βαθμονόμηση κάμερας</string>
+  <string name="calibration_hint_usage">Η κάμερα δεν έχει βαθμονομηθεί. Παρακαλώ ολοκληρώστε τη βαθμονόμηση.</string>
   <string name="camera_capture">Σύλληψη</string>
+  <string name="camera_check_summary">"Οδηγίες δοκιμής:\n\n1.Πατήστε το κουμπί βαθμονόμησης.\n2.Θα υπάρχει μια ετικέτα περάσματος βαθμονόμησης που υποδεικνύει ότι η κάμερα έχει βαθμονομηθεί.\n3.Πραγματοποιήστε τη βαθμονόμηση σύμφωνα με την προτροπή του επιστρεφόμενου αποτελέσματος. Αφού η βαθμονόμηση είναι επιτυχής, κάντε κλικ στο Pass.\n4.Κάντε επανεκκίνηση της συσκευής σας για βαθμονόμηση δεδομένων και εφαρμογή αλλαγών."</string>
+  <string name="capture_fail">Η καταγραφή απέτυχε. Δοκιμάστε ξανά!</string>
+  <string name="capture_success">Κάντε κλικ στο κουμπί βαθμονόμησης!</string>
   <string name="cit_f2_cali">Βαθμονόμηση</string>
   <string name="cit_f2_cali_done">Η βαθμονόμηση έγινε!</string>
   <string name="cit_f2_cali_failed">Η βαθμονόμηση απέτυχε, παρακαλούμε δοκιμάστε ξανά!</string>
   <string name="cit_f2_cali_title">Βαθμονόμηση κάμερας</string>
   <string name="cit_f2_calibrating">Η βαθμονόμηση συνεχίζεται...</string>
-  <string name="cit_f2_camera_check_summary">Οδηγίες δοκιμής:\n\n1. Τοποθετήστε το κουμπί βαθμονόμησης.\n2. Θα υπάρχει μια ετικέτα περάσματος βαθμονόμησης που υποδεικνύει ότι η κάμερα έχει βαθμονομηθεί.</string>
+  <string name="cit_f2_camera_check_summary">Οδηγίες δοκιμής:\n\n1. Πατήστε το κουμπί βαθμονόμησης.\n2. Θα υπάρχει μια ετικέτα περάσματος βαθμονόμησης που υποδεικνύει ότι η κάμερα έχει βαθμονομηθεί.</string>
   <string name="cit_f2_capture_fail">Η καταγραφή απέτυχε, δοκιμάστε ξανά!</string>
   <string name="cit_f2_capture_success">Κάντε κλικ στο πλήκτρο βαθμονόμησης!</string>
   <string name="cit_fail">Fail</string>
@@ -42,5 +54,4 @@
   <string name="request_permission">Αυτό το δείγμα χρειάζεται άδεια κάμερας.</string>
   <string name="search_menu_title">Αναζήτηση</string>
   <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="calibration_hint_usage">Η κάμερα δεν έχει βαθμονομηθεί. Παρακαλώ ολοκληρώστε τη βαθμονόμηση.</string>
 </resources>

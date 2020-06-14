@@ -138,7 +138,6 @@
      <string name="cm_privacy_dialog_tips">"Οι υπηρεσίες έξυπνων μηνυμάτων παρέχονται από τον φορέα σας. Η υπηρεσία πρέπει να συνδεθεί στο Internet και πρόσβαση στην τοποθεσία σας για να παρέχουν αυτές τις υπηρεσίες. Πρέπει να συμφωνείσετε με τη %1s του φορέα σας πριν ξεκινήσετε. Συμφωνείτε?"</string>
      <string name="cm_privacy_dialog_title">Προσοχή</string>
      <string name="cmcc_privacy">Συμφωνία απορρήτου φορέα της China Mobile</string>
-     <string name="com.crashlytics.android.build_id">6448a28b-7dd0-4baa-97f3-9b9fdcd4a724</string>
      <string name="complain_message_title">Αναφορά</string>
      <string name="compressing">Η εικόνα είναι πολύ μεγάλη. Συμπίεση…</string>
      <string name="confirm">OK</string>
@@ -192,7 +191,6 @@
      <string name="copy_to_sdcard_fail">Αδυναμία αποθήκευσης συνημμένου</string>
      <string name="copy_to_sdcard_success">Το συνημμένο αποθηκεύτηκε ως %s</string>
      <string name="current_data_version">Έκδοση Mi Μήνυμα</string>
-     <string name="default_web_client_id">442074018142-eri5e8fk5h1pv23iej2aup5r7a4knsnj.apps.googleusercontent.com</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_block_conversation">Διαγραφή αυτής της συνομιλίας</string>
      <string name="delete_bookmark">Αφαίρεση από τα Αγαπημένα</string>
@@ -287,7 +285,6 @@
      <string name="file_size">Μέγεθος:</string>
      <string name="file_title">Όνομα:</string>
      <string name="file_width_height">Μέγεθος:</string>
-     <string name="firebase_database_url">https://global-sms-ab3bc.firebaseio.com</string>
      <string name="flatshow_page_no">%1$d</string>
      <string name="force_touch_new_message_title">Νέο μήνυμα</string>
      <string name="forward_from">Προώθηση από:</string>
@@ -303,11 +300,6 @@
      <string name="from_pkg_name">Από την εφαρμογή:</string>
      <string name="ft_cfs_dialog_content">"Δεν ήταν δυνατή η παράδοση αρχείων με τη χρήση του RCS. Αντί για αυτό, στείλτε ένα σύνδεσμο σε ένα μήνυμα κειμένου;"</string>
      <string name="ft_cfs_dialog_title">Εναλλακτική μεταφορά αρχείων</string>
-     <string name="gcm_defaultSenderId">442074018142</string>
-     <string name="google_api_key">AIzaSyDJSJKMSCw0P0F9WfIIELP_I-z58k3QKYA</string>
-     <string name="google_app_id">1:442074018142:android:1dd1f9d142d1661a12dfcf</string>
-     <string name="google_crash_reporting_api_key">AIzaSyDJSJKMSCw0P0F9WfIIELP_I-z58k3QKYA</string>
-     <string name="google_storage_bucket">global-sms-ab3bc.appspot.com</string>
      <string name="group_already_kicked_hint">Δεν είστε σε αυτήν την ομάδα, δεν μπορείτε να στείλετε ένα μήνυμα.</string>
      <string name="group_member_is_composing">Typing…</string>
      <string name="group_message">Ομαδικό μήνυμα</string>
@@ -661,7 +653,6 @@
      <string name="private_protect">Κωδικοί πρόσβασης</string>
      <string name="private_settings">Ρυθμίσεις</string>
      <string name="processing">Επεξεργασία…</string>
-     <string name="project_id">global-sms-ab3bc</string>
      <string name="prompt_area_code">+86</string>
      <string name="prompt_otp">Κωδικός</string>
      <string name="prompt_phone">Αριθμός τηλεφώνου</string>

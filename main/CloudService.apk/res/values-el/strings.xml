@@ -562,4 +562,5 @@
   <string name="soundrecorder_sync_only_in_wifi_summary_china">Η υπηρεσία καταγραφής δεν θα χρησιμοποιεί δεδομένα κινητής τηλεφωνίας για τη λήψη ή την αποστολή εγγραφών</string>
   <string name="sub_sync_item_sms_title_wifi_only_china">Χρήση WiFi μόνο για συγχρονισμό MMS</string>
   <string name="sync_dspt_entrance_provision_network_china">Αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet για να λειτουργεί κανονικά. Ο συγχρονισμός δεδομένων ενδέχεται να απαιτεί σύνδεση δεδομένων κινητής και ενεργοποίηση του WiFi.</string>
+  <string name="hint_restore_cross_space">Η διάταξη της αρχικής οθόνης ενδέχεται να μην εμφανίζεται σωστά εάν μεταφέρετε αντικείμενα μεταξύ χώρων.</string>
 </resources>

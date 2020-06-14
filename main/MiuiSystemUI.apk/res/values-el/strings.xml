@@ -1024,7 +1024,7 @@
   <string name="lock_screen_no_sim_card_emergency_only">Μόνο Επείγουσες Κλήσεις</string>
   <string name="lock_screen_no_sim_card_no_service">Καμμιά υπηρεσία</string>
   <string name="lock_screen_signature_msg">Εμφάνιση υπογραφής στην οθόνη κλειδώματος</string>
-  <string name="lock_screen_signature_title">Πληροφορίες κατόχου οθόνης κλειδώματος</string>
+  <string name="lock_screen_signature_title">Πληροφορίες κατόχου</string>
   <string name="lockscreen_access_pattern_area">Περιοχή μοτίβου.</string>
   <string name="lockscreen_access_pattern_cell_added">Το μοτίβο προστέθηκε</string>
   <string name="lockscreen_access_pattern_cell_added_verbose">%1$s Κελλιά προστέθηκαν</string>

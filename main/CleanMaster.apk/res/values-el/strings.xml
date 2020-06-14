@@ -82,7 +82,7 @@
   <string name="appcleaner_g_image_summary_wechat">Permanently delete WeChat images</string>
   <string name="appcleaner_g_image_title_qq">QQ image cleaner</string>
   <string name="appcleaner_g_image_title_wechat">WeChat image cleaner</string>
-  <string name="appcleaner_g_last_month">Τον προηγούμενο μήνα</string>
+  <string name="appcleaner_g_last_month">Προηγούμενο μήνα</string>
   <string name="appcleaner_g_normal_summary_qq">Permanently delete QQ files</string>
   <string name="appcleaner_g_normal_summary_wechat">Permanently delete WeChat files</string>
   <string name="appcleaner_g_normal_title_qq">QQ file cleaner</string>

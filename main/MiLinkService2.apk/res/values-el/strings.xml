@@ -142,4 +142,6 @@
      <string name="small_window_not_supported">"Αδύνατη η ελαχ/ποίηση της εφαρμ. κατά τη μετάδοση"</string>
      <string name="toast_nfc_dont_move">"Μην απομακρύνετε το τηλέφωνό σας"</string>
      <string name="toast_turn_off_hotspot_before_cast">Απενεργοποιήστε το portable hotspot πριν από τη μετάδοση</string>
+     <string name="dialog_nfc_cast_wifi_off">Ενεργοποιήστε το Wi-Fi για να μπορείτε να κάνετε μετάδοση χρησιμοποιώντας NFC. Ενεργοποίηση τώρα;</string>
+     <string name="nfc_connect_failed_toast">"Δεν ήταν δυνατή η μετάδοση. Προσπάθησε ξανά."</string>
 </resources>
