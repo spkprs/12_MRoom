@@ -376,8 +376,7 @@
      <string name="wifi_ssid">SSID:</string>
      <string name="will_be_sent_tothe_background_review">" (Η αίτησή σας θα σταλεί για αναθεώρηση σύντομα.)"</string>
      <string name="wx_not_installed_toast">Αυτή η λειτουργία χρησιμοποιεί το WeChat. Εγκαταστήστε πρώτα το WeChat.</string>
-     <string name="xiaoai_dialog">"Προσπαθήστε να πείτε αυτό που
-θέλετε να βρείτε στη Mi AI"</string>
+     <string name="xiaoai_dialog">Προσπαθήστε να πείτε αυτό που\nθέλετε να βρείτε στη Mi AI</string>
      <string name="you_have_permission_to_download">Πατήστε για λήψη της έκδοσης Beta</string>
      <string name="you_id">"Το ID σας: "</string>
      <string name="your_application_is_under_review">" (Η αίτησή σας εξετάζεται.)"</string>
@@ -390,4 +389,14 @@
 	 <string name="if_to_open_milogo_scanning">Αναγνώριση λογότυπου Xiaomi</string>
 	 <string name="not_set">Δεν έχει οριστεί</string>
 	 <string name="preference_copied">\"%1$s\" αντιγράφηκε στο πρόχειρο.</string>
+     <string name="WeChatqr_code_auto_processing">Άνοιγμα WeChat</string>
+     <string name="downloadAiVisonReason">Εξαρτάται από τα πρόσθετα που πρέπει να αναβαθμιστούν</string>
+     <string name="function">Χαρακτηριστικά</string>
+     <string name="if_open_result">Εμφάνιση αποτελέσματος σάρωσης όταν επιστρέψετε στην εφαρμογή</string>
+     <string name="mipayin_dialog_more">Περισσότερα</string>
+     <string name="mipayin_dialog_title">Άνοιγμα με</string>
+     <string name="monitor_low_android">Η έκδοση ANDROID είναι πολύ παλιά</string>
+     <string name="monitor_low_miui">Η έκδοση MIUI είναι πολύ παλιά</string>
+     <string name="monitor_unsupport_device">Η συσκευή δεν υποστηρίζεται προς το παρόν</string>
+     <string name="wechatcode_auto_processing_function_requires_permissions">WeChat κώδικας αυτόματης επεξεργασίας απαιτεί στο WeChat να έχει δικαιώματα στην κάμερα και στην αποθήκευση.</string>
 </resources>

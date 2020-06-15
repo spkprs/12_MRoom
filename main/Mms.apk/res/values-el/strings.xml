@@ -1101,4 +1101,14 @@
      <string name="zero_sms_feedback_message">Τα μηνύματα που αναφέρθηκαν αποστέλλονται στους διακομιστές μας μαζί με τους αριθμούς τηλεφώνου των αποστολέων τους. Αυτά τα μηνύματα χρησιμοποιούνται μόνο για τη βελτίωση της λειτουργικότητας της λίστας Αποκλεισμού.</string>
      <string name="zero_sms_feedback_success">Αναφέρθηκε με επιτυχία</string>
      <string name="zero_sms_feedback_title">Αναφορά</string>
+     <string name="copy_verification_code_tip">Αντιγράφηκε με επιτυχία</string>
+     <string name="menu_multi_select">Επιλογή</string>
+     <string name="not_support_audio_forward">"Δεν είναι δυνατή η προώθηση φωνητικών μηνυμάτων"</string>
+     <string name="pref_summary_voice_report">Ενεργοποιήστε για την εκφώνηση των μηνυμάτων κατά τη λήψη τους. Πατήστε το κουμπί "Ένταση" προς τα κάτω ή το κουμπί "Power" για να διακόψετε την αναπαραγωγή.</string>
+     <string name="pref_title_voice_report">Εκφώνηση μηνυμάτων</string>
+     <string name="top_conversation">Καρφιτσωμένη συνομιλία</string>
+     <string name="verification_code_safety_warning">"Να μην αποκαλύπτονται αυτοί οι κωδικοί σε άλλα άτομα"</string>
+     <string name="voice_report_anytime">Πάντα</string>
+     <string name="voice_report_off">Ανενεργό</string>
+     <string name="voice_report_wiredon">Με ακουστικά</string>
 </resources>

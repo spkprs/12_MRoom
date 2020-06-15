@@ -38,7 +38,7 @@
      <string name="download_remaining">%s απομένουν</string>
      <string name="download_running">Σε εξέλιξη</string>
      <string name="download_running_percent">Σε εξέλιξη, %d%%</string>
-     <string name="download_unknown_title">&lt;Χωρίς Τίτλο&gt;</string>
+     <string name="download_unknown_title">&lt;Χωρίς Τίτλο></string>
      <string name="enter_garbage_clean">Καθαρισμός εσωτ. χώρου αποθήκευσης.</string>
      <string name="insufficient_space">"Δεν υπάρχει αρκετός χώρος στον εσωτ. χώρο αποθήκευσης της συσκευής"</string>
      <string name="mobile_recommended_title">Χρήση δεδομένων κινητής</string>
@@ -87,13 +87,9 @@
      <string name="warning_tip_content">"Δεν είστε πλέον συνδεδεμένοι σε Wi‑Fi. Χρησιμοποιώντας τη σύνδεση δεδομένων κινητής για να ολοκληρώσετε αυτό το στοιχείο λήψης, θα αυξηθεί η χρήση των δεδομένων σας. Αν πάτε πάνω από το όριο του προγράμματος δεδομένων σας, ο φορέας σας μπορεί να σας χρεώσει επιπρόσθετα."</string>
      <string name="warning_tip_ok">Παύση</string>
      <string name="warning_tip_title">Προειδοποίηση χρήσης δεδομένων</string>
-     <string name="wifi_recommended_body" formatted="false">"Αν ξεκινήσετε τη λήψη του %s τώρα μπορεί να οδηγήσει σε υπερβολική χρήση της σύνδεσης δεδομένων κινητής τηλεφωνίας σας, η οποία μπορεί να οδηγήσει σε χρεώσεις από την εταιρεία κινητής τηλεφωνίας σας, ανάλογα με το πρόγραμμα δεδομένων σας.
-
-Πατήστε %s για να ξεκινήσει αυτή η λήψη την επόμενη φορά που θα είστε συνδεδεμένοι σε ένα δίκτυο Wi‑Fi."</string>
+     <string name="wifi_recommended_body">Η έναρξη αυτής της λήψης του %1$s τώρα μπορεί να έχει ως αποτέλεσμα την υπερβολική χρήση της σύνδεσης δεδομένων κινητής, η οποία μπορεί να οδηγήσει σε χρεώσεις από την υπηρεσία κινητής τηλεφωνίας, ανάλογα με το πρόγραμμα δεδομένων σας.\n\nΠατήστε %2$s για να ξεκινήσει αυτή η λήψη την επόμενη φορά που θα είστε συνδεδεμένοι σε ένα δίκτυο Wi‑Fi.</string>
      <string name="wifi_recommended_title">Σειρά αναμονής για λήψη αργότερα;</string>
-     <string name="wifi_required_body" formatted="false">"Θα πρέπει να χρησιμοποιήσετε το Wi‑Fi για να ολοκληρωθεί αυτή η %s λήψη. 
-
-Πατήστε %s για να ξεκινήσει αυτή η λήψη την επόμενη φορά που θα είστε συνδεδεμένοι σε ένα δίκτυο Wi‑Fi."</string>
+     <string name="wifi_required_body">Συνδεθείτε στο Wi‑Fi για να ολοκληρωθεί αυτή η %1$s λήψη. \n\nΠατήστε %2$s για να ξεκινήσει αυτή η λήψη την επόμενη φορά που θα είστε συνδεδεμένοι σε ένα δίκτυο Wi‑Fi.</string>
      <string name="wifi_required_title">Η λήψη είναι πολύ μεγάλη για το δίκτυο του παρόχου</string>
      <string name="xl_speedup_experience_notify_context">"Η ταχύτητα ενισχύεται για κάθε λήψη όταν είστε μέλος της Xunlei"</string>
      <string name="xl_speedup_experience_notify_title">Προνόμια μελών Xunlei</string>
