@@ -2419,6 +2419,7 @@
 	<string name="ethernet_data_usage">Ethernet χρήση δεδομένων</string>
 	<string name="every_day">Κάθε μέρα</string>
 	<string name="expand_button_title">Για προχωρημένους</string>
+	<string name="expanded_weather_enable_title">Προβολή καιρού</string>
 	<string name="expandable_under_keyguard_title">Εμφάνιση στην οθόνη κλειδώματος</string>
 	<string name="experimental_category_title">Σε πειραματικό στάδιο</string>
 	<string name="experimental_preference">(Πειραματικό)</string>

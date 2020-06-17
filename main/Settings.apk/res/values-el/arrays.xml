@@ -790,7 +790,6 @@
 	<item>Τόνγκα</item>
   </string-array>
   <string-array name="charge_animation_style_entries">
-     <item>Χωρίς</item>
      <item>Ροή</item>
      <item>Λάμψη</item>
      <item>Κύμα</item>

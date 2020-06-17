@@ -23,9 +23,13 @@
   <string name="autofill">Αυτόματη συμπλήρωση</string>
   <string name="autofill_save_message">Επιτρέπετε στο MIUI να αποθηκεύει τους λογαριασμούς και κωδικούς σας;</string>
   <string name="autofill_save_ok">Αποδοχή</string>
-  <string name="autofill_save_sub_message">Μπορείτε να διαχειριστείτε τους αποθηκευμένους κωδικούς στις Ρυθμίσεις &gt; Κωδικοί &amp; Ασφάλεια &gt; %s.</string>
+  <string name="autofill_save_sub_message">Μπορείτε να διαχειριστείτε τους αποθηκευμένους κωδικούς στις Ρυθμίσεις > Κωδικοί > Ασφάλεια > %s.</string>
   <string name="autofill_save_title">Αυτόματη αποθήκευση κωδικών</string>
   <string name="autofill_service_name">Διαχείριση Κωδικών</string>
+  <string name="bluetooth_disable_notification_content">%s απενεργοποίησε το B/T</string>
+  <string name="bluetooth_disable_notification_title">Το B/T είναι ανενεργό</string>
+  <string name="bluetooth_enable_notification_content">%s ενεργοποίησε το B/T</string>
+  <string name="bluetooth_enable_notification_title">Το B/T είναι ενεργό</string>
   <string name="btn_cancel">Ακύρωση</string>
   <string name="btn_sure">OK</string>
   <string name="button_text_cancel">Ακύρωση</string>
@@ -202,7 +206,7 @@
   <string name="resolver_offical_recommend">Προτείνεται</string>
   <string name="resolver_other_method">Άλλες επιλογές</string>
   <string name="resolver_recommend_options_tag">Προτεινόμενες επιλογές</string>
-  <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff&gt;&lt;br/&gt;(%2$s)&lt;/font&gt;</string>
+  <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff>&lt;br/>(%2$s)&lt;/font></string>
   <string name="resource_select">Επιλογή</string>
   <string name="scanning_device_tips">Αναζήτηση συσκευών σε κοντινή απόσταση ... Βεβαιωθείτε ότι η άλλη συσκευή είναι ανιχνεύσιμη.</string>
   <string name="screen_button_notification_text">Για να τα ενεργοποιήσετε, πατήστε τα πλήκτρα \"Home\" και \"Power\" ταυτόχρονα.</string>
