@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="DOWNLOAD_UNIT_BIT">B</string>
-     <string name="DOWNLOAD_UNIT_GB">GB</string>
-     <string name="DOWNLOAD_UNIT_KB">KB</string>
-     <string name="DOWNLOAD_UNIT_MB">MB</string>
-     <string name="DOWNLOAD_UNIT_TB">TB</string>
      <string name="Only_the_wifi">Χρήση μόνο με Wi‑Fi</string>
      <string name="abc_action_bar_home_description">Navigate home</string>
      <string name="abc_action_bar_up_description">Navigate up</string>
@@ -160,6 +155,7 @@
      <string name="download_status_fail">Επανάληψη</string>
      <string name="download_status_paused">Παύση</string>
      <string name="download_success">Ολοκληρώθηκε</string>
+     <string name="download_title">Λήψεις</string>
      <string name="download_title_sorted_by_date">Κατά ημερ/νία</string>
      <string name="download_title_sorted_by_size">Κατά μέγεθος</string>
      <string name="download_wait_connect">Λήψη σε αναμονή σύνδεσης</string>
@@ -170,6 +166,18 @@
      <string name="downloading_empty">Κενή</string>
      <string name="downloads_operating">Σε λειτουργία…</string>
      <string name="dredge_xunlei_account">Δημιουργία λογαριασμού Xunlei</string>
+     <string name="durationDayHour">%1$d ημ %2$d ωρ</string>
+     <string name="durationDayHours">%1$d ημ %2$d ωρ</string>
+     <string name="durationDays">%1$d ημ</string>
+     <string name="durationHourMinute">%1$d ωρ %2$d λεπ</string>
+     <string name="durationHourMinutes">%1$d ωρ %2$d λεπ</string>
+     <string name="durationHours">%1$d ωρ</string>
+     <string name="durationMinute">%1$d λεπ</string>
+     <string name="durationMinuteSecond">%1$d λεπ %2$d δευτ</string>
+     <string name="durationMinuteSeconds">%1$d λεπ %2$d sec</string>
+     <string name="durationMinutes">%1$d λεπ</string>
+     <string name="durationSecond">%1$d δευτ</string>
+     <string name="durationSeconds">%1$d δευτ</string>
      <string name="edit_hint">Εισάγετε http, torrent, ή διεύθυνση eMule</string>
      <string name="editmode_menu_delete">Διαγραφή</string>
      <string name="editmode_menu_share">Κοινή χρήση</string>
@@ -265,8 +273,7 @@
      <string name="no_share_files">Δεν είναι δυνατός ο διαμοιρασμός αρχείων που έχουν ήδη διαγραφεί</string>
      <string name="no_share_files_content">Μερικά από τα αρχεία που προσπαθείτε να διαμοιράσετε έχουν ήδη διαγραφεί. Τα υπόλοιπα διαμοιράστηκαν με επιτυχία</string>
      <string name="no_vip_info">Αποκτήστε συνδρομή Xunlei για επιτάχυνση των λήψεων</string>
-     <string name="no_vip_show_info">"Επιταχύνετε τις λήψεις σας
-σε όλες τις συσκευές σας με την Xunlei"</string>
+     <string name="no_vip_show_info">Επιταχύνετε τις λήψεις σας\nσε όλες τις συσκευές σας με την Xunlei</string>
      <string name="not_set">Δεν ορίστηκε</string>
      <string name="notify_disabled_net_by_app">Η πρόσβαση στο Internet έχει περιοριστεί</string>
      <string name="notify_install_guide_forward_text">Άνοιγμα</string>
@@ -434,7 +441,7 @@
      <string name="sniff_terms_msg_bold_new">Όροι παροχής υπηρεσιών</string>
      <string name="sniff_terms_reject">Απόρριψη</string>
      <string name="sniff_terms_title">Προσοχή</string>
-     <string name="sniff_text_sniff_next_page">Συνέχεια &gt;</string>
+     <string name="sniff_text_sniff_next_page">Συνέχεια ></string>
      <string name="sniff_vip_tip_speedup">Μπορείτε να δοκιμάσετε την ενίσχυση ταχύτητας δωρεάν για μια φορά</string>
      <string name="sniff_vip_tip_vip">Η Xunlei μπορεί να συνεχίσει να ενισχύει την ταχύτητά σας</string>
      <string name="speed_entrance">Δοκιμή ταχύτητας Wi-Fi</string>
@@ -506,12 +513,9 @@
      <string name="valid_in_this_month">Ισχύει μόνο αυτό το μήνα</string>
      <string name="version">Έκδοση %s</string>
      <string name="vip_auto_speedup">Η επιτάχυνση λήψεων Xunlei είναι ενεργή</string>
-     <string name="vip_expire_show_info">"Η συνδρομή Xunlei έληξε.
-Ανανεώστε τώρα και κερδίστε 5% έκπτωση."</string>
-     <string name="vip_expire_today_show_info">"Η συνδρομή Xunlei έληξε.
-Ανανεώστε τώρα και κερδίστε 5% έκπτωση."</string>
-     <string name="vip_show_info">"5 εκατομμύρια μέλη.
-Επιταχύνετε τις λήψεις σας σε όλες τις συσκευές σας."</string>
+     <string name="vip_expire_show_info">Η συνδρομή Xunlei έληξε.\nΑνανεώστε τώρα και κερδίστε 5% έκπτωση.</string>
+     <string name="vip_expire_today_show_info">Η συνδρομή Xunlei έληξε.\nΑνανεώστε τώρα και κερδίστε 5% έκπτωση.</string>
+     <string name="vip_show_info">5 εκατομμύρια μέλη.\nΕπιταχύνετε τις λήψεις σας σε όλες τις συσκευές σας.</string>
      <string name="vip_speedup">Ενίσχυση ταχύτητας:</string>
      <string name="web_dialog_cancel">Ακύρωση</string>
      <string name="web_dialog_confirm">OK</string>
@@ -535,32 +539,16 @@
      <string name="xl_privilege_support">Πολλαπλές συσκευές</string>
      <string name="xl_privilege_title">Συνδρομή Xunlei</string>
      <string name="xl_validate_title">Ισχύει έως:  </string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Yearly plan -->
      <string name="xl_vip_annual">Έτος: %1$s Mi Credits × 12</string>
      <string name="xl_vip_annual_price">%1$s Mi Coins per month (12 months)</string>
      <string name="xl_vip_combo">Πακέτα Συνδρομών</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Monthly plan -->
      <string name="xl_vip_month">Μήνας: %1$s Mi Credits × 1</string>
      <string name="xl_vip_month_price">%1$s Mi Coins per month (1 month)</string>
      <string name="xl_vip_open">Αγορά</string>
      <string name="xl_vip_overdue">Έληξε</string>
      <string name="xl_vip_pay">Επέκταση</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Quarterly plan -->
      <string name="xl_vip_quarter">Τρίμηνο: %1$s Mi Credits × 3</string>
      <string name="xl_vip_quarter_price">%1$s Mi Coins per month (3 months)</string>
-     <!-- MNPS mismatch found! Translated: 1 Original: 0
-	%s: 1 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Half-yearly plan -->
      <string name="xl_vip_semiannual">Εξάμηνο: %1$s Mi Credits × 6</string>
      <string name="xl_vip_semiannual_price">%1$s Mi Coins per month (6 months)</string>
      <string name="xlunbind_sub_title">Remove your Xunlei Account and add Mi Account</string>

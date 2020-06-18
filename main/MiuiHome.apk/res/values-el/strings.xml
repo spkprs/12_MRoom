@@ -558,6 +558,8 @@
 		<string name="uninstall_xspace_dialog_title_format">Απεγκατάσταση διπλής \"%s\"</string>
 		<string name="unknown_artist_name">Άγνωστος Καλλιτέχνης</string>
 		<string name="unnamed_folder_name">Χωρίς όνομα</string>
+        <string name="unstable_dialog_message">Αυτή η συσκευή είναι εγγεγραμμένη στο Πρόγραμμα προγραμματιστή προεπισκόπησης Android 11. Το πρόγραμμα επιτρέπει στους προγραμματιστές και τους λάτρεις του Android να δοκιμάσουν προ-εκδόσεις του Android 11. Αυτή η προέκδοση μπορεί να περιέχει σφάλματα και ελαττώματα που μπορούν να επηρεάσουν την κανονική λειτουργία της συσκευής σας.</string>
+        <string name="unstable_dialog_title">Πρόγραμμα προγραμματιστή προεπισκόπησης Android</string>
 		<string name="v7_preference_off">OFF</string>
 		<string name="v7_preference_on">ON</string>
 		<string name="wallpaper">Ταπετσαρία</string>

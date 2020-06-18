@@ -380,7 +380,7 @@
   <string name="permission_location_introduce">Για εμφάνιση κοντινών σημείων εξυπηρέτησης</string>
   <string name="permission_main_purpose">Εμφάνιση επίδειξης χαρακτηριστικών MIUI, υποβολή σχολίων και υποβολή αίτησης για υπηρεσίες μετά την πώληση.</string>
   <string name="permission_privacy">Πολιτική απορρήτου (υποχρεωτική)</string>
-  <string name="permission_region_version_msg">&lt;Data&gt;Πριν χρησιμοποιήσετε την \"Υπηρεσίες &amp; Σχόλια\", πρέπει να διαβάσετε και να συμφωνήσετε με την &lt;a href=%1$s&gt;Συμφωνία χρήσης&lt;/a&gt; και &lt;a href=%2$s&gt;Πολιτική απορρήτου&lt;/a&gt;.&lt;/Data&gt;</string>
+  <string name="permission_region_version_msg"><Data>Πριν χρησιμοποιήσετε την \"Υπηρεσίες &amp; Σχόλια\", πρέπει να διαβάσετε και να συμφωνήσετε με την &lt;a href=%1$s>Συμφωνία χρήσης&lt;/a> και &lt;a href=%2$s>Πολιτική απορρήτου&lt;/a>.</Data></string>
   <string name="permission_select_all">Επιλογή όλων</string>
   <string name="permission_storage">Αποθήκευση</string>
   <string name="permission_storage_introduce">Για την αποθήκευση στοιχείων στη συσκευή σας</string>
