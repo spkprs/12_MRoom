@@ -360,7 +360,103 @@
     <item quantity="other">Προστέθηκαν %1$d φωτογραφίες σε \"%2$s\" και προστέθηκε στη βάση δεδομένων.</item>
     <item quantity="one">Προστέθηκε %1$d φωτογραφία στο \"%2$s\" και προστέθηκε στη βάση δεδομένων.</item>
   </plurals>
-  <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d πακέτα εγκατάστασης (%3$s) από %1$s</item>
+        <item quantity="one">%2$d πακέτο εγκατάστασης (%3$s) από %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">Λήψη %2$d πακέτων εγκατάστασης (%3$s) από %1$s</item>
+        <item quantity="one">Λήψη %2$d πακέτου εγκατάστασης (%3$s) από %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">Λήψη %2$d πακέτων εγκατάστασης (%3$s) από %1$s…</item>
+        <item quantity="one">Λήψη %2$d πακέτων εγκατάστασης (%3$s) από %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d αρχεία ήχου (%3$s) από %1$s</item>
+        <item quantity="one">αρχείο ήχου (%3$s) από %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">Λήψη %2$d αρχείων ήχου (%3$s) από %1$s</item>
+        <item quantity="one">Λήψη %2$d αρχείου ήχου (%3$s) από %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">Λήψη %2$d αρχείων ήχου (%3$s) από %1$s…</item>
+        <item quantity="one">Λήψη %2$d αρχείου ήχου (%3$s) από %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s αρχεία (%4$s) από %1$s</item>
+        <item quantity="one">%2$d %3$s αρχείο (%4$s) από %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">Λήψη %2$d %3$s αρχεία (%4$s) από %1$s</item>
+        <item quantity="one">Λήψη %2$d %3$s αρχείο (%4$s) από %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">Λήψη %2$d %3$s αρχεία (%4$s) από %1$s…</item>
+        <item quantity="one">Λήψη %2$d %3$s αρχείο (%4$s) από %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d εικόνες από %1$s</item>
+        <item quantity="one">%2$d εικόνα από %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">Λήψη %2$d εικόνες από %1$s</item>
+        <item quantity="one">Λήψη %2$d εικόνα από %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">Λήψη %2$d εικόνες από %1$s…</item>
+        <item quantity="one">Λήψη %2$d εικόνα από %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d εικόνες κ βίντεο από %1$s</item>
+        <item quantity="one">%2$d εικόνα ή βίντεο από %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">Λήψη %2$d εικόνες κ βίντεο από %1$s</item>
+        <item quantity="one">Λήψη %2$d εικόνα ή βίντεο από %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">Λήψη %2$d εικόνες κ βίντεο από %1$s…</item>
+        <item quantity="one">Λήψη %2$d εικόνα ή βίντεο από %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d αρχεία από %1$s</item>
+        <item quantity="one">%2$d αρχείο από %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">Λήψη %2$d αρχεία από %1$s</item>
+        <item quantity="one">Λήψη %2$d αρχείο από %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">Λήψη %2$d αρχεία από %1$s…</item>
+        <item quantity="one">Λήψη %2$d αρχείο από %1$s…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d βίντεο από %1$s</item>
+        <item quantity="one">%2$d βίντεο από %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">Λήψη %2$d βίντεο από %1$s</item>
+        <item quantity="one">Λήψη %2$d βίντεο από %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">Λήψη %2$d βίντεο από %1$s…</item>
+        <item quantity="one">Λήψη %2$d βίντεο από %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d αρχεία (%3$s) από %1$s</item>
+        <item quantity="one">%2$d αρχείο (%3$s) από %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">Λήψη %2$d αρχεία (%3$s) από %1$s</item>
+        <item quantity="one">Λήψη %2$d αρχείο (%3$s) από %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">Λήψη %2$d αρχεία (%3$s) από %1$s…</item>
+        <item quantity="one">Λήψη %2$d αρχείο (%3$s) από %1$s…</item>
+    </plurals>
+	<plurals name="search_feedback_done_mark_and_contribute_false_positive">
     <item quantity="other">Καταργήθηκαν %1$d φωτογραφίες από \"%2$s\" και προστέθηκε στη βάση δεδομένων.</item>
     <item quantity="one">Καταργήθηκε %1$d φωτογραφία από \"%2$s\" και προστέθηκε στη βάση δεδομένων.</item>
   </plurals>

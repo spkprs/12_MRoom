@@ -84,6 +84,7 @@
 		<string name="album_camera_name">Κάμερα</string>
 		<string name="album_cloud_list_page_title">Διαχειριστείτε τα συγχρονισμένα άλμπουμ</string>
 		<string name="album_creative">Οι επεξεργασμένες φωτογραφίες μου</string>
+		<string name="album_detail_default_sort_tip">Αλλαγή σε χρονολογική σειρά</string>
 		<string name="album_detail_page_empty">Δεν υπάρχει εικόνα ή βίντεο</string>
 		<string name="album_download">Λήψεις</string>
 		<string name="album_faces_name">Πρόσωπα</string>
@@ -264,6 +265,8 @@
 		<string name="begin_share_toast">Δημιουργία ξεχωριστού άλμπουμ για αυτό το παιδί πριν το διαμοιρασμό;</string>
 		<string name="browse_category_title">Περιήγηση</string>
 		<string name="btn_cancel">Ακύρωση</string>
+		<string name="btn_cancel_send">Ακύρωση αυτής της μεταφοράς</string>
+		<string name="btn_exit_send">Έξοδος</string>
 		<string name="btn_sure">OK</string>
 		<string name="burst_image_download_item_title" formatted="false">Λήψη προτότυπου (%s|%s)</string>
 		<string name="burst_preview_title">Λήψη ριπής</string>
@@ -977,6 +980,10 @@
 		<string name="member_menu_vipname_premium">Premium</string>
 		<string name="member_menu_vipname_ultra">Ultra</string>
 		<string name="menu_album_new_album">Νέο άλμπουμ</string>
+		<string name="menu_detail_sort_create_date">Δημιουργήθηκε</string>
+		<string name="menu_detail_sort_name">Όνομα αρχείου</string>
+		<string name="menu_detail_sort_size">Μέγεθος αρχείου</string>
+		<string name="menu_detail_sort_update_date">Τελευταία ενημέρωση</string>
 		<string name="menu_item_sort_date">Ημερομηνία</string>
 		<string name="menu_item_sort_name">Όνομα</string>
 		<string name="menu_item_sort_size">Μέγεθος</string>
@@ -1132,6 +1139,7 @@
 		<string name="operation_favorites">Αγαπημένα</string>
 		<string name="operation_force_top">Καρφίτσωμα</string>
 		<string name="operation_hide">Απόκρυψη</string>
+		<string name="operation_hide_time">Απόκρυψη ημερομηνιών</string>
 		<string name="operation_in_process">Επεξεργασία…</string>
 		<string name="operation_move">Μετακίνηση</string>
 		<string name="operation_move_to_other_albums">Μετακίνηση σε άλλα άλμπουμ</string>
@@ -1156,7 +1164,9 @@
 		<string name="operation_share_manage">Διαχείριση κοινόχρηστων στοιχείων</string>
 		<string name="operation_show_in_photos_tab">Εμφάνιση στην αρχική σελίδα</string>
 		<string name="operation_show_on_map">Εμφάνιση στο χάρτη</string>
+		<string name="operation_show_time">Εμφάνιση ημερομηνιών</string>
 		<string name="operation_slide_show">Έναρξη προβολής διαφανειών</string>
+		<string name="operation_sort">Ταξινόμηση</string>
 		<string name="operation_successful">Τέλος</string>
 		<string name="operation_too_often">Υπέρβαση ορίου συχνότητας, παρακαλώ δοκιμάστε μετά από 1 λεπτό.</string>
 		<string name="operation_unforce_top">Ξεκαρφίτσωμα</string>
@@ -1547,6 +1557,7 @@
 		<string name="share_album">Κοινή χρήση άλμπουμ</string>
 		<string name="share_album_needs_auto_upload_tip">Αδύνατη η απενεργοποίηση του συγχρονισμού με το cloud για κοινόχρηστα άλμπουμ</string>
 		<string name="share_album_qr_code">Κωδικός QR του άλμπουμ</string>
+		<string name="share_and_delete_screenshot">Διαγραφή μετά την κοινή χρήση</string>
 		<string name="share_by_email_start">Κοινή χρήση του %1$s στο παρασκήνιο</string>
 		<string name="share_by_email_successfully">Κοινόχρηστο %1$s</string>
 		<string name="share_public_url_text">Κοινοποίησα το άλμπουμ %1$s . Δείτε το στο %2$s</string>
@@ -1605,6 +1616,7 @@
 		<string name="solar_term_winter_solstice">Winter solstice</string>
 		<string name="sort">Ταξινόμηση</string>
 		<string name="special_type_8k">AI 8K</string>
+		<string name="special_type_ai_audio">AI Ήχος</string>
 		<string name="special_type_eye_repair">Διόρθωση κλειστών ματιών με χρήση AI</string>
 		<string name="special_type_hdr">HDR</string>
 		<string name="special_type_log">LOG</string>
