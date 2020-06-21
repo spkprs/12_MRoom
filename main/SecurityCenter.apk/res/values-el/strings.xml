@@ -3471,8 +3471,8 @@
 	<string name="warningcenter_mijia_alert_view_device">Προβολή συσκευής</string>
 	<string name="warningcenter_mijia_devices_1">Ανιχνευτής πλημμύρας</string>
 	<string name="warningcenter_mijia_devices_2">Ανιχνευτής καπνού</string>
-	<string name="warningcenter_mijia_devices_3">Gas detector</string>
-	<string name="warningcenter_mijia_devices_4">Smart lock</string>
+	<string name="warningcenter_mijia_devices_3">Ανιχνευτής αερίου</string>
+	<string name="warningcenter_mijia_devices_4">Έξυπνο κλείδωμα</string>
 	<string name="warningcenter_mijia_devices_support">Υποστηριζόμενες συσκευές</string>
 	<string name="warningcenter_mijia_devices_support_tips">Σημείωση: Δεν θα μπορείτε να λαμβάνετε ειδοποιήσεις αν αποσυνδεθείτε από το λογαριασμό σας στο Mi Home ή καταργήσετε την εγκατάσταση της εφαρμογής.</string>
 	<string name="warningcenter_mijia_info">Παρακολουθήστε την ασφάλεια του σπιτιού σας</string>

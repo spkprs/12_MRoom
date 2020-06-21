@@ -157,6 +157,6 @@
     <string-array name="settings_search_wlan_china">
         <item>Συγχρονισμός ρυθμίσεων WIFI με το Xiaomi Cloud</item>
         <item>Ενεργοποίηση συγχρονισμού</item>
-        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
+        <item>WiFi;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
     </string-array>
 </resources>

@@ -85,12 +85,12 @@
     <item quantity="one">Μπορείτε να προστατεύσετε τουλάχιστον %s εφαρμ.</item>
   </plurals>
   <plurals name="bg_network_allow_count">
-    <item quantity="other">%d εφαρμογές μπορούν να συνδεθούν στο παρασκήνιο</item>
-    <item quantity="one">%d εφαρμογή μπορεί να συνδεθεί στο παρασκήνιο</item>
+    <item quantity="other">%d εφαρμ. σε σύνδεση στο παρασκήνιο</item>
+    <item quantity="one">%d εφαρμ. σε σύνδεση στο παρασκήνιο</item>
   </plurals>
   <plurals name="bg_network_restrict_count">
-    <item quantity="other">%d εφαρμογές δεν μπορούν να συνδεθούν στο παρασκήνιο</item>
-    <item quantity="one">%d εφαρμογή δεν μπορεί να συνδεθεί στο παρασκήνιο</item>
+    <item quantity="other">%d εφαρμ. χωρίς σύνδεση στο παρασκήνιο</item>
+    <item quantity="one">%d εφαρμ. χωρίς σύνδεση στο παρασκήνιο</item>
   </plurals>
   <plurals name="cache_check_content">
     <item quantity="other">Προστατεύονται %d εφαρμογές</item>
