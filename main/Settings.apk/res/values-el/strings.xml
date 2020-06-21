@@ -2070,6 +2070,7 @@
 	<string name="digital_clock_dot">:</string>
 	<string name="direct_boot_unaware_dialog_message">Σημείωση: Μετά από μια επανεκκίνηση, αυτή η εφαρμογή δεν μπορεί να ξεκινήσει μέχρι να ξεκλειδώσετε το τηλέφωνό σας.</string>
 	<string name="disableNetwork">Απενεργ-Δικτύου</string>
+	<string name="disable_global_dark_mode_title">Απενεργοποίηση Γενικής Σκοτεινής Λειτουργίας</string>
 	<string name="disable_overlays">Απενεργ επικάλυψης HW</string>
 	<string name="disable_overlays_summary">Πάντα να χρησιμοποιείται η GPU για τη σύνθεση της οθόνης</string>
 	<string name="disable_power_key_long_press_under_keyguard">Απενεργοποίηση μενού κουμπιού λειτουργίας</string>
