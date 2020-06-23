@@ -101,6 +101,8 @@
      <string name="ball_football_recent_ing">Σε εξέλιξη</string>
      <string name="ball_hupu">HuPu Sports</string>
      <string name="battery_history">Battery</string>
+     <string name="bluetooth_card_title">Χρήση Μπαταρίας</string>
+     <string name="bluetooth_setting_brief">Προβολή χρήσης μπαταρίας των συνδεδεμένων συσκευών</string>
      <string name="beijing">Beijing</string>
      <string name="bicycle">Κύκλος</string>
      <string name="book_add">Add booking</string>

@@ -38,6 +38,7 @@
   <string name="ads_install_button_isInstalling">Εγκατάσταση</string>
   <string name="ads_install_button_waiting">Αναμονή</string>
   <string name="ads_summary">Οι άνθρωποι που εγκατέστησαν %1$s επίσης άρεσε</string>
+  <string name="ads_summary_default_value">Άρεσε επίσης στα άτομα που εγκατέστησαν αυτήν την εφαρμογή</string>
   <string name="all_permissions">Όλα τις Άδειες</string>
   <string name="allPerms">Ολα</string>
   <string name="anonymous_source_continue">Συνεχίστε</string>

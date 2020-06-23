@@ -169,6 +169,9 @@
 	<string name="antivirus_privacy_dialog_summary">Αυτή η λειτουργία κρυπτογραφεί και ανεβάζει το ID της συσκευής σας στους διακομιστές των AVL και Tencent (%s).</string>
 	<string name="antivirus_privacy_dialog_summary_link">Πολιτική Απορρήτου</string>
 	<string name="antivirus_privacy_dialog_title">Πολιτική Απορρήτου</string>
+    <string name="antivirus_privacy_dialog_summary_new"><Data>Αυτή η λειτουργία χρησιμοποιεί ορισμούς προστασίας από ιούς που παρέχονται από Avast, AVL και Tencent. Σχετικά &lt;a href=\"%1$s\">Συμφωνίες Παραχώρησης&lt;/a> για περισσότερα.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_not_have_avast"><Data>Αυτή η λειτουργία χρησιμοποιεί ορισμούς προστασίας από ιούς που παρέχονται από AVL και Tencent. Σχετικά &lt;a href=\"%1$s\">Συμφωνίες Παραχώρησης&lt;/a> για περισσότερα.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_not_have_tencent"><Data>Αυτή η λειτουργία χρησιμοποιεί ορισμούς προστασίας από ιούς που παρέχονται από Avast και AVL. Σχετικά &lt;a href=\"%1$s\">Συμφωνίες Παραχώρησης&lt;/a> για περισσότερα.</Data></string>
 	<string name="antivirus_sec_network_unavailable">Η Ασφαλεία δεν μπορεί να ενημερωθεί επειδή έχετε περιορίσει τη σύνδεση στο Internet. Να επιτρέπετε στην Ασφάλεια η σύνδεση στο Internet;</string>
 	<string name="antivirus_toast_already_update">Ενημερωμένο</string>
 	<string name="antivirus_toast_network_unavailable">Αδυναμία σύνδεσης στο δίκτυο</string>

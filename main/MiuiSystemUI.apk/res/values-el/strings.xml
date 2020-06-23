@@ -2025,4 +2025,6 @@
   <string name="zen_priority_introduction">Δεν θα ενοχληθείτε από ήχους και δονήσεις, εκτός από αφυπνήσεις, υπενθυμίσεις, γεγονότα, και τους καλούντες που καθορίσατε. Θα συνεχίσετε να ακούτε ήχους μουσικής, βίντεο, και παιχνιδιών.</string>
   <string name="zen_silence_introduction">Αυτό αναστέλλει ΟΛΑ, τους ήχους και δονήσεις, συμπεριλαμβανομένων των αφυπνήσεων, της μουσικής, των βίντεο και των παιχνιδιών.</string>
   <string name="zen_silence_introduction_voice">Αυτό αναστέλλει ΟΛΑ, τους ήχους και δονήσεις, συμπεριλαμβανομένων των αφυπμήσεων, της μουσικής, των βίντεο και των παιχνιδιών. Θα εξακολουθείτε να πραγματοποιείτε τηλεφωνικές κλήσεις.</string>
+  <string name="status_bar_clock_date_weekday_format">dd MMMM, EEEE</string>
+  <string name="status_bar_clock_date_weekday_format_12">dd MMMM, EEEE</string>
 </resources>

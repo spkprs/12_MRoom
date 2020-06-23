@@ -1439,7 +1439,7 @@
   <string name="yellowpage_navigation_send_to_desktop_downloading">Λήψη εικονιδίου…</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Αδυναμία σύνδεσης στο δίκτυο. Ελέγξτε τη σύνδεση δεδομένων σας και προσπαθήστε ξανά.</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Προστέθηκε στην Αρχική οθόνη</string>
-  <string name="yellowpage_provider_label">Παρέχεται από</string>
+  <string name="yellowpage_provider_label">Τεχνική υποστήριξη για ID Καλούντος/Αποστολέα παρέχεται από</string>
   <string name="yellowpage_search_the_yellowpage">Αναζήτηση στον κατάλογο</string>
   <string name="yellowpage_user_profile">Προφίλ</string>
   <string name="yellowPageNavigationIconLabel">Φάκελος</string>
