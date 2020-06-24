@@ -191,6 +191,13 @@
      <string name="copy_to_sdcard_fail">Αδυναμία αποθήκευσης συνημμένου</string>
      <string name="copy_to_sdcard_success">Το συνημμένο αποθηκεύτηκε ως %s</string>
      <string name="current_data_version">Έκδοση Mi Μήνυμα</string>
+     <string name="debug_about_mms">Περί Mms</string>
+     <string name="debug_category_db">Βάση δεδομένων</string>
+     <string name="debug_category_others">Άλλα</string>
+     <string name="debug_close_success">Ο εντοπισμός σφαλμάτων δεν είναι διαθέσιμος</string>
+     <string name="debug_enable_success">Ο εντοπισμός σφαλμάτων είναι διαθέσιμος</string>
+     <string name="debug_export_db">Εξαγωγή Βάσης δεδομένων</string>
+     <string name="debug_title">Εντοπισμός σφαλμάτων</string>
      <string name="delete">Διαγραφή</string>
      <string name="delete_block_conversation">Διαγραφή αυτής της συνομιλίας</string>
      <string name="delete_bookmark">Αφαίρεση από τα Αγαπημένα</string>
