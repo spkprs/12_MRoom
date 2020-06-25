@@ -1726,7 +1726,7 @@
   <string name="device_admin_settings_title">Ρυθμίσεις διαχειριστή συσκευής</string>
   <string name="device_admin_status">Αυτός ο διαχειριστής είναι ενεργός και επιτρέπει στην εφαρμογή %1$s να εκτελεί τις ακόλουθες λειτουργίες</string>
   <string name="device_admin_warning">Η ενεργοποίηση του διαχειριστή θα επιτρέψει στην εφαρμογή %1$s να εκτελεί τις ακόλουθες λειτουργίες</string>
-  <string name="device_available_memory">"Διαθέσιμη αποθήκευση "</string>
+  <string name="device_available_memory">"Διαθέσιμα "</string>
   <string name="device_battery">Μπαταρία</string>
   <string name="device_build_id">Αριθμός έκδοσης</string>
   <string name="device_camera">Κάμερα</string>
@@ -1770,7 +1770,7 @@
   <string name="device_status_activity_title">Κατάσταση</string>
   <string name="device_status_summary">Αριθμός Τηλεφώνου, Σήμα, Μπαταρία, IMEI κλπ</string>
   <string name="device_theme">Θέμα συσκευής</string>
-  <string name="device_total_memory">"Συνολική "</string>
+  <string name="device_total_memory">"Συνολικά "</string>
   <string name="device_usage_list_summary">Χρήση της συσκευής από την πλήρη φόρτιση</string>
   <string name="devices_title">Συσκευές</string>
   <string name="dial_application_title">Κλήση</string>
