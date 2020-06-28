@@ -67,4 +67,20 @@ Realm: %4$s
 "</string>
      <string name="wifi_ttls_config_text">"Όνομα χρήστη: %s
 "</string>
+    <string name="ca_cert_is_added">CA εγκατεστημένο πιστοποιητικό</string>
+    <string name="ca_certificate">CA πιστοποιητικό</string>
+    <string name="cert_temp_error">Προσωρινή αποτυχία. Προσπαθήστε ξανά αργότερα.</string>
+    <string name="certificate">Πιστοποιητικό</string>
+    <string name="certificate_name">Όνομα πιστοποιητικού</string>
+    <string name="invalid_certificate_close_button">Κλείστε</string>
+    <string name="invalid_certificate_message">"Αδύνατη η χρήση του αρχείου ως %1$s"</string>
+    <string name="invalid_certificate_title">"Αδύνατη η χρήση του αρχείου"</string>
+    <string name="redirect_ca_certificate_close_button">Κλείστε</string>
+    <string name="redirect_ca_certificate_message">Τα CA πιστοποιητικά μπορούν να θέσουν σε κίνδυνο το Απόρρητό σας και πρέπει να εγκατασταθούν στις Ρυθμίσεις</string>
+    <string name="redirect_ca_certificate_title">"Αδύνατη η εγκατάσταση πιστοποιητικών CA"</string>
+    <string name="select_certificate_usage_title">Επιλογή τύπου πιστοποιητικού</string>
+    <string name="user_cert_is_added">Εγκατεστημένο πιστοποιητικό χρήστη</string>
+    <string name="user_certificate">VPN &amp; πιστοποιητικό χρήστη εφαρμογής</string>
+    <string name="wifi_cert_is_added">Wi‑Fi εγκατεστημένο πιστοποιητικό</string>
+    <string name="wifi_certificate">Wi‑Fi πιστοποιητικό</string>
 </resources>

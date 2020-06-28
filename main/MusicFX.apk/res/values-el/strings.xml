@@ -12,4 +12,14 @@
      <string name="setup">Ρυθμίσεις</string>
      <string name="user">Χρήστης</string>
      <string name="virtualizer_strength">3D εφέ</string>
+    <string name="classical">Κλασική</string>
+    <string name="dance">Χορευτική</string>
+    <string name="flat">Επίπεδη</string>
+    <string name="folk">Λαϊκή</string>
+    <string name="heavy_metal">Heavy Metal</string>
+    <string name="hip_hop">Hip Hop</string>
+    <string name="jazz">Jazz</string>
+    <string name="normal">Κανονική</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rock</string>
 </resources>

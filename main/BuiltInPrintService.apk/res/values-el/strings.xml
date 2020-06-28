@@ -41,6 +41,12 @@
      <string name="printer_out_of_ink">Τελείωσε το μελάνι</string>
      <string name="printer_out_of_paper">Τελείωσε το χαρτί</string>
      <string name="printer_out_of_toner">Τελείωσε ο γραφίτης</string>
+     <string name="print">Εκτύπωση</string>
+     <string name="recommendation_enable_summary">Επιλέξτε για ενεργοποίηση</string>
+     <string name="recommendation_install_summary">Επιλέξτε για εγκατάσταση</string>
+     <string name="recommendation_manage">Διαχείριση υπηρεσιών</string>
+     <string name="recommendation_summary">Η προεπιλεγμένη υπηρεσία εκτύπωσης παρέχει βασικές επιλογές. Άλλες επιλογές για αυτόν τον εκτυπωτή ενδέχεται να είναι διαθέσιμες από άλλη υπηρεσία εκτύπωσης.</string>
+     <string name="recommendations_heading">Συνιστώμενες υπηρεσίες</string>
      <string name="reject">Απόρριψη</string>
      <string name="resolution_300_dpi">300 dpi</string>
      <string name="saved_printers">Αποθηκευμένοι εκτυπωτές</string>

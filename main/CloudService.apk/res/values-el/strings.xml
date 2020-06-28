@@ -469,6 +469,9 @@
   <string name="special_func_title">Ειδικά χαρακτηριστικά</string>
   <string name="starred_contact">Αγαπημένα</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="storage_manage_cloud_data_title">Προβολή στοιχείων στο cloud</string>
+  <string name="storage_manage_full_summary">Ο χώρος αποθήκευσης στο cloud είναι πλήρης. Αναβαθμίστε το σχέδιό σας.</string>
+  <string name="storage_manage_normal_summary">Αλλαγή σχεδίου αποθήκευσης cloud</string>
   <string name="storage_manage_expansion">Περισσότερα</string>
   <string name="storage_manage_list_title">Δεδομένα Cloud</string>
   <string name="storage_manage_list_title_action">Περισσότερα</string>

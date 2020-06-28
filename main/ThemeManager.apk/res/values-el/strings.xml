@@ -864,6 +864,7 @@
 	<string name="theme_multiple_button_title_customize">Μείξη</string>
 	<string name="theme_name">%1$s</string>
 	<string name="theme_no">Όχι</string>
+    <string name="theme_not_include_module_desc">"Στο θέμα δεν περιέχονται τα ακόλουθα στοιχεία: %s"</string>
 	<string name="theme_on_the_phone_alert">Δεν είναι δυνατή η αναπαραγωγή κατά τη διάρκεια κλήσεων</string>
 	<string name="theme_preview">Προεπισκόπηση θέματος</string>
 	<string name="theme_purchased_list_empty">Δεν έχετε αγοράσει κανένα θέμα.</string>
