@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cope_provisioning_step_1_header">Οι εφαρμογές εργασιών βρίσκονται στο προφίλ εργασίας σας και η διαχείρισή τους γίνεται από τον διαχειριστή IT.</string>
+    <string name="cope_provisioning_step_2_header">Οι προσωπικές εφαρμογές βρίσκονται σε ξεχωριστή τοποθεσία και δεν είναι ορατές από εφαρμογές εργασιών.</string>
+    <string name="cope_provisioning_step_3_header">Ο διαχειριστής IT μπορεί να ελέγχει αυτήν τη συσκευή και να αποκλείει ορισμένες εφαρμογές.</string>
+    <string name="cope_provisioning_summary">Οι εφαρμογές εργασιών βρίσκονται στο προφίλ εργασίας σας και η διαχείρισή τους γίνεται από τον διαχειριστή IT. Οι προσωπικές εφαρμογές βρίσκονται σε ξεχωριστή τοποθεσία και δεν είναι ορατές από τις εφαρμογές εργασιών. Ο διαχειριστής IT μπορεί να ελέγχει αυτήν τη συσκευή και να αποκλείει ορισμένες εφαρμογές.</string>
+    <string name="creditor_capabilities_header">%1$s μπορεί:</string>
+    <string name="cross_profile_consent_summary">Οι συνδεδεμένες εφαρμογές σας επιτρέπουν να αποκτήσετε πρόσβαση σε δεδομένα εργασίας και σε προσωπικά δεδομένα. Μπορείτε να κάνετε αλλαγές ανά πάσα στιγμή στις Ρυθμίσεις.</string>
+    <string name="cross_profile_consent_title">Σύνδεση προσωπικών εφαρμογών και εφαρμογών εργασίας</string>
+    <string name="cross_profile_notification_channel_name">Σύνδεση προσωπικών εφαρμογών και εφαρμογών εργασίας</string>
+    <string name="cross_profile_notification_text">Αποκτήστε πρόσβαση τόσο σε δεδομένα εργασίας όσο και σε προσωπικά δεδομένα. Πατήστε για ρύθμιση.</string>
+    <string name="cross_profile_notification_title">Σύνδεση προσωπικών εφαρμογών και εφαρμογών εργασίας</string>
+    <string name="financed_device_screen_header">Αυτή η συσκευή παρέχεται από %1$s</string>
+    <string name="install_creditor_app_description">Εγκατάσταση της εφαρμογής %1$s σε αυτήν τη συσκευή</string>
+    <string name="just_a_sec">Μισό λεπτό…</string>
+    <string name="lock_device_description">"Κλειδώστε αυτή τη συσκευή εάν δεν πραγματοποιείτε πληρωμές"</string>
+    <string name="now_lets_set_up_everything_else">Προσθέστε έναν προσωπικό λογαριασμό για να αξιοποιήσετε περισσότερο τη συσκευή σας</string>
+    <string name="now_lets_set_up_everything_else_explanation">Τώρα που το προφίλ εργασίας σας είναι έτοιμο, μπορείτε επίσης να προσθέσετε έναν προσωπικό Λογαριασμό Google για να αποκτήσετε πρόσβαση στις εφαρμογές και το περιεχόμενό σας.</string>
+    <string name="reset_device">Κάντε επαναφορά της συσκευής και δοκιμάστε να τη ρυθμίσετε ξανά.</string>
+    <string name="something_went_wrong">Προέκυψε σφάλμα</string>
+    <string name="work_profile_provisioning_step_3_header">Τα δεδομένα στο προφίλ εργασίας σας είναι ορατά στον διαχειριστή IT.</string>
+    <string name="work_profile_provisioning_summary">Οι εφαρμογές εργασίας διατηρούνται στο προφίλ εργασίας σας. Μπορείτε να θέσετε σε παύση τις εφαρμογές εργασίας σας όταν τελειώσετε την εργασία σας. Μόνο τα δεδομένα στο προφίλ εργασίας σας θα είναι ορατά στον διαχειριστή IT σας.</string>
+</resources>

@@ -162,7 +162,7 @@
 	<string name="accessibility_timeout_10secs">10 δευτερόλεπτα</string>
 	<string name="accessibility_timeout_1min">1 λεπτό</string>
 	<string name="accessibility_timeout_2mins">2 λεπτά</string>
-	<string name="accessibility_timeout_30secs">30 δευτερόλεπτα</string>
+	<string name="accessibility_timeout_30secs">30 δευτ.</string>
 	<string name="accessibility_timeout_default">Προεπιλογή</string>
 	<string name="accessibility_toggle_high_text_contrast_preference_title">Κείμενο υψηλής αντίθεσης</string>
 	<string name="accessibility_toggle_large_pointer_icon_title">Μεγάλος δείκτης ποντικιού</string>
@@ -188,7 +188,7 @@
 	<string name="accessibility_vibration_intensity_low">Χαμηλή</string>
 	<string name="accessibility_vibration_intensity_medium">Μεσαίο</string>
 	<string name="accessibility_vibration_intensity_off">Off</string>
-	<string name="accessibility_vibration_settings_title">Δόνηση &amp; απτική δύναμη</string>
+	<string name="accessibility_vibration_settings_title">Δόνηση &amp; απτική ανάδραση</string>
 	<string name="accessibility_vibration_summary">Κουδούνισμα %1$s, ειδοποίηση %2$s, αφή %3$s</string>
 	<string name="accessibility_vibration_summary_high">Ο ήχος κλήσης &amp; ειδοποίησης ορίστηκε σε υψηλό</string>
 	<string name="accessibility_vibration_summary_low">Το κουδούνισμα &amp; η ειδοποίηση ορίστηκαν σε χαμηλά</string>

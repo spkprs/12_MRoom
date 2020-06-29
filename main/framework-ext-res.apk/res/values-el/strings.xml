@@ -206,7 +206,6 @@
   <string name="resolver_offical_recommend">Προτείνεται</string>
   <string name="resolver_other_method">Άλλες επιλογές</string>
   <string name="resolver_recommend_options_tag">Προτεινόμενες επιλογές</string>
-  <string name="resolver_recommended_app_name">%1$s&lt;font color=#0099ff>&lt;br/>(%2$s)&lt;/font></string>
   <string name="resource_select">Επιλογή</string>
   <string name="scanning_device_tips">Αναζήτηση συσκευών σε κοντινή απόσταση ... Βεβαιωθείτε ότι η άλλη συσκευή είναι ανιχνεύσιμη.</string>
   <string name="screen_button_notification_text">Για να τα ενεργοποιήσετε, πατήστε τα πλήκτρα \"Home\" και \"Power\" ταυτόχρονα.</string>
@@ -215,7 +214,7 @@
   <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Για να απενεργοποιήσετε αυτή τη λειτουργία, πατήστε το κουμπί αύξησης της έντασης ήχου.</string>
   <string name="screen_on_proximity_sensor_summary">Μην καλύπτετε την περιοχή αισθητήρων</string>
   <string name="screen_on_proximity_sensor_title">Λειτουργία Θήκης</string>
-  <string name="screen_paper_mode_enter_toast">Λειτουργία ανάγνωσης ενεργή. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Πρόσθετες ρυθμίσεις &gt; Λειτουργία Ανάγνωσης.</string>
+  <string name="screen_paper_mode_enter_toast">Λειτουργία ανάγνωσης ενεργή. Μπορείτε να ενεργ-απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Πρόσθετες ρυθμίσεις > Λειτουργία Ανάγνωσης.</string>
   <string name="screen_rotation_freeze_message">Η αυτόματη περιστροφή απενεργοποιήθηκε</string>
   <string name="screenshot_gesture_detect_alert_button">Ενεργοποίηση ρυθμίσεων</string>
   <string name="screenshot_gesture_detect_alert_dont_again">Να μην εμφανιστεί ξανά</string>

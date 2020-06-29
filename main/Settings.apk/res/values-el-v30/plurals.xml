@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibilty_autoclick_delay_unit_second">
+        <item quantity="other">%1$s δευτ.</item>
+        <item quantity="one">%1$s δευτ.</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Μεγάλη καθυστέρηση (%1$s δευτ.)</item>
+        <item quantity="one">Μεγάλη καθυστέρηση (%1$s δευτ.)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
+        <item quantity="other">Μεσαία καθυστέρηση (%1$s δευτ.)</item>
+        <item quantity="one">Μεσαία καθυστέρηση (%1$s δευτ.)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Μικρή καθυστέρηση (%1$s δευτ.)</item>
+        <item quantity="one">Μικρή καθυστέρηση (%1$s δευτ.)</item>
+    </plurals>
+    <plurals name="app_link_open_always_summary">
+        <item quantity="other">Η εφαρμογή ζητά να χρησιμοποιήσει %d συνδέσμους</item>
+        <item quantity="one">Η εφαρμογή ζητά να χρησιμοποιήσει %d σύνδεσμο</item>
+    </plurals>
+    <plurals name="interact_across_profiles_number_of_connected_apps">
+        <item quantity="other">%d συνδεδεμένες εφαρμογές</item>
+        <item quantity="one">%d συνδεδεμένες εφαρμογές</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonnumerical">
+        <item quantity="other">Πρέπει να περιέχει τουλάχιστον %d μη αριθμητικούς χαρακτήρες</item>
+        <item quantity="one">Πρέπει να περιέχει τουλάχιστον 1 μη αριθμητικό χαρακτήρα</item>
+    </plurals>
+    <plurals name="notification_history_count">
+        <item quantity="other">%d ειδοποιήσεις</item>
+        <item quantity="one">%d ειδοποίηση</item>
+    </plurals>
+    <plurals name="zen_mode_bypassing_apps_subtext">
+        <item quantity="other">%s εφαρμογές μπορούν να διακόπτουν.</item>
+        <item quantity="one">%s εφαρμογή μπορεί να διακόπτει.</item>
+    </plurals>
+    <plurals name="zen_mode_contacts_count">
+        <item quantity="other">%d επαφές</item>
+        <item quantity="one">1 επαφή</item>
+    </plurals>
+    <plurals name="zen_mode_conversations_count">
+        <item quantity="other">%d συζητήσεις</item>
+        <item quantity="one">1 συζήτηση</item>
+    </plurals>
+    <plurals name="zen_mode_other_sounds_summary">
+        <item quantity="other">%s ήχοι μπορούν να διακόπτουν.</item>
+        <item quantity="one">%s ήχος μπορεί να διακόπτει.</item>
+    </plurals>
+</resources>

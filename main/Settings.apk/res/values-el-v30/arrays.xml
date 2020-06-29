@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Προεπιλογή)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_summaries">
+        <item>Πολύ μικρό κειμένο</item>
+        <item>Μικρό κειμένο</item>
+        <item>Προεπιλεγμένο</item>
+        <item>Μεγάλο κειμένο</item>
+        <item>Πολύ μεγάλο κειμένο</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Πολύ μικρό</item>
+        <item>Μικρό</item>
+        <item>Προεπιλογή</item>
+        <item>Μεγάλο</item>
+        <item>Πολύ μεγάλο</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Ορισμός κατά εφαρμογή</item>
+        <item>Λευκό σε μαύρο</item>
+        <item>Μαύρο σε λευκό</item>
+        <item>Κίτρινο σε μαύρο</item>
+        <item>Κίτρινο σε μπλε</item>
+        <item>Προσαρμογή</item>
+    </string-array>
+    <string-array name="eap_ocsp_type">
+        <item>Χωρίς επικύρωση</item>
+        <item>Αίτημα κατάστασης πιστοποιητικού</item>
+        <item>Απαίτηση κατάστασης πιστοποιητικού</item>
+        <item>Απαίτηση των καταστάσεων όλων των μη αξιόπιστων πιστοποιητικών</item>
+    </string-array>
+   <string-array name="enabled_networks_subsidy_locked_choices">
+        <item>LTE Μόνο</item>
+        <item>GSM/WCDMA/LTE</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>Προτιμώνται GSM/WCDMA</item>
+        <item>Μόνο GSM</item>
+        <item>Μόνο WCDMA</item>
+        <item>Αυτόματο GSM/WCDMA</item>
+        <item>Αυτόματο EvDo/CDMA</item>
+        <item>CDMA χωρίς EvDo</item>
+        <item>Μόνο EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>Παγκόσμιο</item>
+        <item>LTE</item>
+        <item>LTE/WCDMA</item>
+        <item>Μόνο TDSCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>Μόνο NR</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_gsm_wcdma_choices">
+        <item>GSM Μόνο</item>
+        <item>WCDMA Μόνο</item>
+        <item>GSM/WCDMA Προτιμάται</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>L2TP/IPSec VPN με κλειδιά μοιρασμένα εκ των προτέρων</item>
+        <item>L2TP/IPSec VPN με πιστοποιητικά</item>
+        <item>IPSec VPN με ήδη κοινόχρηστα κλειδιά και έλεγχο ταυτότητας Xauth</item>
+        <item>IPSec VPN με πιστοποιητικά και έλεγχο ταυτότητας Xauth</item>
+        <item>IPSec VPN με πιστοποιητικά και υβριδικό έλεγχο ταυτότητας</item>
+        <item>IKEv2/IPSec VPN με πιστοποιητικά και έλεγχο ταυτότητας με όνομα χρήστη/κωδικό πρόσβασης</item>
+        <item>IKEv2/IPSec VPN με ήδη κοινόχρηστα κλειδιά</item>
+        <item>IKEv2/IPSec VPN με πιστοποιητικά</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_with_ims_preferred">
+        <item>Ims Προτιμάται</item>
+        <item>Wi-Fi</item>
+        <item>Κινητής</item>
+        <item>Wi-Fi Μόνο</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only_with_ims_preferred">
+        <item>Ims Προτιμάται</item>
+        <item>Wi-Fi</item>
+        <item>Mobile</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2">
+        <item>Wi-Fi</item>
+        <item>Κινητής</item>
+        <item>Μόνο Wi-Fi</item>
+    </string-array>
+</resources>

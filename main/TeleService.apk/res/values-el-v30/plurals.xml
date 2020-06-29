@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
+        <item quantity="other">"Το τηλέφωνο θα βρίσκεται σε λειτουργία επιστροφής κλήσης έκτακτης ανάγκης για %s λεπτά.
+Επιθυμείτε έξοδο τώρα;"</item>
+        <item quantity="one">"Το τηλέφωνο θα βρίσκεται σε λειτουργία επιστροφής κλήσης έκτακτης ανάγκης για %s λεπτό.
+Επιθυμείτε έξοδο τώρα;"</item>
+    </plurals>
+</resources>

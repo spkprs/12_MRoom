@@ -79,7 +79,7 @@
   <string name="bluetooth_battery_level">%1$s μπαταρία</string>
   <string name="bluetooth_battery_level_untethered">L: %1$s μπαταρία, R: %2$s μπαταρία</string>
   <string name="bluetooth_connected">Συνδέθηκε</string>
-  <string name="bluetooth_connected_battery_level">Συνδεδεμένος | Μπαταρία %1$s%2$s</string>
+  <string name="bluetooth_connected_battery_level">Συνδεδεμένο | Μπαταρία %1$s%2$s</string>
   <string name="bluetooth_connected_no_a2dp">Συνδεδεμένο (αρ media)%1$s</string>
   <string name="bluetooth_connected_no_a2dp_battery_level">Συνδεδεμένο (χωρίς μέσα) | Μπαταρία %1$s%2$s</string>
   <string name="bluetooth_connected_no_headset">Συνδεδεμένο (αρ phone)%1$s</string>
