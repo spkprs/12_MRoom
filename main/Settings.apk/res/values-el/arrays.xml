@@ -1705,6 +1705,11 @@
     <item>MTP</item>
     <item>MTP σε οθόνη χωρίς κλείδωμα με κωδικό πρόσβασης</item>
   </string-array>
+    <string-array name="paper_color_values">
+        <item>Πλήρη χρώματα</item>
+        <item>Απαλά χρώματα</item>
+        <item>Ασπρόμαυρα</item>
+    </string-array>
      <string-array name="select_minusscreen_entries">
         <item>Προσωπ. Βοηθός</item>
         <item>Google Feed</item>

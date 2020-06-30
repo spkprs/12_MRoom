@@ -161,4 +161,14 @@
   <string name="time_style">Στυλ</string>
   <string name="time_style_layout">Διάταξη</string>
   <string name="tip_to_open_aod_mode">Η λειτουργία \"Πάντα στην Οθόνη\" είναι ανενεργή. Να ενεργοποιηθεί τώρα;</string>
+    <string name="aod_component">Εμφανιζόμενα στοιχεία</string>
+    <string name="component_battery">Μπαταρία</string>
+    <string name="component_date_time">Ημερομηνία και ώρα</string>
+    <string name="component_lunar">Παραδοσιακό Κινεζικό ημερολόγιο</string>
+    <string name="component_notification">Ειδοποιήσεις</string>
+    <string name="component_step">Βήματα</string>
+    <string name="continue_to_use">Συνέχεια</string>
+    <string name="step_component_info_active_tip">Το πλήθος βημάτων παρέχεται από την Υγεία Xiaomi. Συμφωνήστε με τους όρους και τις προϋποθέσεις της Υγείας Xiaomi για να συνεχίσετε.</string>
+    <string name="step_component_info_desc">Η καταμέτρηση βημάτων θα μετατραπεί σε τρόπαιο όταν επιτευχθεί ο στόχος σας. Το πλήθος βημάτων παρέχεται από την Υγεία Xiaomi.</string>
+    <string name="step_component_info_tip">Το πλήθος βημάτων παρέχεται από την Υγεία Xiaomi. Εγκατάσταση ή ενημέρωση της Υγείας Xiaomi και αποδοχή των όρων και προϋποθέσεων της για συνέχιση.</string>
 </resources>

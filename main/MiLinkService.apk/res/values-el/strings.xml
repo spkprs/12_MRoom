@@ -104,29 +104,9 @@
 		<string name="notification_rc_title">Βοηθός XiaoMi TV</string>
 		<string name="notification_show_more">Δείτε περισσότερα χαρακτηριστικά</string>
 		<string name="privacy_agree">Συμφωνώ</string>
-		<string name="privacy_detail">&lt;Data&gt;&amp;#35831;&amp;#24744;&amp;#21516;&amp;#24847;&amp;#24212;&amp;#29992;&amp;#32852;&amp;#32593;&amp;#21450;&amp;#20197;&amp;#19978;&amp;#24517;&amp;#35201;&amp;#26435;&amp;#38480;&amp;#65292;&amp;#38405;&amp;#35835;&amp;#24182;&amp;#21516;&amp;#24847;&amp;#25105;&amp;#20204;&amp;#30340;&amp;lt;a href=%1$s&amp;gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#19982;&amp;lt;a href=%2$s&amp;gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#65292;&amp;#20102;&amp;#35299;&amp;#24744;&amp;#30340;&amp;#29992;&amp;#25143;&amp;#26435;&amp;#30410;&amp;#21450;&amp;#30456;&amp;#20851;&amp;#20351;&amp;#29992;&amp;#25968;&amp;#25454;&amp;#30340;&amp;#22788;&amp;#29702;&amp;#26041;&amp;#27861;&amp;#12290;&lt;/Data&gt;</string>
-		<string name="privacy_detail_extra">&lt;Data&gt;&amp;#37096;&amp;#20998;&amp;#25237;&amp;#23631;&amp;#21151;&amp;#33021;&amp;#26377;&amp;#31532;&amp;#19977;&amp;#26041;&amp;#20844;&amp;#21496;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#25552;&amp;#20379;&amp;#25903;&amp;#25345;&amp;#65292;&amp;#35831;&amp;#24744;&amp;#21516;&amp;#26102;&amp;#38405;&amp;#35835;&amp;#24182;&amp;#21516;&amp;#24847;&amp;lt;a href=%1$s&amp;gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#19982;&amp;lt;a href=%2$s&amp;gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
-		<string name="privacy_explain">欢迎使用投屏，您可使用本应用将手机画面实时同步至电视/电视盒子/投影等大屏设备。在使用本应用的过程中，我们将联网并向您申请以下权限：</string>
-		<string name="privacy_link_1">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
-		<string name="privacy_link_2">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string>
-		<string name="privacy_negative">退出</string>
-		<string name="privacy_permission_ble">开启/关闭蓝牙</string>
-		<string name="privacy_permission_ble_desc">使用蓝牙扫描附近可投屏的设备</string>
-		<string name="privacy_permission_location">获取设备的位置信息</string>
-		<string name="privacy_permission_location_desc">获取附近可投屏的设备信息</string>
-		<string name="privacy_permission_necessary">必要权限</string>
-		<string name="privacy_permission_necessary_desc">用于该应用的基本服务与功能</string>
-		<string name="privacy_permission_nfc">NFC</string>
-		<string name="privacy_permission_nfc_desc">使用NFC关联您要投屏的设备</string>
-		<string name="privacy_permission_optional">可选权限</string>
-		<string name="privacy_permission_optional_desc">用于附加功能，将在您使用相关功能时向您申请</string>
-		<string name="privacy_permission_wlan">开启/关闭WLAN</string>
-		<string name="privacy_permission_wlan_desc">使用WLAN扫描附近可投屏的设备</string>
-		<string name="privacy_positive">同意</string>
 		<string name="privacy_text_1">"Καλώς ήρθατε στην Μετάδοση! Η Μετάδοση επιτρέπει την προβολή των στοιχείων από την οθόνη του τηλεφώνου σας σε μια μεγαλύτερη εξωτερική οθόνη.\nΘα προστατεύσουμε τα προσωπικά σας στοιχεία σύμφωνα με τις σχετικές Νομοθεσίες, Κανονισμούς και πολιτικές απορρήτου. Ορισμένες δυνατότητες παρέχονται από τρίτο πάροχο υπηρεσιών HappyCast. Πριν από τη χρήση αυτής της δυνατότητας, διαβάστε και αποδεχτείτε την &lt;a href=%2$s&gt;HappyCast Νομική δήλωση&lt;/a&gt; και &lt;a href=%1$s&gt;HappyCast Πολιτική απορρήτου&lt;/a&gt;.\nΓια να είναι σε θέση να εργαστεί κανονικά, αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet και απαιτεί τις ακόλουθες Άδειες για να συλλέξει τις προσωπικές σας πληροφορίες:  "</string>
 		<string name="privacy_text_2">Εάν δεν συμφωνείτε να εκχωρήσετε τέτοιες Άδειες ή να κάνετε κοινή χρήση και αποστολή των προσωπικών σας στοιχείων, δεν θα μπορείτε να χρησιμοποιήσετε αυτήν την εφαρμογή. Μπορείτε να επιλέξετε να καταργήσετε την εγκατάσταση αυτής της εφαρμογής, να αποσυνδεθείτε ή να περιορίσετε τις Άδειες στις Ρυθμίσεις σε τέτοιες περιπτώσεις.\nΔιαβάστε και αποδεχτείτε τους &lt;a href=%1$s&gt;Συμφωνία χρήστη&lt;/a&gt; και &lt;a href=%2$s&gt;Πολιτική απορρήτου&lt;/a&gt; πριν από τη χρήση αυτής της δυνατότητας.</string>
 		<string name="privacy_text_pemission">"         • Πρόσβαση και αποθήκευση εικόνων στη συσκευή σας, προκειμένου να προβάλετε αυτά τα στοιχεία σε εξωτερικές οθόνες • Εγγραφή κλήσεων και ήχου για την εκπομπή ήχου σε εξωτερικές συσκευές • Πρόσβαση σε αριθμόςτηλεφώνου, ΙΜΕΙ, και IMSI για την αναγνώριση της συσκευής σας • Πρόσβαση στην τοποθεσία σας για να βρείτε συσκευές κοντά"</string>
-		<string name="privacy_title">用户须知</string>
 		<string name="private_protect">Απόκρυψη ιδιωτικών στοιχείων</string>
 		<string name="san_wait_msg_1">Ενεργοποίηση Μετάδοσης στη συσκευή προορισμού</string>
 		<string name="san_wait_msg_2">Η αναζήτηση συσκευών μπορεί να διαρκέσει κάποιο χρονικό διάστημα…</string>
@@ -145,4 +125,23 @@
 		<string name="toast_nfc_dont_move">Μην απομακρύνετε το τηλέφωνό σας</string>
 		<string name="toast_title_for_small_window">Επιλέξτε \"Ελαχιστοποίηση παραθύρου\" στην εφαρμογή</string>
 		<string name="toast_turn_off_hotspot_before_cast">Απενεργοποιήστε το φορητό σημείο πρόσβασης πριν από τη μετάδοση</string>
+		<string name="privacy_detail"><Data>Αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet και να συλλέξει τα απαιτούμενα προσωπικά δεδομένα για να μπορεί να λειτουργήσει κανονικά. Για να κατανοήσετε πλήρως τα δικαιώματά σας ως χρήστη, καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και αποδεχτείτε την &lt;a href=%1$s>Συμφωνία χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a>.</Data></string>
+		<string name="privacy_detail_extra"><Data>Ορισμένες δυνατότητες παρέχονται από τρίτο πάροχο υπηρεσιών HappyCast. Πριν από τη χρήση αυτής της δυνατότητας, διαβάστε και αποδεχτείτε &lt;a href=%1$s>HappyCast Πολιτική απορρήτου&lt;/a> και &lt;a href=%2$s>HappyCast Νομική δήλωση&lt;/a>.</Data></string>
+		<string name="privacy_explain">"Καλώς ορίσατε στο Casting! Επιτρέπει την προβολή των αντικειμένων από την οθόνη του τηλεφώνου σας σε μεγαλύτερη εξωτερική οθόνη. Αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet και απαιτεί τα ακόλουθα δικαιώματα για να μπορεί να λειτουργεί κανονικά:"</string>
+		<string name="privacy_negative">Έξοδος</string>
+		<string name="privacy_permission_ble">Ενεργ. και απενεργοποίηση Bluetooth</string>
+		<string name="privacy_permission_ble_desc">Για την εύρεση διαθέσιμων συσκευών κοντά</string>
+		<string name="privacy_permission_location">Πρόσβαση θέσης</string>
+		<string name="privacy_permission_location_desc">Για την εύρεση διαθέσιμων συσκευών κοντά</string>
+		<string name="privacy_permission_necessary">Υποχρεωτικές άδειες</string>
+		<string name="privacy_permission_necessary_desc">Αυτές οι άδειες απαιτούνται για να καταστούν διαθέσιμες οι βασικές δυνατότητες και υπηρεσίες αυτής της εφαρμογής.</string>
+		<string name="privacy_permission_nfc_desc">Για ζεύξη συσκευών με χρήση NFC</string>
+		<string name="privacy_permission_optional">Προαιρετικές άδειες</string>
+		<string name="privacy_permission_optional_desc">"Χρησιμοποιείται για πρόσθετες δυνατότητες ενώ τις χρησιμοποιείτε"</string>
+		<string name="privacy_permission_wlan">Ενεργ. και απενεργοποίηση Wi-Fi</string>
+		<string name="privacy_permission_wlan_china">Ενεργοποίηση και απενεργοποίηση WLAN</string>
+		<string name="privacy_permission_wlan_desc">Για την εύρεση διαθέσιμων συσκευών κοντά</string>
+		<string name="privacy_permission_wlan_desc_china">Για την εύρεση διαθέσιμων συσκευών κοντά</string>
+		<string name="privacy_positive">Συμφωνώ</string>
+		<string name="privacy_title">Προσοχή</string>
 </resources>

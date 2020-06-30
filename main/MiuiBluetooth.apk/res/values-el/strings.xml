@@ -660,4 +660,8 @@
   <string name="zen_mode_settings_summary_off">Ποτέ</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Ενεργοποίηση \"Μην ενοχλείτε\"</string>
   <string name="zhiyun_name">ΑΠΑΛΟ Q2</string>
+    <string name="wifi_unsaved_network_linking">SSID Γεφύρωση - Αυτόματη σύνδεση</string>
+    <string name="wifi_unsaved_network_linking_summary">Ενεργοποίηση αυτόματων προσπαθειών σύνδεσης σε νέο SSID WPA/WPA2-PSK 5 GHz με τρέχουσες συνδεδεμένες WPA/WPA2-PSK 2 GHz πιστοποιήσεις SSID μερικώς ίδια SSID και BSSID</string>
+    <string name="wifi_whitelist_roaming">SSID Γεφύρωση - Γρήγορη παράδοση</string>
+    <string name="wifi_whitelist_roaming_summary">Ενεργοποίηση περιαγωγής μεταξύ διαφορετικών σημείων πρόσβασης WPA/WPA2-PSK SSID με ίδια διεύθυνση MAC πύλη</string>
 </resources>

@@ -2027,4 +2027,8 @@
   <string name="zen_silence_introduction_voice">Αυτό αναστέλλει ΟΛΑ, τους ήχους και δονήσεις, συμπεριλαμβανομένων των αφυπμήσεων, της μουσικής, των βίντεο και των παιχνιδιών. Θα εξακολουθείτε να πραγματοποιείτε τηλεφωνικές κλήσεις.</string>
   <string name="status_bar_clock_date_weekday_format">dd MMMM, EEEE</string>
   <string name="status_bar_clock_date_weekday_format_12">dd MMMM, EEEE</string>
+    <string name="wifi_unsaved_network_linking">SSID Γεφύρωση - Αυτόματη σύνδεση</string>
+    <string name="wifi_unsaved_network_linking_summary">Ενεργοποίηση αυτόματων προσπαθειών σύνδεσης σε νέο SSID WPA/WPA2-PSK 5 GHz με τρέχουσες συνδεδεμένες WPA/WPA2-PSK 2 GHz πιστοποιήσεις SSID μερικώς ίδια SSID και BSSID</string>
+    <string name="wifi_whitelist_roaming">SSID Γεφύρωση - Γρήγορη παράδοση</string>
+    <string name="wifi_whitelist_roaming_summary">Ενεργοποίηση περιαγωγής μεταξύ διαφορετικών σημείων πρόσβασης WPA/WPA2-PSK SSID με ίδια διεύθυνση MAC πύλη</string>
 </resources>

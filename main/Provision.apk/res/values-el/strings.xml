@@ -250,4 +250,7 @@
 	<string name="voice_assist_title">Φωνητική Αφύπνιση</string>
 	<string name="welcome">Καλωσορίσατε!</string>
 	<string name="zone_picker_title">Επιλογή ζώνης ώρας</string>
+    <string name="home_settings_miui_home">Κλασικό</string>
+    <string name="home_settings_poco_launcher">Συρτάρι εφαρμογών</string>
+    <string name="home_settings_title">Επιλογή προεπιλεγμένου εκκινητή</string>
 </resources>

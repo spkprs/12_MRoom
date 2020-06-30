@@ -128,4 +128,23 @@
 		<string name="toast_nfc_dont_move">"Μην απομακρύνετε το τηλέφωνό σας"</string>
 		<string name="toast_title_for_small_window">Επιλέξτε \"Ελαχιστοποίηση παραθύρου\" στην εφαρμογή</string>
 		<string name="toast_turn_off_hotspot_before_cast">Απενεργοποιήστε το portable hotspot πριν από τη μετάδοση</string>
+		<string name="privacy_detail"><Data>Αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet και να συλλέξει τα απαιτούμενα προσωπικά δεδομένα για να μπορεί να λειτουργήσει κανονικά. Για να κατανοήσετε πλήρως τα δικαιώματά σας ως χρήστη, καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και αποδεχτείτε την &lt;a href=%1$s>Συμφωνία χρήστη&lt;/a> και την &lt;a href=%2$s>Πολιτική Απορρήτου&lt;/a>.</Data></string>
+		<string name="privacy_detail_extra"><Data>Ορισμένες δυνατότητες παρέχονται από τρίτο πάροχο υπηρεσιών HappyCast. Πριν από τη χρήση αυτής της δυνατότητας, διαβάστε και αποδεχτείτε &lt;a href=%1$s>HappyCast Πολιτική απορρήτου&lt;/a> και &lt;a href=%2$s>HappyCast Νομική δήλωση&lt;/a>.</Data></string>
+		<string name="privacy_explain">"Καλώς ορίσατε στο Casting! Επιτρέπει την προβολή των αντικειμένων από την οθόνη του τηλεφώνου σας σε μεγαλύτερη εξωτερική οθόνη. Αυτή η εφαρμογή πρέπει να συνδεθεί στο Internet και απαιτεί τα ακόλουθα δικαιώματα για να μπορεί να λειτουργεί κανονικά:"</string>
+		<string name="privacy_negative">Έξοδος</string>
+		<string name="privacy_permission_ble">Ενεργ. και απενεργοποίηση Bluetooth</string>
+		<string name="privacy_permission_ble_desc">Για την εύρεση διαθέσιμων συσκευών κοντά</string>
+		<string name="privacy_permission_location">Πρόσβαση θέσης</string>
+		<string name="privacy_permission_location_desc">Για την εύρεση διαθέσιμων συσκευών κοντά</string>
+		<string name="privacy_permission_necessary">Υποχρεωτικές άδειες</string>
+		<string name="privacy_permission_necessary_desc">Αυτές οι άδειες απαιτούνται για να καταστούν διαθέσιμες οι βασικές δυνατότητες και υπηρεσίες αυτής της εφαρμογής.</string>
+		<string name="privacy_permission_nfc_desc">Για ζεύξη συσκευών με χρήση NFC</string>
+		<string name="privacy_permission_optional">Προαιρετικές άδειες</string>
+		<string name="privacy_permission_optional_desc">"Χρησιμοποιείται για πρόσθετες δυνατότητες ενώ τις χρησιμοποιείτε"</string>
+		<string name="privacy_permission_wlan">Ενεργ. και απενεργοποίηση Wi-Fi</string>
+		<string name="privacy_permission_wlan_china">Ενεργοποίηση και απενεργοποίηση WLAN</string>
+		<string name="privacy_permission_wlan_desc">Για την εύρεση διαθέσιμων συσκευών κοντά</string>
+		<string name="privacy_permission_wlan_desc_china">Για την εύρεση διαθέσιμων συσκευών κοντά</string>
+		<string name="privacy_positive">Συμφωνώ</string>
+		<string name="privacy_title">Προσοχή</string>
 </resources>

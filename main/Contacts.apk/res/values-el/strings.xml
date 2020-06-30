@@ -161,7 +161,7 @@
   <string name="callrecordview_menu_batch_delete">Ομαδική διαγραφή</string>
   <string name="callrecordview_menu_blocklist">Αποκλεισμένοι</string>
   <string name="callrecordview_menu_conference">Συνδιάσκεψη</string>
-  <string name="callrecordview_menu_delete">Εκκαθ. ιστορικού</string>
+  <string name="callrecordview_menu_delete">Διαγραφή</string>
   <string name="callrecordview_menu_delete_accepted">Εκκαθάριση απαντημένων</string>
   <string name="callrecordview_menu_delete_all">Εκκαθ. ιστορικού</string>
   <string name="callrecordview_menu_delete_called">Εκκαθάριση εξερχόμενων κλήσεων</string>
