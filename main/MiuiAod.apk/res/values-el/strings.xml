@@ -25,6 +25,7 @@
   <string name="always_style">Πάντα</string>
   <string name="animation_clock_panel">Κυματιστή επιφάνεια</string>
   <string name="aod_close_color_inversion">Αυτή η λειτουργία δεν μπορεί να συνδυαστεί με αντιστροφή χρώματος. Απενεργοποιήστε πρώτα την αντιστροφή χρώματος.</string>
+  <string name="aod_component">Εμφανιζόμενα στοιχεία</string>
   <string name="aod_lock_screen_date">EEE, d MMMM</string>
   <string name="aod_lock_screen_date_12">EEE, d MMMM</string>
   <string name="aod_lock_screen_date_12_signature">EEE, d MMMM</string>
@@ -57,6 +58,12 @@
   <string name="clock_panel_icon">Επιφάνεια ρολογιού</string>
   <string name="color_change_with_time_description">Αυτόματη αλλαγή χρώματος κειμένου ανάλογα την ώρα</string>
   <string name="color_change_with_time_title">Αυτόματη αλλαγή χρώματος</string>
+  <string name="component_battery">Μπαταρία</string>
+  <string name="component_date_time">Ημερομηνία και ώρα</string>
+  <string name="component_lunar">Παραδοσιακό Κινεζικό ημερολόγιο</string>
+  <string name="component_notification">Ειδοποιήσεις</string>
+  <string name="component_step">Βήματα</string>
+  <string name="continue_to_use">Συνέχεια</string>
   <string name="copy">Αντίγραφο</string>
   <string name="custom_image">Προσαρμοσμένη εικόνα</string>
   <string name="deep_space_planet">Απώτερο διάστημα</string>
@@ -67,7 +74,7 @@
   <string name="disable_aod_in_power_save_mode">Απενεργοποίηση όταν είναι ενεργή η εξοικονόμηση μπαταρίας</string>
   <string name="disable_aod_in_power_save_mode_summary">Να μην εμφανίζονται στοιχεία για εξοικονόμηση ενέργειας</string>
   <string name="error_icon_content_description">Σφάλμα</string>
-  <string name="expand_button_title">Προχωρημένος</string>
+  <string name="expand_button_title">Σύνθετες</string>
   <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενου μενού</string>
   <string name="font_thickness">Έντονη γραφή</string>
   <string name="icon_content_description">Εικονίδιο διαλόγου</string>
@@ -151,6 +158,9 @@
   <string name="standard_clock_panel">Τυπικό</string>
   <string name="standard_style">Κανονικό</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="step_component_info_active_tip">Το πλήθος βημάτων παρέχεται από την Υγεία Xiaomi. Συμφωνήστε με τους όρους και τις προϋποθέσεις της Υγείας Xiaomi για να συνεχίσετε.</string>
+  <string name="step_component_info_desc">Η καταμέτρηση βημάτων θα μετατραπεί σε τρόπαιο όταν επιτευχθεί ο στόχος σας. Το πλήθος βημάτων παρέχεται από την Υγεία Xiaomi.</string>
+  <string name="step_component_info_tip">Το πλήθος βημάτων παρέχεται από την Υγεία Xiaomi. Εγκατάσταση ή ενημέρωση της Υγείας Xiaomi και αποδοχή των όρων και προϋποθέσεων της για συνέχιση.</string>
   <string name="summary">Για μείωση κατανάλωσης ενέργειας, τα στοιχεία δεν θα εμφανιστούν όταν η συσκευή σας βρίσκεται για μεγάλο χρονικό διάστημα σε σκοτεινό περιβάλλον.</string>
   <string name="temporary_style">Για 10 δευτ. μετά το άγγιγμα</string>
   <string name="text_color">Χρώμα κειμένου</string>
@@ -161,14 +171,4 @@
   <string name="time_style">Στυλ</string>
   <string name="time_style_layout">Διάταξη</string>
   <string name="tip_to_open_aod_mode">Η λειτουργία \"Πάντα στην Οθόνη\" είναι ανενεργή. Να ενεργοποιηθεί τώρα;</string>
-    <string name="aod_component">Εμφανιζόμενα στοιχεία</string>
-    <string name="component_battery">Μπαταρία</string>
-    <string name="component_date_time">Ημερομηνία και ώρα</string>
-    <string name="component_lunar">Παραδοσιακό Κινεζικό ημερολόγιο</string>
-    <string name="component_notification">Ειδοποιήσεις</string>
-    <string name="component_step">Βήματα</string>
-    <string name="continue_to_use">Συνέχεια</string>
-    <string name="step_component_info_active_tip">Το πλήθος βημάτων παρέχεται από την Υγεία Xiaomi. Συμφωνήστε με τους όρους και τις προϋποθέσεις της Υγείας Xiaomi για να συνεχίσετε.</string>
-    <string name="step_component_info_desc">Η καταμέτρηση βημάτων θα μετατραπεί σε τρόπαιο όταν επιτευχθεί ο στόχος σας. Το πλήθος βημάτων παρέχεται από την Υγεία Xiaomi.</string>
-    <string name="step_component_info_tip">Το πλήθος βημάτων παρέχεται από την Υγεία Xiaomi. Εγκατάσταση ή ενημέρωση της Υγείας Xiaomi και αποδοχή των όρων και προϋποθέσεων της για συνέχιση.</string>
 </resources>
