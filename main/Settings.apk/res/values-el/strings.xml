@@ -5001,6 +5001,7 @@
 	<string name="repeat">Επανάληψη</string>
 	<string name="repeat_call">Ειδοποίηση για επαναλαμβανόμενες κλήσεις</string>
 	<string name="repeat_call_info">Επιτρέπεται ήχος για επαναλαμβανόμενες κλήσεις εντός 15 λεπτών σε Αθόρυβη λειτουργία</string>
+    <string name="repeat_never">Ποτέ</string>
 	<string name="repeat_title">Επανάληψη</string>
 	<string name="replace_by_wellbeing_summary">Απαιτείται η εγκατ/ση της εφαρμογής \"Digital Wellbeing\"</string>
 	<string name="replace_by_wellbeing_title">Χήση της \"Digital Wellbeing\" αντί της \"Χρόνος Οθόνης\"</string>
