@@ -390,6 +390,9 @@
 		<string name="no_space_toast_when_click_widget">Δεν υπάρχει αρκετός χώρος σε αυτήν τη σελίδα. Δοκιμάστε να σύρετε αυτό το στοιχείο σε διαφορετική σελίδα.</string>
 		<string name="normal_wallpaper">Ταπετσαρία</string>
 		<string name="not_set">Δεν ρυθμίστηκε</string>
+        <string name="navigation_type_full_screen">Χειρονομίες</string>
+        <string name="navigation_type_title">Πλοήγηση Συστήματος</string>
+        <string name="navigation_type_virtual_key">Πλήκτρα</string>
 		<string name="notification_installed">Επιτυχής εγκατάσταση</string>
 		<string name="notification_open_button">Άνοιγμα</string>
 		<string name="notification_reset_title">Τακτοποιήθηκαν με επιτυχία</string>
