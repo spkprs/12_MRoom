@@ -106,12 +106,27 @@
     </string-array>
     <string-array name="rh_blood_array">
         <item>Δεν έχει οριστεί</item>
-        <item>Negative</item>
-        <item>Positive</item>
+        <item>Αρνητικό</item>
+        <item>Θετικό</item>
     </string-array>
     <string-array name="yes_no_array">
         <item>Δεν έχει οριστεί</item>
         <item>Ναί</item>
         <item>Όχι</item>
     </string-array>
+     <string-array name="repeat_mode_mild_abnormal_array">
+         <item>Δευ, Τετ, Παρ</item>
+         <item>Τρι, Πεμ, Σαβ</item>
+         <item>Τετ, Παρ, Κυρ</item>
+     </string-array>
+     <string-array name="repeat_mode_week_array">
+         <item>Κάθε Δευτέρα</item>
+         <item>Κάθε Τρίτη</item>
+         <item>Κάθε Τετάρτη</item>
+         <item>Κάθε Πέμπτη</item>
+         <item>Κάθε Παρασκευή</item>
+         <item>Κάθε Σαββάτο</item>
+         <item>Κάθε Κυριακή</item>
+     </string-array>
 </resources>
+
