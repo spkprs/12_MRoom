@@ -26,18 +26,6 @@
         <item>Πολύ σοβαρή</item>
         <item>Υπέρβαση κλίμακας</item>
      </string-array>
-     <string-array name="breeze">
-        <item>&lt;Ένταση 2</item>
-        <item>&lt;6.0km/h</item>
-        <item>&lt;1.7m/s</item>
-        <item>&lt;3.7mph</item>
-        <item>&lt;3.2kn</item>
-     </string-array>
-     <string-array name="dislike_alert_dialog_selectitems">
-        <item>not interested</item>
-        <item>poor quality of content</item>
-     </string-array>
-     <string-array name="hot_city">
         <item>Αθήνα</item>
         <item>Πεκίνο</item>
         <item>Σανγκάη</item>
@@ -124,6 +112,28 @@
         <item>ΝΔ</item>
         <item>Δ</item>
         <item>ΒΔ</item>
+     </string-array>
+     <string-array name="wind_power">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+     </string-array>
+     <string-array name="wind_power_setting_unit_values">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
      </string-array>
      <string-array name="wind_unit_detail">
         <item>Κλίμακα μποφόρ</item>

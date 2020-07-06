@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="already_newest_version">Η τρέχουσα έκδοση είναι ενημερωμένη</string>
+  <string name="cancel_download">Η λήψη ακυρώθηκε</string>
   <string name="abc_action_bar_home_description">Πλοήγηση στην Αρχική</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
   <string name="abc_action_menu_overflow_description">Περισσότερες επιλογές</string>

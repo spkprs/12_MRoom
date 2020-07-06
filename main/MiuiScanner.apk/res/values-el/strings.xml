@@ -52,6 +52,7 @@
      <string name="agree_camera_permission">Για τη λήψη φωτογραφιών και εγγραφή βίντεο</string>
      <string name="agree_storage_permission">Για την πρόσβαση σε φωτογραφίες και αρχεία αποθηκευμένα στη συσκευή σας</string>
      <string name="always">Πάντα</string>
+     <string name="amazon_assistant_shopping_title">Αναζήτηση στο Amazon</string>
      <string name="app_description_content">Ο Σαρωτής σας επιτρέπει να σαρώσετε κωδικούς QR, έγγραφα, κάρτες, και άλλα. Βεβαιωθείτε οτι δεν χρειάζεστε αυτές τις λειτουργίες πριν να απεγκαταστήσετε την εφαρμογή.</string>
      <string name="app_description_title">Σχετικά με Σαρωτή</string>
      <string name="app_details">Εφαρμογή:</string>
