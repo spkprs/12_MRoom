@@ -142,7 +142,7 @@
 		<string name="privacy_permission_optional">Προαιρετικές άδειες</string>
 		<string name="privacy_permission_optional_desc">"Χρησιμοποιείται για πρόσθετες δυνατότητες ενώ τις χρησιμοποιείτε"</string>
 		<string name="privacy_permission_wlan">Ενεργ. και απενεργοποίηση Wi-Fi</string>
-		<string name="privacy_permission_wlan_china">Ενεργοποίηση και απενεργοποίηση WLAN</string>
+		<string name="privacy_permission_wlan_china">Ενεργοποίηση και απενεργοποίηση WiFi</string>
 		<string name="privacy_permission_wlan_desc">Για την εύρεση διαθέσιμων συσκευών κοντά</string>
 		<string name="privacy_permission_wlan_desc_china">Για την εύρεση διαθέσιμων συσκευών κοντά</string>
 		<string name="privacy_positive">Συμφωνώ</string>

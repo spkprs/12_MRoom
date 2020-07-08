@@ -1532,8 +1532,8 @@
 	<string name="common_settings">Γρήγορες ρυθμίσεις</string>
 	<string name="complete_parameters">Όλες οι προδιαγραφές</string>
 	<string name="complete_settings">Πλήρεις ρυθμίσεις</string>
-	<string name="computer_backup_summary">Δημιουργία δημιουργίας και επαναφορά στοιχείων με χρήση υπολογιστή</string>
-	<string name="computer_backup_title">Computer</string>
+	<string name="computer_backup_summary">Αντίγραφα &amp; επαναφορά στοιχείων με χρήση υπολογιστή</string>
+	<string name="computer_backup_title">Υπολογιστής</string>
 	<string name="computing_size">Υπολογισμός…</string>
 	<string name="condition_airplane_summary">Wi-Fi, Bluetooth και δικτύου κινητής είναι απενεργοποιημένα. Δεν μπορείτε να κάνετε κλήσεις ή σύνδεση στο Internet.</string>
 	<string name="condition_airplane_title">Η λειτουργία του αεροπλάνου είναι ενεργοποιημένη</string>
@@ -3969,7 +3969,7 @@
 	<string name="my_device_info_device_name_preference_title">Ονομα της συσκευής</string>
 	<string name="n_cacrts">%d Πιστοποιητικά CA</string>
 	<string name="nature_color">Κανονικό</string>
-	<string name="navigation_guide_app_quick_switch_hide_line_summary">Σύρετε επάνω από το κάτω μέρος της οθόνης και, στη συνέχεια, σύρετε προς τα αριστερά ή δεξιά</string>
+	<string name="navigation_guide_app_quick_switch_hide_line_summary">Σύρετε από κάτω, και στην συνέχεια προς τα αριστερά ή δεξιά</string>
 	<string name="navigation_guide_app_quick_switch_summary">Σύρετε αριστερά ή δεξιά από την ένδειξη πλήρους οθόνης ή από το κάτω μέρος της οθόνης</string>
 	<string name="navigation_guide_app_quick_switch_title">Εναλλαγή εφαρμογών</string>
 	<string name="navigation_guide_app_summary">Σύρετε αριστερά ή δεξιά από την άκρη της οθόνης στην κορυφή</string>
@@ -3992,7 +3992,7 @@
 	<string name="navigation_guide_hide_gesture_line_title">Απόκρυψη ένδειξης Πλήρους οθόνης</string>
 	<string name="navigation_guide_home_summary">Σύρετε επάνω από το κάτω μέρος της οθόνης</string>
 	<string name="navigation_guide_home_title">Αρχική οθόνη</string>
-	<string name="navigation_guide_recent_summary">Σύρετε επάνω από κάτω και σταματήστε</string>
+	<string name="navigation_guide_recent_summary">Σύρετε επάνω από κάτω και κρατήστε το.</string>
 	<string name="navigation_guide_recent_title">Πρόσφατα</string>
 	<string name="navigation_guide_settings">Παραδείγματα χειρονομιών</string>
 	<string name="navigation_type_radio_text_full_screen">"Χειρονομίες Πλήρους οθόνης "</string>
@@ -8038,9 +8038,9 @@
 	<string name="zen_sound_footer">Όταν το Do Not Disturb είναι ενεργοποιημένο, ο ήχος και οι κραδασμοί θα τεθούν σε σίγαση, εκτός από τα στοιχεία που επιτρέπετε παραπάνω.</string>
 	<string name="zen_sound_none_muted">Χωρίς σίγαση</string>
 	<string name="zen_sound_one_allowed">Σίγαση, αλλά επιτρέπουν %1$s</string>
-	<string name="zen_sound_three_allowed">Σίγαση, αλλά επιτρέπουν %1$s, %2$s, και %3$s</string>
+	<string name="zen_sound_three_allowed">Σίγαση, αλλά αποδοχή %1$s, %2$s, και %3$s</string>
 	<string name="zen_sound_title">Δείτε όλες τις εξαιρέσεις</string>
-	<string name="zen_sound_two_allowed">Σίγαση, αλλά επιτρέπουν %1$s και %2$s</string>
+	<string name="zen_sound_two_allowed">Σίγαση, αλλά αποδοχή %1$s και %2$s</string>
 	<string name="zen_suggestion_summary">Παύση ειδοποιήσεων για να παραμείνετε συγκεντρωμένοι</string>
 	<string name="zen_suggestion_title">Ενημέρωση Μην ενοχλείτε</string>
 	<string name="zone_auto_summaryOff">Μέσω δικτύου</string>

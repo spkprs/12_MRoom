@@ -9,7 +9,7 @@
     <string name="casting_tips">Προβολή...</string>
     <string name="close_hotspot_hint">Απενεργοποιήστε το φορητό σημείο πρόσβασης πριν την μετάδοση</string>
     <string name="close_slave_wifi_hint">Αποσυνδεθείτε από βοηθητικά δίκτυα Wi-Fi πριν από τη μετάδοση</string>
-    <string name="close_slave_wifi_hint_china">Αποσυνδεθείτε από βοηθητικά δίκτυα WLAN πριν από τη μετάδοση</string>
+    <string name="close_slave_wifi_hint_china">Αποσυνδεθείτε από βοηθητικά δίκτυα WiFi πριν από τη μετάδοση</string>
     <string name="console_guide_btn_got_it">Κατανοητό</string>
     <string name="console_guide_subtitle_hang_up">Παραμονή σε Μετάδοση σε ανενεργή οθόνη. Μειώνει την κατανάλωση μπατ</string>
     <string name="console_guide_subtitle_private">Χωρίς αναδ. ειδοπ κλήσεων και προσωπ πληροφ στην εξωτ οθόνη</string>
@@ -125,7 +125,7 @@
     <string name="privacy_permission_optional">Προαιρετικές άδειες</string>
     <string name="privacy_permission_optional_desc">"Χρησιμοποιείται για πρόσθετες δυνατότητες ενώ τις χρησιμοποιείτε"</string>
     <string name="privacy_permission_wlan">Ενεργ. και απενεργοποίηση Wi-Fi</string>
-    <string name="privacy_permission_wlan_china">Ενεργοποίηση και απενεργοποίηση WLAN</string>
+    <string name="privacy_permission_wlan_china">Ενεργοποίηση και απενεργοποίηση WiFi</string>
     <string name="privacy_permission_wlan_desc">Για την εύρεση διαθέσιμων συσκευών κοντά</string>
     <string name="privacy_permission_wlan_desc_china">Για την εύρεση διαθέσιμων συσκευών κοντά</string>
     <string name="privacy_positive">Συμφωνώ</string>

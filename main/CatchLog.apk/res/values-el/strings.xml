@@ -47,12 +47,12 @@
     <string name="catch_log_start_dump_gps_log">Αποθήκευση αρχείων καταγραφής GPS σε sdcard/diag_logs…</string>
     <string name="catch_log_start_dump_moderm_log">Αποθήκευση αρχείων καταγραφής μόντεμ σε sdcard/diag_logs…</string>
     <string name="catch_log_start_dump_sensor_log">Αποθήκευση αρχείων καταγραφής αισθητήρων σε sdcard/diag_logs…</string>
-    <string name="catch_log_start_dump_wifi_log">Αποθήκευση αρχείων καταγραφής WLAN σε sdcard/diag_logs…</string>
+    <string name="catch_log_start_dump_wifi_log">Αποθήκευση αρχείων καταγραφής WiFi σε sdcard/diag_logs…</string>
     <string name="catch_log_stop_dump_audio_log">Ολοκληρώθηκε η αποθήκευση αρχείων καταγραφής ήχου σε sdcard/diag_logs</string>
     <string name="catch_log_stop_dump_gps_log">Ολοκληρώθηκε η αποθήκευση αρχείων καταγραφής GPS σε sdcard/diag_logs</string>
     <string name="catch_log_stop_dump_moderm_log">Ολοκληρώθηκε η αποθήκευση αρχείων καταγραφής μόντεμ σε sdcard/diag_logs</string>
     <string name="catch_log_stop_dump_sensor_log">Ολοκληρώθηκε η αποθήκευση αρχείων καταγραφής αισθητήρων σε sdcard/diag_logs</string>
-    <string name="catch_log_stop_dump_wifi_log">Ολοκληρώθηκε η αποθήκευση των αρχείων καταγραφής WLAN σε sdcard/diag_logs</string>
+    <string name="catch_log_stop_dump_wifi_log">Ολοκληρώθηκε η αποθήκευση των αρχείων καταγραφής WiFi σε sdcard/diag_logs</string>
     <string name="cit_bluetooth_logging_confirm_info">Τα αρχεία καταγραφής Bluetooth θα συλλέγουν τα δεδομένα επικοινωνίας πρωτοκόλλου Bluetooth από τη συσκευή σας. Θα συλλεχθούν οι ακόλουθες εγγραφές: λήψη επαφών, ιστορικού κλήσεων και μηνυμάτων με χρήση Bluetooth, μεταφορές αρχείων, αναπαραγωγή πολυμέσων και άλλα ευαίσθητα στοιχεία. Αυτά τα αρχεία καταγραφής θα χρησιμοποιηθούν μόνο στο Xiaomi εσωτερικά για να εντοπίσουν και να λύσουν προβλήματα και δεν θα χρησιμοποιηθούν για άλλους σκοπούς.</string>
     <string name="cit_bluetooth_logging_confirm_ng">Περιορισμός</string>
     <string name="cit_bluetooth_logging_confirm_notify">Να ξεκινήσετε τη συλλογή αυτών των αντικειμένων;</string>
