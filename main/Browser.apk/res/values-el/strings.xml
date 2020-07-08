@@ -326,6 +326,7 @@
   <string name="contextmenu_openlink_in_browser">Ανοιγμα σε πρόγραμμα περιήγησης</string>
   <string name="contextmenu_openlink_newwindow">Άνοιγμα σε νέα καρτέλα</string>
   <string name="contextmenu_openlink_newwindow_background">Άνοιγμα καρτέλας στο παρασκήνιο</string>
+  <string name="contextmenu_orignal_webpage">Αρχικός ιστοχώρος</string>
   <string name="contextmenu_recognise_qr_code">Σάρωση κωδικού QR</string>
   <string name="contextmenu_send_mail">Αποστολή email</string>
   <string name="contextmenu_set_wallpaper">Ορισμός ως φόντο</string>
@@ -334,6 +335,8 @@
   <string name="contextmenu_webpage_capture">Αποθ. ως στιγμιότυπο</string>
   <string name="contextmenu_webpage_html">Αποθ. ως HTML</string>
   <string name="contextmenu_webpage_snapshot">Αποθήκευση σελίδας</string>
+  <string name="contextmenu_webpage_translate">Μετάφραση στο Διαδίκτυο</string>
+  <string name="contextmenu_webpage_translation_tips">Νέα λειτουργία μετάφρασης στο Toolbox</string>
   <string name="custom_head_card_text">Πάντα να πιστεύεις ότι κάτι υπέροχο\n πρόκειται να συμβεί</string>
   <string name="custom_head_weather">Καιρός</string>
   <string name="dark_mode_setting_dark">Νυχτερινή λειτουργία (σκούρο)</string>
@@ -520,6 +523,9 @@
   <string name="info_flow_description">Κανάλι πληροφοριών</string>
   <string name="isReplacePage">Το αρχείο υπάρχει ήδη. Αντικατάσταση;</string>
   <string name="keep_queued_download">Διατήρηση</string>
+  <string name="leto_permission_rationale_ask">Αυτή η εφαρμογή ενδέχεται να μην λειτουργεί σωστά χωρίς τα απαιτούμενα δικαιώματα.</string>
+  <string name="leto_permission_rationale_ask_again">Αυτή η εφαρμογή ενδέχεται να μην λειτουργεί σωστά χωρίς τα απαιτούμενα δικαιώματα. Ανοίξτε την οθόνη ρυθμίσεων εφαρμογής για να τροποποιήσετε τα δικαιώματα εφαρμογής.</string>
+  <string name="leto_permission_title_settings_dialog">Απαιτούνται δικαιώματα</string>
   <string name="load_error_tip">Δεν ήταν δυνατή η φόρτωση στοιχείων. Πατήστε για να προσπαθήσετε ξανά.</string>
   <string name="load_more_footer_status_msg_error_load">Δεν ήταν δυνατή η φόρτωση. Δοκίμασε ξανά.</string>
   <string name="load_more_footer_status_msg_error_no_network">Δεν ήταν δυνατή η σύνδεση με το δίκτυο.</string>

@@ -81,8 +81,8 @@
     <item quantity="one">%d εικόνα</item>
   </plurals>
   <plurals name="vo_short_video_play_count">
-    <item quantity="other">%s προβολές</item>
-    <item quantity="one">%s προβολή</item>
+    <item quantity="other">%s</item>
+    <item quantity="one">%s</item>
   </plurals>
   <plurals name="vo_source_comment">
     <item quantity="other">%1$s | %2$s σχόλια</item>

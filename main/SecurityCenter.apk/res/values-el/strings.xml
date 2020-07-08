@@ -232,6 +232,10 @@
 	<string name="app_behavior_location_bg">%1s πρόσβαση στη θέση σας στο παρασκήνιο</string>
 	<string name="app_behavior_location_bg_single">Είχε πρόσβαση στην τοποθεσία σας στο παρασκήνιο</string>
 	<string name="app_behavior_location_single">Είχε πρόσβαση στην τοποθεσία σας</string>
+    <string name="app_behavior_media_volume">%1s προσαρμοσμένη ένταση πολυμέσων</string>
+    <string name="app_behavior_media_volume_bg">%1s προσαρμοσμένη ένταση πολυμέσου στο παρασκήνιο</string>
+    <string name="app_behavior_media_volume_bg_single">Αυτή η εφαρμογή ρυθμίζει την ένταση του πολυμέσου στο παρασκήνιο</string>
+    <string name="app_behavior_media_volume_single">Αυτή η εφαρμογή ρυθμίζει την ένταση του πολυμέσου</string>
 	<string name="app_behavior_menu_about">Πληροφορίες εγγραφής Συμπεριφοράς εφαρμογής</string>
 	<string name="app_behavior_monitor_off">Απενεργοποίηση ειδοποιήσεων</string>
 	<string name="app_behavior_monitor_off_content">Δεν θα μπορείτε να λαμβάνετε ειδοποιήσεις σχετικά με ευαίσθητες ενέργειες που εκτελούνται από αυτήν την εφαρμογή. Να απενεργοποιηθούν οι ειδοποιήσεις οπωσδήποτε;</string>

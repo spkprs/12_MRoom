@@ -223,6 +223,7 @@
      <string name="info_flow_only_load_wifi">Φόρτωση μόνο μέσω Wi-Fi</string>
      <string name="info_flow_setting">Ρυθμίσεις</string>
      <string name="info_flow_show">Προτεινόμενες πηγές</string>
+     <string name="info_rank_show">Προτεινόμενα δημοφιλή στοιχεία</string>
      <string name="input_valid_address">Πληκτρολογήστε μια διαδρομή αρχείου</string>
      <string name="install">Εγκατάσταση</string>
      <string name="install_failed">Αδυναμία εγκατάστασης του %1$s</string>

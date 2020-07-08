@@ -121,6 +121,9 @@
   <string name="dialog_tip_upgrade_title">Ενημέρωση Mi Mover</string>
   <string name="dialog_version_summary_tip">"Τι Νέο: "</string>
   <string name="dialog_version_title_tip">Υπάρχει διαθέσιμη ενημέρωση</string>
+  <string name="dialog_wechat_data_transfer_fail_button">Κατανοητό</string>
+  <string name="dialog_wechat_data_transfer_fail_message">Δεν ήταν δυνατή η μεταφορά δεδομένων WeChat και ιστορικού λόγω περιορισμών. Δοκιμάστε τα αντίγραφα εντός της εφαρμογής.\nΑνοίξτε το WeChat και μεταβείτε στην επιλογή Me > Ρυθμίσεις > Γενικά > Αντίγραφα &amp; Μετεγκατάσταση συνομιλιών..</string>
+  <string name="dialog_wechat_data_transfer_fail_title">"Δεν ήταν δυνατή η μεταφορά των δεδομένων της εφαρμογής WeChat"</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="document">Εγγραφα</string>
   <string name="early_morning">AM</string>
@@ -503,6 +506,7 @@
   <string name="scanner_quit_alert_btn_positive">Παραμονή</string>
   <string name="scanner_quit_alert_message">Θα πρέπει να συνδέσετε ξανά τις δύο συσκευές, αν σταματήσετε τώρα το Mi Mover. Έξοδος ούτως ή άλλως;</string>
   <string name="scanner_quit_alert_title">Έξοδος τώρα;</string>
+  <string name="scanner_not_support_data_transfer_tip">"Δεν είναι δυνατή η μεταφορά δεδομένων εφαρμογής (συμπεριλαμβανομένου του ιστορικού συνομιλίας WeChat και QQ) από συσκευές που δεν είναι Xiaomi."</string>
   <string name="scanner_send_dialog_btn">Το κατάλαβα</string>
   <string name="scanner_send_dialog_message">Μην απενεργοποιείτε το Wi-Fi ή πραγματοποιείτε εναλλαγή μεταξύ δικτύων κατά τη διάρκεια της μεταφοράς.</string>
   <string name="scanner_size_selected">Επιλεγμένα: %s</string>

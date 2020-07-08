@@ -78,6 +78,7 @@
   <string name="error_send_file_not_found">Αδύνατη η εύρεση αρχείου. Δοκιμάστε ξανά.</string>
   <string name="error_send_file_service_disabled">Ακύρωση εξερχόμενης μεταφοράς</string>
   <string name="error_send_transfer_error">Αδύνατη η μεταφορά στοιχείων. Προσπάθησε ξανά.</string>
+  <string name="error_send_transfer_pc_error">Λήξη χρονικού ορίου μεταφοράς. Ενημερώστε την εφαρμογή κοινής χρήσης αρχείων στον υπολογιστή σας και δοκιμάστε ξανά.</string>
   <string name="error_slave_wifi_in_use">Το Mi Share δεν θα λειτουργεί όταν είναι ενεργό το διπλό Wi-Fi. Απενεργοποιήστε το στις Ρυθμίσεις και δοκιμάστε ξανά.</string>
   <string name="error_slave_wifi_in_use_china">Το Mi Share δεν θα λειτουργεί όταν είναι ενεργό το διπλό Wi-Fi. Απενεργοποιήστε το στις Ρυθμίσεις και δοκιμάστε ξανά.</string>
   <string name="error_timeout">Η συνεδρία τελείωσε. Δοκιμάστε ξανά.</string>

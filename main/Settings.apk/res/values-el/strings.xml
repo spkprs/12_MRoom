@@ -3307,6 +3307,8 @@
 	<string name="location_mode_screen_title">Λειτουργία τοποθεσίας</string>
 	<string name="location_mode_sensors_only_description">Χρήση του GPS για τον καθορισμό της τοποθεσίας σας</string>
 	<string name="location_mode_sensors_only_title">Μόνο της συσκευής</string>
+    <string name="location_modem_summary">Οι εταιρείες κινητής θα μάθουν για την τοποθεσία σας μέσω σταθμών βάσης</string>
+    <string name="location_modem_title">Μοιραστείτε πληροφορίες τοποθεσίας με την εταιρεία κινητής τηλεφωνίας</string>
 	<string name="location_neighborhood_level">Οι εφαρμογές μπορούν να κάνουν χρήση του Wi-Fi και του κινητού δικτύου για να ορίσουν την τοποθεσίας σας</string>
 	<string name="location_neighborhood_level_wifi">Η τοποθεσία καθορίζεται από το Wi-Fi</string>
 	<string name="location_network_based">Wi-Fi &amp; Δίκτυα Κινητής</string>
@@ -4486,7 +4488,8 @@
 	<string name="payment_summary">%1$s είναι προεπιλεγμένη</string>
 	<string name="peek_notification_icon_title">Εμφάνιση εικονιδίων για τις εισερχόμενες ειδοποιήσεις</string>
 	<string name="performance_category">Απόδοση</string>
-	<string name="permission_bar_chart_details">Δείτε όλα στον Πίνακα ελέγχου</string>
+    <string name="permission_action_prompt">Ερώτηση</string>
+	<string name="permission_bar_chart_details">Προβολή όλων στον Πίνακα ελέγχου</string>
 	<string name="permission_bar_chart_empty_text">0 εφαρμογές χρησιμοποίησαν Άδειες</string>
 	<string name="permission_bar_chart_title">Χρήση Αδειών τις τελευταίες 24 ώρες</string>
 	<string name="permission_detail_info">Λεπτομέρειες άδειας</string>
@@ -6040,7 +6043,7 @@
 	<string name="status_bar_settings_show_lte_for_4g">Εμφάνιση εικονιδίου LTE για 4G</string>
 	<string name="status_bar_settings_show_weather">Προβολή Καιρού στον Πίνακα Ειδοπ/σης</string>
 	<string name="status_bar_settings_status_bar">Γραμμή κατάστασης</string>
-	<string name="status_bar_title">Γραμμή κατάστασης</string>
+	<string name="status_bar_title">Κέντρο ελέγχου &amp; Γραμμή κατάστασης</string>
 	<string name="status_bt_address">Διεύθυνση Bluetooth</string>
 	<string name="status_data_network_type">Τύπος δικτύου δεδομένων κινητής τηλεφωνίας</string>
 	<string name="status_data_state">Κατάσταση δικτύου κινητής</string>
