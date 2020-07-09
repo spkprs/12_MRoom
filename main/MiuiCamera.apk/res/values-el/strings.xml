@@ -114,6 +114,7 @@
     <string name="ambilight_intro_silky_water_part1">Χρησιμοποιήστε αυτή τη λειτουργία σε κινούμενα σύννεφα. Θα δώσει στον ουρανό ένα αποτέλεσμα \"ελαιογραφίας\".</string>
     <string name="ambilight_intro_silky_water_part2">Αυτή η λειτουργία σε κινούμενο νερό (ποτάμια, καταρράκτες, και λίμνες) τα κάνει να μοιάζουν μεταξένια.</string>
     <string name="ambilight_intro_star_track">"Το να κάνετε λήψη τον έναστρο ουρανό για πολύ ώρα μπορεί να συλλάβει τις τροχιές των αστέρων. Μην ξεχάσετε να χρησιμοποιήσετε ένα τρίποδο και να κάνετε συνεχόμενη λήψη για τουλάχιστον %d λεπτά."</string>
+    <string name="ambilight_intro_star_track_2">"Η λήψη του έναστρου ουρανού για μεγάλο χρονικό διάστημα μπορεί να συλλάβει τις τροχιές των αστεριών. Μην ξεχάσετε να χρησιμοποιήσετε τρίποδο! Τραβήξτε συνεχώς για τουλάχιστον %d λεπτά για λήψη φωτογραφιών &amp; βίντεο."</string>
     <string name="ambilight_intro_traffic_light">Τη νύχτα, μπορείτε να συλλάβετε την τροχιά των φωτεινών κινούμενων φώτων (π.χ. σε αυτοκίνητα και πλοία). Αυτή η λειτουργία επιτρέπει την προεπισκόπηση του τελικού αποτελέσματος στην οθόνη σας σε πραγματικό χρόνο.</string>
     <string name="ambilight_scene_crowd_moving">Κινούμενο πλήθος</string>
     <string name="ambilight_scene_light_track">Ζωγραφική Φωτός</string>
@@ -255,6 +256,11 @@
     <string name="confirm_restore_message">Επαναφορά των αρχικών ρυθμίσεων της κάμερας;</string>
     <string name="confirm_restore_title">Επαναφορά αρχικών ρυθμίσεων</string>
     <string name="copy">Αντίγραφο</string>
+    <string name="cta_msg">Καλώς ορίσατε στην Κάμερα! Μπορείτε να την χρησιμοποιήσετε  για λήψη φωτογραφιών &amp; βίντεο. Θα πρέπει να συνδεθεί στο Διαδίκτυο και απαιτεί τις ακόλουθες προαιρετικές άδειες:</string>
+    <string name="cta_perm_dec">Για την προσθήκη πληροφοριών τοποθεσίας σε φωτογραφίες και βίντεο</string>
+    <string name="cta_perm_loc">Τοποθεσία</string>
+    <string name="cta_perm_type">"Προαιρετικές άδειες (Χρησιμοποιούνται για την χρήση πρόσθετων λειτουργιών)"</string>
+    <string name="cta_user_tips"><Data>Για να κατανοήσετε πλήρως τα δικαιώματά σας ως χρήστη, καθώς και τους τρόπους με τους οποίους χρησιμοποιούμε τα δεδομένα σας, διαβάστε και συμφωνείστε με τις &lt;a href =%1$s>Συμφωνία χρήστη&lt;/a> &amp; &lt;a href =%2$s>Πολιτική απορρήτου&lt;/a> μας.</Data></string>
     <string name="custom_sound_art">Retro</string>
     <string name="custom_sound_default">Προεπιλογή</string>
     <string name="custom_sound_modern">Modern</string>
@@ -933,6 +939,7 @@
     <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
     <string name="pref_module_settings">Λειτουργίες</string>
     <string name="pref_more_mode_style_title">Λειτουργίες Κάμερας</string>
+    <string name="pref_multi_camera_dual_video_front">Εμπρός κάμερα</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">Μπορείτε να καταγράψετε βίντεο μόνο σε 720P με 240FPS</string>
     <string name="pref_new_slow_motion_video_quality_960_720only">Μπορείτε να καταγράψετε βίντεο 720p μόνο με 960fps</string>
     <string name="pref_photo_assistance_tips_off">Off</string>
@@ -1095,6 +1102,7 @@
     <string name="user_agree">Συμφωνώ</string>
     <string name="user_define_watermark_cancel">Ακύρωση</string>
     <string name="user_define_watermark_save">Αποθήκευση</string>
+    <string name="user_disagree">"Δεν συμφωνώ"</string>
     <string name="user_notice_identify_summary_format">Πριν χρησιμοποιήσετε την Κάμερα, πρέπει να συμφωνήσετε με την  <a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Συμφωνία Χρήστη</a> και <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Πολιτική Απορρήτου</a>. Επίσης χρειάζεται σύνδεση στο Διαδύκτιο για την σωστή λειτουργία της. Συμφωνείτε?</string>
     <string name="user_notice_title">Οροι και Προϋποθέσεις</string>
     <string name="v7_preference_off">OFF</string>
