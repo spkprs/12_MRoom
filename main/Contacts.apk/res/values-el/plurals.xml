@@ -42,8 +42,8 @@
     <item quantity="one">Κουδούνισε %1$d φορά</item>
   </plurals>
   <plurals name="cloud_state_unsynced_count">
-    <item quantity="other">%1$d επαφές δεν έχουν συγχρονιστεί</item>
-    <item quantity="one">%1$d επαφή δεν έχει συγχρονιστεί</item>
+    <item quantity="other">%1$d επαφές ασυγχρόνιστες</item>
+    <item quantity="one">%1$d επαφή ασυγχρόνιστη</item>
   </plurals>
   <plurals name="confirm_delete_sim_entry_miui">
     <item quantity="other">Διαγραφή %1$d επαφών από την κάρτα SIM;</item>

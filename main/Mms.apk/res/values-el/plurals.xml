@@ -10,8 +10,8 @@
     <item quantity="one">1 μήνυμα</item>
   </plurals>
   <plurals name="cloud_state_unsynced_count">
-    <item quantity="other">%d μηνύματα δεν έχουν συγχρονιστεί</item>
-    <item quantity="one">1 μήνυμα δεν έχει συγχρονιστεί</item>
+    <item quantity="other">%d μην. ασυγχρόνιστα</item>
+    <item quantity="one">1 μην. ασυγχρόνιστο</item>
   </plurals>
   <plurals name="confirm_delete_conversation">
     <item quantity="other">Διαγραφή %1$s επιλεγμένων συνομιλιών;</item>
