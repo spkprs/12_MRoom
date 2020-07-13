@@ -1,151 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <plurals name="days">
-    <item quantity="other">%1$d ημέρες</item>
-    <item quantity="zero">%1$d ημέρες</item>
-    <item quantity="one">%1$d ημέρα</item>
-    <item quantity="two">%1$d ημέρες</item>
-    <item quantity="few">%1$d ημέρες</item>
-    <item quantity="many">%1$d ημέρες</item>
-  </plurals>
   <plurals name="days_ago">
     <item quantity="other">%1$d μέρες πριν</item>
-    <item quantity="zero">%1$d μέρες πριν</item>
-    <item quantity="one">%1$d μέρα πριν</item>
-    <item quantity="two">%1$d μέρες πριν</item>
-    <item quantity="few">%1$d μέρες πριν</item>
-    <item quantity="many">%1$d μέρες πριν</item>
+    <item quantity="one">%1$d πριν από μια μέρα</item>
   </plurals>
-  <plurals name="delete_files">
-    <item quantity="other">Διαγραφή %1$d αρχείων;</item>
-    <item quantity="one">Διαγραφή του αρχείου;</item>
+  <plurals name="download_done_info_for_sys_content">
+    <item quantity="other">Λήψη %1$d στοιχεία με επιτυχία</item>
+    <item quantity="one">Λήψη %1$d στοιχείο με επιτυχία</item>
   </plurals>
-  <plurals name="delete_files_confirm">
-    <item quantity="other">Διαγραφή %1$d αρχείων</item>
-    <item quantity="zero">Διαγραφή %1$d αρχείων</item>
-    <item quantity="one">Διαγραφή %1$d αρχείου</item>
-    <item quantity="two">Διαγραφή %1$d αρχείων</item>
-    <item quantity="few">Διαγραφή %1$d αρχείων</item>
-    <item quantity="many">Διαγραφή %1$d αρχείων</item>
+  <plurals name="download_fail_info_for_sys_content">
+    <item quantity="other">Δεν ήταν δυνατή η λήψη %1$d στοιχεία</item>
+    <item quantity="one">Δεν ήταν δυνατή η λήψη %1$d στοιχείο</item>
   </plurals>
-  <plurals name="delete_folders">
-    <item quantity="other">Διαγραφή %1$d φακέλων;</item>
-    <item quantity="one">Διαγραφή του φακέλου;</item>
+  <plurals name="downloading_info_for_sys_title">
+    <item quantity="other">Λήψη… %1$d απομένουν αντικείμενα (%2$s%%)</item>
+    <item quantity="one">Λήψη… %1$d απομένει αντικείμενο (%2$s%%)</item>
   </plurals>
-  <plurals name="delete_folders_confirm">
-    <item quantity="other">και %1$d φακέλων;</item>
-    <item quantity="zero">και %1$d φακέλων;</item>
-    <item quantity="one">και %1$d φάκελου;</item>
-    <item quantity="two">και %1$d φακέλων;</item>
-    <item quantity="few">και %1$d φακέλων;</item>
-    <item quantity="many">και %1$d φακέλων;</item>
+  <plurals name="exception_copy_delete">
+    <item quantity="other">Λείπουν ορισμένα στοιχεία. Αδύνατη η αντιγραφή %1$d στοιχείων.</item>
+    <item quantity="one">Λείπουν ορισμένα στοιχεία. Αδύνατη η αντιγραφή %1$d στοιχείου.</item>
   </plurals>
-  <plurals name="des_running_trans">
-    <item quantity="other">%1$d αρχεία δεν έχουν μεταφερθεί.</item>
-    <item quantity="one">%1$d αρχείο δεν μεταφέρθηκε.</item>
-  </plurals>
-  <plurals name="directory_item_count">
-    <item quantity="other">%d στοιχεία</item>
-    <item quantity="zero">%d στοιχεία</item>
-    <item quantity="one">%d στοιχείο</item>
-    <item quantity="two">%d στοιχεία</item>
-    <item quantity="few">%d στοιχεία</item>
-    <item quantity="many">%d στοιχεία</item>
-  </plurals>
-  <plurals name="file_count">
-    <item quantity="other">%1$d στοιχεία</item>
-    <item quantity="zero">%1$d στοιχεία</item>
-    <item quantity="one">%1$d στοιχείο</item>
-    <item quantity="two">%1$d στοιχεία</item>
-    <item quantity="few">%1$d στοιχεία</item>
-    <item quantity="many">%1$d στοιχεία</item>
-  </plurals>
-  <plurals name="hours">
-    <item quantity="other">%1$d ώρες</item>
-    <item quantity="zero">%1$d ώρες</item>
-    <item quantity="one">%1$d ώρα</item>
-    <item quantity="two">%1$d ώρες</item>
-    <item quantity="few">%1$d ώρες</item>
-    <item quantity="many">%1$d ώρες</item>
+  <plurals name="exception_move_delete">
+    <item quantity="other">Λείπουν ορισμένα στοιχεία. Αδύνατη η μετακίνηση %1$d στοιχείων.</item>
+    <item quantity="one">Λείπουν ορισμένα στοιχεία. Αδύνατη η μετακίνηση %1$d στοιχείου.</item>
   </plurals>
   <plurals name="hours_ago">
-    <item quantity="other">%1$d ώρες πριν</item>
-    <item quantity="zero">%1$d ώρες πριν</item>
-    <item quantity="one">%1$d ώρα πριν</item>
-    <item quantity="two">%1$d ώρες πριν</item>
-    <item quantity="few">%1$d ώρες πριν</item>
-    <item quantity="many">%1$d ώρες πριν</item>
-  </plurals>
-  <plurals name="items_file">
-    <item quantity="other">(%1$d στοιχεία)</item>
-    <item quantity="zero">(%1$d στοιχεία)</item>
-    <item quantity="one">(%1$d στοιχείο)</item>
-    <item quantity="two">(%1$d στοιχεία)</item>
-    <item quantity="few">(%1$d στοιχεία)</item>
-    <item quantity="many">(%1$d στοιχεία)</item>
-  </plurals>
-  <plurals name="items_picture">
-    <item quantity="other">(%1$d στοιχεία)</item>
-    <item quantity="zero">(%1$d στοιχεία)</item>
-    <item quantity="one">(%1$d στοιχείο)</item>
-    <item quantity="two">(%1$d στοιχεία)</item>
-    <item quantity="few">(%1$d στοιχεία)</item>
-    <item quantity="many">(%1$d στοιχεία)</item>
-  </plurals>
-  <plurals name="mins">
-    <item quantity="other">%1$d λεπ.</item>
-    <item quantity="zero">%1$d λεπ.</item>
-    <item quantity="one">%1$d λεπ.</item>
-    <item quantity="two">%1$d λεπ.</item>
-    <item quantity="few">%1$d λεπ.</item>
-    <item quantity="many">%1$d λεπ.</item>
+    <item quantity="other">%1$d ώρ. πριν</item>
+    <item quantity="one">%1$d ώρ. πριν</item>
   </plurals>
   <plurals name="mins_ago">
     <item quantity="other">%1$d λεπ. πριν</item>
-    <item quantity="zero">%1$d λεπ. πριν</item>
     <item quantity="one">%1$d λεπ. πριν</item>
-    <item quantity="two">%1$d λεπ. πριν</item>
-    <item quantity="few">%1$d λεπ. πριν</item>
-    <item quantity="many">%1$d λεπ. πριν</item>
   </plurals>
-  <plurals name="numSelectedFile">
-    <item quantity="other">%1$d επιλεγ.</item>
-    <item quantity="zero">%1$d επιλεγ.</item>
-    <item quantity="one">%1$d επιλεγμένο</item>
-    <item quantity="two">%1$d επιλεγ.</item>
-    <item quantity="few">%1$d επιλεγ.</item>
-    <item quantity="many">%1$d επιλεγ.</item>
+  <plurals name="search_head_hint_file">
+    <item quantity="other">%2$d στοιχεία περιέχουν \"%1$s\"</item>
+    <item quantity="one">%2$d στοιχείο περιέχει \"%1$s\"</item>
   </plurals>
-  <plurals name="seconds">
-    <item quantity="other">%1$d δευτ.</item>
-    <item quantity="zero">%1$d δευτ.</item>
-    <item quantity="one">%1$d δευτ.</item>
-    <item quantity="two">%1$d δευτ.</item>
-    <item quantity="few">%1$d δευτ.</item>
-    <item quantity="many">%1$d δευτ.</item>
+  <plurals name="setting_file_list_item_desc">
+    <item quantity="other">%1$d στοιχεία | %2$s | %3$s</item>
+    <item quantity="one">%1$d στοιχείο | %2$s | %3$s</item>
   </plurals>
-  <plurals name="ui_bar_txt_download_progress">
-    <item quantity="other">%1$d αρχεία αναμένουν λήψη</item>
-    <item quantity="zero">%1$d αρχεία αναμένουν λήψη</item>
-    <item quantity="one">%1$d αρχείο αναμένει λήψη</item>
-    <item quantity="two">%1$d αρχεία αναμένουν λήψη</item>
-    <item quantity="few">%1$d αρχεία αναμένουν λήψη</item>
-    <item quantity="many">%1$d αρχεία αναμένουν λήψη</item>
+  <plurals name="setting_list_folder_item_desc">
+    <item quantity="other">%1$d στοιχεία | %2$s</item>
+    <item quantity="one">%1$d στοιχείο | %2$s</item>
   </plurals>
-  <plurals name="ui_bar_txt_transport_progress">
-    <item quantity="other">%1$d αρχεία αναμένουν για μετάδοση</item>
-    <item quantity="zero">%1$d αρχεία αναμένουν για μετάδοση</item>
-    <item quantity="one">%1$d αρχείο  αναμένει για μετάδοση</item>
-    <item quantity="two">%1$d αρχεία αναμένουν για μετάδοση</item>
-    <item quantity="few">%1$d αρχεία αναμένουν για μετάδοση</item>
-    <item quantity="many">%1$d αρχεία αναμένουν για μετάδοση</item>
+  <plurals name="text_group_count">
+    <item quantity="other">%1$d στοιχεία</item>
+    <item quantity="one">%1$d στοιχείο</item>
   </plurals>
-  <plurals name="ui_bar_txt_upload_progress">
-    <item quantity="other">%1$d αρχεία αναμένουν για μεταφόρτωση</item>
-    <item quantity="zero">%1$d αρχεία αναμένουν για μεταφόρτωση</item>
-    <item quantity="one">%1$d αρχείο αναμένει για μεταφόρτωση</item>
-    <item quantity="two">%1$d αρχεία αναμένουν για μεταφόρτωση</item>
-    <item quantity="few">%1$d αρχεία αναμένουν για μεταφόρτωση</item>
-    <item quantity="many">%1$d αρχεία αναμένουν για μεταφόρτωση</item>
+  <plurals name="upload_done_info_for_sys_content">
+    <item quantity="other">Μεταφορτώθηκαν %1$d στοιχεία με επιτυχία</item>
+    <item quantity="one">Μεταφορτώθηκε %1$d στοιχείο με επιτυχία</item>
+  </plurals>
+  <plurals name="upload_fail_info_for_sys_content">
+    <item quantity="other">Αδύνατη η μεταφόρτωση %1$d στοιχείων</item>
+    <item quantity="one">Αδύνατη η μεταφόρτωση %1$d στοιχείου</item>
+  </plurals>
+  <plurals name="uploading_info_for_sys_title">
+    <item quantity="other">Μεταφόρτωση… %1$d στοιχεία απομένουν (%2$s%%)</item>
+    <item quantity="one">Μεταφόρτωση… %1$d στοιχείο απομένει (%2$s%%)</item>
   </plurals>
 </resources>
