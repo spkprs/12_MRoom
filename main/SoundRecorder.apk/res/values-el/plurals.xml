@@ -48,4 +48,20 @@
         <item quantity="other">Αναζήτηση μεταξύ %d εγγραφών</item>
         <item quantity="one">Αναζήτηση μεταξύ %d εγγραφής</item>
     </plurals>
+    <plurals name="recovery_failed_dialog_message">
+        <item quantity="other">"Αδύνατη η επαναφορά %d στοιχείων λόγω άγνωστου σφάλματος."</item>
+        <item quantity="one">"Αδύνατη η επαναφορά %d στοιχείου λόγω άγνωστου σφάλματος."</item>
+    </plurals>
+    <plurals name="time_left_for_clear_file">
+        <item quantity="other">%d ημ. απομένουν</item>
+        <item quantity="one">%d ημ. απομένουν</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">Να διαγραφούν μόνιμα %d επιλεγμένες εγγραφές;</item>
+        <item quantity="one">Να διαγραφεί μόνιμα %d επιλεγμένες εγγραφές;</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">Τα διαγραμμένα στοιχεία αποθηκεύονται στον κάδο έως %d ημέρες</item>
+        <item quantity="one">Τα διαγραμμένα στοιχεία αποθηκεύονται στον κάδο έως %d ημέρα</item>
+    </plurals>
 </resources>

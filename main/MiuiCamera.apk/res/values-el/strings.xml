@@ -269,6 +269,7 @@
     <string name="custom_tint_color_select">Προσαρμογή χρωμάτων</string>
     <string name="custom_watermark_contains_senstive_words">Δεν μπορούν να περιέχουν όρους απαγορευμένους(%1$s)</string>
     <string name="custom_watermark_tips">Το παραπάνω κείμενο θα είναι η δεύτερη γραμμή στο Υδατογράφημα. Περιορίστε την σε 15 χαρακτήρες.</string>
+    <string name="custom_watermark_tips_gen2" formatted="false">Έως %d Κινεζικοί χαρακτήρες ή %d γράμματα.</string>
     <string name="custom_watermark_too_many_words">Περάσατε το όριο χαρακτήρων</string>
     <string name="custom_watermark_words">Προσαρμογή κειμένου</string>
     <string name="custom_watermark_words_input_hint">Εισαγωγή κειμένου</string>
