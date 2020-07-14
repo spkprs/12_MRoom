@@ -119,7 +119,7 @@
   <string name="do_not_support_video_calls_by_remote">Οι βιντεοκλήσεις δεν υποστηρίζονται στην άλλη συσκευή</string>
   <string name="emergency_call_dialog_number_for_display">Αριθμός έκτακτης ανάγκης</string>
   <string name="enter_ai_assistant">Χρήση</string>
-  <string name="enter_ai_assistant_tip">AI Call Assistant μπορεί να λάβει αυτή την κλήση και να μεταγράψει την ομιλία του άλλου ατόμου για εσάς. Να επιτρέπεται στην AI να απαντήσει τώρα;</string>
+  <string name="enter_ai_assistant_tip">"Η AI (Τεχνητή Νοημοσύνη) μπορεί να μετατρέψει το κείμενο σε ομιλία, αν δεν σας εξυπηρετεί να μιλήσετε τώρα. Να χρησιμοποιηθεί για αυτήν την κλήση;"</string>
   <string name="incall_bubble_hangup_click_hint">Αγγίξτε ξανά για επιστροφή στην κλήση</string>
   <string name="incall_call_type_label_sip">Κλήση Διαδικτύου</string>
   <string name="incall_error_supp_service_conference">Αδύνατη η πραγματοποίηση κλήσεων συνδιάσκεψης.</string>

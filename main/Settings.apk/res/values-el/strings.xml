@@ -8081,5 +8081,17 @@
     <string name="wifi_unsaved_network_linking_summary">Ενεργοποίηση αυτόματων προσπαθειών σύνδεσης σε νέο SSID WPA/WPA2-PSK 5 GHz με τρέχουσες συνδεδεμένες WPA/WPA2-PSK 2 GHz πιστοποιήσεις SSID μερικώς ίδια SSID και BSSID</string>
     <string name="wifi_whitelist_roaming">SSID Γεφύρωση - Γρήγορη παράδοση</string>
     <string name="wifi_whitelist_roaming_summary">Ενεργοποίηση περιαγωγής μεταξύ διαφορετικών σημείων πρόσβασης WPA/WPA2-PSK SSID με ίδια διεύθυνση MAC πύλη</string>
+    <string name="accessibility_settings_tabs_general">Γενικά</string>
+    <string name="accessibility_settings_tabs_hearing">Ακρόασης</string>
+    <string name="accessibility_settings_tabs_physical">Φυσικά</string>
+    <string name="accessibility_settings_tabs_visual">Όρασης</string>
+    <string name="ai_call_assistant">AI κλήσεις</string>
+    <string name="hearing_aids_category">Βοηθητικά εργαλεία ακοής</string>
+    <string name="input_device_category">Συσκευή εισόδου</string>
+    <string name="security_input_enable">Ασφαλές πληκτρολόγιο</string>
+    <string name="security_input_num_order">Σταθερό</string>
+    <string name="security_input_num_random_order">Τυχαίο</string>
+    <string name="security_input_num_setting_title">Αριθμητικό πληκτ/γιο</string>
+    <string name="voice_access">Φωνητικά χειριστήρια</string>
 </resources>
 

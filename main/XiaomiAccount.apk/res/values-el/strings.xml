@@ -162,7 +162,8 @@
      <string name="confirm_unbind">Αποσύνδεση λογαριασμού;</string>
      <string name="confirm_unbundled_phone_dialog_message">Ο αριθμός τηλεφώνου %1$s συνδέεται με τον Λογαριασμό Mi %2$s. Δεν θα συνδέεται πλέον με το Λογαριασμό Mi %3$s αν συνεχίσετε. Συνεχίζετε?</string>
      <string name="continue_action">Συνέχεια</string>
-     <string name="copy">Copy</string>
+     <string name="copy">Αντιγραφή</string>
+     <string name="copy_to_clipboard_successful">Αντιγράφηκε με επιτυχία</string>
      <string name="delete_action">Διαγραφή</string>
      <string name="delete_bank_card_message">Για προστασία του απορρήτου, θα διαγραφεί η τραπεζική σας κάρτα μετά την αποσύνδεση</string>
      <string name="delete_bank_card_title">Διαγραφή τραπεζικής κάρτας</string>
