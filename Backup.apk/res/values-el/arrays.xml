@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="trans_cancel_survey_title">
+    <item>Συνολική εμπειρία</item>
+    <item>Διάρκεια μεταφοράς</item>
+    <item>Απλότητα της διαδικασίας</item>
+    <item>Σαφήνεια οδηγιών</item>
+    <item>Αυτή η λειτουργία είναι χρήσιμη</item>
+  </string-array>
+  <string-array name="trans_succeed_rating_hint">
+    <item>Πολύ δυσαρεστημένος</item>
+    <item>Κάπως δυσαρεστημένος</item>
+    <item>Ουδέτερος</item>
+    <item>Κάπως ικανοποιημένος</item>
+    <item>Πολύ ικανοποιημένος</item>
+  </string-array>
+  <string-array name="trans_succeed_survey_title">
+    <item>Συνολική Βαθμολογία</item>
+    <item>Διάρκεια μεταφοράς</item>
+    <item>Απλότητα διαδικασίας</item>
+    <item>Σαφήνεια οδηγιών</item>
+  </string-array>
+</resources>
